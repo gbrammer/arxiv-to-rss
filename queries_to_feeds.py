@@ -75,6 +75,9 @@ for q in query_specification:
             "\mu": "&mu;",
             "\AA": "&#8491;",
             "\%": "&percnt;",
+            "    ": " ",
+            "   ": " ",
+            "  ": " ",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
