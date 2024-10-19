@@ -67,13 +67,14 @@ for q in query_specification:
 
         pdf_url = item["link"].replace("/abs/", "/pdf/")
     
-        description = f"""<![CDATA[{', '.join(authors)}
+        description = f"""
+    <p> {', '.join(authors)} </p>
     <p>
     {abstract}
     </p>
     <p> Comments: {comment} </p>
     <p> PDF: <a href="{pdf_url}" /> {pdf_url} </a> </>
-    ]]"""
+    """
 
         feed_item = rfeed.Item(
             title=item["title"].replace("\n",""),
