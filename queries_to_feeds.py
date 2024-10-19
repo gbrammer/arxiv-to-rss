@@ -65,10 +65,20 @@ for q in query_specification:
         authors = [auth['name'].replace("\n"," ") for auth in item["authors"]]
         
         abstract = item["summary"].replace("\n"," ")
-        abstract = abstract.replace("<", "&lt;").replace(">", "&gt;")
-        abstract = abstract.replace("\sim", "~")
-        abstract = abstract.replace("$", "")
-        abstract = abstract.replace("\%", "&percnt;")
+        
+        replace_chars = {
+            "<": "&lt;",
+            ">": "&gt;",
+            "\sim": "~",
+            "\approx": "~",
+            "$": "",
+            "\mu": "&mu;",
+            "\AA": "&#8491;",
+            "\%": "&percnt;",
+        }
+        for c in replace_chars:
+            abstract = abstract.replace(c, replace_chars[c])
+            title = title.replace(c, replace_chars[c])
         
         if "arxiv_comment" in item:
             comment = item["arxiv_comment"].replace("\n"," ")
@@ -94,7 +104,7 @@ for q in query_specification:
             fp.write(description)
 
         feed_item = rfeed.Item(
-            title=item["title"].replace("\n"," "),
+            title=title,
             link=item["link"],
             description = description,
             author = item["authors"][0]["name"],
