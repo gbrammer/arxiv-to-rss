@@ -1,6 +1,6 @@
 import os
 import datetime
-from time import mktime
+from time import mktime, ctime
 
 import yaml
 import feedparser
@@ -14,6 +14,9 @@ API_QUERY = """(abs:JWST+OR+abs:James+Webb)
 with open("queries.yaml") as fp:
     query_specification = yaml.load(fp, Loader=yaml.Loader)
 
+with open("queries_to_feeds.log.txt", "a") as fp:
+    fp.write(f"\n######## {ctime()} ########\n")
+    
 for q in query_specification:
     
     qdata = query_specification[q]
@@ -43,10 +46,13 @@ for q in query_specification:
 
     feed_items = []
 
-    print(f"""Query: {q} {API_QUERY}
-    Found {len(query["items"])} items (max={count}).
-    """)
-
+    msg = f"""Query: {q} {API_QUERY}
+       Found {len(query["items"])} items (max={count}).\n"""
+    with open("queries_to_feeds.log.txt", "a") as fp:
+        fp.write(msg)
+    
+    print(msg)
+    
     for item in query["items"]:
     
         _id = os.path.basename(item["link"]).split('v')[0]
@@ -61,13 +67,12 @@ for q in query_specification:
 
         pdf_url = item["link"].replace("/abs/", "/pdf/")
     
-        description = f"""{', '.join(authors)}
+        description = f"""<![CDATA[{', '.join(authors)}
     <p>
     {abstract}
-    </p> <p>
-    Comments: {comment}
-    </p> <p>
-    PDF: <a href="{pdf_url}" /> {pdf_url} </a>
+    </p>
+    <p> Comments: {comment} </p>
+    <p> PDF: <a href="{pdf_url}" /> {pdf_url} </a> </>
     ]]"""
 
         feed_item = rfeed.Item(
