@@ -46,7 +46,7 @@ for q in query_specification:
 
     feed_items = []
 
-    msg = f"""Query: {q} {API_QUERY}
+    msg = f"""Query: feeds/{q}.xml {API_QUERY}
        Found {len(query["items"])} items (max={count}).\n"""
     with open("queries_to_feeds.log.txt", "a") as fp:
         fp.write(msg)
@@ -96,6 +96,6 @@ for q in query_specification:
         link="https://github.com/gbrammer/arxiv-to-rss",
     )
 
-    with open(f'{q}.xml','w') as fp:
+    with open(f'feeds/{q}.xml','w') as fp:
         fp.write(feed.rss())
     

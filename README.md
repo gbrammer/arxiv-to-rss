@@ -3,8 +3,8 @@ Create an RSS feed from a custom arxiv query.
 
 Run the queries from ``queries.yaml`` through the arXiv API and generate feeds from them.
 
-With the ``queries.yaml`` file as below, the files [feed.xml](https://gbrammer.github.io/arxiv-to-rss/feed.xml)
-and [author.xml](https://gbrammer.github.io/arxiv-to-rss/author.xml) will be created.
+With the ``queries.yaml`` file as below, the files [feeds/feed.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/feed.xml)
+and [feeds/author.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/author.xml) will be created.
 
 ```yaml
 feed:
