@@ -1,8 +1,11 @@
-name: get_repo_admins_list
+name: run_update_feed
 
-on: [push]
-  # schedule:
-  #   - cron: '0 08 * * 1' # runs at 08:00 UTC on Mondays
+on:
+  push:
+    branches:
+      - 'main'
+  schedule:
+    - cron: '0 05 * * 1-5' # runs at 05:00 UTC every weekday
 
 jobs:
   UpdateFeed:
@@ -20,12 +23,10 @@ jobs:
 
       - name: Run script
         shell: bash
-        run: python run_query.py
+        run: python queries_to_feeds.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
           message: 'Update the feed'
-    #      new_branch: scriptupdate/updated-admin-list
-    #      push: origin scriptupdate/updated-admin-list --set-upstream --force
