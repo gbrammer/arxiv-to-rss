@@ -61,11 +61,11 @@ for q in query_specification:
     
         _id = os.path.basename(item["link"]).split('v')[0]
     
-        title = f"{item['title']}".replace("\n","")
-        authors = [auth['name'].replace("\n","") for auth in item["authors"]]
-        abstract = item["summary"].replace("\n","")
+        title = f"{item['title']}".replace("\n"," ")
+        authors = [auth['name'].replace("\n"," ") for auth in item["authors"]]
+        abstract = item["summary"].replace("\n"," ")
         if "arxiv_comment" in item:
-            comment = item["arxiv_comment"].replace("\n","")
+            comment = item["arxiv_comment"].replace("\n"," ")
         else:
             comment = ""
 
@@ -86,7 +86,7 @@ for q in query_specification:
             fp.write(description)
 
         feed_item = rfeed.Item(
-            title=item["title"].replace("\n",""),
+            title=item["title"].replace("\n"," "),
             link=item["link"],
             description = description,
             author = item["authors"][0]["name"],
