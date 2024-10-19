@@ -54,9 +54,10 @@ for q in query_specification:
     print(msg)
     
     with open(f"feeds/{q}.md","w") as fp:
-        fp.write(f"# Updated {ctime()}\n")
+        fp.write(f"## {q} : \"{query_specification[q]['query']}\" N={max_results}\n")
+        fp.write(f"### Updated {ctime()}\n\n")
 
-    for item in query["items"]:
+    for i, item in enumerate(query["items"]):
     
         _id = os.path.basename(item["link"]).split('v')[0]
     
@@ -81,7 +82,7 @@ for q in query_specification:
 """
 
         with open(f"feeds/{q}.md","a") as fp:
-            fp.write(f"### [{_id}]({item['link']}): {title}\n")
+            fp.write(f"### {i+1}) [{_id}]({item['link']}): {title}\n")
             fp.write(description)
 
         feed_item = rfeed.Item(
