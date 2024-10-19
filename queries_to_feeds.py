@@ -82,9 +82,9 @@ for q in query_specification:
 <p>
 {abstract}
 </p>
-<p> <b> Published: </b> {item["published"]} (</b> Updated: </b> {item["updated"]}) </p>
+<p> <b> Published: </b> {item["published"]} (<b> Updated: </b> {item["updated"]}) </p>
 <p> <b> Comments: </b> {comment} </p>
-<p> PDF: <a href="{pdf_url}"> {pdf_url} </a> </p>
+<p> <b> PDF: </b> <a href="{pdf_url}"> {pdf_url} </a> </p>
 
 """
 
