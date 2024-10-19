@@ -53,11 +53,14 @@ for q in query_specification:
     
     print(msg)
     
+    with open(f"feeds/{q}.md","w") as fp:
+        fp.write(f"# Updated {ctime()}\n")
+
     for item in query["items"]:
     
         _id = os.path.basename(item["link"]).split('v')[0]
     
-        title = f"{item['title']}"
+        title = f"{item['title']}".replace("\n","")
         authors = [auth['name'].replace("\n","") for auth in item["authors"]]
         abstract = item["summary"].replace("\n","")
         if "arxiv_comment" in item:
@@ -68,13 +71,18 @@ for q in query_specification:
         pdf_url = item["link"].replace("/abs/", "/pdf/")
     
         description = f"""
-    <p> {', '.join(authors)} </p>
-    <p>
-    {abstract}
-    </p>
-    <p> Comments: {comment} </p>
-    <p> PDF: <a href="{pdf_url}" /> {pdf_url} </a> </>
-    """
+<p> {', '.join(authors)} </p>
+<p>
+{abstract}
+</p>
+<p> Comments: {comment} </p>
+<p> PDF: <a href="{pdf_url}" /> {pdf_url} </a> </>
+
+"""
+
+        with open(f"feeds/{q}.md","a") as fp:
+            fp.write(f"### [{_id}]({item['link']}): {title}\n")
+            fp.write(description)
 
         feed_item = rfeed.Item(
             title=item["title"].replace("\n",""),

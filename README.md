@@ -16,7 +16,8 @@ author:
 
 1. Edit ``queries.yaml`` to set the queries you want.  See the [API documentation](https://info.arxiv.org/help/api/user-manual.html#arxiv-api-users-manual) for more
    information on constructing queries.  Note that ``()`` will be changed to HTML characters and spaces to ``+`` in the query strings before sending them to the API.
-1. Run `python queries_to_feeds.py` once locally and commit the feed `xml` files it generates to the repo
-1. Enable **Read and write permissions** in ``Settings > Actions > General`` for the repository
-1. Turn on ``Settings > Pages`` to deploy to GitHub Pages from the ``main`` branch
-1. The feeds will be updated every weekday at 05:00 UT using the [GitHub Action](https://github.com/gbrammer/arxiv-to-rss/actions/workflows/update_feed.yml)!
+1. Run `python queries_to_feeds.py` once locally and commit the ``xml`` and 
+   ``md`` files it generates in the ``./feeds/`` subdirectory to the repo.
+1. Enable **Read and write permissions** in ``Settings > Actions > General`` for the repository.
+1. Turn on ``Settings > Pages`` to deploy to GitHub Pages from the ``main`` branch.
+1. The feeds will be updated every weekday at 05:00 UT using the [GitHub Action](https://github.com/gbrammer/arxiv-to-rss/actions/workflows/update_feed.yml).
