@@ -1,0 +1,6 @@
+
+######## Sat Oct 19 19:52:06 2024 ########
+Query: feed %28abs:JWST+OR+abs:James+Webb%29+AND+%28cat:astro-ph.GA+OR+cat:astro-ph.CO%29
+       Found 0 items (max=2697).
+Query: author %28abs:JWST+OR+abs:James+Webb%29+AND+%28cat:astro-ph.GA+OR+cat:astro-ph.CO%29+AND+%28au:Brammer%29
+       Found 64 items (max=159).

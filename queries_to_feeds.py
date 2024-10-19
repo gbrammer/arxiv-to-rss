@@ -42,7 +42,7 @@ for q in query_specification:
     def get_item_published(item):
         return item["published"]
 
-    query["items"].sort(key=get_item_published)
+    query["items"].sort(key=get_item_published, reverse=True)
 
     feed_items = []
 
