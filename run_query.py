@@ -43,7 +43,7 @@ for item in query["items"]:
     
     _id = os.path.basename(item["link"]).split('v')[0]
     
-    title = f"<![CDATA[{item['title']}]]"
+    title = f"{item['title']}"
     authors = [auth['name'].replace("\n","") for auth in item["authors"]]
     abstract = item["summary"].replace("\n","")
     if "arxiv_comment" in item:
@@ -53,13 +53,13 @@ for item in query["items"]:
 
     pdf_url = item["link"].replace("/abs/", "/pdf/")
     
-    description = f"""<![CDATA[
-{', '.join(authors)}
-<br>
+    description = f"""{', '.join(authors)}
+<p>
 {abstract}
-<br>
+</p> <p>
 Comments: {comment}
-<br> PDF: <a href="{pdf_url}" /> {pdf_url} </a>
+</p> <p>
+PDF: <a href="{pdf_url}" /> {pdf_url} </a>
 ]]"""
 
     feed_item = rfeed.Item(
