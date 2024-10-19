@@ -63,7 +63,13 @@ for q in query_specification:
     
         title = f"{item['title']}".replace("\n"," ")
         authors = [auth['name'].replace("\n"," ") for auth in item["authors"]]
+        
         abstract = item["summary"].replace("\n"," ")
+        abstract = abstract.replace("<", "&lt;").replace(">", "&gt;")
+        abstract = abstract.replace("\sim", "~")
+        abstract = abstract.replace("$", "")
+        abstract = abstract.replace("\%", "&percnt;")
+        
         if "arxiv_comment" in item:
             comment = item["arxiv_comment"].replace("\n"," ")
         else:
@@ -76,7 +82,8 @@ for q in query_specification:
 <p>
 {abstract}
 </p>
-<p> Comments: {comment} </p>
+<p> <b> Published: </b> {item["published"]} (</b> Updated: </b> {item["updated"]}) </p>
+<p> <b> Comments: </b> {comment} </p>
 <p> PDF: <a href="{pdf_url}"> {pdf_url} </a> </p>
 
 """
