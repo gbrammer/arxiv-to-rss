@@ -1,9 +1,9 @@
 feed:
-  max_results: 64
+  max_results: 128
   query: '(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)'
 
 author:
-  max_results: 64
+  max_results: 128
   query: '(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)'
   
  
