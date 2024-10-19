@@ -76,7 +76,7 @@ for q in query_specification:
 {abstract}
 </p>
 <p> Comments: {comment} </p>
-<p> PDF: <a href="{pdf_url}"> {pdf_url} </a>
+<p> PDF: <a href="{pdf_url}"> {pdf_url} </a> </p>
 
 """
 
