@@ -8,25 +8,25 @@ jobs:
   updatelist:
     runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout Repository
-    uses: actions/checkout@v3
-    with:
-      repository: ${{ github.event.pull_request.head.repo.full_name }}
-      ref: ${{ github.event.pull_request.head.ref }}
-
-  - name: Install reqs
-    run: pip install -r requirements.txt         
-
-  - name: Run script
-    shell: bash
-    run: python run_query.py
-
-  - name: Create branch and commit
-    uses: EndBug/add-and-commit@v9
-    with:
-      add: './feed.xml'
-      default_author: github_actions
-      message: 'Update the feed'
-#      new_branch: scriptupdate/updated-admin-list
-#      push: origin scriptupdate/updated-admin-list --set-upstream --force
+  steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        repository: ${{ github.event.pull_request.head.repo.full_name }}
+        ref: ${{ github.event.pull_request.head.ref }}
+  
+    - name: Install reqs
+      run: pip install -r requirements.txt         
+  
+    - name: Run script
+      shell: bash
+      run: python run_query.py
+  
+    - name: Create branch and commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: './feed.xml'
+        default_author: github_actions
+        message: 'Update the feed'
+  #      new_branch: scriptupdate/updated-admin-list
+  #      push: origin scriptupdate/updated-admin-list --set-upstream --force
