@@ -1,6 +1,7 @@
 name: run_update_feed
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 05 * * 1-5' # runs at 05:00 UTC every weekday
 
