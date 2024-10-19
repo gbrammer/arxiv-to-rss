@@ -1,7 +1,5 @@
 # arxiv-to-rss
-Create an RSS feed from a custom arxiv query.
-
-Run the queries from ``queries.yaml`` through the arXiv API and generate feeds from them.
+Create an RSS feed from a custom arXiv query.
 
 With the ``queries.yaml`` file as below, the files [feeds/feed.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/feed.xml)
 and [feeds/author.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/author.xml) will be created.
@@ -16,7 +14,8 @@ author:
   query: '(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)'
 ```
 
-1. Edit ``queries.yaml`` to set the queries you want
+1. Edit ``queries.yaml`` to set the queries you want.  See the [API documentation](https://info.arxiv.org/help/api/user-manual.html#arxiv-api-users-manual) for more
+   information on constructing queries.  Note that ``()`` will be changed to HTML characters and spaces to ``+`` in the query strings before sending them to the API.
 1. Run `python queries_to_feeds.py` once locally and commit the feed `xml` files it generates to the repo
 1. Enable **Read and write permissions** in ``Settings > Actions > General`` for the repository
 1. Turn on ``Settings > Pages`` to deploy to GitHub Pages from the ``main`` branch
