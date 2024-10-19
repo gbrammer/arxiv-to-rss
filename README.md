@@ -2,7 +2,7 @@
 Create an RSS feed from a custom arXiv query.
 
 With the ``queries.yaml`` file as below, the files [feeds/feed.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/feed.xml)
-and [feeds/author.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/author.xml) will be created.
+and [feeds/author.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/author.xml) will be created.  Markdown versions of the paper summaries will also be parsed and pushed to the pages [feeds/feed.html](https://gbrammer.github.io/arxiv-to-rss/feeds/feed.html) and [feeds/author.html](https://gbrammer.github.io/arxiv-to-rss/feeds/author.html).
 
 ```yaml
 feed:
