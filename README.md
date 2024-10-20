@@ -1,5 +1,5 @@
 # arxiv-to-rss
-Create an RSS feed from a custom arXiv query.
+Create an RSS feed from a custom arXiv query and push to GitHub Pages.
 
 With the ``queries.yaml`` file as below, the files [feeds/feed.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/feed.xml)
 and [feeds/author.xml](https://gbrammer.github.io/arxiv-to-rss/feeds/author.xml) will be created.
