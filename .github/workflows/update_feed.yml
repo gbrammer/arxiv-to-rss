@@ -5,6 +5,7 @@ on:
   schedule:
     # https://crontab.guru/#40_9_*_*_0
     - cron: '0 05 * * 1-5' # runs at 05:00 UTC every weekday
+    - cron: '56 * * * *' # runs at 05:00 UTC every weekday
 
 jobs:
   UpdateFeed:
@@ -17,15 +18,13 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
-      # - name: Install reqs
-      #   run: pip install -r requirements.txt
       - name: Build python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
-      
+
       - name: Run script
         shell: bash
         run: python queries_to_feeds.py
