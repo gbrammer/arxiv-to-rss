@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=128
-### Updated Sat Oct 26 05:04:52 2024
+### Updated Sun Oct 27 05:05:05 2024
 
 ### 1) [2410.18980](http://arxiv.org/abs/2410.18980v1): Very massive stars and Nitrogen-emitting galaxies
 
