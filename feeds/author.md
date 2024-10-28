@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Sun Oct 27 05:05:07 2024
+### Updated Mon Oct 28 05:05:24 2024
 
 ### 1) [2410.16354](http://arxiv.org/abs/2410.16354v1): Galaxy Size and Mass Build-up in the First 2 Gyrs of Cosmic History from Multi-Wavelength JWST NIRCam Imaging
 
@@ -254,16 +254,16 @@ Strong gravitational lensing in galaxy clusters has become an essential tool in 
 <p> <b> Comments: </b> Submitted to A&A, 23 pages, 12 figures, 6 tables </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2406.10332v1"> http://arxiv.org/pdf/2406.10332v1 </a> </p>
 
-### 24) [2406.05178](http://arxiv.org/abs/2406.05178v1): The Star-Forming Main Sequence in JADES and CEERS at z&gt;1.4: Investigating the Burstiness of Star Formation
+### 24) [2406.05178](http://arxiv.org/abs/2406.05178v2): The Star-Forming Main Sequence in JADES and CEERS at z&gt;1.4: Investigating the Burstiness of Star Formation
 
 <p> Leonardo Clarke, Alice E. Shapley, Ryan L. Sanders, Michael W. Topping, Gabriel B. Brammer, Trinity Bento, Naveen A. Reddy, Emily Kehoe </p>
 <p>
 We have used public JWST/NIRSpec and JWST/NIRCam observations from the CEERS and JADES surveys in order to analyze the star-forming main sequence (SFMS) over the redshift range 1.4 \leq z &lt; 7. We calculate the star-formation rates (SFRs) of the galaxy sample using three approaches: Balmer line luminosity, spectral energy distribution (SED) fitting, and UV luminosity. We find a larger degree of scatter about the SFMS using the Balmer-based SFRs compared to the UV-based SFRs. Because these SFR indicators are sensitive to star formation on different time scales, the difference in scatter may be evidence of bursty star-formation histories in the early universe. We additionally compare the H\alpha-to-UV luminosity ratio (L(H\alpha)/\nuL_{\nu,1600}) for individual galaxies in the sample and find that 29&percnt;-52&percnt; of the ratios across the sample are poorly described by predictions from a smooth star-formation history. Measuring the burstiness of star formation in the early universe has multiple significant implications, such as deriving accurate physical parameters from SED fitting, explaining the evolution of the UV luminosity function, and providing constraints for sub-grid models of feedback in simulations of galaxy formation and evolution.
 </p>
 <p> <b> Published: </b> 2024-06-07T18:00:00Z </p>
-<p> <b> Updated: </b> 2024-06-07T18:00:00Z </p>
-<p> <b> Comments: </b> 21 pages, 7 figures, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2406.05178v1"> http://arxiv.org/pdf/2406.05178v1 </a> </p>
+<p> <b> Updated: </b> 2024-10-24T20:00:22Z </p>
+<p> <b> Comments: </b> 23 pages, 7 figures, accepted by ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2406.05178v2"> http://arxiv.org/pdf/2406.05178v2 </a> </p>
 
 ### 25) [2406.03544](http://arxiv.org/abs/2406.03544v2): The Structure of Massive Star-Forming Galaxies from JWST and ALMA: Dusty, High Redshift Disk Galaxies
 
