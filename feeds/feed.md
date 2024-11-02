@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=128
-### Updated Fri Nov  1 06:11:07 2024
+### Updated Sat Nov  2 05:05:10 2024
 
 ### 1) [2410.24224](http://arxiv.org/abs/2410.24224v1): What is the origin of the JWST SMBHs?
 
