@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=128
-### Updated Fri Nov  8 05:05:15 2024
+### Updated Sat Nov  9 05:04:38 2024
 
 ### 1) [2411.04944](http://arxiv.org/abs/2411.04944v1): Galaxy Mergers in the Epoch of Reionization II: Major Merger-Triggered Star Formation and AGN Activities at z = 4.5 - 8.5
 
