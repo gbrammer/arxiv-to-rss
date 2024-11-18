@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=128
-### Updated Sun Nov 17 05:04:52 2024
+### Updated Mon Nov 18 05:05:37 2024
 
 ### 1) [2411.09262](http://arxiv.org/abs/2411.09262v1): On the Average Ultraviolet Emission Line Spectra of High-Redshift Galaxies: Hot and Cold, Carbon-poor, Nitrogen-modest, and Oozing Ionizing Photons
 
@@ -1321,7 +1321,18 @@ JWST observations of galaxies at z\gtrsim 8 suggest that they are more luminous 
 <p> <b> Comments: </b> 24 pages, 18 figures, published in ApJ, minor revisions </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2403.04824v3"> http://arxiv.org/pdf/2403.04824v3 </a> </p>
 
-### 121) [2402.18052](http://arxiv.org/abs/2402.18052v3): Galaxy clustering at cosmic dawn from JWST/NIRCam observations to redshift z~11
+### 121) [2402.18672](http://arxiv.org/abs/2402.18672v3): JWST/MIRI unveils the stellar component of the GN20 dusty galaxy overdensity at z=4.05
+
+<p> A. Crespo Gómez, L. Colina, J. Álvarez-Márquez, A. Bik, L. Boogaard, G. Östlin, F. Peißker, F. Walter, A. Labiano, P. G. Pérez-González, T. R. Greve, G. Wright, A. Alonso-Herrero, K. I. Caputi, L. Costantin, A. Eckart, M. García-Marín, S. Gillman, J. Hjorth, E. Iani, D. Langeroodi, J. P. Pye, P. Rinaldi, T. Tikkanen, P. van der Werf, P. O. Lagage, E. F. van Dishoeck </p>
+<p>
+Despite the importance of the dusty star-forming galaxies (DSFGs) at z&gt;2 for understanding the galaxy evolution in the early Universe, their stellar distributions traced by the near-IR emission were spatially unresolved until the arrival of the JWST. In this work we present, for the first time, a spatially-resolved morphological analysis of the rest-frame near-IR (~1.1-3.5&mu;m) emission in DSFGs traced with the JWST/MIRI. In particular, we study the mature stellar component for the three DSFGs and a Lyman-break galaxy (LBG) present in an overdensity at z=4.05. Moreover, we use MIRI images along with UV to (sub)-mm ancillary photometric data to model their SEDs and extract their main physical properties. The sub-arcsec resolution MIRI images have revealed that the stellar component present a wide range of morphologies, from disc-like to compact and clump-dominated structures. These near-IR structures contrast with their UV emission, which is usually diffuse and off-centered. The SED fitting analysis shows that GN20 dominates the total SFR with a value ~2500 M_\odotyr^{-1} while GN20.2b has the highest stellar mass in the sample (M_*~2\times10^{11} M_\odot). The two DSFGs classified as LTGs (GN20 and GN20.2a) show high specific SFR (sSFR&gt;30 Gyr^{-1}) placing them above the star-forming main sequence (SFMS) at z~4 by &gt;0.5 dex while the ETG (i.e.,GN20.2b) is compatible with the high-mass end of the main sequence. When comparing with other DSFGs in overdensities at z~2-7 we observe that our objects present similar SFRs, depletion times and projected separations. Nevertheless, the effective radii computed for GN20 and GN20.2a are up to two times larger than those of isolated galaxies observed in CEERS and ALMA-HUDF at similar redshifts. We interpret this difference in size as an effect of rapid growth induced by the dense environment.
+</p>
+<p> <b> Published: </b> 2024-02-28T19:35:28Z </p>
+<p> <b> Updated: </b> 2024-11-14T23:41:54Z </p>
+<p> <b> Comments: </b> 13 pages, 6 figures, 3 tables. Accepted for publication in A&A </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2402.18672v3"> http://arxiv.org/pdf/2402.18672v3 </a> </p>
+
+### 122) [2402.18052](http://arxiv.org/abs/2402.18052v3): Galaxy clustering at cosmic dawn from JWST/NIRCam observations to redshift z~11
 
 <p> Nicolò Dalmasso, Nicha Leethochawalit, Michele Trenti, Kristan Boyett </p>
 <p>
@@ -1332,7 +1343,7 @@ We report measurements of the galaxy two-point correlation function at cosmic da
 <p> <b> Comments: </b> MNRAS accepted; 8 pages, 4 figures </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2402.18052v3"> http://arxiv.org/pdf/2402.18052v3 </a> </p>
 
-### 122) [2401.16934](http://arxiv.org/abs/2401.16934v2): Extreme emission line galaxies detected in JADES JWST/NIRSpec I: inferred galaxy properties
+### 123) [2401.16934](http://arxiv.org/abs/2401.16934v2): Extreme emission line galaxies detected in JADES JWST/NIRSpec I: inferred galaxy properties
 
 <p> Kit Boyett, Andrew J. Bunker, Emma Curtis-Lake, Jacopo Chevallard, Alex J. Cameron, Gareth C. Jones, Aayush Saxena, Stéphane Charlot, Mirko Curti, Imaan E. B. Wallace, Santiago Arribas, Stefano Carniani, Chris Willott, Stacey Alberts, Daniel J. Eisenstein, Kevin Hainline, Ryan Hausen, Benjamin D. Johnson, Marcia Rieke, Brant Robertson, Daniel P. Stark, Sandro Tacchella, Christina C. Williams, Zuyi Chen, Eiichi Egami, Ryan Endsley, Nimisha Kumari, Isaac Laseter, Tobias J. Looser, Michael V. Maseda, Jan Scholtz, Irene Shivaei, Charlotte Simmonds, Renske Smit, Hannah Übler, Joris Witstok </p>
 <p>
@@ -1343,7 +1354,7 @@ Extreme emission line galaxies (EELGs) exhibit large equivalent widths (EW) in t
 <p> <b> Comments: </b> 34 pages, 25 figures </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2401.16934v2"> http://arxiv.org/pdf/2401.16934v2 </a> </p>
 
-### 123) [2401.07863](http://arxiv.org/abs/2401.07863v2): The Relation between AGN and Host Galaxy Properties in the JWST Era: I. Seyferts at Cosmic Noon are Obscured and Disturbed
+### 124) [2401.07863](http://arxiv.org/abs/2401.07863v2): The Relation between AGN and Host Galaxy Properties in the JWST Era: I. Seyferts at Cosmic Noon are Obscured and Disturbed
 
 <p> Nina Bonaventura, Jianwei Lyu, George H. Rieke, Stacey Alberts, Christopher N. A. Willmer, Pablo G. Pérez-González, Andrew J. Bunker, Meredith Stone, Francesco D'Eugenio, Christina C. Williams, Michael V. Maseda, Chris J. Willott, Zhiyuan Ji, William M. Baker, Stefano Carniani, Stephane Charlot, Jacopo Chevallard, Emma Curtis-Lake, Daniel J. Eisenstein, Kevin Hainline, Ryan Hausen, Erica J. Nelson, Marcia J. Rieke, Brant Robertson, Irene Shivaei </p>
 <p>
@@ -1354,7 +1365,7 @@ The morphology of a galaxy reflects the mix of physical processes occurring with
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2401.07863v2"> http://arxiv.org/pdf/2401.07863v2 </a> </p>
 
-### 124) [2401.06450](http://arxiv.org/abs/2401.06450v2): Probing Chemical Enrichment in Extremely Metal-Poor Galaxies
+### 125) [2401.06450](http://arxiv.org/abs/2401.06450v2): Probing Chemical Enrichment in Extremely Metal-Poor Galaxies
 
 <p> Keita Fukushima, Kentaro Nagamine, Akinori Matsumoto, Yuki Isobe, Masami Ouchi, Takayuki Saitoh, Yutaka Hirai </p>
 <p>
@@ -1365,7 +1376,7 @@ The chemical composition of galaxies offers vital insights into their formation 
 <p> <b> Comments: </b> 15 pages, 7 figures, 2 table, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2401.06450v2"> http://arxiv.org/pdf/2401.06450v2 </a> </p>
 
-### 125) [2312.02268](http://arxiv.org/abs/2312.02268v2): Generating synthetic star catalogs from simulated data for next-gen observatories with py-ananke
+### 126) [2312.02268](http://arxiv.org/abs/2312.02268v2): Generating synthetic star catalogs from simulated data for next-gen observatories with py-ananke
 
 <p> Adrien C. R. Thob, Robyn E. Sanderson, Andrew P. Eden, Farnik Nikakhtar, Nondh Panithanpaisal, Nicolás Garavito-Camargo, Sanjib Sharma </p>
 <p>
@@ -1376,7 +1387,7 @@ We find ourselves on the brink of an exciting era in observational astrophysics,
 <p> <b> Comments: </b> 12 pages (6 pages of bibliography) and 1 figure. Software repository   at https://github.com/athob/py-ananke </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2312.02268v2"> http://arxiv.org/pdf/2312.02268v2 </a> </p>
 
-### 126) [2310.16895](http://arxiv.org/abs/2310.16895v3): SPICE: the connection between cosmic reionisation and stellar feedback in the first galaxies
+### 127) [2310.16895](http://arxiv.org/abs/2310.16895v3): SPICE: the connection between cosmic reionisation and stellar feedback in the first galaxies
 
 <p> Aniket Bhagwat, Tiago Costa, Benedetta Ciardi, Rüdiger Pakmor, Enrico Garaldi </p>
 <p>
@@ -1386,17 +1397,6 @@ We present SPICE, a new suite of RHD cosmological simulations targeting the epoc
 <p> <b> Updated: </b> 2024-10-22T10:14:18Z </p>
 <p> <b> Comments: </b> arXiv admin note: text overlap with arXiv:1801.07259 by other authors </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2310.16895v3"> http://arxiv.org/pdf/2310.16895v3 </a> </p>
-
-### 127) [2307.10302](http://arxiv.org/abs/2307.10302v2): Enhanced Early Galaxy Formation in JWST from Axion Dark Matter?
-
-<p> Simeon Bird, Chia-Feng Chang, Yanou Cui, Daneng Yang </p>
-<p>
-We demonstrate that enhanced early galaxy formation can generically arise in axion-like particle (ALP) dark matter (DM) models with a delayed onset of axion field oscillation. In these models, the formation of localized massive objects enhances structure formation, potentially addressing the excess recently observed by the James Webb Space Telescope (JWST), while remaining consistent with existing constraints. We identify viable parameter space with the ALP mass in the range of 10^{-22}~{\rm eV}&lt;m_a&lt;10^{-19}~\rm eV. In addition, we show that the ALP parameter regions of interest can lead to intriguing complementary signatures in the small-scale structure of DM halos and existing experimental searches for ALPs.
-</p>
-<p> <b> Published: </b> 2023-07-18T18:00:05Z </p>
-<p> <b> Updated: </b> 2024-10-14T11:45:14Z </p>
-<p> <b> Comments: </b> 6 pages, 4 figures </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2307.10302v2"> http://arxiv.org/pdf/2307.10302v2 </a> </p>
 
 ### 128) [2207.02143](http://arxiv.org/abs/2207.02143v3): Dark Energy Black Holes with Intermediate Masses at High Redshifts: an earlier generation of Quasars and observations
 
