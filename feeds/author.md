@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Mon Dec  2 05:05:46 2024
+### Updated Tue Dec  3 05:05:33 2024
 
 ### 1) [2410.21543](http://arxiv.org/abs/2410.21543v1): Improving photometric redshifts of Epoch of Reionization galaxies: a new transmission curve with the neutral hydrogen damped Lyα absorption
 
@@ -177,16 +177,16 @@ We present the design and observations of low resolution JWST/NIRSpec PRISM spec
 <p> <b> Comments: </b> 19 pages, 9 figures, 4 tables, submitted to ApJ, comments welcome!   Data available at: https://jwst-uncover.github.io/DR4.html (v2: figure format   correction) </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2408.03920v2"> http://arxiv.org/pdf/2408.03920v2 </a> </p>
 
-### 17) [2407.17110](http://arxiv.org/abs/2407.17110v1): The Extreme Low-mass End of the Mass-Metallicity Relation at z~7
+### 17) [2407.17110](http://arxiv.org/abs/2407.17110v2): The Extreme Low-mass End of the Mass-Metallicity Relation at z~7
 
-<p> Iryna Chemerynska, Hakim Atek, Pratika Dayal, Lukas J. Furtak, Robert Feldmann, Jenny E. Greene, Michael V. Maseda, Themiya Nanayakkara, Pascal A. Oesch, Ivo Labbe, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Joel Leja, Richard Pan, Sedona H. Price, Bingjie Wang, John R. Weaver, Katherine E. Whitaker </p>
+<p> Iryna Chemerynska, Hakim Atek, Pratika Dayal, Lukas J. Furtak, Robert Feldmann, Jenny E. Greene, Michael V. Maseda, Themiya Nanayakkara, Pascal A. Oesch, Seiji Fujimoto, Ivo Labbe, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Joel Leja, Richard Pan, Sedona H. Price, Bingjie Wang, John R. Weaver, Katherine E. Whitaker </p>
 <p>
-The mass-metallicity relation (MZR) provides crucial insights into the baryon cycle in galaxies and provides strong constraints on galaxy formation models. We use JWST NIRSpec observations from the UNCOVER program to measure the gas-phase metallicity in a sample of eight galaxies during the epoch of reionization at z=6-8. Thanks to strong lensing of the galaxy cluster Abell 2744, we are able to probe extremely low stellar masses between 10^{6} and 10^{8} M_{\odot}. Using strong lines diagnostics and the most recent JWST calibrations, we derive extremely-low oxygen abundances ranging from 12+log(O/H)=6.7 to 7.8. By combining this sample with more massive galaxies at similar redshifts, we derive a best-fit relation of 12+{\rm log(O/H)}=0.39_{-0.02}^{+0.02} \times log(\mstar) + 4.52_{-0.17}^{+0.17}, which is steeper than determinations at z ~ 3. Our results show a clear redshift evolution in the overall normalization of the relation, galaxies at higher redshift having significantly lower metallicities at a given mass. A comparison with theoretical models provides important constraints on which physical processes, such as metal mixing, star formation or feedback recipes, are important in reproducing the observations. Additionally, these galaxies exhibit star formation rates that are higher by a factor of a few to tens compared to extrapolated relations at similar redshifts or theoretical predictions of main-sequence galaxies, pointing to a recent burst of star formation. All these observations are indicative of highly stochastic star formation and ISM enrichment, expected in these low-mass systems, suggesting that feedback mechanisms in high-z dwarf galaxies might be different from those in place at higher masses.
+The mass-metallicity relation (MZR) provides crucial insights into the baryon cycle in galaxies and provides strong constraints on galaxy formation models. We use \jwst\ NIRSpec observations from the UNCOVER program to measure the gas-phase metallicity in a sample of eight galaxies during the epoch of reionization at z=6-8. Thanks to the strong lensing of the galaxy cluster Abell 2744, we are able to probe extremely low stellar masses between 10^{6} and 10^{8}\msol. Using strong lines diagnostics and the most recent \jwst\ calibrations, we derive extremely-low oxygen abundances ranging from 12+log(O/H) = 6.7 to 7.8. By combining this sample with more massive galaxies at similar redshifts, we derive a best-fit relation of 12+{\rm log(O/H)} = -0.076_{-0.03}^{+0.03} \times ({\rm log}(M_{\star}))^2+ 1.61_{-0.52}^{+0.52}\times {\rm log}(M_{\star})-0.26_{-0.10}^{+0.10}, which becomes steeper than determinations at z ~ 3-6 towards low-mass galaxies. Our results show a clear redshift evolution in the overall normalization of the relation, galaxies at higher redshift having significantly lower metallicities at a given mass. A comparison with theoretical models provides important constraints on which physical processes, such as metal mixing, star formation or feedback recipes, are important in reproducing the observations. Additionally, these galaxies exhibit star formation rates that are higher by a factor of a few to tens compared to extrapolated relations at similar redshifts or theoretical predictions of main-sequence galaxies, pointing to a recent burst of star formation. All these observations are indicative of highly stochastic star formation and ISM enrichment, expected in these low-mass systems, suggesting that feedback mechanisms in high-z dwarf galaxies might be different from those in place at higher masses.
 </p>
 <p> <b> Published: </b> 2024-07-24T09:19:25Z </p>
-<p> <b> Updated: </b> 2024-07-24T09:19:25Z </p>
-<p> <b> Comments: </b> Submitted to ApJL </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2407.17110v1"> http://arxiv.org/pdf/2407.17110v1 </a> </p>
+<p> <b> Updated: </b> 2024-12-02T13:13:44Z </p>
+<p> <b> Comments: </b> Accepted to ApJL </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2407.17110v2"> http://arxiv.org/pdf/2407.17110v2 </a> </p>
 
 ### 18) [2407.06287](http://arxiv.org/abs/2407.06287v1): A massive, neutral gas reservoir permeating a galaxy proto-cluster after the reionization era
 
