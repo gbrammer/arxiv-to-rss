@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Mon Dec  9 05:05:52 2024
+### Updated Tue Dec 10 05:05:42 2024
 
 ### 1) [2412.04983](http://arxiv.org/abs/2412.04983v1): Red, hot, and very metal poor: extreme properties of a massive accreting black hole in the first 500 Myr
 
@@ -155,16 +155,16 @@ We release fully reduced spectra obtained with NIRSpec onboard JWST as part of t
 <p> <b> Comments: </b> Accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2408.16675v1"> http://arxiv.org/pdf/2408.16675v1 </a> </p>
 
-### 15) [2408.07745](http://arxiv.org/abs/2408.07745v1): The Small Sizes and High Implied Densities of `Little Red Dots' with Balmer Breaks Could Explain Their Broad Emission Lines Without an AGN
+### 15) [2408.07745](http://arxiv.org/abs/2408.07745v2): The Small Sizes and High Implied Densities of `Little Red Dots' with Balmer Breaks Could Explain Their Broad Emission Lines Without an AGN
 
 <p> Josephine F. W. Baggen, Pieter van Dokkum, Gabriel Brammer, Anna de Graaff, Marijn Franx, Jenny Greene, Ivo Labbé, Joel Leja, Michael V. Maseda, Erica J. Nelson, Hans-Walter Rix, Bingjie Wang, Andrea Weibel </p>
 <p>
 Early JWST studies found an apparent population of massive, compact galaxies at redshifts z\gtrsim7. Recently three of these galaxies were shown to have prominent Balmer breaks, demonstrating that their light at \lambda_{\rm rest} ~ 3500 \r{A} is dominated by a stellar population that is relatively old (~200 Myr). All three also have broad H\beta emission with \sigma &gt; 1000 \,\rm km s^{-1}, a common feature of such `little red dots'. From S\'ersic profile fits to the NIRCam images in F200W we find that the stellar light of galaxies is extremely compact: the galaxies have half-light radii of r_{\rm e}~ 100 pc, in the regime of ultra compact dwarfs in the nearby Universe. Their masses are uncertain, as they depend on the contribution of possible light from an AGN to the flux at \lambda_{\rm rest}&gt;5000 \r{A}. If the AGN contribution is low beyond the Balmer break region, the masses are M_* ~ 10^{10}-10^{11}\mathrm{M}_{\odot}, and the central densities are higher than those of any other known galaxy population by an order of magnitude. Interestingly, the implied velocity dispersions of ~1500 kms^{-1} are in very good agreement with the measured H\beta line widths. We suggest that some of the broad lines in `little red dots' are not due to AGNs but simply reflect the kinematics of the galaxies, and speculate that the galaxies are observed in a short-lived phase where the central densities are much higher than at later times. We stress, however, that the canonical interpretation of AGNs causing the broad H\beta lines also remains viable.
 </p>
 <p> <b> Published: </b> 2024-08-14T18:00:02Z </p>
-<p> <b> Updated: </b> 2024-08-14T18:00:02Z </p>
+<p> <b> Updated: </b> 2024-12-06T19:14:22Z </p>
 <p> <b> Comments: </b>  </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2408.07745v1"> http://arxiv.org/pdf/2408.07745v1 </a> </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2408.07745v2"> http://arxiv.org/pdf/2408.07745v2 </a> </p>
 
 ### 16) [2408.05273](http://arxiv.org/abs/2408.05273v1): The AURORA Survey: The Nebular Attenuation Curve of a Galaxy at z=4.41 from Ultraviolet to Near-Infrared Wavelengths
 
