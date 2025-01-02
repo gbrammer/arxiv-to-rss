@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=128
-### Updated Wed Jan  1 05:05:06 2025
+### Updated Thu Jan  2 05:05:01 2025
 
 ### 1) [2412.20364](http://arxiv.org/abs/2412.20364v1): Uncovering the hidden physical structures and protostellar activities in the Low-Metallicity S284-RE region: results from ALMA and JWST
 

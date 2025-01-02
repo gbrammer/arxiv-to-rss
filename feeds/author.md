@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Wed Jan  1 05:05:10 2025
+### Updated Thu Jan  2 05:05:03 2025
 
 ### 1) [2412.13264](http://arxiv.org/abs/2412.13264v1): PANORAMIC: Discovery of an Ultra-Massive Grand-Design Spiral Galaxy at z~5.2
 
