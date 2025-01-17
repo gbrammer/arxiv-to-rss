@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Thu Jan 16 05:05:01 2025
+### Updated Fri Jan 17 05:04:58 2025
 
 ### 1) [2501.07627](http://arxiv.org/abs/2501.07627v1): Discovery of Ancient Globular Cluster Candidates in The Relic, a Quiescent Galaxy at z=2.5
 
@@ -661,16 +661,16 @@ Early JWST observations that targeted so-called double-break sources (attributed
 <p> <b> Comments: </b> V3 Accepted for publication in MNRAS, 13 pages (+5 in Appendix), 7   figures (+4), 1 table (+2) </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2310.03063v3"> http://arxiv.org/pdf/2310.03063v3 </a> </p>
 
-### 61) [2310.02500](http://arxiv.org/abs/2310.02500v1): UNCOVER: The rest ultraviolet to near infrared multiwavelength structures and dust distributions of sub-millimeter-detected galaxies in Abell 2744
+### 61) [2310.02500](http://arxiv.org/abs/2310.02500v2): UNCOVER: The rest ultraviolet to near infrared multiwavelength structures and dust distributions of sub-millimeter-detected galaxies in Abell 2744
 
 <p> Sedona H. Price, Katherine A. Suess, Christina C. Williams, Rachel Bezanson, Gourav Khullar, Erica J. Nelson, Bingjie Wang, John R. Weaver, Seiji Fujimoto, Vasily Kokorev, Jenny E. Greene, Gabriel Brammer, Sam E. Cutler, Pratika Dayal, Lukas J. Furtak, Ivo Labbe, Joel Leja, Tim B. Miller, Themiya Nanayakkara, Richard Pan, Katherine E. Whitaker </p>
 <p>
-With the wavelength coverage, sensitivity, and high spatial resolution of JWST, it is now possible to peer through the dust attenuation to probe the rest-frame near infrared (NIR) and stellar structures of extremely dusty galaxies at cosmic noon (z~1-3). In this paper we leverage the combined ALMA and JWST/HST coverage in Abell 2744 to study the multiwavelength (0.5-4.4um) structures of 11 sub-millimeter (sub-mm) detected galaxies at z~0.9-3.5 that are fainter than bright "classical" sub-mm galaxies (SMGs). While these objects reveal a diversity of structures and sizes, all exhibit decreasing sizes and increasing central concentration towards longer wavelengths. The smaller sizes of these objects at long wavelengths indicate that their stellar mass profiles are more compact than their optical light profiles, likely due to centrally-concentrated dust obscuration. Further, we find that galaxies with higher central concentration values tend to have more extreme size ratios (comparing the rest-frame NIR to rest-frame optical); this suggests that the galaxies with the most compact light distributions also have the most concentrated dust distributions. We also find the galaxies with the most extreme size ratios do not have elevated 1.2mm flux densities compared to the rest of our sample: we argue this means compact dust geometry, rather than e.g. high total dust quantity, drives the most extreme observed rest-frame NIR-to-optical size ratios. Upcoming higher resolution 1.2mm ALMA imaging will facilitate joint spatially-resolved analysis and will directly test the dust distributions within this representative sub-mm population.
+With the wavelength coverage, sensitivity, and high spatial resolution of JWST, it is now possible to peer through the dust attenuation to probe the rest-frame near infrared (NIR) and stellar structures of extremely dusty galaxies at cosmic noon (z~1-3). In this paper we leverage the combined ALMA and JWST/HST coverage in Abell 2744 to study the multiwavelength (0.5-4.4{&mu;}m) structures of 11 sub-millimeter (sub-mm) detected galaxies at z~0.9-3.5 that are fainter than bright "classical" sub-mm galaxies (SMGs); 7 of which are detected in deep X-ray data. While these objects reveal a diversity of structures and sizes, all are smaller and more concentrated towards longer wavelengths. Of the X-ray-detected objects, only two show evidence for appreciable AGN flux contributions (at {\gtrsim}2{&mu;}m). Excluding the two AGN-dominated objects, the smaller long wavelength sizes indicate that their rest-frame NIR light profiles, inferred to trace their stellar mass profiles, are more compact than their optical profiles. The sub-mm detections and visible dust lanes suggest centrally-concentrated dust is a key driver of the observed color gradients. Further, we find that more concentrated galaxies tend to have lower size ratios (rest-frame NIR to optical); this suggests that the galaxies with the most compact light distributions also have the most concentrated dust. The 1.2mm flux densities and size ratios of these 9 objects suggest that both total dust quantity and geometry impact these galaxies' multiwavelength structures. Upcoming higher resolution 1.2mm ALMA imaging will facilitate joint spatially-resolved analysis and will directly test the dust distributions within this representative sub-mm population.
 </p>
 <p> <b> Published: </b> 2023-10-04T00:21:59Z </p>
-<p> <b> Updated: </b> 2023-10-04T00:21:59Z </p>
-<p> <b> Comments: </b> Submitted to ApJ. 13 pages, 6 figures </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2310.02500v1"> http://arxiv.org/pdf/2310.02500v1 </a> </p>
+<p> <b> Updated: </b> 2025-01-15T21:22:52Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJ. 16 pages, 7 figures </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2310.02500v2"> http://arxiv.org/pdf/2310.02500v2 </a> </p>
 
 ### 62) [2310.02314](http://arxiv.org/abs/2310.02314v2): Bursty star formation and galaxy-galaxy interactions in low-mass galaxies 1 Gyr after the Big Bang
 
