@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Sun Jan 19 05:04:46 2025
+### Updated Mon Jan 20 05:05:06 2025
 
 ### 1) [2501.07627](http://arxiv.org/abs/2501.07627v1): Discovery of Ancient Globular Cluster Candidates in The Relic, a Quiescent Galaxy at z=2.5
 
@@ -144,16 +144,16 @@ We present the properties of a massive, large, dusty, metal-rich, star-forming g
 <p> <b> Comments: </b> 16 pages, 13 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.00110v2"> http://arxiv.org/pdf/2410.00110v2 </a> </p>
 
-### 14) [2409.17241](http://arxiv.org/abs/2409.17241v2): An Hα view of galaxy build-up in the first 2 Gyr: luminosity functions at z~4-6.5 from NIRCam/grism spectroscopy
+### 14) [2409.17241](http://arxiv.org/abs/2409.17241v3): An Hα view of galaxy build-up in the first 2 Gyr: luminosity functions at z~4-6.5 from NIRCam/grism spectroscopy
 
 <p> Alba Covelo-Paz, Emma Giovinazzo, Pascal A. Oesch, Romain A. Meyer, Andrea Weibel, Gabriel Brammer, Yoshinobu Fudamoto, Josephine Kerutt, Jamie Lin, Jasleen Matharu, Rohan P. Naidu, Anna Velichko, Victoria Bollo, Rychard Bouwens, John Chisholm, Garth D. Illingworth, Ivan Kramarenko, Daniel Magee, Michael Maseda, Jorryt Matthee, Erica Nelson, Naveen Reddy, Daniel Schaerer, Mauro Stefanon, Mengyuan Xiao </p>
 <p>
 The H{\alpha} nebular emission line is an optimal tracer for recent star formation in galaxies. With the advent of JWST, this line has recently become observable at z&gt;3 for the first time. We present a catalog of 1013 H{\alpha} emitters at 3.7&lt;z&lt;6.7 in the GOODS fields obtained from a blind search in JWST NIRCam/grism data. We make use of the FRESCO survey's 124 arcmin^2 of observations in GOODS-North and GOODS-South with the F444W filter, probing H{\alpha} at 4.9&lt;z&lt;6.7; and the CONGRESS survey's 62 arcmin^2 in GOODS-North with F356W, probing H{\alpha} at 3.8&lt;z&lt;5.1. We find an overdensity with 97 sources at z~4.4 in GOODS-N and confirm previously reported overdensities at z~5.2 in GOODS-N and at z~5.4 and z~5.9 in GOODS-S. We compute the observed H{\alpha} luminosity functions (LFs) in three bins centered at z~4.45, 5.30, and 6.15, which are the first such measurements at z&gt;3 obtained based purely on spectroscopic data, robustly tracing galaxy star formation rates (SFRs) beyond the peak of the cosmic star formation history. We compare our results with theoretical predictions from three different simulations and find good agreement at z~4-6. The UV LFs of this spectroscopically-confirmed sample are in good agreement with pre-JWST measurements obtained with photometrically-selected objects. Finally, we derive SFR functions and integrate these to compute the evolution of the cosmic star-formation rate densities across z~4-6, finding values in good agreement with recent UV estimates from Lyman-break galaxies, which imply a continuous decrease in SFR density by a factor of 3x over z~4 to z~6. Our work shows the power of NIRCam grism observations to efficiently provide new tests for early galaxy formation models based on emission line statistics.
 </p>
 <p> <b> Published: </b> 2024-09-25T18:00:13Z </p>
-<p> <b> Updated: </b> 2024-09-30T15:12:31Z </p>
+<p> <b> Updated: </b> 2025-01-16T19:18:42Z </p>
 <p> <b> Comments: </b> 17 pages, 14 figures </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.17241v2"> http://arxiv.org/pdf/2409.17241v2 </a> </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.17241v3"> http://arxiv.org/pdf/2409.17241v3 </a> </p>
 
 ### 15) [2409.12232](http://arxiv.org/abs/2409.12232v1): UNCOVERing the High-Redshift AGN Population Among Extreme UV Line Emitters
 
