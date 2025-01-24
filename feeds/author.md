@@ -1,16 +1,16 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Thu Jan 23 05:05:20 2025
+### Updated Fri Jan 24 05:05:04 2025
 
-### 1) [2501.11678](http://arxiv.org/abs/2501.11678v1): GLIMPSE: An ultra-faint ~eq 10^{5} M_{\odot} Pop III Galaxy Candidate and First Constraints on the Pop III UV Luminosity Function at z~eq6-7
+### 1) [2501.11678](http://arxiv.org/abs/2501.11678v2): GLIMPSE: An ultra-faint ~eq 10^{5} M_{\odot} Pop III Galaxy Candidate and First Constraints on the Pop III UV Luminosity Function at z~eq6-7
 
 <p> Seiji Fujimoto, Rohan P. Naidu, John Chisholm, Hakim Atek, Ryan Endsley, Vasily Kokorev, Lukas J. Furtak, Richard Pan, Boyuan Liu, Volker Bromm, Alessandra Venditti, Eli Visbal, Richard Sarmento, Andrea Weibel, Pascal A. Oesch, Gabriel Brammer, Daniel Schaerer, Angela Adamo, Danielle A. Berg, Rachel Bezanson, Iryna Chemerynska, Adélaïde Claeyssens, Miroslava Dessauges-Zavadsky, Anna Frebel, Damien Korber, Ivo Labbe, Rui Marques-Chaves, Jorryt Matthee, Kristen B. W. McQuinn, Julian B. Muñoz, Priyamvada Natarajan, Alberto Saldana-Lopez, Katherine A. Suess, Marta Volonteri, Adi Zitrin </p>
 <p>
 Detecting the first generation of stars, Population III (PopIII), has been a long-standing goal in astrophysics, yet they remain elusive even in the JWST era. Here we present a novel NIRCam-based selection method for PopIII galaxies, and carefully validate it through completeness and contamination simulations. We systematically search ~500 arcmin^{2} across JWST legacy fields for PopIII candidates, including GLIMPSE which, assisted by gravitational lensing, has produced JWST's deepest NIRCam imaging thus far. We discover one promising PopIII galaxy candidate (GLIMPSE-16043) at z=6.50^{+0.03}_{-0.24}, a moderately lensed galaxy (mu=2.9) with an intrinsic UV magnitude of M_{UV}=-15.89. It exhibits key PopIII features: strong H\alpha emission (rest-frame EW 2810\pm550&#8491;); a Balmer jump; no dust (UV slope \beta=-2.34\pm0.36); and undetectable metal lines (e.g., [OIII]; [OIII]/H\beta&lt;0.44) implying a gas-phase metallicity of Zgas/Zsun&lt;0.5%. These properties indicate the presence of a nascent, metal-deficient young stellar population (&lt;5Myr) with a stellar mass of ~eq10^{5}M_{\odot}. Intriguingly, this source deviates significantly from the extrapolated UV-metallicity relation derived from recent JWST observations at z=4-10, consistent with UV enhancement by a top-heavy PopIII initial mass function or the presence of an extremely metal-poor AGN. We also derive the first observational constraints on the PopIII UV luminosity function at z~6-7. The volume density of GLIMPSE-16043 (\approx10^{-4} cMpc^{-3}) is in excellent agreement with theoretical predictions, independently reinforcing its plausibility. This study demonstrates the power of our novel NIRCam method to finally reveal distant galaxies even more pristine than the Milky Way's most metal-poor satellites, thereby promising to bring us closer to the first generation of stars than we have ever been before.
 </p>
 <p> <b> Published: </b> 2025-01-20T19:00:01Z </p>
-<p> <b> Updated: </b> 2025-01-20T19:00:01Z </p>
+<p> <b> Updated: </b> 2025-01-23T18:24:10Z </p>
 <p> <b> Comments: </b> 41 pages, 20 figures, and 10 Tables. Submitted to ApJ. Comments are   welcome! </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2501.11678v1"> http://arxiv.org/pdf/2501.11678v1 </a> </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2501.11678v2"> http://arxiv.org/pdf/2501.11678v2 </a> </p>
 
 ### 2) [2501.07627](http://arxiv.org/abs/2501.07627v1): Discovery of Ancient Globular Cluster Candidates in The Relic, a Quiescent Galaxy at z=2.5
 
