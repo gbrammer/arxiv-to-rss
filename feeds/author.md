@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Mon Jan 27 05:05:30 2025
+### Updated Tue Jan 28 05:05:06 2025
 
 ### 1) [2501.11678](http://arxiv.org/abs/2501.11678v2): GLIMPSE: An ultra-faint ~eq 10^{5} M_{\odot} Pop III Galaxy Candidate and First Constraints on the Pop III UV Luminosity Function at z~eq6-7
 
@@ -287,16 +287,16 @@ We present the stellar metallicities and multi-element abundances (C, Mg, Si, Ca
 <p> <b> Comments: </b> Accepted to ApJ; 22 pages, 6 figures, 3 tables </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2407.02556v2"> http://arxiv.org/pdf/2407.02556v2 </a> </p>
 
-### 27) [2407.00157](http://arxiv.org/abs/2407.00157v2): The AURORA Survey: A New Era of Emission-line Diagrams with JWST/NIRSpec
+### 27) [2407.00157](http://arxiv.org/abs/2407.00157v3): The AURORA Survey: A New Era of Emission-line Diagrams with JWST/NIRSpec
 
 <p> Alice E. Shapley, Ryan L. Sanders, Michael W. Topping, Naveen A. Reddy, Danielle A. Berg, Rychard J. Bouwens, Gabriel Brammer, Adam C. Carnall, Fergus Cullen, Romeel Davé, James S. Dunlop, Richard S. Ellis, N. M. Förster Schreiber, Steven R . Furlanetto, Karl Glazebrook, Garth D. Illingworth, Tucker Jones, Mariska Kriek, Derek J. McLeod, Ross J. McLure, Desika Narayanan, Pascal Oesch, Anthony J. Pahl, Max Pettini, Daniel Schaerer, Daniel P. Stark, Charles C. Steidel, Mengtao Tang, Leonardo Clarke, Callum T. Donnan, Emily Kehoe </p>
 <p>
 We present results on the emission-line properties of z=1.4-7.5 star-forming galaxies in the Assembly of Ultradeep Rest-optical Observations Revealing Astrophysics (AURORA) Cycle 1 JWST/NIRSpec program. Based on its depth, continuous wavelength coverage from 1--5 microns, and medium spectral resolution (R~1000), AURORA includes detections of a large suite of nebular emission lines spanning a broad range in rest wavelength. We investigate the locations of AURORA galaxies in multiple different emission-line diagrams, including traditional "BPT" diagrams of [OIII]/Hbeta vs. [NII]/Halpha, [SII]/Halpha, and [OI]/Halpha, and the "ionization-metallicity" diagram of [OIII]/[OII] (O32) vs. ([OIII]+[OII])/Hbeta (R23). We also consider a bluer rest-frame "ionization-metallicity" diagram introduced recently to characterize z&gt;10 galaxies: [NeIII]/[OII] vs. ([NeIII]+[OII])/Hdelta; as well as longer-wavelength diagnostic diagrams extending into the rest-frame near-IR: [OIII]/Hbeta vs. [SIII]/[SII] (S32); and HeI/Pagamma and [SIII]/Pagamma vs. [FeII]/Pabeta. With a significant boost in signal-to-noise and large, representative samples of individual galaxy detections, the AURORA emission-line diagrams presented here definitively confirm a physical picture in which chemically-young, alpha-enhanced, massive stars photoionize the ISM in distant galaxies with a harder ionizing spectrum at fixed nebular metallicity than in their z~0 counterparts. We also uncover previously unseen evolution prior to z~2 in the [OIII]/Hbeta vs. [NII]/Halpha diagram, which motivates deep NIRSpec observations at even higher redshift. Finally, we present the first statistical sample of rest-frame near-IR emission-line diagnostics in star-forming galaxies at high redshift. In order to truly interpret rest-frame near-IR line ratios including [FeII], we must obtain better constraints on dust depletion in the high-redshift ISM.
 </p>
 <p> <b> Published: </b> 2024-06-28T18:00:05Z </p>
-<p> <b> Updated: </b> 2024-07-02T06:25:33Z </p>
-<p> <b> Comments: </b> 17 pages, 8 figures, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2407.00157v2"> http://arxiv.org/pdf/2407.00157v2 </a> </p>
+<p> <b> Updated: </b> 2025-01-25T22:02:06Z </p>
+<p> <b> Comments: </b> 18 pages, 8 figures, accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2407.00157v3"> http://arxiv.org/pdf/2407.00157v3 </a> </p>
 
 ### 28) [2406.17756](http://arxiv.org/abs/2406.17756v2): The Size-Mass relation at Rest-Frame 1.5μm from JWST/NIRCam in the COSMOS-WEB and PRIMER-COSMOS fields
 
