@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Sun Feb  2 05:04:37 2025
+### Updated Mon Feb  3 05:05:13 2025
 
 ### 1) [2501.11678](http://arxiv.org/abs/2501.11678v2): GLIMPSE: An ultra-faint ~eq 10^{5} M_{\odot} Pop III Galaxy Candidate and First Constraints on the Pop III UV Luminosity Function at z~eq6-7
 
@@ -144,16 +144,16 @@ We present the PANORAMIC survey, a pure parallel extragalactic imaging program w
 <p> <b> Comments: </b> Submitted to AAS Journals; comments welcome. Initial data release   available at https://panoramic-jwst.github.io/ </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.01875v1"> http://arxiv.org/pdf/2410.01875v1 </a> </p>
 
-### 14) [2410.00110](http://arxiv.org/abs/2410.00110v2): The AURORA Survey: An Extraordinarily Mature, Star-forming Galaxy at z~ 7
+### 14) [2410.00110](http://arxiv.org/abs/2410.00110v3): The AURORA Survey: An Extraordinarily Mature, Star-forming Galaxy at z~ 7
 
 <p> Alice E. Shapley, Ryan L. Sanders, Michael W. Topping, Naveen A. Reddy, Anthony J. Pahl, Pascal A. Oesch, Danielle A. Berg, Rychard J. Bouwens, Gabriel Brammer, Adam C. Carnall, Fergus Cullen, Romeel Davé, James S. Dunlop, Richard S. Ellis, N. M. Förster Schreiber, Steven R . Furlanetto, Karl Glazebrook, Garth D. Illingworth, Tucker Jones, Mariska Kriek, Derek J. McLeod, Ross J. McLure, Desika Narayanan, Max Pettini, Daniel Schaerer, Daniel P. Stark, Charles C. Steidel, Mengtao Tang, Leonardo Clarke, Callum T. Donnan, Emily Kehoe </p>
 <p>
-We present the properties of a massive, large, dusty, metal-rich, star-forming galaxy at z_spec=6.73. GOODSN-100182 was observed with JWST/NIRSpec as part of the AURORA survey, and is also covered by public multi-wavelength HST and JWST imaging. While the large mass of GOODSN-100182 (~10^10 M_sun) was indicated prior to JWST, NIRCam rest-optical imaging now reveals the presence of an extended disk (r_eff~1.5 kpc). In addition, the NIRSpec R~1000 spectrum of GOODSN-100182 includes the detection of a large suite of rest-optical nebular emission lines ranging in wavelength from [OII]3727 up to [NII]6583. The ratios of Balmer lines suggest significant dust attenuation (E(B-V)_gas=0.40+0.10/-0.09), consistent with the red rest-UV slope inferred for GOODSN-100182 (beta=-0.50+/-0.09). The star-formation rate based on dust-corrected H-alpha emission is log(SFR(H-alpha)/ M_sun/yr)=2.02+0.13/-0.14, well above the z~7 star-forming main sequence in terms of specific SFR. Strikingly, the ratio of [NII]6583/H-alpha emission suggests almost solar metallicity, as does the ratio ([OIII]5007/H-beta)/([NII]6583/H-alpha) and the detection of the faint [FeII]4360 emission feature, whereas the [OIII]5007/[OII]3727 ratio suggests roughly 50% solar metallicity. Overall, the excitation and ionization properties of GOODSN-100182 more closely resemble those of typical star-forming galaxies at z~2-3 rather than z~7. Based on public spectroscopy of the GOODS-N field, we find that GOODSN-100182 resides within a significant galaxy overdensity, and is accompanied by a spectroscopically-confirmed neighbor galaxy. GOODSN-100182 demonstrates the existence of mature, chemically-enriched galaxies within the first billion years of cosmic time, whose properties must be explained by galaxy formation models.
+We present the properties of a massive, large, dusty, metal-rich, star-forming galaxy at z_spec=6.73. GOODSN-100182 was observed with JWST/NIRSpec as part of the AURORA survey, and is also covered by public multi-wavelength HST and JWST imaging. While the large stellar mass of GOODSN-100182 (~10^10 M_sun) was indicated prior to JWST, NIRCam rest-optical imaging now reveals the presence of an extended disk (r_eff~1.5 kpc). In addition, the NIRSpec R~1000 spectrum of GOODSN-100182 includes the detection of a large suite of rest-optical nebular emission lines ranging in wavelength from [OII]3727 up to [NII]6583. The ratios of Balmer lines suggest significant dust attenuation (E(B-V)_gas=0.40+0.10/-0.09), consistent with the red rest-UV slope inferred for GOODSN-100182 (beta=-0.50+/-0.09). The star-formation rate based on dust-corrected H-alpha emission is log(SFR(H-alpha)/ M_sun/yr)=2.02+0.13/-0.14, well above the z~7 star-forming main sequence in terms of specific SFR. Strikingly, the ratio of [NII]6583/H-alpha emission suggests almost solar metallicity, as does the ratio ([OIII]5007/H-beta)/([NII]6583/H-alpha) and the detection of the faint [FeII]4360 emission feature. Overall, the excitation and ionization properties of GOODSN-100182 more closely resemble those of typical star-forming galaxies at z~2-3 rather than z~7. Based on public spectroscopy of the GOODS-N field, we find that GOODSN-100182 resides within a significant galaxy overdensity, and is accompanied by a spectroscopically-confirmed neighbor galaxy. GOODSN-100182 demonstrates the existence of mature, chemically-enriched galaxies within the first billion years of cosmic time, whose properties must be explained by galaxy formation models.
 </p>
 <p> <b> Published: </b> 2024-09-30T18:00:06Z </p>
-<p> <b> Updated: </b> 2024-10-03T15:25:40Z </p>
-<p> <b> Comments: </b> 16 pages, 13 figures, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.00110v2"> http://arxiv.org/pdf/2410.00110v2 </a> </p>
+<p> <b> Updated: </b> 2025-01-31T13:07:09Z </p>
+<p> <b> Comments: </b> 16 pages, 13 figures, accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.00110v3"> http://arxiv.org/pdf/2410.00110v3 </a> </p>
 
 ### 15) [2409.17241](http://arxiv.org/abs/2409.17241v3): An Hα view of galaxy build-up in the first 2 Gyr: luminosity functions at z~4-6.5 from NIRCam/grism spectroscopy
 
