@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Fri Feb  7 05:05:22 2025
+### Updated Sat Feb  8 05:04:41 2025
 
 ### 1) [2501.11678](http://arxiv.org/abs/2501.11678v2): GLIMPSE: An ultra-faint ~eq 10^{5} M_{\odot} Pop III Galaxy Candidate and First Constraints on the Pop III UV Luminosity Function at z~eq6-7
 
