@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Sun Feb  9 05:04:39 2025
+### Updated Mon Feb 10 05:05:32 2025
 
 ### 1) [2501.11678](http://arxiv.org/abs/2501.11678v2): GLIMPSE: An ultra-faint ~eq 10^{5} M_{\odot} Pop III Galaxy Candidate and First Constraints on the Pop III UV Luminosity Function at z~eq6-7
 
@@ -111,16 +111,16 @@ JWST has revealed an abundance of compact, red objects at z\approx5-8 dubbed "li
 <p> <b> Comments: </b> 19 pages, 7 figures, 2 tables. Submitted to ApJ. Comments are welcome </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.06257v1"> http://arxiv.org/pdf/2410.06257v1 </a> </p>
 
-### 11) [2410.02076](http://arxiv.org/abs/2410.02076v1): The formation histories of massive and quiescent galaxies in the 3 &lt; z &lt; 4.5 Universe
+### 11) [2410.02076](http://arxiv.org/abs/2410.02076v2): The formation histories of massive and quiescent galaxies in the 3 &lt; z &lt; 4.5 Universe
 
 <p> Themiya Nanayakkara, Karl Glazebrook, Corentin Schreiber, Harry Chittenden, Gabriel Brammer, James Esdaile, Colin Jacobs, Glenn G. Kacprzak, Lalitwadee Kawinwanichakij, Lucas C. Kimmig, Ivo Labbe, Claudia Lagos, Danilo Marchesini, M. Martìnez-Marìn, Z. Cemile Marsan, Pascal A. Oesch, Casey Papovich, Rhea-Silvia Remus, Kim-Vy H. Tran </p>
 <p>
-We present the formation histories of 19 massive (\gtrsim3\times10^{10}\text{M}_\odot) quiescent galaxy candidates at z~3.0-4.5 observed using JWST/NIRSpec. This completes the spectroscopic confirmation of the 24 K-selected quiescent galaxy sample from the ZFOURGE and 3DHST surveys \citep{Schreiber2018}. Utilizing Prism 1-5&mu;m spectroscopy, we confirm that all 12 sources that eluded confirmation by ground-based spectroscopy lie at z&gt;3, resulting in a spectroscopically confirmed number density of ~1.4\times10^{-5}\text{Mpc}^{-3} between z~3-4. Rest-frame U-V vs V-J color selections show high effectiveness in identifying quiescent galaxies, with a purity of ~90&percnt;. Our analysis shows that parametric star-formation histories (SFHs) from FAST++ and binned SFHs from Prospector on average yield consistent results, revealing diverse formation and quenching times. The oldest galaxy formed ~6\times10^{10}\text{M}_\odot by z~10 and has been quiescent for over 1 Gyr at z~3.2. We detect two galaxies with ongoing star formation and six with active galactic nuclei (AGN). We demonstrate that the choice of stellar population models, stellar libraries, wavelength range, and nebular or AGN contributions does not significantly affect the derived average SFHs of the galaxies. The assumed SFH prior, however, influences the star formation rate at early times, where spectral diagnostic power is limited. Simulated z~3 quiescent galaxies from IllustrisTNG, SHARK, and Magneticum broadly match the average SFHs of the observed sample but struggle to capture the full diversity, particularly at early stages. Our results emphasize the need for mechanisms that rapidly build stellar mass and quench star formation within the first billion years of the Universe.
+We present the formation histories of 19 massive (&gt;3X10^{10}M_\odot) quiescent (sSFR&lt;0.15Gyr^{-1}) galaxy candidates at z~3.0-4.5 observed using JWST/NIRSpec. This completes the spectroscopic confirmation of the 24 K-selected quiescent galaxy sample from the ZFOURGE and 3DHST surveys (Schreiber et al. 2018a). Utilizing Prism 1-5&mu; m spectroscopy, we confirm that all 12 sources that eluded confirmation by ground-based spectroscopy lie at z&gt;3, resulting in a spectroscopically confirmed number density of ~1.4X10^{-5}Mpc^{-3} between z~3-4. Rest-frame U-V vs V-J color selections show high effectiveness in identifying quiescent galaxies, with a purity of~90%. Our analysis shows that parametric star-formation histories (SFHs) from FAST++ and binned SFHs from Prospector on average yield consistent results, revealing diverse formation and quenching times. The oldest galaxy formed ~6X10^{10}M_\odot by z~10 and has been quiescent for over 1 Gyr at z~3.2. We detect two galaxies with ongoing star formation and six with active galactic nuclei (AGN). We demonstrate that the choice of stellar population models, stellar libraries, and nebular or AGN contributions does not significantly affect the derived average SFHs of the galaxies. We demonstrate that extending spectral fitting beyond the rest-frame optical regime reduces the inferred average star formation rates in the earliest time bins of the SFH reconstruction. The assumed SFH prior influences the star formation rate at early times, where spectral diagnostic power is limited. Simulated z~3 quiescent galaxies from IllustrisTNG, SHARK, and Magneticum broadly match the average SFHs of the observed sample but struggle to capture the full diversity, particularly at early stages. Our results emphasize the need for mechanisms that rapidly build stellar mass and quench star formation within the first billion years of the Universe.
 </p>
 <p> <b> Published: </b> 2024-10-02T22:48:06Z </p>
-<p> <b> Updated: </b> 2024-10-02T22:48:06Z </p>
-<p> <b> Comments: </b> Submitted to ApJ. Comments welcome </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.02076v1"> http://arxiv.org/pdf/2410.02076v1 </a> </p>
+<p> <b> Updated: </b> 2025-02-06T23:36:24Z </p>
+<p> <b> Comments: </b> Accepted for publication in the ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.02076v2"> http://arxiv.org/pdf/2410.02076v2 </a> </p>
 
 ### 12) [2410.01874](http://arxiv.org/abs/2410.01874v1): All the Little Things in Abell 2744: &gt;1000 Gravitationally Lensed Dwarf Galaxies at z=0-9 from JWST NIRCam Grism Spectroscopy
 
