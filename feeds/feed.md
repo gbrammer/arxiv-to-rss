@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=128
-### Updated Fri Feb 14 05:05:14 2025
+### Updated Sat Feb 15 05:04:40 2025
 
 ### 1) [2502.09384](http://arxiv.org/abs/2502.09384v1): Predicting the detectability of sulphur-bearing molecules in the solid phase with simulated spectra of JWST instruments
 
