@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Mon Feb 17 05:05:34 2025
+### Updated Tue Feb 18 05:05:21 2025
 
 ### 1) [2502.07875](http://arxiv.org/abs/2502.07875v2): Investigating photometric and spectroscopic variability in the multiply-imaged Little Red Dot A2744-QSO1
 
