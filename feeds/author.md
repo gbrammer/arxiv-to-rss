@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Tue Feb 25 05:05:18 2025
+### Updated Wed Feb 26 05:05:33 2025
 
 ### 1) [2502.07875](http://arxiv.org/abs/2502.07875v2): Investigating photometric and spectroscopic variability in the multiply-imaged Little Red Dot A2744-QSO1
 
@@ -199,16 +199,16 @@ We present the Red Unknowns: Bright Infrared Extragalactic Survey (RUBIES), prov
 <p> <b> Comments: </b> 21 pages, 16 figures; submitted to A&A </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.05948v1"> http://arxiv.org/pdf/2409.05948v1 </a> </p>
 
-### 19) [2409.03829](http://arxiv.org/abs/2409.03829v1): RUBIES Reveals a Massive Quiescent Galaxy at z=7.3
+### 19) [2409.03829](http://arxiv.org/abs/2409.03829v2): RUBIES Reveals a Massive Quiescent Galaxy at z=7.3
 
 <p> Andrea Weibel, Anna de Graaff, David J. Setton, Tim B. Miller, Pascal A. Oesch, Gabriel Brammer, Claudia D. P. Lagos, Katherine E. Whitaker, Christina C. Williams, Josephine F. W. Baggen, Rachel Bezanson, Leindert A. Boogaard, Nikko J. Cleri, Jenny E. Greene, Michaela Hirschmann, Raphael E. Hviding, Adarsh Kuruvanthodi, Ivo Labbé, Joel Leja, Michael V. Maseda, Jorryt Matthee, Ian McConachie, Rohan P. Naidu, Guido Roberts-Borsani, Daniel Schaerer, Katherine A. Suess, Francesco Valentino, Pieter van Dokkum, Bingjie Wang </p>
 <p>
-We report the spectroscopic discovery of a massive quiescent galaxy at z_{\rm spec}=7.29\pm0.01, just ~700\,Myr after the Big Bang. RUBIES-UDS-QG-z7 was selected from public JWST/NIRCam and MIRI imaging from the PRIMER survey and observed with JWST/NIRSpec as part of RUBIES. The NIRSpec/PRISM spectrum reveals one of the strongest Balmer breaks observed thus far at z&gt;6, no emission lines, but tentative Balmer and Ca absorption features, as well as a Lyman break. Simultaneous modeling of the NIRSpec/PRISM spectrum and NIRCam and MIRI photometry (spanning 0.9-18\,&mu;m) shows that the galaxy formed a stellar mass of log(M_*/M_\odot)=10.23^{+0.04}_{-0.04} in a rapid ~ 100-200\,Myr burst of star formation at z~8-9, and ceased forming stars by z~8 resulting in \log \rm{sSFR/yr}^{-1}&lt;-10. We measure a small physical size of 209_{-24}^{+33}\,{\rm pc}, which implies a high stellar mass surface density within the effective radius of \log(\Sigma_{*,\rm e}/{\rm M_\odot\,kpc}^{-2})=10.85_{-0.12}^{+0.11} comparable to the densities measured in quiescent galaxies at z~2-5. The 3D stellar mass density profile of RUBIES-UDS-QG-z7 is remarkably similar to the central densities of local massive ellipticals, suggesting that at least some of their cores may have already been in place at z&gt;7. The discovery of RUBIES-UDS-QG-z7 has strong implications for galaxy formation models: the estimated number density of quiescent galaxies at z~7 is &gt;100\times larger than predicted from any model to date, indicating that quiescent galaxies have formed earlier than previously expected.
+We report the spectroscopic discovery of a massive quiescent galaxy at z_{\rm spec}=7.29\pm0.01, just ~700\,Myr after the Big Bang. RUBIES-UDS-QG-z7 was selected from public JWST/NIRCam and MIRI imaging from the PRIMER survey and observed with JWST/NIRSpec as part of RUBIES. The NIRSpec/PRISM spectrum reveals one of the strongest Balmer breaks observed thus far at z&gt;6, no emission lines, but tentative Balmer and Ca absorption features, as well as a Lyman break. Simultaneous modeling of the NIRSpec/PRISM spectrum and NIRCam and MIRI photometry (spanning 0.9-18\,&mu; m) shows that the galaxy formed a stellar mass of log(M_*/M_\odot)=10.23^{+0.04}_{-0.04} before z~8, and ceased forming stars 50-100\,Myr prior to the time of observation, resulting in \log(\rm{sSFR/Gyr}^{-1})&lt;-1. We measure a small physical size of 209_{-24}^{+33}\,{\rm pc}, which implies a high stellar mass surface density within the effective radius of \log(\Sigma_{*,\rm e}/M_\odot\,kpc^{-2})=10.85_{-0.12}^{+0.11} comparable to the highest densities measured in quiescent galaxies at z~2-5. The 3D stellar mass density profile of RUBIES-UDS-QG-z7 is remarkably similar to the central densities of local massive ellipticals, suggesting that at least some of their cores may have already been in place at z&gt;7. The discovery of RUBIES-UDS-QG-z7 has strong implications for galaxy formation models: the estimated number density of quiescent galaxies at z~7 is &gt;100\times larger than predicted from any model to date, indicating that quiescent galaxies have formed earlier than previously expected.
 </p>
 <p> <b> Published: </b> 2024-09-05T18:00:04Z </p>
-<p> <b> Updated: </b> 2024-09-05T18:00:04Z </p>
-<p> <b> Comments: </b> 21 pages, 7 figures, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.03829v1"> http://arxiv.org/pdf/2409.03829v1 </a> </p>
+<p> <b> Updated: </b> 2025-02-25T07:54:09Z </p>
+<p> <b> Comments: </b> 22 pages, 8 figures, accepted for publication in ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.03829v2"> http://arxiv.org/pdf/2409.03829v2 </a> </p>
 
 ### 20) [2408.16675](http://arxiv.org/abs/2408.16675v1): The GLASS-JWST Early Release Science Program. IV. Data release of 263 spectra from 245 unique sources
 
