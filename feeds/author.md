@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Thu Mar  6 05:05:36 2025
+### Updated Fri Mar  7 05:05:22 2025
 
 ### 1) [2503.02059](http://arxiv.org/abs/2503.02059v1): A confirmed deficit of hot and cold dust emission in the most luminous Little Red Dots
 
@@ -562,16 +562,16 @@ We report an updated mass and magnification model of galaxy cluster Abell 370 us
 <p> <b> Comments: </b> 15 pages </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2403.07062v1"> http://arxiv.org/pdf/2403.07062v1 </a> </p>
 
-### 52) [2403.02304](http://arxiv.org/abs/2403.02304v3): RUBIES: JWST/NIRSpec Confirmation of an Infrared-luminous, Broad-line Little Red Dot with an Ionized Outflow
+### 52) [2403.02304](http://arxiv.org/abs/2403.02304v4): RUBIES: JWST/NIRSpec Confirmation of an Infrared-luminous, Broad-line Little Red Dot with an Ionized Outflow
 
 <p> Bingjie Wang, Anna de Graaff, Rebecca L. Davies, Jenny E. Greene, Joel Leja, Gabriel B. Brammer, Andy D. Goulding, Tim B. Miller, Katherine A. Suess, Andrea Weibel, Christina C. Williams, Rachel Bezanson, Leindert A. Boogaard, Nikko J. Cleri, Michaela Hirschmann, Harley Katz, Ivo Labbe, Michael V. Maseda, Jorryt Matthee, Ian McConachie, Rohan P. Naidu, Pascal A. Oesch, Hans-Walter Rix, David J. Setton, Katherine E. Whitaker </p>
 <p>
 The JWST discovery of ``little red dots'' (LRDs) is reshaping our picture of the early Universe, yet the physical mechanisms driving their compact size and UV-optical colors remain elusive. Here we report an unusually bright LRD (z=3.1) observed as part of the RUBIES program. This LRD exhibits broad emission lines (FWHM ~4000km/s), a blue UV continuum, a clear Balmer break and a red continuum sampled out to rest 4 &mu;m with MIRI. We develop a new joint galaxy and AGN model within the Prospector Bayesian inference framework and perform spectrophotometric modeling using NIRCam, MIRI, and NIRSpec/Prism observations. Our fiducial model reveals a M_*~ 10^9M_\odot galaxy alongside a dust-reddened AGN driving the optical emission. Explaining the rest-frame optical color as a reddened AGN requires A_{\rm v}\gtrsim3, suggesting that a great majority of the accretion disk energy is re-radiated as dust emission. Yet despite clear AGN signatures, we find a surprising lack of hot torus emission, which implies that either the dust emission in this object must be cold, or the red continuum must instead be driven by a massive, evolved stellar population of the host galaxy -- seemingly inconsistent with the high EW broad lines (H\alpha EW ~800&#8491;). The widths and luminosities of Pa\beta, Pa\delta, Pa\gamma, and H\alpha imply a modest black hole mass of M_{\rm BH}~10^8M_\odot. Additionally, we identify a narrow blue-shifted HeI absorption in G395M spectra, signaling an ionized outflow with kinetic energy up to ~1&percnt; the luminosity of the AGN. The low redshift of RUBIES-BLAGN-1 combined with the depth and richness of the JWST imaging and spectroscopic observations provide a unique opportunity to build a physical model for these so-far mysterious LRDs, which may prove to be a crucial phase in the early formation of massive galaxies and their supermassive black holes.
 </p>
 <p> <b> Published: </b> 2024-03-04T18:35:55Z </p>
-<p> <b> Updated: </b> 2024-12-27T15:37:01Z </p>
-<p> <b> Comments: </b> Fixed a typo that made Fig 4b corresponded to an incorrect plot. 22   pages, 9 figures, 4 tables </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2403.02304v3"> http://arxiv.org/pdf/2403.02304v3 </a> </p>
+<p> <b> Updated: </b> 2025-03-06T06:04:06Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJ; 24 pages, 9 figures, 5 tables. Code   implementing the joint galaxy and AGN model is made publicly available online   as a part of Prospector; the model used in this work corresponds to the state   of the Git repository at commit 1cce164   https://github.com/bd-j/prospector/pull/366 </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2403.02304v4"> http://arxiv.org/pdf/2403.02304v4 </a> </p>
 
 ### 53) [2402.17875](http://arxiv.org/abs/2402.17875v1): Outshining in the Spatially Resolved Analysis of a Strongly-Lensed Galaxy at z=6.072 with JWST NIRCam
 
