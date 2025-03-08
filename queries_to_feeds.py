@@ -168,11 +168,16 @@ for q in query_specification:
             # "\dot": "&sdot:",
             "\(": "",
             "\)": "",
-            "\lbrace": "&lbrace;",
-            "\\rbrace": "&rbrace;",
-            "\\xi_ion": "&xi;<sub>ion</sub>",
+            "\lbrace": " &lbrace; ",
+            "\\rbrace": " &rbrace; ",
+            "\\xi_ion": " &xi;<sub>ion</sub> ",
             "\it ": " ",
-            "\\vert": "&vert;",
+            "\\vert": " &vert; ",
+            "\oiii": "[OIII]",
+            " \sc iii": "III",
+            " \sc ii": "II",
+            "\\unicodex2013": "&ndash;",
+            "\;": "",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
