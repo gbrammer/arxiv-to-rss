@@ -75,7 +75,7 @@ for q in query_specification:
             "~>": "&gsim;",
             "<": "&lt;",
             ">": "&gt;",
-            "\simeq": "&sime;",
+            "\simeq": "&simeq;",
             "\sim": "&sim;",
             "\\approx": "&asymp;",
             "$": "",
@@ -90,13 +90,10 @@ for q in query_specification:
             "\mathrm": "",
             "\,":" ",
             "\log": "log",
-            "_\odot": "<sub>&odot;</sub>",
             "\odot": "&odot;",
-            "_\star": "<sub>&sext;</sub>",
             "\star": "&sext;",
             "M*": "M<sub>&sext;</sub>",
             "Msun": "M<sub>&odot;</sub>",
-            "_\\bullet": "<sub>&bull;</sub>",
             "\\bullet": "&bull;",
             "\leqslant": "&le;",
             "\leq": "&le;",
@@ -178,7 +175,12 @@ for q in query_specification:
             " \sc ii": "II",
             "\\unicodex2013": "&ndash;",
             "\;": "",
+            "\mathbf": "",
+            "_&odot;": "<sub>&odot;</sub>",
+            "_&sext;": "<sub>&sext;</sub>",
+            "_&bull;": "<sub>&bull;</sub>",
         }
+
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
             title = title.replace(c, replace_chars[c])
