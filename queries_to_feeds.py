@@ -190,6 +190,9 @@ for q in query_specification:
             "``": "\"",
             "_ion": "<sub>ion</sub>",
             "_esc": "<sub>esc</sub>",
+            "H_2": "H<sub>2</sub>",
+            "O_2": "O<sub>2</sub>",
+            "N_2": "N<sub>2</sub>",
         }
 
         for c in replace_chars:
