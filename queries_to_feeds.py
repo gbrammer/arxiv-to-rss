@@ -118,6 +118,7 @@ for q in query_specification:
             "\\tau": "&tau;",
             "\pi": "&pi;",
             "\phi": "&phi;",
+            "\\rho": "&rho;",
             "\\theta": "&theta;",
             "\Phi": "&Phi;",
             "\\Theta": "&Theta;",
@@ -160,6 +161,7 @@ for q in query_specification:
             "\ell": "&ell;",
             "^\circ": "&deg;",
             "\dotM": "M&#775;",
+            "\dotN": "N&#775;",
             "\dotm": "m&#775;",
             "\dott": "t&#775;",
             # "\dot": "&sdot:",
@@ -185,6 +187,9 @@ for q in query_specification:
             "cm^2": "cm<sup>2</sup>",
             "cm^-2": "cm<sup>2</sup>",
             "s^-1": "s<sup>-1</sup>",
+            "``": "\"",
+            "_ion": "<sub>ion</sub>",
+            "_esc": "<sub>esc</sub>",
         }
 
         for c in replace_chars:
