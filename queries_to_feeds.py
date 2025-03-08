@@ -120,6 +120,10 @@ for q in query_specification:
             "\eta": "&eta;",
             "\\tau": "&tau;",
             "\pi": "&pi;",
+            "\phi": "&phi;",
+            "\\theta": "&theta;",
+            "\Phi": "&Phi;",
+            "\\Theta": "&Theta;",
             "\chi_\\nu": "&chi;<sub>&nu;</sub>",
             "\\nu": "&nu;",
             "\pm": "&plusmn;",
@@ -166,6 +170,9 @@ for q in query_specification:
             "\)": "",
             "\lbrace": "&lbrace;",
             "\\rbrace": "&rbrace;",
+            "\\xi_ion": "&xi;<sub>ion</sub>",
+            "\it ": " ",
+            "\\vert": "&vert;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
