@@ -33,6 +33,8 @@ for q in query_specification:
     # START = 1346
     max_results = qdata["max_results"] if "max_results" in qdata else 100
     START = count - max_results
+    if START < 0:
+        START = 0
 
     query = feedparser.parse(
         API_URL + API_QUERY
