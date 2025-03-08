@@ -83,9 +83,12 @@ for q in query_specification:
             "\mathrm": "",
             "\,":" ",
             "\log": "log",
+            "_\odot": "<sub>&odot;</sub>",
             "\odot": "&odot;",
+            "_\star": "<sub>&sext;</sub>",
             "\star": "&sext;",
-            "\bullet": "&bull;",
+            "_\\bullet": "<sub>&bull;</sub>",
+            "\\bullet": "&bull;",
             "\leqslant": "&le;",
             "\leq": "&le;",
             "\geq": "&ge;",
@@ -118,7 +121,8 @@ for q in query_specification:
             "\cal": "",
             "\langle": "&langle;",
             "\\rangle": "&rangle;",
-            
+            "_spec": "<sub>spec</sub>",
+            "_phot": "<sub>phot</sub>",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
