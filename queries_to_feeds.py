@@ -160,8 +160,8 @@ for q in query_specification:
             "\dotm": "m&#775;",
             "\dott": "t&#775;",
             # "\dot": "&sdot:",
-            "\(": "(",
-            "\(": ")",
+            "\(": "",
+            "\)": "",
             "\lbrace": "&lbrace;",
             "\\rbrace": "&rbrace;",
         }
