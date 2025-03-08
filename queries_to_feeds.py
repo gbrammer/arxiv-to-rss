@@ -67,8 +67,11 @@ for q in query_specification:
         abstract = item["summary"].replace("\n"," ")
         
         replace_chars = {
+            "---": "&mdash",
+            "--": "&ndash;",
             "<": "&lt;",
             ">": "&gt;",
+            "\simeq": "&sime;",
             "\sim": "&sim;",
             "\\approx": "&asymp;",
             "$": "",
@@ -133,6 +136,7 @@ for q in query_specification:
             "_\\ast": "<sub>&ast;</sub>",
             "^\\ast": "<sup>&ast;</sup>",
             "\\ast": "&ast;",
+            "\equiv": "&equiv;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
