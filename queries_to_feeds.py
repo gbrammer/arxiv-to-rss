@@ -151,6 +151,8 @@ for q in query_specification:
             "\left": "",
             "\\right": "",
             "\kern": "",
+            "\overline": "",
+            "\ell": "&ell;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
