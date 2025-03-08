@@ -156,7 +156,14 @@ for q in query_specification:
             "\overline": "",
             "\ell": "&ell;",
             "^\circ": "&deg;",
-            "\dot": "&sdot:",
+            "\dotM": "M&#775;",
+            "\dotm": "m&#775;",
+            "\dott": "t&#775;",
+            # "\dot": "&sdot:",
+            "\(": "(",
+            "\(": ")",
+            "\lbrace": "&lbrace;",
+            "\\rbrace": "&rbrace;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])

@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=128
-### Updated Sat Mar  8 12:46:18 2025
+### Updated Sat Mar  8 12:52:19 2025
 
 ### 1) [2503.02059](http://arxiv.org/abs/2503.02059v1): A confirmed deficit of hot and cold dust emission in the most luminous Little Red Dots
 
