@@ -143,16 +143,17 @@ for q in query_specification:
             "^\\ast": "<sup>&ast;</sup>",
             "\\ast": "&ast;",
             "\equiv": "&equiv;",
-            "^2": "<sup>2</sup>",
-            "^-1": "<sup>-1</sup>",
-            "^3": "<sup>3</sup>",
-            "^-3": "<sup>-3</sup>",
+            # "^2 ": "<sup>2</sup>",
+            # "^-1": "<sup>-1</sup>",
+            # "^3": "<sup>3</sup>",
+            # "^-3": "<sup>-3</sup>",
             "\em": "",
             "\left": "",
             "\\right": "",
             "\kern": "",
             "\overline": "",
             "\ell": "&ell;",
+            "^\circ": "&deg;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
