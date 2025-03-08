@@ -105,11 +105,13 @@ for q in query_specification:
             "\\alpha": "&alpha;",
             "\\beta": "&beta;",
             "\delta": "&delta;",
+            "\Delta": "&Delta;",
             "\gamma": "&gamma;",
             "\sigma": "&sigma;",
             "\Sigma": "&Sigma;",
             "\Omega": "&Omega;",
             "\lambda": "&lambda;",
+            "\Lambda": "&Lambda;",
             "\epsilon": "&epsilon;",
             "\eta": "&eta;",
             "\\tau": "&tau;",
@@ -145,6 +147,10 @@ for q in query_specification:
             "^-1": "<sup>-1</sup>",
             "^3": "<sup>3</sup>",
             "^-3": "<sup>-3</sup>",
+            "\em": "",
+            "\left": "",
+            "\\right": "",
+            "\kern": "",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
