@@ -69,6 +69,8 @@ for q in query_specification:
         replace_chars = {
             "---": "&mdash",
             "--": "&ndash;",
+            "~<": "&lsim;",
+            "~>": "&gsim;",
             "<": "&lt;",
             ">": "&gt;",
             "\simeq": "&sime;",
@@ -90,13 +92,15 @@ for q in query_specification:
             "\odot": "&odot;",
             "_\star": "<sub>&sext;</sub>",
             "\star": "&sext;",
+            "M*": "M<sub>&sext;</sub>",
+            "Msun": "M<sub>&odot;</sub>",
             "_\\bullet": "<sub>&bull;</sub>",
             "\\bullet": "&bull;",
             "\leqslant": "&le;",
             "\leq": "&le;",
             "\geq": "&ge;",
-            "\lesssim": "&lt;",
-            "\gtrsim": "&gt;",
+            "\lesssim": "&lsim;",
+            "\gtrsim": "&gsim;",
             "\gtrapprox": "&gt;",
             "\\alpha": "&alpha;",
             "\\beta": "&beta;",
@@ -137,6 +141,10 @@ for q in query_specification:
             "^\\ast": "<sup>&ast;</sup>",
             "\\ast": "&ast;",
             "\equiv": "&equiv;",
+            "^2": "<sup>2</sup>",
+            "^-1": "<sup>-1</sup>",
+            "^3": "<sup>3</sup>",
+            "^-3": "<sup>-3</sup>",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
