@@ -101,10 +101,12 @@ for q in query_specification:
             "\gamma": "&gamma;",
             "\sigma": "&sigma;",
             "\Sigma": "&Sigma;",
+            "\Omega": "&Omega;",
             "\lambda": "&lambda;",
             "\epsilon": "&epsilon;",
             "\eta": "&eta;",
             "\pi": "&pi;",
+            "\chi_\\nu": "&chi;<sub>&nu;</sub>",
             "\\nu": "&nu;",
             "\pm": "&plusmn;",
             "\\times": "&times;",
@@ -119,10 +121,14 @@ for q in query_specification:
             "^\prime ": "&prime;",
             "\prime": "&prime;",
             "\cal": "",
+            "\mathcal": "",
             "\langle": "&langle;",
             "\\rangle": "&rangle;",
             "_spec": "<sub>spec</sub>",
             "_phot": "<sub>phot</sub>",
+            "\\nabla": "&nabla;",
+            "\chi^2": "&chi;<sup>2</sup>",
+            "\chi": "&chi;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
