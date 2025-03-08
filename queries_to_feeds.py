@@ -105,6 +105,7 @@ for q in query_specification:
             "\lambda": "&lambda;",
             "\epsilon": "&epsilon;",
             "\eta": "&eta;",
+            "\\tau": "&tau;",
             "\pi": "&pi;",
             "\chi_\\nu": "&chi;<sub>&nu;</sub>",
             "\\nu": "&nu;",
@@ -129,6 +130,9 @@ for q in query_specification:
             "\\nabla": "&nabla;",
             "\chi^2": "&chi;<sup>2</sup>",
             "\chi": "&chi;",
+            "_\\ast": "<sub>&ast;</sub>",
+            "^\\ast": "<sup>&ast;</sup>",
+            "\\ast": "&ast;",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
