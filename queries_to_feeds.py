@@ -99,6 +99,8 @@ for q in query_specification:
             "\leqslant": "&le;",
             "\leq": "&le;",
             "\geq": "&ge;",
+            "\le": "&le;",
+            "\ge": "&ge;",
             "\lesssim": "&lsim;",
             "\gtrsim": "&gsim;",
             "\gtrapprox": "&gt;",
@@ -154,6 +156,7 @@ for q in query_specification:
             "\overline": "",
             "\ell": "&ell;",
             "^\circ": "&deg;",
+            "\dot": "&sdot:",
         }
         for c in replace_chars:
             abstract = abstract.replace(c, replace_chars[c])
