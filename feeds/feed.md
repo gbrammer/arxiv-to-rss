@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Mon Mar 17 05:05:49 2025
+### Updated Tue Mar 18 05:05:50 2025
 
 ### 1) [2503.11457](http://arxiv.org/abs/2503.11457v1): Fe Abundances of Early Galaxies at z=9-12 Derived with Deep JWST Spectra
 
@@ -34,16 +34,16 @@ While about 20 Type II supernova progenitors have been identified using optical 
 <p> <b> Comments: </b> 33 pages, 15 figures, 4 tables, Accepted for publication in The   Astrophysical Journal </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.10947v1"> http://arxiv.org/pdf/2503.10947v1 </a> </p>
 
-### 4) [2503.10751](http://arxiv.org/abs/2503.10751v1): Tentative rotation in a galaxy at z~14 with ALMA
+### 4) [2503.10751](http://arxiv.org/abs/2503.10751v2): Tentative rotation in a galaxy at z~14 with ALMA
 
 <p> J. Scholtz, E. Parlanti, S. Carniani, M. Kohandel, F. Sun, A. L. Danhaive, R. Maiolino, S. Arribas, R. Bhatawdekar, A. J. Bunker, S. Charlot, F. D'Eugenio, A. Ferrara, Z. Ji, Gareth C. Jones, P. Rinaldi, B. Robertson, A. Pallottini, I. Shivaei, Y. Sun, S. Tacchella, H. Übler, G. Venturi </p>
 <p>
 We re-analysed ALMA observations of the [OIII]&lambda;88&mu;m emission line in JADES-GS-z14.0, so far the most distant spectroscopically confirmed galaxy at z=14.18. Our analysis shows a tentative detection of a velocity gradient of [OIII]&lambda;88&mu;m using three independent tests: 1) construction of moment maps; 2) extraction of integrated spectra from a grid of apertures; and 3) spectro-astrometry in both the image and uv planes. We performed kinematical fitting using the KinMS code and estimated a dynamical mass of log_10(M_dyn/M<sub>&odot;</sub>)= 9.4^+0.8_-0.4, with the bulk of the uncertainties due to the degeneracy between dynamical mass and inclination. We measure an upper limit on the velocity dispersion (&sigma;_v) of &lt;40~ km/s~which results in an estimate of V_rot/&sigma;&gt; 2.5. This result, if confirmed with higher-resolution observations, would imply that kinematically cold discs are already in place at z~14. Comparison with mock observations from the SERRA cosmological simulations confirms that even low-resolution observations are capable of detecting a velocity gradient in z&gt;10 galaxies as compact as JADES-GS-z14.0. This work shows that deeper ALMA or JWST/NIRSpec IFS observations with high spatial resolution will be able to estimate an accurate dynamical mass for JADES-GS-z14.0, providing an upper limit to the stellar mass of this over-luminous galaxy.
 </p>
 <p> <b> Published: </b> 2025-03-13T18:00:01Z </p>
-<p> <b> Updated: </b> 2025-03-13T18:00:01Z </p>
-<p> <b> Comments: </b> Submitted to MNRAS </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.10751v1"> http://arxiv.org/pdf/2503.10751v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-17T08:53:51Z </p>
+<p> <b> Comments: </b> Submitted to MNRAS as a letter. Comments welcome! </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.10751v2"> http://arxiv.org/pdf/2503.10751v2 </a> </p>
 
 ### 5) [2503.10438](http://arxiv.org/abs/2503.10438v1): Spatially-resolved TRGB JWST color-magnitude as a tool to measure fossil stellar metallicity gradients in disk galaxies: NGC 628
 
@@ -1783,16 +1783,16 @@ Compact, star-forming galaxies with high star formation rate surface densities (
 <p> <b> Comments: </b> Submitted to A&A </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2501.08268v1"> http://arxiv.org/pdf/2501.08268v1 </a> </p>
 
-### 163) [2501.08135](http://arxiv.org/abs/2501.08135v1): Exploring Multiple Stellar Populations in Globular Clusters with Euclid: A Theoretical Overview and Insights from NGC 6397
+### 163) [2501.08135](http://arxiv.org/abs/2501.08135v2): Exploring Multiple Stellar Populations in Globular Clusters with Euclid: A Theoretical Overview and Insights from NGC 6397
 
-<p> A. P. Milone, G. Cordoni, A. F. Marino, V. Altomonte, E. Dondoglio, M. V. Legnardi, E. Bortolan, S. Lionetto, A. V. Matchuk, F. Muratore, T. Ziliotto </p>
+<p> A. P. Milone, G. Cordoni, A. F. Marino, V. Altomonte, E. Dondoglio, M. V. Legnardi, E. Bortolan, S. Lionetto, A. V. Marchuk, F. Muratore, T. Ziliotto </p>
 <p>
 We investigate the behavior of multiple stellar populations in globular clusters (GCs) using photometric diagrams constructed with Euclid photometry. By employing synthetic spectra and isochrones that incorporate the chemical differences between first-population (1P) stars, resembling field stars, and second-population (2P) stars, enriched in helium and nitrogen but depleted in carbon and oxygen, we identify, from a theoretical perspective, the color-magnitude diagrams and the chromosome maps most effective at distinguishing these populations within GCs. Euclid photometry proves to be a powerful tool for identifying multiple populations among M-dwarfs, as 1P and 2P stars form distinct sequences in well-chosen photometric diagrams, driven by differences in the strength of oxygen-based molecular features, such as water vapor. To validate our theoretical findings, we analyzed Euclid photometry and astrometry of the GC NGC 6397, complemented by photometric and astrometric data from the Hubble Space Telescope and James Webb Space Telescope, enabling a comprehensive study of its stellar populations across a wide field of view. We find that the 1P constitutes about 30% of the M-dwarfs in NGC 6397, with the fraction of 1P stars remaining consistent across different stellar masses and throughout the entire field of view. 2P stars exhibit an [O/Fe] depletion of about 0.3 dex relative to 1P stars, and both populations display isotropic proper motions. This study represents the first comprehensive analysis of multiple populations among M-dwarfs across a wide field of view, demonstrating that Euclid photometry is a powerful instrument for investigating multiple populations in GCs.
 </p>
 <p> <b> Published: </b> 2025-01-14T14:14:27Z </p>
-<p> <b> Updated: </b> 2025-01-14T14:14:27Z </p>
-<p> <b> Comments: </b> 21 pages, 19 figures, submitted to Astronomy & Astrophysics on   January 14, 2025 </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2501.08135v1"> http://arxiv.org/pdf/2501.08135v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-17T02:05:31Z </p>
+<p> <b> Comments: </b> 21 pages, 19 figures, accepted for publication in Astronomy &   Astrophysics on February 11, 2025 </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2501.08135v2"> http://arxiv.org/pdf/2501.08135v2 </a> </p>
 
 ### 164) [2501.07980](http://arxiv.org/abs/2501.07980v1): Mapping reionization bubbles in the JWST era II: inferring the position and characteristic size of individual bubbles
 

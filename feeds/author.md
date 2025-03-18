@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Mar 17 05:05:53 2025
+### Updated Tue Mar 18 05:06:00 2025
 
 ### 1) [2503.02059](http://arxiv.org/abs/2503.02059v1): A confirmed deficit of hot and cold dust emission in the most luminous Little Red Dots
 
@@ -122,16 +122,16 @@ The James Webb Space Telescope (JWST) has recently discovered a new population o
 <p> <b> Comments: </b> 4 main figures; 8 supplementary figures; 5 supplementary tables </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2412.04983v1"> http://arxiv.org/pdf/2412.04983v1 </a> </p>
 
-### 12) [2410.21543](http://arxiv.org/abs/2410.21543v1): Improving photometric redshifts of Epoch of Reionization galaxies: a new transmission curve with the neutral hydrogen damped Lyα absorption
+### 12) [2410.21543](http://arxiv.org/abs/2410.21543v2): Improving photometric redshifts of Epoch of Reionization galaxies: a new empirical transmission curve with neutral hydrogen damping wing Lyα absorption
 
 <p> Yoshihisa Asada, Guillaume Desprez, Chris J. Willott, Marcin Sawicki, Maruša Bradač, Gabriel Brammer, Florian Dubath, Kartheik G. Iyer, Nicholas S. Martis, Adam Muzzin, Gaël Noirot, Stéphane Paltani, Ghassan T. E. Sarrouh, Anishya Harshan, Vladan Markov </p>
 <p>
 We present a new analytical model for the attenuation to Epoch of Reionization (EoR) galaxies by proximate neutral hydrogen gas. Many galaxy spectra in the EoR taken by JWST have shown a flux deficit at wavelengths just redward of the Lyman break, and this has been regarded as resulting from Ly&alpha; damping wing absorption by the increasing amount of neutral hydrogen in the line-of-sight. However, previous attenuation models for the intergalactic medium (IGM) commonly used in photometric redshift template-fitting codes assume that the Lyman break is rather sharp, which leads to systematic overestimation of photometric redshifts at z&gt;7. In this letter, we build and empirically calibrate a new attenuation model that takes the increased Ly&alpha; damping wing absorption into account. Our model consists of the canonical IGM absorption and an additional absorption component due to dense neutral hydrogen gas clouds proximate to the galaxy, and we derive the redshift evolution of HI column density of the proximate clouds by calibrating the model using CANUCS JWST observations. The resulting total transmission curve resolves the photometric redshift bias at z&gt;7, an improvement that is robust to choice of template-fitting code, template set, and photometric catalog used. The new attenuation model can be easily implemented in existing template-fitting codes, and significantly improves the photometric redshift performance in the EoR.
 </p>
 <p> <b> Published: </b> 2024-10-28T21:16:02Z </p>
-<p> <b> Updated: </b> 2024-10-28T21:16:02Z </p>
-<p> <b> Comments: </b> Submitted to ApJL. Comments are welcome. The new attenuation model   has been implemented in the latest version EAzY (v0.8 or later) and   Phosphoros (v2.0.2 or later) </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.21543v1"> http://arxiv.org/pdf/2410.21543v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-17T14:30:09Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJL. The new attenuation model has been   implemented in the latest version EAzY (v0.8 or later) and Phosphoros (v2.0.2   or later) </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.21543v2"> http://arxiv.org/pdf/2410.21543v2 </a> </p>
 
 ### 13) [2410.16354](http://arxiv.org/abs/2410.16354v1): Galaxy Size and Mass Build-up in the First 2 Gyrs of Cosmic History from Multi-Wavelength JWST NIRCam Imaging
 
@@ -155,16 +155,16 @@ The dearth of high quality spectroscopy of dusty star-forming galaxies (DSFGs) &
 <p> <b> Comments: </b> 20 pages, 4 figures; submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.08387v1"> http://arxiv.org/pdf/2410.08387v1 </a> </p>
 
-### 15) [2410.06257](http://arxiv.org/abs/2410.06257v1): UNCOVER: 404 Error &ndash; Models Not Found for the Triply Imaged Little Red Dot A2744-QSO1
+### 15) [2410.06257](http://arxiv.org/abs/2410.06257v2): UNCOVER: 404 Error &ndash; Models Not Found for the Triply Imaged Little Red Dot A2744-QSO1
 
 <p> Yilun Ma, Jenny E. Greene, David J. Setton, Marta Volonteri, Joel Leja, Bingjie Wang, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Pratika Dayal, Pieter van Dokkum, Lukas J. Furtak, Karl Glazebrook, Andy D. Goulding, Anna de Graaff, Vasily Kokorev, Ivo Labbe, Richard Pan, Sedona H. Price, John R. Weaver, Christina C. Williams, Katherine E. Whitaker, Adi Zitrin </p>
 <p>
 JWST has revealed an abundance of compact, red objects at z≈5-8 dubbed "little red dots" (LRDs), whose SEDs display a faint blue UV continuum followed by a steep rise in the optical. Despite extensive study of their characteristic V-shaped SEDs, the nature of LRDs remains unknown. We present a new analysis of the NIRSpec/PRISM spectrum of A2744-QSO1, a triply imaged LRD at z=7.04 from the UNCOVER survey. The spectrum shows a strong Balmer break and broad Balmer emission lines, both of which are difficult to explain with models invoking exclusively AGN or stellar contributions. Our fiducial model decomposes the spectrum into a post-starburst galaxy dominating the UV-optical continuum and a reddened AGN being sub-dominant at all wavelength and contributing at ~20&percnt; level. However, our most credible model infers a stellar mass of M<sub>&sext;</sub>≈ 4×10^9 M<sub>&odot;</sub> within a radius of r_e&lt;30 pc, driving its central density to the highest among observations to date. This high central density could be explained if A2744-QSO-1 is the early-forming core of a modern-day massive elliptical galaxy that later puffed up via the inside-out growth channel. The models also necessitate an unusually steep dust law to preserve the strong break strength, though this steepness may be explained by a deficit of large dust grains. It is also probable that these challenges reflect our ignorance of A2744-QSO1's true nature. Future variability and reverberation mapping studies could help disentangle the galaxy and AGN contribution to the continuum, and deeper redder observations could also unveil the dust properties in LRDs.
 </p>
 <p> <b> Published: </b> 2024-10-08T18:00:05Z </p>
-<p> <b> Updated: </b> 2024-10-08T18:00:05Z </p>
-<p> <b> Comments: </b> 19 pages, 7 figures, 2 tables. Submitted to ApJ. Comments are welcome </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.06257v1"> http://arxiv.org/pdf/2410.06257v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-16T17:47:28Z </p>
+<p> <b> Comments: </b> Accepted by ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2410.06257v2"> http://arxiv.org/pdf/2410.06257v2 </a> </p>
 
 ### 16) [2410.02076](http://arxiv.org/abs/2410.02076v2): The formation histories of massive and quiescent galaxies in the 3 &lt; z &lt; 4.5 Universe
 
