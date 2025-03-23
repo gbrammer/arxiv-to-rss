@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Mar 22 05:05:09 2025
+### Updated Sun Mar 23 05:05:17 2025
 
 ### 1) [2503.14280](http://arxiv.org/abs/2503.14280v1): Constraints on the early Universe star formation efficiency from galaxy clustering and halo modeling of Hα and [O III] emitters
 
