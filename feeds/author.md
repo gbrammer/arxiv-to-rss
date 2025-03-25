@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Mar 24 05:05:45 2025
+### Updated Tue Mar 25 05:05:38 2025
 
 ### 1) [2503.16595](http://arxiv.org/abs/2503.16595v1): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
 
@@ -265,16 +265,16 @@ JWST has revealed diverse new populations of high-redshift (z~4-11) AGN and extr
 <p> <b> Comments: </b> Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.12232v1"> http://arxiv.org/pdf/2409.12232v1 </a> </p>
 
-### 25) [2409.05948](http://arxiv.org/abs/2409.05948v1): RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec
+### 25) [2409.05948](http://arxiv.org/abs/2409.05948v2): RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec
 
 <p> Anna de Graaff, Gabriel Brammer, Andrea Weibel, Zach Lewis, Michael V. Maseda, Pascal A. Oesch, Rachel Bezanson, Leindert A. Boogaard, Nikko J. Cleri, Olivia R. Cooper, Rashmi Gottumukkala, Jenny E. Greene, Michaela Hirschmann, Raphael E. Hviding, Harley Katz, Ivo Labbé, Joel Leja, Jorryt Matthee, Ian McConachie, Tim B. Miller, Rohan P. Naidu, Sedona H. Price, Hans-Walter Rix, David J. Setton, Katherine A. Suess, Bingjie Wang, Katherine E. Whitaker, Christina C. Williams </p>
 <p>
 We present the Red Unknowns: Bright Infrared Extragalactic Survey (RUBIES), providing JWST/NIRSpec spectroscopy of red sources selected across ~150 arcmin<sup>2</sup> from public JWST/NIRCam imaging in the UDS and EGS fields. RUBIES novel observing strategy offers a well-quantified selection function: the survey is optimised to reach high (&gt;70%) completeness for bright and red (F150W-F444W&gt;2) sources that are very rare. To place these rare sources in context, we simultaneously observe a reference sample of the 2&lt;z&lt;7 galaxy population, sampling sources at a rate that is inversely proportional to their number density in the 3D space of F444W magnitude, F150W-F444W colour, and photometric redshift. In total, RUBIES observes ~3000 targets across 1&lt;z<sub>phot</sub>&lt;10 with both the PRISM and G395M dispersers, and ~1500 targets at z<sub>phot</sub>&gt;3 using only the G395M disperser. The RUBIES data reveal a highly diverse population of red sources that span a broad redshift range (z<sub>spec</sub>~1-9), with photometric redshift scatter and outlier fraction that are 3 times higher than for similarly bright sources that are less red. This diversity is not apparent from the photometric SEDs. Only spectroscopy reveals that the SEDs encompass a mixture of galaxies with dust-obscured star formation, extreme line emission, a lack of star formation indicating early quenching, and luminous active galactic nuclei. As a first demonstration of our broader selection function we compare the stellar masses and rest-frame U-V colours of the red sources and our reference sample: red sources are typically more massive (M_*~10^10-11.5 M<sub>&odot;</sub>) across all redshifts. However, we find that the most massive systems span a wide range in U-V colour. We describe our data reduction procedure and data quality, and publicly release the reduced RUBIES data and vetted spectroscopic redshifts of the first half of the survey through the DJA.
 </p>
 <p> <b> Published: </b> 2024-09-09T18:00:01Z </p>
-<p> <b> Updated: </b> 2024-09-09T18:00:01Z </p>
-<p> <b> Comments: </b> 21 pages, 16 figures; submitted to A&A </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.05948v1"> http://arxiv.org/pdf/2409.05948v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-23T13:32:05Z </p>
+<p> <b> Comments: </b> 21 pages, 16 figures; accepted for publication in A&A </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.05948v2"> http://arxiv.org/pdf/2409.05948v2 </a> </p>
 
 ### 26) [2409.03829](http://arxiv.org/abs/2409.03829v2): RUBIES Reveals a Massive Quiescent Galaxy at z=7.3
 
@@ -815,16 +815,16 @@ One of the surprising results from HST was the discovery that many of the most m
 <p> <b> Comments: </b> Nature Astronomy, in press. As it happens this is the highest   redshift lens currently known. Found by eyeballing the wonderful COSMOS-Web   data </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2309.07969v1"> http://arxiv.org/pdf/2309.07969v1 </a> </p>
 
-### 75) [2309.07834](http://arxiv.org/abs/2309.07834v2): DUALZ: Deep UNCOVER-ALMA Legacy High-Z Survey
+### 75) [2309.07834](http://arxiv.org/abs/2309.07834v3): DUALZ: Deep UNCOVER-ALMA Legacy High-Z Survey
 
 <p> Seiji Fujimoto, Rachel Bezanson, Ivo Labbe, Gabriel Brammer, Sedona H. Price, Bingjie Wang, John R. Weaver, Yoshinobu Fudamoto, Pascal A. Oesch, Christina C. Williams, Pratika Dayal, Robert Feldmann, Jenny E. Greene, Joel Leja, Katherine E. Whitaker, Adi Zitrin, Sam E. Cutler, Lukas J. Furtak, Richard Pan, Iryna Chemerynska, Vasily Kokorev, Tim B. Miller, Hakim Atek, Pieter van Dokkum, Stephanie Juneau, Susan Kassin, Gourav Khullar, Danilo Marchesini, Michael Maseda, Erica J. Nelson, David J. Setton, Renske Smit </p>
 <p>
 We present the survey design and initial results of the ALMA Cycle 9 program of DUALZ, which aims to establish a joint ALMA and JWST public legacy field targeting the massive galaxy cluster Abell 2744. DUALZ features a contiguous 4'×6' ALMA 30-GHz-wide mosaic in Band 6, covering areas of &mu;&gt;2 down to a sensitivity of &sigma;=32.7~&mu;Jy. Through a blind search, we identified 69 dust continuum sources at S/N ≳5.0 with median redshift and intrinsic 1.2-mm flux of z=2.30 and S_1.2mm^int=0.24~mJy. Of these, 27 have been spectroscopically confirmed, leveraged by the latest NIRSpec observations, while photometric redshift estimates are constrained by the comprehensive HST, NIRCam, and ALMA data for the remaining sources. With priors, we further identify a [CII]158 &mu;m line emitter at z=6.3254±0.0004, confirmed by the latest NIRSpec spectroscopy. The NIRCam counterparts of the 1.2-mm continuum exhibit undisturbed morphologies, denoted either by disk or spheroid, implying the triggers for the faint mm emission are less catastrophic than mergers. We have identified 8 HST-dark galaxies (F150W&gt;27mag, F150W-F444W&gt;2.3) and 2 JWST-dark (F444W&gt;30mag) galaxy candidates among the ALMA continuum sources. The former includes face-on disk galaxies, hinting that substantial dust obscuration does not always result from inclination. We also detect a marginal dust emission from an X-ray-detected galaxy at z<sub>spec</sub>=10.07, suggesting an active co-evolution of the central black hole and its host. We assess the infrared luminosity function up to z~10 and find it consistent with predictions from galaxy formation models. To foster diverse scientific outcomes from the community, we publicly release reduced ALMA mosaic maps, cubes, and the source catalog.
 </p>
 <p> <b> Published: </b> 2023-09-14T16:21:57Z </p>
-<p> <b> Updated: </b> 2023-09-16T05:30:28Z </p>
-<p> <b> Comments: </b> 33 pages, 16 figures, and 5 tables. Submitted to ApJS. The ALMA   products are fully available from here:   https://jwst-uncover.github.io/DR2.html#DUALZ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2309.07834v2"> http://arxiv.org/pdf/2309.07834v2 </a> </p>
+<p> <b> Updated: </b> 2025-03-23T20:05:08Z </p>
+<p> <b> Comments: </b> 36 pages, 17 figures, and 5 tables. ApJS in press. The ALMA products   are fully available from here: https://jwst-uncover.github.io/DR2.html#DUALZ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2309.07834v3"> http://arxiv.org/pdf/2309.07834v3 </a> </p>
 
 ### 76) [2309.05714](http://arxiv.org/abs/2309.05714v1): UNCOVER spectroscopy confirms a surprising ubiquity of AGN in red galaxies at z&gt;5
 
