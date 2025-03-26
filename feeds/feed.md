@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Tue Mar 25 05:05:35 2025
+### Updated Wed Mar 26 05:05:34 2025
 
 ### 1) [2503.18850](http://arxiv.org/abs/2503.18850v1): Beyond the first galaxies primordial black holes shine
 
@@ -100,16 +100,16 @@ Recent optical surveys have found a rare population of low-z (z ~ 0.01 - 0.06) e
 <p> <b> Comments: </b> 14 pages, 5 figures, 4 tables; Submitted to Astronomy & Astrophysics </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.17327v1"> http://arxiv.org/pdf/2503.17327v1 </a> </p>
 
-### 10) [2503.16595](http://arxiv.org/abs/2503.16595v1): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
+### 10) [2503.16595](http://arxiv.org/abs/2503.16595v2): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
 
 <p> V. Rusakov, D. Watson, G. P. Nikopoulos, G. Brammer, R. Gottumukkala, T. Harvey, K. E. Heintz, R. D. Nielsen, S. A. Sim, A. Sneppen, A. P. Vijayan, N. Adams, D. Austin, C. J. Conselice, C. M. Goolsby, S. Toft </p>
 <p>
 JWST has uncovered large numbers of compact galaxies at high redshift with broad hydrogen/helium lines. These include the enigmatic population known as "little red dots" (LRDs). Their nature is debated, but they are thought to be powered by supermassive black holes (SMBHs) or intense star formation. They exhibit unusual properties for SMBHs, such as black holes that are overmassive for their host galaxies and extremely weak X-ray and radio emission. Using the highest-quality JWST spectra, we show here that the lines are broadened by electron scattering with a narrow intrinsic line core. The data require high electron column densities and compact sizes (light days), which, when coupled with their high luminosities can only be explained by SMBH accretion. The narrow intrinsic cores of the lines imply upper limits on the black hole masses of 10^5-7 M<sub>&odot;</sub>, two orders of magnitude lower than previous estimates. These are among the lowest mass SMBHs known at high redshift and suggest that this is a population of young, rapidly growing SMBHs. They are enshrouded in a dense cocoon of ionized gas, probably related to their youth, from which they are accreting close to the Eddington limit. Reprocessed nebular emission from the dense cocoon dominates the optical spectrum, explaining most LRD spectral characteristics and helping to suppress radio and X-ray emission.
 </p>
 <p> <b> Published: </b> 2025-03-20T18:00:00Z </p>
-<p> <b> Updated: </b> 2025-03-20T18:00:00Z </p>
-<p> <b> Comments: </b> 46 pages, 25 figures, 4 tables, submitted to Nature </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16595v1"> http://arxiv.org/pdf/2503.16595v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-25T11:03:11Z </p>
+<p> <b> Comments: </b> 46 pages, 25 figures, 4 tables, submitted to Nature. Updated   spectroscopic data ID convention </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16595v2"> http://arxiv.org/pdf/2503.16595v2 </a> </p>
 
 ### 11) [2503.16600](http://arxiv.org/abs/2503.16600v1): A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5
 
@@ -1607,16 +1607,16 @@ We present a comprehensive study of the large-scale structure, jet and outflow m
 <p> <b> Comments: </b> Accepted in Astronomical Journal; 22 pages and 13 Figures </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2502.00394v1"> http://arxiv.org/pdf/2502.00394v1 </a> </p>
 
-### 147) [2502.00165](http://arxiv.org/abs/2502.00165v1): Linking stellar populations to HII regions across nearby galaxies. II. Infrared Reprocessed and UV Direct Radiation Pressure in HII Regions
+### 147) [2502.00165](http://arxiv.org/abs/2502.00165v2): Linking stellar populations to HII regions across nearby galaxies. II. Infrared Reprocessed and UV Direct Radiation Pressure in HII Regions
 
 <p> Debosmita Pathak, Adam Leroy, Todd Thompson, Laura Lopez, Ashley Barnes, Daniel Dale, Ian Blackstone, Simon C. O. Glover, Shyam Menon, Jessica Sutter, Thomas Williams, Dalya Baron, Francesco Belfiore, Frank Bigiel, Alberto Bolatto, Mederic Boquien, Rupali Chandar, Mélanie Chevance, Ryan Chown, Kathryn Grasha, Brent Groves, Ralf Klessen, Kathryn Kreckel, Jing Li, José Méndez-Delgado, Erik W. Rosolowsky, Karin Sandstrom, Sumit Sarbadhicary, Jiayi Sun, Leonardo 'Ubeda </p>
 <p>
 Radiation pressure is a key mechanism by which stellar feedback disrupts molecular clouds and drives HII region expansion. This includes direct radiation pressure exerted by UV photons on dust grains, pressure associated with photoionization, and infrared (IR) radiation pressure on grains due to dust-reprocessed IR photons. We present a new method that combines high resolution mid-IR luminosities from JWST-MIRI, optical attenuation and nebular line measurements from VLT-MUSE, and HST H&alpha;-based region sizes to estimate the strength of radiation pressure in ≈ 18,000 HII regions across 19 nearby star-forming galaxies. This is the most extensive and direct estimate of these terms beyond the Local Group to date. In the disks of galaxies, we find that the total reprocessed IR pressure is on average 5% of the direct UV radiation pressure. This fraction rises to 10% in galaxy centers. We expect reprocessed IR radiation pressure to dominate over UV radiation pressure in regions where L_F2100W/L_H&alpha;^corr ≳ 75. Radiation pressure due to H ionizations is lower than pressure on dust in our sample, but appears likely to dominate the radiation pressure budget in dwarf galaxies similar to the Small Magellanic Cloud. The contribution from all radiation pressure terms appears to be subdominant compared to thermal pressure from ionized gas, reinforcing the view that radiation pressure is most important in compact, heavily embedded, and young regions.
 </p>
 <p> <b> Published: </b> 2025-01-31T21:06:37Z </p>
-<p> <b> Updated: </b> 2025-01-31T21:06:37Z </p>
-<p> <b> Comments: </b> main text: 21 pages and 11 figures; accepted for publication in ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2502.00165v1"> http://arxiv.org/pdf/2502.00165v1 </a> </p>
+<p> <b> Updated: </b> 2025-03-25T12:11:18Z </p>
+<p> <b> Comments: </b> Published in ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2502.00165v2"> http://arxiv.org/pdf/2502.00165v2 </a> </p>
 
 ### 148) [2502.00104](http://arxiv.org/abs/2502.00104v1): Using Neural Networks to Automate the Identification of Brightest Cluster Galaxies in Large Surveys
 
