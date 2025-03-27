@@ -1,18 +1,7 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Mar 26 05:06:01 2025
+### Updated Thu Mar 27 05:05:41 2025
 
-### 1) [2503.16595](http://arxiv.org/abs/2503.16595v2): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
-
-<p> V. Rusakov, D. Watson, G. P. Nikopoulos, G. Brammer, R. Gottumukkala, T. Harvey, K. E. Heintz, R. D. Nielsen, S. A. Sim, A. Sneppen, A. P. Vijayan, N. Adams, D. Austin, C. J. Conselice, C. M. Goolsby, S. Toft </p>
-<p>
-JWST has uncovered large numbers of compact galaxies at high redshift with broad hydrogen/helium lines. These include the enigmatic population known as "little red dots" (LRDs). Their nature is debated, but they are thought to be powered by supermassive black holes (SMBHs) or intense star formation. They exhibit unusual properties for SMBHs, such as black holes that are overmassive for their host galaxies and extremely weak X-ray and radio emission. Using the highest-quality JWST spectra, we show here that the lines are broadened by electron scattering with a narrow intrinsic line core. The data require high electron column densities and compact sizes (light days), which, when coupled with their high luminosities can only be explained by SMBH accretion. The narrow intrinsic cores of the lines imply upper limits on the black hole masses of 10^5-7 M<sub>&odot;</sub>, two orders of magnitude lower than previous estimates. These are among the lowest mass SMBHs known at high redshift and suggest that this is a population of young, rapidly growing SMBHs. They are enshrouded in a dense cocoon of ionized gas, probably related to their youth, from which they are accreting close to the Eddington limit. Reprocessed nebular emission from the dense cocoon dominates the optical spectrum, explaining most LRD spectral characteristics and helping to suppress radio and X-ray emission.
-</p>
-<p> <b> Published: </b> 2025-03-20T18:00:00Z </p>
-<p> <b> Updated: </b> 2025-03-25T11:03:11Z </p>
-<p> <b> Comments: </b> 46 pages, 25 figures, 4 tables, submitted to Nature. Updated   spectroscopic data ID convention </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16595v2"> http://arxiv.org/pdf/2503.16595v2 </a> </p>
-
-### 2) [2503.16600](http://arxiv.org/abs/2503.16600v1): A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5
+### 1) [2503.16600](http://arxiv.org/abs/2503.16600v1): A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5
 
 <p> Anna de Graaff, Hans-Walter Rix, Rohan P. Naidu, Ivo Labbe, Bingjie Wang, Joel Leja, Jorryt Matthee, Harley Katz, Jenny E. Greene, Raphael E. Hviding, Josephine Baggen, Rachel Bezanson, Leindert A. Boogaard, Gabriel Brammer, Pratika Dayal, Pieter van Dokkum, Andy D. Goulding, Michaela Hirschmann, Michael V. Maseda, Ian McConachie, Tim B. Miller, Erica Nelson, Pascal A. Oesch, David J. Setton, Irene Shivaei, Andrea Weibel, Katherine E. Whitaker, Christina C. Williams </p>
 <p>
@@ -22,6 +11,17 @@ The origin of the rest-optical emission of compact, red, high-redshift sources k
 <p> <b> Updated: </b> 2025-03-20T18:00:00Z </p>
 <p> <b> Comments: </b> 19 pages, 9 figures; submitted to A&A. See Naidu et al. for a z=8   Balmer Cliff! </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16600v1"> http://arxiv.org/pdf/2503.16600v1 </a> </p>
+
+### 2) [2503.16595](http://arxiv.org/abs/2503.16595v2): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
+
+<p> V. Rusakov, D. Watson, G. P. Nikopoulos, G. Brammer, R. Gottumukkala, T. Harvey, K. E. Heintz, R. D. Nielsen, S. A. Sim, A. Sneppen, A. P. Vijayan, N. Adams, D. Austin, C. J. Conselice, C. M. Goolsby, S. Toft </p>
+<p>
+JWST has uncovered large numbers of compact galaxies at high redshift with broad hydrogen/helium lines. These include the enigmatic population known as "little red dots" (LRDs). Their nature is debated, but they are thought to be powered by supermassive black holes (SMBHs) or intense star formation. They exhibit unusual properties for SMBHs, such as black holes that are overmassive for their host galaxies and extremely weak X-ray and radio emission. Using the highest-quality JWST spectra, we show here that the lines are broadened by electron scattering with a narrow intrinsic line core. The data require high electron column densities and compact sizes (light days), which, when coupled with their high luminosities can only be explained by SMBH accretion. The narrow intrinsic cores of the lines imply upper limits on the black hole masses of 10^5-7 M<sub>&odot;</sub>, two orders of magnitude lower than previous estimates. These are among the lowest mass SMBHs known at high redshift and suggest that this is a population of young, rapidly growing SMBHs. They are enshrouded in a dense cocoon of ionized gas, probably related to their youth, from which they are accreting close to the Eddington limit. Reprocessed nebular emission from the dense cocoon dominates the optical spectrum, explaining most LRD spectral characteristics and helping to suppress radio and X-ray emission.
+</p>
+<p> <b> Published: </b> 2025-03-20T18:00:00Z </p>
+<p> <b> Updated: </b> 2025-03-25T11:03:11Z </p>
+<p> <b> Comments: </b> 46 pages, 25 figures, 4 tables, submitted to Nature. Updated   spectroscopic data ID convention </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16595v2"> http://arxiv.org/pdf/2503.16595v2 </a> </p>
 
 ### 3) [2503.14280](http://arxiv.org/abs/2503.14280v1): Constraints on the early Universe star formation efficiency from galaxy clustering and halo modeling of Hα and [O III] emitters
 
