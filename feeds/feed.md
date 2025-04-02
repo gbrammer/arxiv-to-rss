@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Tue Apr  1 05:05:48 2025
+### Updated Wed Apr  2 05:06:10 2025
 
 ### 1) [2503.24316](http://arxiv.org/abs/2503.24316v1): Structure and Fragmentation Scale of a Massive Star-Forming Filament in NGC6334: High-Resolution Mid-Infrared Absorption Imaging with JWST
 
