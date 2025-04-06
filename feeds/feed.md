@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Apr  5 05:05:23 2025
+### Updated Sun Apr  6 05:05:17 2025
 
 ### 1) [2504.02683](http://arxiv.org/abs/2504.02683v1): Probing patchy reionisation with JWST: IGM opacity constraints from the Lyman-α forest of galaxies in legacy extragalactic fields
 
