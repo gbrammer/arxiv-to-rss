@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Apr 12 05:05:20 2025
+### Updated Sun Apr 13 05:10:25 2025
 
 ### 1) [2504.06334](http://arxiv.org/abs/2504.06334v1): UNCOVER/MegaScience: No Evidence of Environmental Quenching in a z~2.6 Proto-cluster
 
