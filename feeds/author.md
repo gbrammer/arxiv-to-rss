@@ -1,16 +1,16 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Apr 13 05:10:25 2025
+### Updated Tue Apr 15 05:05:58 2025
 
-### 1) [2504.06334](http://arxiv.org/abs/2504.06334v1): UNCOVER/MegaScience: No Evidence of Environmental Quenching in a z~2.6 Proto-cluster
+### 1) [2504.06334](http://arxiv.org/abs/2504.06334v2): UNCOVER/MegaScience: No Evidence of Environmental Quenching in a z~2.6 Proto-cluster
 
 <p> Richard Pan, Katherine A. Suess, Danilo Marchesini, Bingjie Wang, Joel Leja, Sam E. Cutler, Katherine E. Whitaker, Rachel Bezanson, Sedona H. Price, Lukas J. Furtak, John R. Weaver, Ivo Labbé, Gabriel Brammer, Yunchong Zhang, Pratika Dayal, Robert Feldmann, Jenny E. Greene, Tim B. Miller, Ikki Mitsuhashi, Themiya Nanayakkara, Erica J. Nelson, David J. Setton, Adi Zitrin </p>
 <p>
 Environmental quenching &ndash; where interactions with other galaxies and/or the intra-cluster medium (ICM) suppress star formation in low-mass galaxies &ndash; has long been proposed as the primary driver to establish the red sequence for low-mass galaxies within clusters at low redshift (z&lt;1). However, we still do not know whether these environmental quenching mechanisms are also active at higher redshifts in proto-cluster environments that have yet to fully virialize. In large part, this regime has remained unexplored due to observational limitations; however, the James Webb Space Telescope has recently opened a new window into the role of environmental quenching on low-mass (log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)&lt;9.5) galaxies at cosmic noon (2 &lt; z &lt; 3). Here, we use data from the JWST UNCOVER and MegaScience programs to directly probe the role of environmental quenching on low-mass galaxies in a newly-discovered z≈ 2.6 overdensity. Leveraging the deep imaging and R ~ 15 spectrophotometry enabled by these JWST/NIRCam data, we analyze the stellar populations and inferred star formation histories (SFHs) of 20 low-mass (8.5&lt;log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)≤9.0) quiescent galaxies in the overdense environment and compare to a similar sample of 18 such galaxies in the field. The SFHs of quiescent galaxies in the proto-cluster and field across the entire probed stellar mass regime (8.5&lt;log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)≤11.0) are indistinguishable, demonstrating that the environment at cosmic noon is not yet accelerating quenching compared to the field. This is consistent with expectations that proto-clusters at z&gt;2 have yet to virialize and develop a dense enough environment to efficiently quench low-mass galaxies.
 </p>
 <p> <b> Published: </b> 2025-04-08T18:00:00Z </p>
-<p> <b> Updated: </b> 2025-04-08T18:00:00Z </p>
+<p> <b> Updated: </b> 2025-04-14T15:07:15Z </p>
 <p> <b> Comments: </b> 12 pages, 6 figures, Submitted to ApJL </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2504.06334v1"> http://arxiv.org/pdf/2504.06334v1 </a> </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2504.06334v2"> http://arxiv.org/pdf/2504.06334v2 </a> </p>
 
 ### 2) [2503.16600](http://arxiv.org/abs/2503.16600v1): A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5
 
