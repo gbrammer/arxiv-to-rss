@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Apr 19 05:05:28 2025
+### Updated Sun Apr 20 05:05:19 2025
 
 ### 1) [2504.13118](http://arxiv.org/abs/2504.13118v1): CEERS: Forging the First Dust Grains in the Universe? A Population of Galaxies with spectroscopically-derived Extremely Low Dust Attenuation (GELDA) at 4.0&lt;z&lt;11.4
 
