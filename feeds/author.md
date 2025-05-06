@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon May  5 05:06:29 2025
+### Updated Tue May  6 05:05:57 2025
 
 ### 1) [2504.10572](http://arxiv.org/abs/2504.10572v1): The Structure and Formation Histories of Low-Mass Quiescent Galaxies in the Abell 2744 Cluster Environment
 
@@ -276,16 +276,16 @@ The H&alpha; nebular emission line is an optimal tracer for recent star formatio
 <p> <b> Comments: </b> 17 pages, 14 figures </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.17241v3"> http://arxiv.org/pdf/2409.17241v3 </a> </p>
 
-### 26) [2409.12232](http://arxiv.org/abs/2409.12232v1): UNCOVERing the High-Redshift AGN Population Among Extreme UV Line Emitters
+### 26) [2409.12232](http://arxiv.org/abs/2409.12232v2): UNCOVERing the High-redshift AGN Population among Extreme UV Line Emitters
 
 <p> Helena Treiber, Jenny Greene, John R. Weaver, Tim B. Miller, Lukas J. Furtak, David J. Setton, Bingjie Wang, Anna de Graaff, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Pratika Dayal, Robert Feldmann, Seiji Fujimoto, Andy D. Goulding, Vasily Kokorev, Ivo Labbe, Joel Leja, Danilo Marchesini, Themiya Nanayakkara, Erica Nelson, Richard Pan, Sedona H. Price, Jared Siegel, Katherine Suess, Katherine Whitaker </p>
 <p>
-JWST has revealed diverse new populations of high-redshift (z~4-11) AGN and extreme star-forming galaxies that challenge current models. In this paper, we use rest-frame UV emission-line diagnostics to identify AGN candidates and other exceptional ionizing sources, complementing previous studies predominantly focused on broad-line AGN. In this paper, we use rest-frame UV emission-line diagnostics to identify AGN candidates and other exceptional ionizing sources, complementing previous studies predominantly focused on broad-line AGN. From a parent sample of 205 z<sub>spec</sub>&gt;3 UNCOVER galaxies with NIRSpec/PRISM follow-up, we identify 12 C IV, He II, and C III] emitters. Leveraging the combined rest-optical and UV coverage of PRISM, we limit the emission-line model space using the sample's [O III]/H&beta; distribution, significantly decreasing the overlap between AGN and star-formation models in the UV diagnostics. We then find that the five He II emitters are the strongest AGN candidates, with further support from two [Ne V] detections and one X-ray detection from Chandra. We cannot robustly quantify the AGN fraction in this sample, but we note that close to 20% of M_*&gt;2×10^9 M<sub>&odot;</sub> parent sample galaxies are AGN candidates. The lower-mass line emitters, which are consistent with both AGN and star-forming photoionization models, have more compact sizes and higher specific star formation rates than the parent sample. Higher-resolution and deeper data on these UV line emitters should provide much stronger constraints on the obscured AGN fraction at z &gt; 3.
+JWST has revealed diverse new populations of high-redshift (z~4-11) AGN and extreme star-forming galaxies that challenge current models. In this paper, we use rest-frame UV emission-line diagnostics to identify AGN candidates and other exceptional ionizing sources, complementing previous studies predominantly focused on broad-line AGN. From a parent sample of 205 z<sub>spec</sub>&gt;3 UNCOVER galaxies with NIRSpec/PRISM follow-up, we identify 12 C IV, He II, and C III] emitters. Three of these galaxies also exhibit clear N III] and/or N IV] lines. Leveraging the combined rest-optical and UV coverage of PRISM, we limit the emission-line model space using the sample's [O III]/H&beta; distribution, significantly decreasing the overlap between AGN and star-formation models in the UV diagnostics. We then find that the five He II emitters are the strongest AGN candidates, with further support from two [Ne V] detections and one X-ray detection from Chandra. Our Balmer line fits also reveal one new broad-line AGN at z=6.87. We cannot robustly quantify the AGN fraction in this sample, but we note that close to 20% of M_*&gt;2×10^9 M<sub>&odot;</sub> parent sample galaxies are AGN candidates. The lower-mass line emitters, which are consistent with both AGN and star-forming photoionization models, have more compact sizes and higher specific star formation rates than the parent sample. Higher-resolution and deeper data on these UV line emitters should provide much stronger constraints on the obscured AGN fraction at z &gt; 3.
 </p>
 <p> <b> Published: </b> 2024-09-18T18:00:02Z </p>
-<p> <b> Updated: </b> 2024-09-18T18:00:02Z </p>
-<p> <b> Comments: </b> Submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.12232v1"> http://arxiv.org/pdf/2409.12232v1 </a> </p>
+<p> <b> Updated: </b> 2025-05-02T22:44:17Z </p>
+<p> <b> Comments: </b> Accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2409.12232v2"> http://arxiv.org/pdf/2409.12232v2 </a> </p>
 
 ### 27) [2409.05948](http://arxiv.org/abs/2409.05948v2): RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec
 
