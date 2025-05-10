@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri May  9 05:05:42 2025
+### Updated Sat May 10 05:05:18 2025
 
 ### 1) [2505.05442](http://arxiv.org/abs/2505.05442v1): Density modulated star formation efficiency: implications for the observed abundance of ultra-violet luminous galaxies at z&gt;10
 
