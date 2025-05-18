@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat May 17 05:05:20 2025
+### Updated Sun May 18 05:05:33 2025
 
 ### 1) [2504.10572](http://arxiv.org/abs/2504.10572v1): The Structure and Formation Histories of Low-Mass Quiescent Galaxies in the Abell 2744 Cluster Environment
 
