@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed May 21 05:06:12 2025
+### Updated Thu May 22 05:05:53 2025
 
 ### 1) [2505.11263](http://arxiv.org/abs/2505.11263v1): A Cosmic Miracle: A Remarkably Luminous Galaxy at z<sub>spec</sub>=14.44 Confirmed with JWST
 
