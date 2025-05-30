@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu May 29 05:05:53 2025
+### Updated Fri May 30 05:05:53 2025
 
 ### 1) [2505.21622](http://arxiv.org/abs/2505.21622v1): DAWN JWST Archive: Morphology from profile fitting of over 340,000 galaxies in major fields
 

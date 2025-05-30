@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Thu May 29 05:05:50 2025
+### Updated Fri May 30 05:05:49 2025
 
 ### 1) [2505.22600](http://arxiv.org/abs/2505.22600v1): Dust Budget Crisis in Little Red Dots
 
@@ -254,16 +254,16 @@ Recent multi-wavelength observations by JWST and ALMA are unveiling both ionized
 <p> <b> Comments: </b> 23 pages, 15 figures, submitted to ApJ, Comments are welcome </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2505.12397v1"> http://arxiv.org/pdf/2505.12397v1 </a> </p>
 
-### 24) [2505.11616](http://arxiv.org/abs/2505.11616v1): Carbon-rich dust injected into the interstellar medium by Galactic WC binaries survives for hundreds of years
+### 24) [2505.11616](http://arxiv.org/abs/2505.11616v2): Carbon-rich dust injected into the interstellar medium by Galactic WC binaries survives for hundreds of years
 
 <p> Noel D. Richardson, Micaela Henson, Emma P. Lieb, Corey Kehl, Ryan M. Lau, Peredur M. Williams, Michael F. Corcoran, J. R. Callingham, André-Nicolas Chené, Theodore R. Gull, Kenji Hamaguchi, Yinuo Han, Matthew J. Hankins, Grant M. Hill, Jennifer L. Hoffman, Jonathan Mackey, Anthony F. J. Moffat, Benjamin J. S. Pope, Pragati Pradhan, Christopher M. P. Russell, Andreas A. C. Sander, Nicole St-Louis, Ian R. Stevens, Peter Tuthill, Gerd Weigelt, Ryan M. T. White </p>
 <p>
-Some carbon-rich Wolf-Rayet stars (WC stars) show an infrared excess from dust emission. Dust forms in the collision of the WC wind with a companion star's wind. As this dust is carried towards the ISM at close to the WCd wind speed and the binary continues through its orbit, a spiral structure forms around the system. The shape depends on the orbital eccentricity and period, as well as stellar parameters like mass-loss rates and terminal wind speeds. Imaging of the WCd binary WR 140 with JWST/MIRI revealed at least 17 concentric dust shells surrounding the binary. We present new JWST imaging of four additional WCd systems (WR 48a, WR 112, WR 125, and WR 137) that were imaged in 2024. In this analysis, we show that the dust is long-lived, surviving for at least 130 years, but more than 300 years in some systems. Longer duration measurements are limited by sensitivity. Regular spacing of dust features confirms the periodic nature of dust formation, consistent with a connection to binary motion. We use these images to estimate the proper motion of the dust, finding the dust to propagate out to the interstellar medium with motion comparable to the wind speed of the WC stars. In addition to these results, we observe unusual structures around WR 48a, which could represent dusty clumps shaped by photoevaporation and wind ablation like young proplyd objects. These results demonstrate that WC dust is indeed long-lived and should be accounted for in galactic dust budgets.
+Some carbon-rich Wolf-Rayet stars (WC stars) show an infrared excess from dust emission. Dust forms in the collision of the WC wind with a companion star's wind. As this dust is carried towards the ISM at close to the WCd wind speed and the binary continues through its orbit, a spiral structure forms around the system. The shape depends on the orbital eccentricity and period, as well as stellar parameters like mass-loss rates and terminal wind speeds. Imaging of the WCd binary WR 140 with JWST/MIRI revealed 17 concentric dust shells surrounding the binary. We present new JWST imaging of four additional WCd systems (WR 48a, WR 112, WR 125, and WR 137) that were imaged in 2024. In this analysis, we show that the dust is long-lived, detected with an age of at least 130 years, but more than 300 years in some systems. Longer duration measurements are limited by sensitivity. Regular spacing of dust features confirms the periodic nature of dust formation, consistent with a connection to binary motion. We use these images to estimate the proper motion of the dust, finding the dust to propagate out to the interstellar medium with motion comparable to the wind speed of the WC stars. In addition to these results, we observe unusual structures around WR 48a, which could represent dusty clumps shaped by photoevaporation and wind ablation like young proplyd objects. These results demonstrate that WC dust is indeed long-lived and should be accounted for in galactic dust budgets.
 </p>
 <p> <b> Published: </b> 2025-05-16T18:23:15Z </p>
-<p> <b> Updated: </b> 2025-05-16T18:23:15Z </p>
-<p> <b> Comments: </b> submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2505.11616v1"> http://arxiv.org/pdf/2505.11616v1 </a> </p>
+<p> <b> Updated: </b> 2025-05-29T14:51:47Z </p>
+<p> <b> Comments: </b> accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2505.11616v2"> http://arxiv.org/pdf/2505.11616v2 </a> </p>
 
 ### 25) [2505.11263](http://arxiv.org/abs/2505.11263v1): A Cosmic Miracle: A Remarkably Luminous Galaxy at z<sub>spec</sub>=14.44 Confirmed with JWST
 
