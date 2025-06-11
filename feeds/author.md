@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Jun 10 05:05:57 2025
+### Updated Wed Jun 11 05:06:42 2025
 
 ### 1) [2506.05459](http://arxiv.org/abs/2506.05459v1): RUBIES: A Spectroscopic Census of Little Red Dots; All V-Shaped Point Sources Have Broad Lines
 
