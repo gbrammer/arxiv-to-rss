@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jun 14 05:05:32 2025
+### Updated Sun Jun 15 05:05:43 2025
 
 ### 1) [2506.10058](http://arxiv.org/abs/2506.10058v1): The Cosmic Owl: Twin Active Collisional Ring Galaxies with Starburst Merging Front at z=1.14
 
