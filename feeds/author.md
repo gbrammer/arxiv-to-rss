@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Jun 16 05:07:24 2025
+### Updated Tue Jun 17 05:05:50 2025
 
 ### 1) [2506.05459](http://arxiv.org/abs/2506.05459v1): RUBIES: A Spectroscopic Census of Little Red Dots; All V-Shaped Point Sources Have Broad Lines
 
@@ -199,16 +199,16 @@ We report the discovery of an ultra-massive grand-design red spiral galaxy, name
 <p> <b> Comments: </b> 12 pages, 5 main figures, 3 extended figures, 1 table; accepted in   A&A </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2412.13264v2"> http://arxiv.org/pdf/2412.13264v2 </a> </p>
 
-### 19) [2412.06957](http://arxiv.org/abs/2412.06957v1): JWST UNCOVERs the Optical Size - Stellar Mass Relation at 4&lt;z&lt;8: Rapid Growth in the Sizes of Low Mass Galaxies in the First Billion Years of the Universe
+### 19) [2412.06957](http://arxiv.org/abs/2412.06957v2): JWST UNCOVERs the Optical Size - Stellar Mass Relation at 4&lt;z&lt;8: Rapid Growth in the Sizes of Low Mass Galaxies in the First Billion Years of the Universe
 
 <p> Tim B. Miller, Katherine A. Suess, David J. Setton, Sedona H. Price, Ivo Labbe, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Lukas J. Furtak, Joel Leja, Richard Pan, Bingjie Wang, John R. Weaver, Katherine E. Whitaker, Pratika Dayal, Anna de Graaff, Robert Feldmann, Jenny E. Greene, S. Fujimoto, Michael V. Maseda, Themiya Nanayakkara, Erica J. Nelson, Pieter van Dokkum, Adi Zitrin </p>
 <p>
 We study the rest-frame optical and ultraviolet morphology of galaxies in the first billion years of the Universe. Using JWST data from the UNCOVER and MegaScience surveys targeting the lensing cluster Abell 2744 we present multi-band morphological measurements for a sample of 995 galaxies selected using 20-band NIRCam photometry and 35 using NIRSpec Prism spectroscopy over the redshift range of 4&lt;z&lt;8. The wavelength-dependent morphology is measured using pysersic by simultaneously modeling the images in 6 NIRCam wide filters covering the rest-frame UV to optical. The joint modeling technique increases the precision of measured radii by 50&percnt;. Galaxies in our sample show a wide range of Sersic indices, with no systematic difference between optical and UV morphology. We model the size-mass relation in a Bayesian manner using a continuity model to directly fit the redshift evolution while accounting for observational uncertainties. We find the average size of galaxies at log M_*/M<sub>&odot;</sub>=8.5 grows rapidly, from 400 pc at z=8 to 830 pc at z=4. This is faster evolution than expected from power law scalings of the Hubble parameter or scale factor that describe well previous results at z&lt;2. This suggests that different and/or much stronger processes affect low mass systems during the epoch of reionization. The measured logarithmic slope (0.25) and scatter (0.23 dex) are non-evolving. We discuss the remarkable consistency of the slope and scatter over cosmic time in the context of the galaxy-halo connection.
 </p>
 <p> <b> Published: </b> 2024-12-09T20:05:05Z </p>
-<p> <b> Updated: </b> 2024-12-09T20:05:05Z </p>
-<p> <b> Comments: </b> Submitted to ApJ, comments welcome! </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2412.06957v1"> http://arxiv.org/pdf/2412.06957v1 </a> </p>
+<p> <b> Updated: </b> 2025-06-16T17:45:01Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJ </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2412.06957v2"> http://arxiv.org/pdf/2412.06957v2 </a> </p>
 
 ### 20) [2412.04983](http://arxiv.org/abs/2412.04983v1): Red, hot, and very metal poor: extreme properties of a massive accreting black hole in the first 500 Myr
 
