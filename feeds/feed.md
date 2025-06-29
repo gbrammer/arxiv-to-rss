@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jun 28 05:05:32 2025
+### Updated Sun Jun 29 05:08:06 2025
 
 ### 1) [2506.21442](http://arxiv.org/abs/2506.21442v1): Low-metallicity massive single stars with rotation. III. Source of ionization and C-IV emission in I Zw 18
 
