@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Jul  3 05:08:17 2025
+### Updated Fri Jul  4 05:07:55 2025
 
 ### 1) [2507.01096](http://arxiv.org/abs/2507.01096v1): Breaking Through the Cosmic Fog: JWST/NIRSpec Constraints on Ionizing Photon Escape in Reionization-Era Galaxies
 
@@ -210,16 +210,16 @@ Luminous broad H&alpha; emission and red rest-optical SEDs are the hallmark of c
 <p> <b> Comments: </b> 16 pages, 5 figures, 3 tables. Submitted to ApJ Letters. Comments   welcome! </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.02059v1"> http://arxiv.org/pdf/2503.02059v1 </a> </p>
 
-### 20) [2503.01990](http://arxiv.org/abs/2503.01990v2): Gas outflows in two recently quenched galaxies at z = 4 and 7
+### 20) [2503.01990](http://arxiv.org/abs/2503.01990v3): Gas outflows in two recently quenched galaxies at z = 4 and 7
 
 <p> F. Valentino, K. E. Heintz, G. Brammer, K. Ito, V. Kokorev, K. E. Whitaker, A. Gallazzi, A. de Graaff, A. Weibel, B. L. Frye, P. S. Kamieneski, S. Jin, D. Ceverino, A. Faisst, M. Farcy, S. Fujimoto, S. Gillman, R. Gottumukkala, M. Hamadouche, K. C. Harrington, M. Hirschmann, C. K. Jespersen, T. Kakimoto, M. Kubo, C. d. P. Lagos, M. Lee, G. E. Magdis, A. W. S. Man, M. Onodera, F. Rizzo, R. Shimakawa, D. J. Setton, M. Tanaka, S. Toft, P. -F. Wu, P. Zhu </p>
 <p>
 Outflows are a key element in the baryon cycle of galaxies, and their properties provide a fundamental test for our models of how star formation quenches in galaxies. Here we report the detection of outflowing gas in two recently quenched, massive (M<sub>&sext;</sub>~10^10.2M<sub>&odot;</sub>) galaxies at z=4.106 (NS_274) and z=7.276 (RUBIES-UDS-QG-z7) observed with JWST/NIRSpec. The outflows are traced by blue-shifted MgII absorption lines, and in the case of the z=4.1 system, also by FeII and NaI features. The spectra of the two sources are similar to those of local post-starburst galaxies, showing deep Balmer features and minimal star formation on 10 Myr timescales as traced by the lack of bright emission lines, also suggesting the absence of a strong and radiatively efficient AGN. The galaxies' SFHs are consistent with an abrupt quenching of star formation, which continued at rates of ~15 M<sub>&odot;</sub>/yr averaged over 100 Myr timescales. Dedicated millimeter observations of NS_274 constrain its dust obscured SFR to &lt;12 M<sub>&odot;</sub>/yr. Under simple geometrical assumptions, we derive mass loading factors ≲1 and &gt;10 for the z=4.1 and z=7.3 systems, respectively, and similarly different energies carried by the outflows. Supernova feedback can account for the mass and energy of the outflow in NS_274. However, the low mass loading factor and average gas velocity suggest that the observed outflow is likely not the primary factor behind its quenching. SF-related processes seem to be insufficient to explain the extreme mass outflow rate of RUBIES-UDS-QG-z7, which would require an additional ejective mechanism such as an undetected AGN. Finally, the average outflow velocities per unit M<sub>&sext;</sub>, SFR, or its surface area are consistent with those of lower-redshift post-starburst galaxies, suggesting that outflows in rapidly quenched galaxies might occur similarly across cosmic time. [Abridged]
 </p>
 <p> <b> Published: </b> 2025-03-03T19:07:02Z </p>
-<p> <b> Updated: </b> 2025-07-01T14:09:01Z </p>
+<p> <b> Updated: </b> 2025-07-03T13:24:55Z </p>
 <p> <b> Comments: </b> 12 pages, 7 figures + Appendix. Accepted in A&A on May 19, 2025. Data   available at the links in the paper </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.01990v2"> http://arxiv.org/pdf/2503.01990v2 </a> </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.01990v3"> http://arxiv.org/pdf/2503.01990v3 </a> </p>
 
 ### 21) [2503.01953](http://arxiv.org/abs/2503.01953v1): A merging pair of massive quiescent galaxies at z=3.44 in the Cosmic Vine
 
