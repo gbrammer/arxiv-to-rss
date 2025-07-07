@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Jul  6 05:06:27 2025
+### Updated Mon Jul  7 05:07:43 2025
 
 ### 1) [2507.01096](http://arxiv.org/abs/2507.01096v1): Breaking Through the Cosmic Fog: JWST/NIRSpec Constraints on Ionizing Photon Escape in Reionization-Era Galaxies
 
