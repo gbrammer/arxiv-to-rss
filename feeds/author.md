@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Jul  8 05:06:40 2025
+### Updated Wed Jul  9 05:08:22 2025
 
 ### 1) [2507.03124](http://arxiv.org/abs/2507.03124v1): Earliest Galaxy Evolution in the CANUCS+Technicolor fields: Galaxy Properties at z~10-16 seen with the Full NIRCam Medium and Broad Band Filters
 
