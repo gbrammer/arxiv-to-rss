@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jul 12 05:06:12 2025
+### Updated Sun Jul 13 05:07:19 2025
 
 ### 1) [2507.07171](http://arxiv.org/abs/2507.07171v1): Little Red Dots from Small-Scale Primordial Black Hole Clustering
 
