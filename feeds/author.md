@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Jul 15 05:08:57 2025
+### Updated Wed Jul 16 05:09:50 2025
 
 ### 1) [2507.06292](http://arxiv.org/abs/2507.06292v1): Exploring Cosmic Dawn with PANORAMIC I: The Bright End of the UVLF at z~9 -17
 
@@ -188,18 +188,7 @@ Environmental quenching &ndash; where interactions with other galaxies and/or th
 <p> <b> Comments: </b> 12 pages, 6 figures, Submitted to ApJL </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2504.06334v2"> http://arxiv.org/pdf/2504.06334v2 </a> </p>
 
-### 18) [2503.16600](http://arxiv.org/abs/2503.16600v1): A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5
-
-<p> Anna de Graaff, Hans-Walter Rix, Rohan P. Naidu, Ivo Labbe, Bingjie Wang, Joel Leja, Jorryt Matthee, Harley Katz, Jenny E. Greene, Raphael E. Hviding, Josephine Baggen, Rachel Bezanson, Leindert A. Boogaard, Gabriel Brammer, Pratika Dayal, Pieter van Dokkum, Andy D. Goulding, Michaela Hirschmann, Michael V. Maseda, Ian McConachie, Tim B. Miller, Erica Nelson, Pascal A. Oesch, David J. Setton, Irene Shivaei, Andrea Weibel, Katherine E. Whitaker, Christina C. Williams </p>
-<p>
-The origin of the rest-optical emission of compact, red, high-redshift sources known as `little red dots' (LRDs) poses a major puzzle. If interpreted as starlight, it would imply that LRDs would constitute the densest stellar systems in the Universe. However, alternative models suggest active galactic nuclei (AGN) may instead power the rest-optical continuum. Here, we present JWST/NIRSpec, NIRCam and MIRI observations from the RUBIES and PRIMER programs of The Cliff: a bright LRD at z=3.55 with an exceptional Balmer break, twice as strong as that of any high-redshift source previously observed. The spectra also reveal broad Hydrogen (H&alpha; FWHM~1500km/s) and He I emission, but no significant metal lines. We demonstrate that massive evolved stellar populations cannot explain the observed spectrum, even when considering unusually steep and strong dust attenuation, or reasonable variations in the initial mass function. Moreover, the formally best-fit stellar mass and compact size (M_*~10^10.5 M<sub>&odot;</sub>, r_e~40 pc) would imply densities at which near-monthly stellar collisions might lead to significant X-ray emission. We argue that the Balmer break, emission lines, and H&alpha; absorption line are instead most plausibly explained by a `black hole star' (BH*) scenario, in which dense gas surrounds a powerful ionising source. In contrast to recently proposed BH* models of dust-reddened AGN, we show that spectral fits in the rest UV to near-infrared favour an intrinsically redder continuum over strong dust reddening. This may point to a super-Eddington accreting massive black hole or, possibly, the presence of (super)massive stars in a nuclear star cluster. The Cliff is the clearest evidence to date that at least some LRDs are not ultra-dense, massive galaxies, and are instead powered by a central ionising source embedded in dense, absorbing gas.
-</p>
-<p> <b> Published: </b> 2025-03-20T18:00:00Z </p>
-<p> <b> Updated: </b> 2025-03-20T18:00:00Z </p>
-<p> <b> Comments: </b> 19 pages, 9 figures; submitted to A&A. See Naidu et al. for a z=8   Balmer Cliff! </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16600v1"> http://arxiv.org/pdf/2503.16600v1 </a> </p>
-
-### 19) [2503.16595](http://arxiv.org/abs/2503.16595v3): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
+### 18) [2503.16595](http://arxiv.org/abs/2503.16595v3): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
 
 <p> V. Rusakov, D. Watson, G. P. Nikopoulos, G. Brammer, R. Gottumukkala, T. Harvey, K. E. Heintz, R. D. Nielsen, S. A. Sim, A. Sneppen, A. P. Vijayan, N. Adams, D. Austin, C. J. Conselice, C. M. Goolsby, S. Toft, J. Witstok </p>
 <p>
@@ -209,6 +198,17 @@ JWST has uncovered large numbers of compact galaxies at high redshift with broad
 <p> <b> Updated: </b> 2025-04-18T10:28:33Z </p>
 <p> <b> Comments: </b> 46 pages, 25 figures, 4 tables, submitted to Nature. Updated   spectroscopic data ID convention </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16595v3"> http://arxiv.org/pdf/2503.16595v3 </a> </p>
+
+### 19) [2503.16600](http://arxiv.org/abs/2503.16600v2): A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at z=3.5
+
+<p> Anna de Graaff, Hans-Walter Rix, Rohan P. Naidu, Ivo Labbe, Bingjie Wang, Joel Leja, Jorryt Matthee, Harley Katz, Jenny E. Greene, Raphael E. Hviding, Josephine Baggen, Rachel Bezanson, Leindert A. Boogaard, Gabriel Brammer, Pratika Dayal, Pieter van Dokkum, Andy D. Goulding, Michaela Hirschmann, Michael V. Maseda, Ian McConachie, Tim B. Miller, Erica Nelson, Pascal A. Oesch, David J. Setton, Irene Shivaei, Andrea Weibel, Katherine E. Whitaker, Christina C. Williams </p>
+<p>
+The origin of the rest-optical emission of compact, red, high-redshift sources known as `little red dots' (LRDs) poses a major puzzle. If interpreted as starlight, it would imply that LRDs would constitute the densest stellar systems in the Universe. However, alternative models suggest active galactic nuclei (AGN) may instead power the rest-optical continuum. Here, we present JWST/NIRSpec, NIRCam and MIRI observations from the RUBIES and PRIMER programs of The Cliff: a bright LRD at z=3.55 with an exceptional Balmer break, twice as strong as that of any high-redshift source previously observed. The spectra also reveal broad Hydrogen (H&alpha; FWHM~1500km/s) and He I emission, but no significant metal lines. We demonstrate that massive evolved stellar populations cannot explain the observed spectrum, even when considering unusually steep and strong dust attenuation, or reasonable variations in the initial mass function. Moreover, the formally best-fit stellar mass and compact size (M_*~10^10.5 M<sub>&odot;</sub>, r_e~40 pc) would imply densities at which near-monthly stellar collisions might lead to significant X-ray emission. We argue that the Balmer break, emission lines, and H&alpha; absorption line are instead most plausibly explained by a `black hole star' (BH*) scenario, in which dense gas surrounds a powerful ionising source. In contrast to recently proposed BH* models of dust-reddened AGN, we show that spectral fits in the rest UV to near-infrared favour an intrinsically redder continuum over strong dust reddening. This may point to a super-Eddington accreting massive black hole or, possibly, the presence of (super)massive stars in a nuclear star cluster. The Cliff is the clearest evidence to date that at least some LRDs are not ultra-dense, massive galaxies, and are instead powered by a central ionising source embedded in dense, absorbing gas.
+</p>
+<p> <b> Published: </b> 2025-03-20T18:00:00Z </p>
+<p> <b> Updated: </b> 2025-07-14T19:12:50Z </p>
+<p> <b> Comments: </b> main text 19 pages, 9 figures; accepted for publication in A&A </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2503.16600v2"> http://arxiv.org/pdf/2503.16600v2 </a> </p>
 
 ### 20) [2503.14280](http://arxiv.org/abs/2503.14280v1): Constraints on the early Universe star formation efficiency from galaxy clustering and halo modeling of Hα and [O III] emitters
 
