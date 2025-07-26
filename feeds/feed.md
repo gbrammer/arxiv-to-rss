@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Jul 25 05:11:09 2025
+### Updated Sat Jul 26 05:07:52 2025
 
 ### 1) [2507.18292](http://arxiv.org/abs/2507.18292v1): The Tremaine-Weinberg method at high redshift
 
