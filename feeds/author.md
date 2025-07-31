@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Jul 30 05:12:19 2025
+### Updated Thu Jul 31 05:10:47 2025
 
 ### 1) [2507.19706](http://arxiv.org/abs/2507.19706v1): MINERVA: A NIRCam Medium Band and MIRI Imaging Survey to Unlock the Hidden Gems of the Distant Universe
 
