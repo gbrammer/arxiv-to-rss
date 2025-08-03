@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Aug  2 05:08:13 2025
+### Updated Sun Aug  3 05:11:38 2025
 
 ### 1) [2507.23774](http://arxiv.org/abs/2507.23774v1): Lord of LRDs: Insights into a "Little Red Dot'' with a low-ionization spectrum at z = 0.1
 
