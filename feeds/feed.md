@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Aug  9 05:05:54 2025
+### Updated Sun Aug 10 05:08:19 2025
 
 ### 1) [2508.05335](http://arxiv.org/abs/2508.05335v1): Spatially resolved gas-phase metallicity at z~2-3 with JWST/NIRISS
 
