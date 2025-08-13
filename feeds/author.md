@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Aug 12 05:06:33 2025
+### Updated Wed Aug 13 05:07:11 2025
 
 ### 1) [2508.00985](http://arxiv.org/abs/2508.00985v1): Metal-Poor Star-Forming Clumps in Cosmic Noon Galaxies: Evidence for Gas Inflow and Chemical Dilution Using JWST NIRISS
 
