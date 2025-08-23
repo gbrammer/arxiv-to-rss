@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Aug 22 05:05:42 2025
+### Updated Sat Aug 23 05:05:10 2025
 
 ### 1) [2508.15771](http://arxiv.org/abs/2508.15771v1): Overview of complex organic molecule observations in protostellar systems
 
