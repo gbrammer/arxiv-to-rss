@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Aug 25 05:06:14 2025
+### Updated Tue Aug 26 05:06:09 2025
 
 ### 1) [2508.10099](http://arxiv.org/abs/2508.10099v1): The AURORA Survey: High-Redshift Empirical Metallicity Calibrations from Electron Temperature Measurements at z=2-10
 
@@ -221,16 +221,16 @@ Low-mass quiescent galaxies are thought to predominantly reside in overdense reg
 <p> <b> Comments: </b> 21 pages, 8 figures. Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2504.10572v2"> http://arxiv.org/pdf/2504.10572v2 </a> </p>
 
-### 21) [2504.06334](http://arxiv.org/abs/2504.06334v2): UNCOVER/MegaScience: No Evidence of Environmental Quenching in a z~2.6 Proto-cluster
+### 21) [2504.06334](http://arxiv.org/abs/2504.06334v3): UNCOVER/MegaScience: No Evidence of Environmental Quenching in a z~2.6 Proto-cluster
 
-<p> Richard Pan, Katherine A. Suess, Danilo Marchesini, Bingjie Wang, Joel Leja, Sam E. Cutler, Katherine E. Whitaker, Rachel Bezanson, Sedona H. Price, Lukas J. Furtak, John R. Weaver, Ivo Labbé, Gabriel Brammer, Yunchong Zhang, Pratika Dayal, Robert Feldmann, Jenny E. Greene, Tim B. Miller, Ikki Mitsuhashi, Themiya Nanayakkara, Erica J. Nelson, David J. Setton, Adi Zitrin </p>
+<p> Richard Pan, Katherine A. Suess, Danilo Marchesini, Bingjie Wang, Joel Leja, Sam E. Cutler, Katherine E. Whitaker, Rachel Bezanson, Sedona H. Price, Lukas J. Furtak, John R. Weaver, Ivo Labbé, Gabriel Brammer, Yunchong Zhang, Pratika Dayal, Robert Feldmann, Karl Glazebrook, Jenny E. Greene, Tim B. Miller, Ikki Mitsuhashi, Adam Muzzin, Themiya Nanayakkara, Erica J. Nelson, David J. Setton, Adi Zitrin </p>
 <p>
-Environmental quenching &ndash; where interactions with other galaxies and/or the intra-cluster medium (ICM) suppress star formation in low-mass galaxies &ndash; has long been proposed as the primary driver to establish the red sequence for low-mass galaxies within clusters at low redshift (z&lt;1). However, we still do not know whether these environmental quenching mechanisms are also active at higher redshifts in proto-cluster environments that have yet to fully virialize. In large part, this regime has remained unexplored due to observational limitations; however, the James Webb Space Telescope has recently opened a new window into the role of environmental quenching on low-mass (log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)&lt;9.5) galaxies at cosmic noon (2 &lt; z &lt; 3). Here, we use data from the JWST UNCOVER and MegaScience programs to directly probe the role of environmental quenching on low-mass galaxies in a newly-discovered z≈ 2.6 overdensity. Leveraging the deep imaging and R ~ 15 spectrophotometry enabled by these JWST/NIRCam data, we analyze the stellar populations and inferred star formation histories (SFHs) of 20 low-mass (8.5&lt;log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)≤9.0) quiescent galaxies in the overdense environment and compare to a similar sample of 18 such galaxies in the field. The SFHs of quiescent galaxies in the proto-cluster and field across the entire probed stellar mass regime (8.5&lt;log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)≤11.0) are indistinguishable, demonstrating that the environment at cosmic noon is not yet accelerating quenching compared to the field. This is consistent with expectations that proto-clusters at z&gt;2 have yet to virialize and develop a dense enough environment to efficiently quench low-mass galaxies.
+Environmental quenching &ndash; where interactions with other galaxies and/or the intra-cluster medium (ICM) suppress star formation in low-mass galaxies &ndash; has been well-established as the primary driver behind the formation of the red sequence for low-mass galaxies within clusters at low redshift (z&lt;1). However, it remains unclear whether these mechanisms are active at higher-redshifts in proto-cluster environments that are not yet fully virialized. In large part, this regime has remained unexplored due to observational limitations; however, JWST has recently opened a new window into the role of environmental quenching on low-mass (log(M<sub>&sext;</sub>/M<sub>&odot;</sub>&lt;9.0) galaxies at cosmic noon (2 &lt; z &lt; 3). Here, we leverage the deep imaging and R~15 spectrophotometry enabled by the 20 band JWST/NIRCam data from the UNCOVER and MegaScience programs to examine environmental quenching in a newly discovered z≈2.58 proto-cluster. We compare the star formation histories (SFHs) of 19 low-mass quiescent galaxies in the proto-cluster to a matched sample of 18 in the field, and find no significant differences. This similarity extends to galaxy sizes and quenched fractions, which also show no significant differences between the two environments across the full stellar mass range (8.5&lt;log(M<sub>&sext;</sub>/M<sub>&odot;</sub>≤11.0). This indicates that the proto-cluster has not yet accelerated quenching relative to the field and is consistent with expectations that z&gt;2 proto-clusters have yet to virialize and develop a dense enough environment required to efficiently quench low-mass galaxies.
 </p>
 <p> <b> Published: </b> 2025-04-08T18:00:00Z </p>
-<p> <b> Updated: </b> 2025-04-14T15:07:15Z </p>
-<p> <b> Comments: </b> 12 pages, 6 figures, Submitted to ApJL </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2504.06334v2"> http://arxiv.org/pdf/2504.06334v2 </a> </p>
+<p> <b> Updated: </b> 2025-08-22T20:01:38Z </p>
+<p> <b> Comments: </b> 15 pages, 7 figures, Submitted to ApJL </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2504.06334v3"> http://arxiv.org/pdf/2504.06334v3 </a> </p>
 
 ### 22) [2503.16595](http://arxiv.org/abs/2503.16595v3): JWST's little red dots: an emerging population of young, low-mass AGN cocooned in dense ionized gas
 
