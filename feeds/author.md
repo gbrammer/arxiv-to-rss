@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Aug 27 05:05:55 2025
+### Updated Thu Aug 28 05:05:51 2025
 
 ### 1) [2508.10099](http://arxiv.org/abs/2508.10099v1): The AURORA Survey: High-Redshift Empirical Metallicity Calibrations from Electron Temperature Measurements at z=2-10
 
