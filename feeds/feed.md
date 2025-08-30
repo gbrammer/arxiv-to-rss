@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Aug 29 05:05:48 2025
+### Updated Sat Aug 30 05:04:56 2025
 
 ### 1) [2508.21069](http://arxiv.org/abs/2508.21069v1): Rapid late-time reionization: constraints and cosmological implications
 
