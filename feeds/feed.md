@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Mon Sep  1 05:06:04 2025
+### Updated Tue Sep  2 05:05:57 2025
 
 ### 1) [2508.21818](http://arxiv.org/abs/2508.21818v1): First constraints on the local ionization topology in front of two quasars at z ~ 7.5
 
