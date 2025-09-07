@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Sep  6 05:05:08 2025
+### Updated Sun Sep  7 05:05:20 2025
 
 ### 1) [2509.04331](http://arxiv.org/abs/2509.04331v1): A fast machine learning tool to predict the composition of astronomical ices from infrared absorption spectra
 
