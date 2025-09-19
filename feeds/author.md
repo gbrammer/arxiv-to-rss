@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Sep 18 05:05:29 2025
+### Updated Fri Sep 19 05:05:56 2025
 
 ### 1) [2509.05434](http://arxiv.org/abs/2509.05434v1): What you see is what you get: empirically measured bolometric luminosities of Little Red Dots
 
