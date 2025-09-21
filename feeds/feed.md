@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Sep 20 05:05:15 2025
+### Updated Sun Sep 21 05:05:15 2025
 
 ### 1) [2509.14556](http://arxiv.org/abs/2509.14556v1): Detection of CH3+ in the O-rich planetary nebula NGC 6302
 
