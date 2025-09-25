@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Sep 24 05:06:03 2025
+### Updated Thu Sep 25 05:06:07 2025
 
 ### 1) [2509.18302](http://arxiv.org/abs/2509.18302v1): Lyman-alpha emission at the end of reionization: line strengths and profiles from MMT and JWST observations at z~5-6
 
