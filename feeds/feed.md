@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Sep 27 05:05:06 2025
+### Updated Sun Sep 28 05:05:13 2025
 
 ### 1) [2509.21236](http://arxiv.org/abs/2509.21236v1): Limitations on Morphological Fitting for JWST "Little Red Dots"
 
