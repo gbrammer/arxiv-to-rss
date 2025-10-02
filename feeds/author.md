@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Oct  1 05:06:09 2025
+### Updated Thu Oct  2 05:05:47 2025
 
 ### 1) [2509.20452](http://arxiv.org/abs/2509.20452v2): A GLIMPSE of Intermediate Mass Black holes in the epoch of reionization: Witnessing the Descendants of Direct Collapse?
 
