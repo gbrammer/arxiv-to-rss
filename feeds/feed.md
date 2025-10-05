@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Oct  4 05:05:00 2025
+### Updated Sun Oct  5 05:05:01 2025
 
 ### 1) [2510.01747](http://arxiv.org/abs/2510.01747v1): Discovery of an Accretion Burst in a Free-Floating Planetary-Mass Object
 

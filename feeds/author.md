@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Oct  4 05:05:03 2025
+### Updated Sun Oct  5 05:05:05 2025
 
 ### 1) [2510.00103](http://arxiv.org/abs/2510.00103v1): The warm outer layer of a Little Red Dot as the source of [Fe II] and collisional Balmer lines with scattering wings
 
