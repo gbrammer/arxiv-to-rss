@@ -1,16 +1,16 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Oct  5 05:05:05 2025
+### Updated Mon Oct  6 05:06:06 2025
 
-### 1) [2510.00103](http://arxiv.org/abs/2510.00103v1): The warm outer layer of a Little Red Dot as the source of [Fe II] and collisional Balmer lines with scattering wings
+### 1) [2510.00103](http://arxiv.org/abs/2510.00103v2): The warm outer layer of a Little Red Dot as the source of [Fe II] and collisional Balmer lines with scattering wings
 
 <p> Alberto Torralba, Jorryt Matthee, Gabriele Pezzulli, Rohan P. Naidu, Yuzo Ishikawa, Gabriel B. Brammer, Seok-Jun Chang, John Chisholm, Anna de Graaff, Francesco D'Eugenio, Claudia Di Cesare, Anna-Christina Eilers, Jenny E. Greene, Max Gronke, Edoardo Iani, Vasily Kokorev, Gauri Kotiwale, Ivan Kramarenko, Yilun Ma, Sara Mascia, Benjamín Navarrete, Erica Nelson, Pascal Oesch, Robert A. Simcoe, Stijn Wuyts </p>
 <p>
 The population of the Little Red Dots (LRDs) may represent a key phase of supermassive black hole (SMBH) growth. A cocoon of dense excited gas is emerging as key component to explain the most striking properties of LRDs, such as strong Balmer breaks and Balmer absorption, as well as the weak IR emission. To dissect the structure of LRDs, we analyze new deep JWST/NIRSpec PRISM and G395H spectra of FRESCO-GN-9771, one of the most luminous known LRDs at z=5.5. These reveal a strong Balmer break, broad Balmer lines and very narrow [O III] emission. We unveil a forest of optical [Fe II] lines, which we argue is emerging from a dense (n_H=10^9-10 cm^-3) warm layer with electron temperature T_e≈7000 K. The broad wings of H&alpha; and H&beta; have an exponential profile due to electron scattering in this same layer. The high H&alpha;:H&beta;:H&gamma; flux ratio of ≈10.4:1:0.14 is an indicator of collisional excitation and resonant scattering dominating the Balmer line emission. A narrow H&gamma; component, unseen in the other two Balmer lines due to outshining by the broad components, could trace the ISM of a normal host galaxy with a star formation rate ~5 M<sub>&odot;</sub> yr^-1. The warm layer is mostly opaque to Balmer transitions, producing a characteristic P-Cygni profile in the line centers suggesting outflowing motions. This same layer is responsible for shaping the Balmer break. The broad-band spectrum can be reasonably matched by a simple photoionized slab model that dominates the &lambda;&gt;1500 &#8491; continuum and a low mass (~10^8 M<sub>&odot;</sub>) galaxy that could explain the narrow [O III], with only subdominant contribution to the UV continuum. Our findings indicate that Balmer lines are not directly tracing gas kinematics near the SMBH and that the BH mass scale is likely much lower than virial indicators suggest.
 </p>
 <p> <b> Published: </b> 2025-09-30T18:00:01Z </p>
-<p> <b> Updated: </b> 2025-09-30T18:00:01Z </p>
-<p> <b> Comments: </b> 18 pages incl. references. Main figure: 4 ([Fe II] model). To be   submitted to A&A. Comments welcome </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2510.00103v1"> http://arxiv.org/pdf/2510.00103v1 </a> </p>
+<p> <b> Updated: </b> 2025-10-03T07:50:53Z </p>
+<p> <b> Comments: </b> 18 pages incl. references. Main figure: 4 ([Fe II] model). Minor   changes to references and Fig.1. Submitted to A&A </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2510.00103v2"> http://arxiv.org/pdf/2510.00103v2 </a> </p>
 
 ### 2) [2509.20452](http://arxiv.org/abs/2509.20452v2): A GLIMPSE of Intermediate Mass Black holes in the epoch of reionization: Witnessing the Descendants of Direct Collapse?
 
