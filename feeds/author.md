@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Oct  6 05:06:06 2025
+### Updated Tue Oct  7 05:05:50 2025
 
 ### 1) [2510.00103](http://arxiv.org/abs/2510.00103v2): The warm outer layer of a Little Red Dot as the source of [Fe II] and collisional Balmer lines with scattering wings
 
@@ -12,16 +12,16 @@ The population of the Little Red Dots (LRDs) may represent a key phase of superm
 <p> <b> Comments: </b> 18 pages incl. references. Main figure: 4 ([Fe II] model). Minor   changes to references and Fig.1. Submitted to A&A </p>
 <p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2510.00103v2"> http://arxiv.org/pdf/2510.00103v2 </a> </p>
 
-### 2) [2509.20452](http://arxiv.org/abs/2509.20452v2): A GLIMPSE of Intermediate Mass Black holes in the epoch of reionization: Witnessing the Descendants of Direct Collapse?
+### 2) [2509.20452](http://arxiv.org/abs/2509.20452v3): A GLIMPSE of Intermediate Mass Black holes in the epoch of reionization: Witnessing the Descendants of Direct Collapse?
 
 <p> Qinyue Fei, Seiji Fujimoto, Rohan P. Naidu, John Chisholm, Hakim Atek, Gabriel Brammer, Yoshihisa Asada, Volker Bromm, Lukas J. Furtak, Jenny E. Greene, Tiger Yu-Yang Hsiao, Junehyoung Jeon, Vasily Kokorev, Jorryt Matthee, Priyamvada Natarajan, Johan Richard, Alberto Saldana-Lopez, Daniel Schaerer, Marta Volonteri, Adi Zitrin </p>
 <p>
 JWST has revealed an abundance of supermassive black holes (BHs) in the early Universe, and yet the lowest mass seed black holes that gave rise to these populations remain elusive. Here we present a systematic search for broad-line Active Galactic Nuclei (AGNs) in some of the faintest high-z galaxies surveyed yet by combining ultra-deep JWST/NIRSpec G395M spectroscopy with the strong lensing aid in Abell S1063. By employing the profile of the [OIII]&lambda; 5007 emission lines as a template for narrow-line components and carefully cross-validating with mock observations, we identify a sample of ten broad-line AGNs at 4.5&lt;z&lt;7.0 (eight secure, two tentative). The inferred BH masses from the broad H&alpha; line explore the intermediate BH mass regime down to ~ 10^5.5 M<sub>&odot;</sub>. The stellar mass (M_*) is estimated with a galaxy+AGN composite model, and we find the BH to stellar mass ratio spans down to M_BH/M_*≲ 0.1&percnt;, unveiling populations on the empirical M_BH-M<sub>&sext;</sub> relation observed in the local universe. We also derive the black hole mass function and investigate its low-mass end at this epoch. While we confirm the agreement of our results with previous studies at M_BH≳10^6.5M<sub>&odot;</sub>, we find the mass range of ~ 10^5.5 M<sub>&odot;</sub> features an enhanced abundance with respect to the extrapolated best-fit Schechter function. Comparison with theoretical models suggests that a possible origin for this enhanced abundance is the direct-collapse BH formation, supporting the scenario that the direct collapse of massive gas clouds is a significant pathway for the earliest supermassive BHs.
 </p>
 <p> <b> Published: </b> 2025-09-24T18:01:53Z </p>
-<p> <b> Updated: </b> 2025-09-26T02:09:23Z </p>
+<p> <b> Updated: </b> 2025-10-05T17:38:49Z </p>
 <p> <b> Comments: </b> Submitted to ApJ. 21 Pages and 7 figures for the main text. 11   figures in the appendix. Comments are welcome! </p>
-<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2509.20452v2"> http://arxiv.org/pdf/2509.20452v2 </a> </p>
+<p> <b> PDF: </b> <a href="http://arxiv.org/pdf/2509.20452v3"> http://arxiv.org/pdf/2509.20452v3 </a> </p>
 
 ### 3) [2509.18302](http://arxiv.org/abs/2509.18302v1): Lyman-alpha emission at the end of reionization: line strengths and profiles from MMT and JWST observations at z~5-6
 
