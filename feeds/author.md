@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Fri Oct 10 05:06:03 2025
+### Updated Sat Oct 11 05:05:00 2025
 
 ### 1) [2510.07936](http://arxiv.org/abs/2510.07936v1): Inefficient dust production in a massive, metal-rich galaxy at z=7.13 uncovered by JWST and ALMA
 
