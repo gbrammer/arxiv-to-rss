@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Oct 11 05:04:56 2025
+### Updated Sun Oct 12 05:05:26 2025
 
 ### 1) [2510.08455](http://arxiv.org/abs/2510.08455v1): A first look at quasar-galaxy clustering at z≃7.3
 
