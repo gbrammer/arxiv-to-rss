@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Oct 14 05:05:52 2025
+### Updated Wed Oct 15 05:06:05 2025
 
 ### 1) [2510.11455](http://arxiv.org/abs/2510.11455v1): Feeding the dead: neutral gas inflow with suppressed star formation in a long-quenched ancient massive galaxy at z~2.7 observed with JWST/NIRSpec
 
