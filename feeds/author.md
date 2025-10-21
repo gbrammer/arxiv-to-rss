@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Oct 20 05:06:04 2025
+### Updated Tue Oct 21 05:06:11 2025
 
 ### 1) [2510.13240](http://arxiv.org/abs/2510.13240v1): Discovery of red galaxy candidates at z ~ 12: Early dust growth or significant nebular emission with high-temperature stars?
 
