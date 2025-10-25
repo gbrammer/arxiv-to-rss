@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Oct 24 05:06:06 2025
+### Updated Sat Oct 25 05:05:16 2025
 
 ### 1) [2510.20561](http://arxiv.org/abs/2510.20561v1): Strong Lensing Model and Dust Extinction Maps of the Host Galaxy of Type Ia Supernova H0pe
 
