@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Nov  8 05:05:36 2025
+### Updated Sun Nov  9 05:05:16 2025
 
 ### 1) [2511.04435](http://arxiv.org/abs/2511.04435v1): The AGORA High-resolution Galaxy Simulations Comparison Project. X: Formation and Evolution of Galaxies at the High-redshift Frontier
 
