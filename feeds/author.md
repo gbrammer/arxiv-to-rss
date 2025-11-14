@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Nov 13 05:06:15 2025
+### Updated Fri Nov 14 05:06:18 2025
 
 ### 1) [2511.07542](https://arxiv.org/pdf/2511.07542v1): JWST's GLIMPSE: an overview of the deepest probe of early galaxy formation and cosmic reionization
 
