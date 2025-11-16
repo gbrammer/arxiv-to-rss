@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Nov 15 05:05:42 2025
+### Updated Sun Nov 16 05:05:42 2025
 
 ### 1) [2511.10640](https://arxiv.org/abs/2511.10640v1): Flexible Simulation Based Inference for Galaxy Photometric Fitting with Synthesizer
 
