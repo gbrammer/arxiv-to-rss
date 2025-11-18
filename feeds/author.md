@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Nov 16 05:05:45 2025
+### Updated Tue Nov 18 05:05:58 2025
 
 ### 1) [2511.07542](https://arxiv.org/abs/2511.07542v1): JWST's GLIMPSE: an overview of the deepest probe of early galaxy formation and cosmic reionization
 
@@ -12,16 +12,16 @@ We present an overview of the JWST GLIMPSE program, highlighting its survey desi
 <p> <b> Comments: </b> Submitted to the Open Journal of Astrophysics. 19 pages. The official image release of the survey is available at https://esawebb.org/images/potm2505a/ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.07542v1"> https://arxiv.org/pdf/2511.07542v1 </a> </p>
 
-### 2) [2511.07515](https://arxiv.org/abs/2511.07515v1): The Deepest GLIMPSE of a Dense Gas Cocoon Enshrouding a Little Red Dot
+### 2) [2511.07515](https://arxiv.org/abs/2511.07515v2): The Deepest GLIMPSE of a Dense Gas Cocoon Enshrouding a Little Red Dot
 
-<p> Vasily Kokorev, John Chisholm, Rohan P. Naidu, Seiji Fujimoto, Hakim Atek, Gabriel Brammer, Steven L. Finkelstein, Hollis B. Akins, Danielle A. Berg, Lukas J. Furtak, Qinyue Fei, Tiger Yu-Yang Hsiao, Jorryt Matthee, Julian B. Muñoz, Pascal A. Oesch, Richard Pan, Pierluigi Rinaldi, Alberto Saldana-Lopez, Daniel Schaerer, Marta Volonteri, Adi Zitrin </p>
+<p> Vasily Kokorev, John Chisholm, Rohan P. Naidu, Seiji Fujimoto, Hakim Atek, Gabriel Brammer, Steven L. Finkelstein, Hollis B. Akins, Danielle A. Berg, Lukas J. Furtak, Qinyue Fei, Tiger Yu-Yang Hsiao, Ivo Labbé, Jorryt Matthee, Julian B. Muñoz, Pascal A. Oesch, Richard Pan, Pierluigi Rinaldi, Alberto Saldana-Lopez, Daniel Schaerer, Marta Volonteri, Adi Zitrin </p>
 <p>
 The detection of strong Balmer breaks and absorption features in Little Red Dots (LRDs) suggests they host AGN embedded within dense gas envelopes, potentially powered by super-Eddington accretion. We present GLIMPSE-17775, a luminous (L_bol~10^45 erg s<sup>-1</sup>) LRD at z=3.501 behind Abell S1063 (μ~2), observed with deep JWST/NIRCam and a ~20 hr (80 hr de-lensed) NIRSpec/G395M spectrum. The data reveal 40+ emission and absorption features, including a rich forest of low-ionization FeII lines and numerous broad hydrogen recombination transitions. We use this depth to test the dense-gas interpretation through five independent diagnostics. Nearly all permitted lines show exponential wings with consistent FWHM, the signature of Thomson scattering requiring n_e≳10^8 cm^-3. Adopting this width yields M_BH~10^6.7M<sub>&odot;</sub>, a factor of ten lower than Gaussian fits, and λ_Edd~1.8. Additional diagnostics support the same picture: a pronounced Balmer break (f_ν,4050/f_ν,3670=2.0±0.1), enhanced HeI &lambda;7065 and &lambda;10830 with P-Cygni absorption, Bowen-fluorescent OI &lambda;8446-&lambda;11290 emission requiring Lyβ pumping, and 16 FeII lines matching fluorescence models. These features indicate a dense (n~10^8 cm^-3), partially ionized cocoon where scattering and fluorescence dominate line formation, providing strong evidence that at least some LRDs are powered by super-Eddington black-hole growth in the early Universe.
 </p>
 <p> <b> Published: </b> 2025-11-10T19:00:00Z </p>
-<p> <b> Updated: </b> 2025-11-10T19:00:00Z </p>
-<p> <b> Comments: </b> 21 pages, 9 figures, 5 tables, Submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.07515v1"> https://arxiv.org/pdf/2511.07515v1 </a> </p>
+<p> <b> Updated: </b> 2025-11-17T01:16:19Z </p>
+<p> <b> Comments: </b> 22 pages, 9 figures, 5 tables, Submitted to ApJ. NIRSpec/G395M spectrum featured in this work (from DDT #9223 PIs: S. Fujimoto & R. Naidu) is available to download from https://zenodo.org/records/17575391 </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.07515v2"> https://arxiv.org/pdf/2511.07515v2 </a> </p>
 
 ### 3) [2510.25024](https://arxiv.org/abs/2510.25024v1): Where Galaxies Go to Die: The Environments of Massive Quiescent Galaxies at 3&lt;z&lt;5
 
