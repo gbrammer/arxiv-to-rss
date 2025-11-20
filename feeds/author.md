@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Nov 19 05:06:12 2025
+### Updated Thu Nov 20 05:07:00 2025
 
 ### 1) [2511.14483](https://arxiv.org/abs/2511.14483v1): VENUS: A Strongly Lensed Clumpy Galaxy at z~11-12 behind the Galaxy Cluster MACS J0257.1-2325
 
