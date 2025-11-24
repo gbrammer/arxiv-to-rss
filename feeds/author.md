@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Nov 23 05:06:00 2025
+### Updated Mon Nov 24 05:06:44 2025
 
 ### 1) [2511.15792](https://arxiv.org/abs/2511.15792v1): A first look at a complete view of spatially resolved star formation at 1&lt;z&lt;1.8 with JWST NGDEEP+FRESCO slitless spectroscopy
 
