@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Nov 29 05:05:49 2025
+### Updated Sun Nov 30 05:05:46 2025
 
 ### 1) [2511.21618](https://arxiv.org/abs/2511.21618v1): A Super-Eddington, Lensing-Magnified Quasar at z=5.07 observed with JWST
 
