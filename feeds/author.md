@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Dec  1 05:12:20 2025
+### Updated Tue Dec  2 05:06:05 2025
 
 ### 1) [2511.21820](https://arxiv.org/abs/2511.21820v1): Little Red Dots host Black Hole Stars: A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy
 
