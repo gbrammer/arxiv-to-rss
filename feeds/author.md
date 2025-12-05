@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Dec  4 05:06:14 2025
+### Updated Fri Dec  5 05:06:26 2025
 
 ### 1) [2512.03239](https://arxiv.org/abs/2512.03239v1): (Re)solving the complex multi-scale morphology and V-shaped SED of a newly discovered strongly-lensed Little Red Dot in Abell 383
 
@@ -34,16 +34,16 @@ We present the redshift evolution of radial color gradients (in rest-frame itU -
 <p> <b> Comments: </b> Accepted for publication on A&A; 12 pages with 8 figures, 4 pages appendix with 3 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.02440v2"> https://arxiv.org/pdf/2512.02440v2 </a> </p>
 
-### 4) [2512.02117](https://arxiv.org/abs/2512.02117v1): VENUS: When Red meets Blue &ndash; A multiply imaged Little Red Dot with an apparent blue companion behind the galaxy cluster Abell 383
+### 4) [2512.02117](https://arxiv.org/abs/2512.02117v2): VENUS: When Red meets Blue &ndash; A multiply imaged Little Red Dot with an apparent blue companion behind the galaxy cluster Abell 383
 
 <p> Miriam Golubchik, Lukas J. Furtak, Joseph F. V. Allingham, Adi Zitrin, Hollis B. Akins, Vasily Kokorev, Seiji Fujimoto, Abdurro'uf, Ricardo O. Amorín, Franz E. Bauer, Rachel Bezanson, Marusa Bradač, Larry D. Bradley, Gabriel B. Brammer, John Chisholm, Dan Coe, Christopher J. Conselice, Pratika Dayal, Miroslava Dessauges-Zavadsky, Jose M. Diego, Andreas L. Faisst, Qinyue Fei, Henry C. Ferguson, Steven L. Finkelstein, Brenda L. Frye, Mauro González-Otero, Jenny E. Greene, Yuichi Harikane, Tiger Yu-Yang Hsiao, Kohei Inayoshi, Yolanda Jiménez-Teja, Kirsten Knudsen, Anton M. Koekemoer, Ivo Labbé, Ray A. Lucas, Georgios E. Magdis, Jorryt Matthee, Matteo Messa, Rohan P. Naidu, Minami Nakane, Gaël Noirot, Richard Pan, Casey Papovich, Johan Richard, Massimo Ricotti, Luke Robbins, Daniel P. Stark, Fengwu Sun, Tommaso Treu, Roberta Tripodi, Eros Vanzella, Chris Willott, Rogier A. Windhorst </p>
 <p>
 We report the discovery of a doubly-imaged Little Red Dot (LRD) candidate behind the galaxy cluster Abell 383, which we dub A383-LRD1. Initially classified as a dropout galaxy in HST imaging with several ground-based emission line detections placing it at z<sub>spec</sub>=6.027, new JWST/NIRCam observations taken as part of the cycle 4 VENUS survey now reveal that the source consists of two underlying components: A red point-source with a V-shaped SED consistent with LRD selection criteria, and a nearby (~ 380 pc) compact blue companion which was the main contributor to the previous rest-frame UV detections. Based on lensing symmetry and its SED, the LRD appears to lie at a similar redshift as well. The magnification of the two images of A383-LRD1 is μ_A=16.2±1.2 and μ_B=9.0±0.6, respectively, and the predicted time delay between them is Δt_grav=5.20±0.14 yr (~0.7 yr in the rest-frame). After correcting for the lensing magnification, we derive an absolute magnitude of M_UV,LRD=-16.8± 0.3 for the LRD, and M_UV,BC=-18.2± 0.2 for the blue companion. We perform SED fits to both components, revealing the LRD to be best fitted with a black hole star (BH*) model and a substantial host galaxy, and the blue companion with an extremely young, emission-line dominated star-forming nebula. A383-LRD1 represents the second known multiply-imaged LRD detected to date, following A2744-QSO1, and to our knowledge, the first LRD system with a confirmed detection of [C _II]&lambda;158  μm emission from ALMA observations. Thanks to lensing magnification, this system opens a unique door to study the relation between a LRD, its host galaxy, and its environment, and represents a prime candidate for deep JWST spectroscopy and high-resolution ALMA follow-up observations.
 </p>
 <p> <b> Published: </b> 2025-12-01T19:00:03Z </p>
-<p> <b> Updated: </b> 2025-12-01T19:00:03Z </p>
-<p> <b> Comments: </b> 11 pages, 4 figures; to be submitted </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.02117v1"> https://arxiv.org/pdf/2512.02117v1 </a> </p>
+<p> <b> Updated: </b> 2025-12-04T13:26:25Z </p>
+<p> <b> Comments: </b> 12 pages, 5 figures; V2: minor text corrections, figure added, submitted to journal </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.02117v2"> https://arxiv.org/pdf/2512.02117v2 </a> </p>
 
 ### 5) [2511.21820](https://arxiv.org/abs/2511.21820v1): Little Red Dots host Black Hole Stars: A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy
 
