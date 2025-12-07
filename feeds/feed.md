@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Dec  6 05:05:50 2025
+### Updated Sun Dec  7 05:05:40 2025
 
 ### 1) [2512.05097](https://arxiv.org/abs/2512.05097v1): Highly-ionized gas in lensed z = 6.027 Little Red Dot seen through [OIII] 88μm with ALMA
 

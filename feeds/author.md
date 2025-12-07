@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Dec  6 05:05:53 2025
+### Updated Sun Dec  7 05:05:42 2025
 
 ### 1) [2512.03239](https://arxiv.org/abs/2512.03239v1): (Re)solving the complex multi-scale morphology and V-shaped SED of a newly discovered strongly-lensed Little Red Dot in Abell 383
 
