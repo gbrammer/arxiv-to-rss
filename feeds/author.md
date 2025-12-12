@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Dec 11 05:07:16 2025
+### Updated Fri Dec 12 05:07:02 2025
 
 ### 1) [2512.08054](https://arxiv.org/abs/2512.08054v1): Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z&gt;6 Galaxy, the Strongly Lensed Cosmic Spear at z=6.2
 
@@ -331,16 +331,16 @@ In its first two years of operation, the James Webb Space Telescope has enabled 
 <p> <b> Comments: </b> 32 pages, 9 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2507.06292v1"> https://arxiv.org/pdf/2507.06292v1 </a> </p>
 
-### 31) [2507.03124](https://arxiv.org/abs/2507.03124v1): Earliest Galaxy Evolution in the CANUCS+Technicolor fields: Galaxy Properties at z~10-16 seen with the Full NIRCam Medium and Broad Band Filters
+### 31) [2507.03124](https://arxiv.org/abs/2507.03124v2): Earliest Galaxy Evolution in the CANUCS+Technicolor fields: Galaxy Properties at z~10-16 seen with the Full NIRCam Medium and Broad Band Filters
 
 <p> Yoshihisa Asada, Chris Willott, Adam Muzzin, Maruša Bradač, Gabriel Brammer, Guillaume Desprez, Kartheik Iyer, Danilo Marchesini, Nicholas Martis, Gaël Noirot, Ghassan Sarrouh, Marcin Sawicki, Sunna Withers, Seiji Fujimoto, Giordano Felicioni, Ilias Goovaerts, Jon Judež, Naadiyah Jagga, Maya Merchant, Rosa Mérida, Luke Robbins </p>
 <p>
 We present a sample of z<sub>phot</sub>~10-16 galaxies by exploiting one of the richest JWST NIRCam imaging data, taken in the CANUCS survey in Cycle 1 and the Technicolor (TEC) survey in Cycle 2. The combination of the CANUCS+TEC provides multi-epoch, deep NIRCam images in all medium bands (MBs) and broad bands (BBs) onboard NIRCam (22 filters in total), over ~23 arcmin<sup>2</sup> in three independent lines of sight. We select high-z galaxy candidates based on photometric redshifts, and obtain eight candidates at z~10-16, including a very robust candidate at z~15.4. The ultraviolet (UV) luminosity function (LF) from our sample is consistent with previous JWST studies showing a scatter of ~0.6 dex across the literature, marking the significance of the field-to-field variance in interpreting galaxy abundance measurements at z&gt;10. We find that the UV LF moderately evolves at z&gt;10, and the LF normalization and the luminosity density decline by a factor of ~7 from z~11 to z~15, indicating less steep evolution than z&lt;11. We highlight the importance of MB filters, not only to minimize the contamination by low-z interlopers but also to maximize the completeness. In particular, faint and less blue galaxies could be missed when the sample is built solely on BB data. The contamination and incompleteness of BB-only selected samples can bias our views of earliest galaxy evolution at z&gt;10, including the UV LF by ~0.6 dex, the size-magnitude relation by ~0.6 dex, and the UV slope-magnitude relation by Δβ_UV~-0.3.
 </p>
 <p> <b> Published: </b> 2025-07-03T19:03:38Z </p>
-<p> <b> Updated: </b> 2025-07-03T19:03:38Z </p>
-<p> <b> Comments: </b> Submitted to ApJ; 12 figures, 4 tables, and 20 pages; Comments welcome </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2507.03124v1"> https://arxiv.org/pdf/2507.03124v1 </a> </p>
+<p> <b> Updated: </b> 2025-12-11T07:41:35Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJ; 13 figures, 4 tables, and 21 pages </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2507.03124v2"> https://arxiv.org/pdf/2507.03124v2 </a> </p>
 
 ### 32) [2507.01096](https://arxiv.org/abs/2507.01096v1): Breaking Through the Cosmic Fog: JWST/NIRSpec Constraints on Ionizing Photon Escape in Reionization-Era Galaxies
 
