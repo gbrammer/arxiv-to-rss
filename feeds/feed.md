@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Dec 12 05:06:59 2025
+### Updated Sat Dec 13 05:06:18 2025
 
 ### 1) [2512.10839](https://arxiv.org/abs/2512.10839v1): Resolving the ionizing photon budget crisis with JWST/NIRCam HII clumping constraints at z=6
 
