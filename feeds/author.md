@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Dec 22 05:08:32 2025
+### Updated Tue Dec 23 05:08:35 2025
 
 ### 1) [2512.16215](https://arxiv.org/abs/2512.16215v1): ALMA and JWST Identification of Faint Dusty Star-Forming Galaxies up to z~8
 
@@ -45,16 +45,16 @@ We present a catalog of 57 high-redshift z&gt;6 galaxy candidates, including 14 
 <p> <b> Comments: </b> Submitted to ApJ; 18 pages, 8 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.11985v1"> https://arxiv.org/pdf/2512.11985v1 </a> </p>
 
-### 5) [2512.11790](https://arxiv.org/abs/2512.11790v2): GLIMPSE-D: An Exotic Balmer-Jump Object at z=6.20? Revisiting Photometric Selection and the Cosmic Abundance of Pop III Galaxies
+### 5) [2512.11790](https://arxiv.org/abs/2512.11790v3): GLIMPSE-D: An Exotic Balmer-Jump Object at z=6.20? Revisiting Photometric Selection and the Cosmic Abundance of Pop III Galaxies
 
 <p> Seiji Fujimoto, Yoshihisa Asada, Rohan P. Naidu, John Chisholm, Hakim Atek, Gabriel Brammer, Danielle A. Berg, Daniel Schaerer, Vasily Kokorev, Lukas J. Furtak, Johan Richard, Alessandra Venditti, Volker Bromm, Angela Adamo, Adelaide Claeyssens, Miroslava Dessauges-Zavadsky, Qinyue Fei, Tiger Yu-Yang Hsiao, Damien Korber, Julian B. Munoz, Richard Pan, Alberto Saldana-Lopez </p>
 <p>
 We present deep JWST/NIRSpec G395M spectroscopy of GLIMPSE-16043, a promising z~6 Pop III candidate originally identified through NIRCam photometry as having weak [OIII]λ&lambda;4959,5007 emission. Our follow-up reveals clear [OIII] emission, ruling out a genuine zero-metallicity nature. However, the combination of the measured line fluxes and photometry indicates that its spectral energy distribution requires an extraordinarily strong Balmer jump (-1.66 ± 0.47 mag) and Hα equivalent width (3750±1800 Å), features that cannot be reproduced by current stellar+nebular or pure nebular photoionization models. The only models approaching the observations to almost within 1σ involve a hot (T_eff\!≃\!10^4.7 K) single blackbody embedded in a low-T_e nebular environment, suggestive of scenarios such as a tidal-disruption event or a microquasar with strong disk winds. This cautions that photometric Pop~III selections are vulnerable to contamination when the rest-frame optical continuum is undetected. Motivated by this, we refine the photometric Pop III selection criteria to exclude the locus of extreme Balmer-jump objects. The revised criteria also recover the recently reported spectroscopic candidate AMORE6, demonstrating that the updated selection preserves sensitivity to genuine Pop III-like sources while removing key contaminants. Applying the refined criteria across legacy survey fields and five newly released CANUCS lensing cluster fields, we revisit the Pop III UV luminosity function and estimate the Pop III cosmic star-formation rate density to be ≈[10^-6&ndash;10^-4]~M<sub>&odot;</sub>~yr^-1~cMpc^-3 at z≃6&ndash;7, falling in the range of current theoretical predictions.
 </p>
 <p> <b> Published: </b> 2025-12-12T18:56:20Z </p>
-<p> <b> Updated: </b> 2025-12-15T13:28:25Z </p>
+<p> <b> Updated: </b> 2025-12-20T05:47:53Z </p>
 <p> <b> Comments: </b> 20pages, 16 figures, 4 tables. Submitted to the Open Journal of Astrophysics. Comments and feedback are warmly welcomed! </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.11790v2"> https://arxiv.org/pdf/2512.11790v2 </a> </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.11790v3"> https://arxiv.org/pdf/2512.11790v3 </a> </p>
 
 ### 6) [2512.08054](https://arxiv.org/abs/2512.08054v1): Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z&gt;6 Galaxy, the Strongly Lensed Cosmic Spear at z=6.2
 
