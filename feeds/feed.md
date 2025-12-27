@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Dec 26 05:07:07 2025
+### Updated Sat Dec 27 05:06:48 2025
 
 ### 1) [2512.20945](https://arxiv.org/abs/2512.20945v1): Mid-IR luminosity functions: inferred dusty cosmic star-formation and black hole accretion histories from the JWST SMILES
 
