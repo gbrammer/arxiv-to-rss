@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Tue Dec 30 05:08:47 2025
+### Updated Wed Dec 31 05:09:23 2025
 
 ### 1) [2512.23157](https://arxiv.org/abs/2512.23157v1): The GLASS-JWST Early Release Science Program. V. Hα luminosity functions at z~1.3 and z~2.0
 
