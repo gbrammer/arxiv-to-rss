@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Jan  7 05:09:59 2026
+### Updated Fri Jan  9 05:08:55 2026
 
 ### 1) [2601.01722](https://arxiv.org/abs/2601.01722v1): Dynamical properties and star formation history of a low-mass quenched galaxy at Cosmic Noon
 
