@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Jan  9 05:08:53 2026
+### Updated Sat Jan 10 05:07:07 2026
 
 ### 1) [2601.04988](https://arxiv.org/abs/2601.04988v1): Through Thick and Thin: The Cosmic Evolution of Disk Scale Height
 
