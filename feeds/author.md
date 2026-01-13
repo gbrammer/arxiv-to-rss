@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Jan 12 05:13:06 2026
+### Updated Tue Jan 13 05:09:54 2026
 
 ### 1) [2601.06015](https://arxiv.org/abs/2601.06015v1): VENUS: Two Faint Little Red Dots Separated by ~70 pc Hidden in a Single Lensed Galaxy at z~7
 
@@ -232,16 +232,16 @@ At low redshift, massive quiescent galaxies (MQGs) are most frequently found in 
 <p> <b> Comments: </b> Submitted to ApJ; 27 pages, 14 figures, 4 tables. Comments welcome! Animation and interactive figure hosted on Google Drive at https://drive.google.com/drive/folders/1LkQTPyNo83WAVEVw4-NUTvzmTtD0NVVb?usp=share_link </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.25024v1"> https://arxiv.org/pdf/2510.25024v1 </a> </p>
 
-### 22) [2510.23549](https://arxiv.org/abs/2510.23549v1): Cosmic Vine: High abundance of massive galaxies and dark matter halos in a forming cluster at z=3.44
+### 22) [2510.23549](https://arxiv.org/abs/2510.23549v2): Cosmic Vine: High abundance of massive galaxies and dark matter halos in a forming cluster at z=3.44
 
 <p> Nikolaj B. Sillassen, Shuowen Jin, Georgios E. Magdis, Francesco Valentino, Emanuele Daddi, Raphael Gobat, Malte Brinch, Kei Ito, Tao Wang, Hanwen Sun, Gabriel Brammer, Sune Toft, Thomas Greve </p>
 <p>
 The Cosmic Vine is a massive protocluster at z=3.44 in the JWST CEERS field, offering an ideal laboratory for studying the early phases of cluster formation. Using the data from the DAWN JWST Archive, we conduct a comprehensive study on the large-scale structure, stellar mass function (SMF), quiescent members, and dark matter halos in the Cosmic Vine. First, we spectroscopically confirm 136 galaxies in the Vine at z=3.44, and an additional 47 galaxies belonging to a diffuse foreground structure at z=3.34 which we dub the Leaf. We identify four subgroups comprising the Cosmic Vine and two subgroups within the Leaf. Second, we identified 11 quiescent members with log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)=9.5-11.0, the largest sample of quiescent galaxies in overdense environments at z&gt;3, which gives an enhanced quiescent galaxy number density 2x10^(-4)cMpc^(-3) that is three times above the field level at log(M<sub>&sext;</sub>/M<sub>&odot;</sub>) &gt; 10. Notably, these quiescent members form a tight red sequence on the color-magnitude diagram, making it one of the earliest red sequences known to date. Third, by constructing the SMFs for both star-forming and quiescent members, we find that both SMFs are top-heavy, with a significantly enhanced quiescent fraction at log(M<sub>&sext;</sub>/M<sub>&odot;</sub>)&gt;10.5 compared to field counterparts. The stellar mass-size analysis reveals that star-forming members are more compact at higher masses than their field counterparts. Finally, we estimate a halo mass of log(Mh/M<sub>&odot;</sub>)=13.2+-0.3 for the protocluster core, and log(Mh/M<sub>&odot;</sub>)=11.9-12.4 for satellite subgroups. The phase-space analysis indicates that three subgroups are likely infalling to the core. This work reveals a high abundance of massive galaxies and dark matter halos in a forming cluster, demonstrating the accelerated assembly of massive galaxies in massive halos when the Universe was less than 2 billion years old.
 </p>
 <p> <b> Published: </b> 2025-10-27T17:25:11Z </p>
-<p> <b> Updated: </b> 2025-10-27T17:25:11Z </p>
-<p> <b> Comments: </b> 10 pages, 8 figures, 4 tables, submitted to A&A </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.23549v1"> https://arxiv.org/pdf/2510.23549v1 </a> </p>
+<p> <b> Updated: </b> 2026-01-12T11:29:43Z </p>
+<p> <b> Comments: </b> 10 pages, 8 figures, 5 tables, accepted in A&A </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.23549v2"> https://arxiv.org/pdf/2510.23549v2 </a> </p>
 
 ### 23) [2510.13240](https://arxiv.org/abs/2510.13240v1): Discovery of red galaxy candidates at z ~ 12: Early dust growth or significant nebular emission with high-temperature stars?
 
