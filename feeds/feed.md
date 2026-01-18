@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jan 17 05:06:44 2026
+### Updated Sun Jan 18 05:08:11 2026
 
 ### 1) [2601.10573](https://arxiv.org/abs/2601.10573v1): Origins of the UV continuum and Balmer emission lines in Little Red Dots: observational validation of dense gas envelope models enshrouding the AGN
 
