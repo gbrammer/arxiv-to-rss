@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Jan 22 05:12:19 2026
+### Updated Fri Jan 23 05:11:10 2026
 
 ### 1) [2601.11092](https://arxiv.org/abs/2601.11092v1): Emission-line Diagnostics at z≳ 2: A Probe of the Ionizing Spectrum and α Enhancement Beyond Cosmic Noon
 
