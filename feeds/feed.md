@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jan 24 05:06:56 2026
+### Updated Sun Jan 25 05:12:18 2026
 
 ### 1) [2601.15965](https://arxiv.org/abs/2601.15965v1): Clump-like Structures in High-Redshift Galaxies: Mass Scaling and Radial Trends from JADES
 
