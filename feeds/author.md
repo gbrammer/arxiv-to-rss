@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Feb  9 05:34:31 2026
+### Updated Tue Feb 10 05:34:09 2026
 
 ### 1) [2602.06024](https://arxiv.org/abs/2602.06024v1): Water absorption confirms cool atmospheres in two little red dots
 
