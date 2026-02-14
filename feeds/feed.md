@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Feb 13 05:30:52 2026
+### Updated Sat Feb 14 05:22:08 2026
 
 ### 1) [2602.11783](https://arxiv.org/abs/2602.11783v1): Characterising Lyα damping wings at the onset of reionisation: Evidence for highly efficient star formation driven by dense, neutral gas in UV-bright galaxies at z&gt;9
 
