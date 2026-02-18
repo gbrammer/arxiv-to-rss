@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Feb 17 05:30:36 2026
+### Updated Wed Feb 18 05:31:38 2026
 
 ### 1) [2602.14074](https://arxiv.org/abs/2602.14074v1): VENUS: Strong-lensing model of MACS J1931.8-2635 &ndash; revealing the farthest multiply imaged supernova
 
