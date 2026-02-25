@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Feb 24 05:30:30 2026
+### Updated Wed Feb 25 05:31:44 2026
 
 ### 1) [2602.18558](https://arxiv.org/abs/2602.18558v1): The ionised interstellar medium of DSFGs revealed by JWST/NIRSpec and ALMA: Super-solar metallicity, low ionisation parameters and, typical electron densities
 
@@ -430,16 +430,16 @@ We report the discovery of two z ~ 12 galaxy candidates with unusually red UV sl
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.13240v1"> https://arxiv.org/pdf/2510.13240v1 </a> </p>
 
-### 40) [2510.11455](https://arxiv.org/abs/2510.11455v1): Feeding the dead: neutral gas inflow with suppressed star formation in a long-quenched ancient massive galaxy at z~2.7 observed with JWST/NIRSpec
+### 40) [2510.11455](https://arxiv.org/abs/2510.11455v2): Feeding the Dead: Neutral Gas Inflow in a Long-Quenched Ancient Massive Galaxy at z~ 2.7 Observed with JWST/NIRSpec
 
 <p> Davide Bevacqua, Danilo Marchesini, Paolo Saracco, Francesco La Barbera, Richard Pan, Sirio Belli, Gabriel Brammer, Guido De Marchi, Fabio R. Ditrani, Giovanna Giardino, Karl Glazebrook, Valentina La Torre, Jamie Lin, Adam Muzzin, Namrata Roy, Paola Santini, Benedetta Vulcani, Peter J. Watson, Xin Wang </p>
 <p>
 We report the spectroscopic detection of neutral gas inflow into a massive (M_* ≃ 4× 10^10 M<sub>&odot;</sub>) quiescent galaxy observed at z<sub>spec</sub> = 2.6576 with JWST. From the redshifted absorption of the NaI doublet at λλ5890, 5896 Ang, we estimate an inflow velocity v=278^+79_-79 km s<sup>-1</sup> and a column density log(N_NaI/cm<sup>2</sup>) = 13.02^+0.03_-0.03. We derive the inflowing mass of the gas M_in = 1.6^+0.1_-0.1 × 10^8 M<sub>&odot;</sub> and rate M&#775;_in = 19^+6_-7   M<sub>&odot;</sub>   yr^-1. The presence of several surrounding galaxies suggests that the galaxy may be accreting gas from nearby companions. However, we cannot confirm it with current data and the intergalactic medium or cosmic filaments are also viable sources of the inflowing gas. Despite the ongoing inflow, the galaxy remains quiescent, with an upper limit to the star formation rate of 0.2   M<sub>&odot;</sub>   yr^-1. Moreover, its star formation history suggests that the galaxy has remained quiescent during the past ~1 Gyr, with half of its stars formed by redshift z_50=11^+18_-3. We discuss that the inflow is not massive, dense, or long-lived enough to ignite significant star formation, or it is fueling low-level AGN activity instead. This is direct evidence that quiescent galaxies can accrete cold gas after their quenching while keeping their star formation subdued. Follow-up observations with JWST and ALMA will be needed to constraint the nature of the inflowing gas.
 </p>
 <p> <b> Published: </b> 2025-10-13T14:26:08Z </p>
-<p> <b> Updated: </b> 2025-10-13T14:26:08Z </p>
-<p> <b> Comments: </b> Submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.11455v1"> https://arxiv.org/pdf/2510.11455v1 </a> </p>
+<p> <b> Updated: </b> 2026-02-24T08:34:42Z </p>
+<p> <b> Comments: </b>  </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.11455v2"> https://arxiv.org/pdf/2510.11455v2 </a> </p>
 
 ### 41) [2510.11373](https://arxiv.org/abs/2510.11373v1): JWST COSMOS-3D: Spectroscopic Census and Luminosity Function of [O III] Emitters at 6.75&lt;z&lt;9.05 in COSMOS
 
