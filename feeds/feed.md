@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Feb 27 05:26:15 2026
+### Updated Sat Feb 28 05:14:41 2026
 
 ### 1) [2602.23310](https://arxiv.org/abs/2602.23310v1): Extreme Emission Line Galaxies in CEERS Are Powered by Star Formation, not AGN
 
@@ -507,18 +507,7 @@ Here we analyse the growth and feedback effects of massive black holes (MBHs) in
 <p> <b> Comments: </b> submitted to the Open Journal of Astrophysics. arXiv admin note: text overlap with arXiv:2511.09640 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09104v1"> https://arxiv.org/pdf/2602.09104v1 </a> </p>
 
-### 47) [2602.09091](https://arxiv.org/abs/2602.09091v1): All the Massive Galaxy Overdensities during Reionization: JWST Rest-Frame Optical Selection Reveals Young, Chemically Evolved Galaxies Embedded in Dense, Neutral Gas at z &gt; 5
-
-<p> Chamilla Terp, Kasper E. Heintz, Jorryt Matthee, Rohan P. Naidu, Pascal A. Oesch, Callum Witten, Daichi Kashino, Clara L. Pollock, Claudia Di Cesare, Alberto Torralba </p>
-<p>
-The high-redshift progenitors of present-day galaxy clusters are believed to substantially contribute to the global star-formation rate density and drive the large-scale reionization of the Universe. Here we present a blind and unbiased search for and characterization of galaxy overdensities during the reionization epoch at redshifts z~ 5.5-7, based on rest-frame optical JWST/NIRCam grism spectroscopy of the Abell 2744 lensing field as part of the JWST-ALT survey. Using a physically-motivated, cosmological inference Friends-of-Friends (FoF) algorithm, we identify six galaxy overdensities, including five robust systems at z=5.66 to 6.77. They are all characterized by total halo masses M_halo ≳ 10^11 M<sub>&odot;</sub> inferred from a range of proxies. We find that the galaxy members in these overdense environments are on average less massive though equally metal-rich, and generally comprised of younger stellar populations as indicated from their bluer spectral slopes less prominent Balmer breaks, than field galaxies at similar redshifts. Further, we use this novel rest-frame optical selection of galaxy proto-clusters to infer the fraction and 3D distribution of strong Lyman-α emitters (LAEs) and damped Lyman-α absorbers (DLAs) in the overdensity environments. We find that two out of six galaxy overdensities have excess \hi absorption compared to the field-average, while the other four are consistent within their large scatter in density. These results present the first direct observational constraints on the tomography of the dense, neutral gas reservoirs in large-scale galaxy overdensities at z&gt;5 and highlight the limitations of pre-JWST searches for reionization-era galaxy overdensities relying on the detection of strong LAEs alone.[Abridged]
-</p>
-<p> <b> Published: </b> 2026-02-09T19:00:00Z </p>
-<p> <b> Updated: </b> 2026-02-09T19:00:00Z </p>
-<p> <b> Comments: </b> 13 pages, 9 figures, submitted </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09091v1"> https://arxiv.org/pdf/2602.09091v1 </a> </p>
-
-### 48) [2602.09085](https://arxiv.org/abs/2602.09085v1): Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST
+### 47) [2602.09085](https://arxiv.org/abs/2602.09085v1): Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST
 
 <p> D. Kakkad, I. Lazar, S. Harish, B. Bichang'a, R. K. Cochrane, S. Kaviraj, A. E. Watkins, G. Martin, S. Koudmani, Andrew J. Battisti, Caitlin Casey, Maximilien Franco, G. Gozaliasl, M. Hirschmann, Jeyhan Kartaltepe, A. A. Khostovan, Anton Koekemoer, Daizhong Liu, Henry Joy McCracken, Jason Rhodes, Brant Robertson </p>
 <p>
@@ -528,6 +517,17 @@ Low-mass or dwarf galaxies (M<sub>&ast;</sub>&lt;10^9 M&odot;) are abundant in t
 <p> <b> Updated: </b> 2026-02-09T19:00:00Z </p>
 <p> <b> Comments: </b> Accepted for publication in MNRAS; 13 pages, 9 figures, 2 tables </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09085v1"> https://arxiv.org/pdf/2602.09085v1 </a> </p>
+
+### 48) [2602.09091](https://arxiv.org/abs/2602.09091v1): All the Massive Galaxy Overdensities during Reionization: JWST Rest-Frame Optical Selection Reveals Young, Chemically Evolved Galaxies Embedded in Dense, Neutral Gas at z &gt; 5
+
+<p> Chamilla Terp, Kasper E. Heintz, Jorryt Matthee, Rohan P. Naidu, Pascal A. Oesch, Callum Witten, Daichi Kashino, Clara L. Pollock, Claudia Di Cesare, Alberto Torralba </p>
+<p>
+The high-redshift progenitors of present-day galaxy clusters are believed to substantially contribute to the global star-formation rate density and drive the large-scale reionization of the Universe. Here we present a blind and unbiased search for and characterization of galaxy overdensities during the reionization epoch at redshifts z~ 5.5-7, based on rest-frame optical JWST/NIRCam grism spectroscopy of the Abell 2744 lensing field as part of the JWST-ALT survey. Using a physically-motivated, cosmological inference Friends-of-Friends (FoF) algorithm, we identify six galaxy overdensities, including five robust systems at z=5.66 to 6.77. They are all characterized by total halo masses M_halo ≳ 10^11 M<sub>&odot;</sub> inferred from a range of proxies. We find that the galaxy members in these overdense environments are on average less massive though equally metal-rich, and generally comprised of younger stellar populations as indicated from their bluer spectral slopes less prominent Balmer breaks, than field galaxies at similar redshifts. Further, we use this novel rest-frame optical selection of galaxy proto-clusters to infer the fraction and 3D distribution of strong Lyman-α emitters (LAEs) and damped Lyman-α absorbers (DLAs) in the overdensity environments. We find that two out of six galaxy overdensities have excess \hi absorption compared to the field-average, while the other four are consistent within their large scatter in density. These results present the first direct observational constraints on the tomography of the dense, neutral gas reservoirs in large-scale galaxy overdensities at z&gt;5 and highlight the limitations of pre-JWST searches for reionization-era galaxy overdensities relying on the detection of strong LAEs alone.[Abridged]
+</p>
+<p> <b> Published: </b> 2026-02-09T19:00:00Z </p>
+<p> <b> Updated: </b> 2026-02-09T19:00:00Z </p>
+<p> <b> Comments: </b> 13 pages, 9 figures, submitted </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09091v1"> https://arxiv.org/pdf/2602.09091v1 </a> </p>
 
 ### 49) [2602.08824](https://arxiv.org/abs/2602.08824v1): CHIMPS2: The physical properties and star formation efficiency of molecular gas in the Central Molecular Zone
 
