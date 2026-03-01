@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Feb 28 05:14:41 2026
+### Updated Sun Mar  1 05:27:35 2026
 
 ### 1) [2602.23310](https://arxiv.org/abs/2602.23310v1): Extreme Emission Line Galaxies in CEERS Are Powered by Star Formation, not AGN
 
@@ -507,18 +507,7 @@ Here we analyse the growth and feedback effects of massive black holes (MBHs) in
 <p> <b> Comments: </b> submitted to the Open Journal of Astrophysics. arXiv admin note: text overlap with arXiv:2511.09640 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09104v1"> https://arxiv.org/pdf/2602.09104v1 </a> </p>
 
-### 47) [2602.09085](https://arxiv.org/abs/2602.09085v1): Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST
-
-<p> D. Kakkad, I. Lazar, S. Harish, B. Bichang'a, R. K. Cochrane, S. Kaviraj, A. E. Watkins, G. Martin, S. Koudmani, Andrew J. Battisti, Caitlin Casey, Maximilien Franco, G. Gozaliasl, M. Hirschmann, Jeyhan Kartaltepe, A. A. Khostovan, Anton Koekemoer, Daizhong Liu, Henry Joy McCracken, Jason Rhodes, Brant Robertson </p>
-<p>
-Low-mass or dwarf galaxies (M<sub>&ast;</sub>&lt;10^9 M&odot;) are abundant in the Universe, yet their formation and evolution remain poorly understood. Their enhanced sensitivity to feedback from star formation and active galactic nuclei (AGN) make them excellent laboratories to test whether feedback prescriptions in cosmological simulations accurately reproduce their interstellar medium (ISM) properties. We present JWST/NIRCam and MIRI imaging of nine dwarf galaxies from COSMOS-Web survey at redshift z&lt;0.08, with star formation rates ranging from 0.003-0.3 M&odot; yr^-1 and stellar masses of log M<sub>&ast;</sub>~8-9 M<sub>&odot;</sub>. The detection rate with both NIRCam and MIRI is 100&percnt;, indicating that these dwarfs possess substantial ISM content. The detected sample includes a roughly equal mix of early-type and late-type dwarfs, suggesting that it is representative of the broader dwarf galaxy population in low-density environments. We find that the observed MIRI flux distributions are comparable to forward-modelled flux distributions of mass-matched simulated galaxies in TNG50. We further conduct a multi-wavelength morphological analysis complementing the JWST NIRCam and MIRI imaging with archival HST/ACS data, employing the CAS (concentration, asymmetry, smoothness) framework. Among the multi-wavelength images, MIRI exhibits the largest variation in CAS parameters, likely due to dust lanes and clumps in several galaxies, also suggested by Spectral Energy Distribution (SED) fitting. This suggests that the dust content in these systems may be higher than those implied by rest-frame optical or near-infrared observations alone. Upcoming UV/optical and mid-infrared spectroscopic follow-up will be critical for constraining the gas kinematics and dust grain properties of dwarf galaxies in low-density environments such as COSMOS.
-</p>
-<p> <b> Published: </b> 2026-02-09T19:00:00Z </p>
-<p> <b> Updated: </b> 2026-02-09T19:00:00Z </p>
-<p> <b> Comments: </b> Accepted for publication in MNRAS; 13 pages, 9 figures, 2 tables </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09085v1"> https://arxiv.org/pdf/2602.09085v1 </a> </p>
-
-### 48) [2602.09091](https://arxiv.org/abs/2602.09091v1): All the Massive Galaxy Overdensities during Reionization: JWST Rest-Frame Optical Selection Reveals Young, Chemically Evolved Galaxies Embedded in Dense, Neutral Gas at z &gt; 5
+### 47) [2602.09091](https://arxiv.org/abs/2602.09091v1): All the Massive Galaxy Overdensities during Reionization: JWST Rest-Frame Optical Selection Reveals Young, Chemically Evolved Galaxies Embedded in Dense, Neutral Gas at z &gt; 5
 
 <p> Chamilla Terp, Kasper E. Heintz, Jorryt Matthee, Rohan P. Naidu, Pascal A. Oesch, Callum Witten, Daichi Kashino, Clara L. Pollock, Claudia Di Cesare, Alberto Torralba </p>
 <p>
@@ -528,6 +517,17 @@ The high-redshift progenitors of present-day galaxy clusters are believed to sub
 <p> <b> Updated: </b> 2026-02-09T19:00:00Z </p>
 <p> <b> Comments: </b> 13 pages, 9 figures, submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09091v1"> https://arxiv.org/pdf/2602.09091v1 </a> </p>
+
+### 48) [2602.09085](https://arxiv.org/abs/2602.09085v1): Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST
+
+<p> D. Kakkad, I. Lazar, S. Harish, B. Bichang'a, R. K. Cochrane, S. Kaviraj, A. E. Watkins, G. Martin, S. Koudmani, Andrew J. Battisti, Caitlin Casey, Maximilien Franco, G. Gozaliasl, M. Hirschmann, Jeyhan Kartaltepe, A. A. Khostovan, Anton Koekemoer, Daizhong Liu, Henry Joy McCracken, Jason Rhodes, Brant Robertson </p>
+<p>
+Low-mass or dwarf galaxies (M<sub>&ast;</sub>&lt;10^9 M&odot;) are abundant in the Universe, yet their formation and evolution remain poorly understood. Their enhanced sensitivity to feedback from star formation and active galactic nuclei (AGN) make them excellent laboratories to test whether feedback prescriptions in cosmological simulations accurately reproduce their interstellar medium (ISM) properties. We present JWST/NIRCam and MIRI imaging of nine dwarf galaxies from COSMOS-Web survey at redshift z&lt;0.08, with star formation rates ranging from 0.003-0.3 M&odot; yr^-1 and stellar masses of log M<sub>&ast;</sub>~8-9 M<sub>&odot;</sub>. The detection rate with both NIRCam and MIRI is 100&percnt;, indicating that these dwarfs possess substantial ISM content. The detected sample includes a roughly equal mix of early-type and late-type dwarfs, suggesting that it is representative of the broader dwarf galaxy population in low-density environments. We find that the observed MIRI flux distributions are comparable to forward-modelled flux distributions of mass-matched simulated galaxies in TNG50. We further conduct a multi-wavelength morphological analysis complementing the JWST NIRCam and MIRI imaging with archival HST/ACS data, employing the CAS (concentration, asymmetry, smoothness) framework. Among the multi-wavelength images, MIRI exhibits the largest variation in CAS parameters, likely due to dust lanes and clumps in several galaxies, also suggested by Spectral Energy Distribution (SED) fitting. This suggests that the dust content in these systems may be higher than those implied by rest-frame optical or near-infrared observations alone. Upcoming UV/optical and mid-infrared spectroscopic follow-up will be critical for constraining the gas kinematics and dust grain properties of dwarf galaxies in low-density environments such as COSMOS.
+</p>
+<p> <b> Published: </b> 2026-02-09T19:00:00Z </p>
+<p> <b> Updated: </b> 2026-02-09T19:00:00Z </p>
+<p> <b> Comments: </b> Accepted for publication in MNRAS; 13 pages, 9 figures, 2 tables </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.09085v1"> https://arxiv.org/pdf/2602.09085v1 </a> </p>
 
 ### 49) [2602.08824](https://arxiv.org/abs/2602.08824v1): CHIMPS2: The physical properties and star formation efficiency of molecular gas in the Central Molecular Zone
 
