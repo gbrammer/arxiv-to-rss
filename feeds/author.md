@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Mar  9 05:29:32 2026
+### Updated Wed Mar 11 05:24:03 2026
 
 ### 1) [2603.01370](https://arxiv.org/abs/2603.01370v1): Everything Every Band All at Once II: The Relationship Between Optical Size and Stellar Mass Over Eight Billion Years of Cosmic History
 
@@ -694,16 +694,16 @@ We present the nebular attenuation curves and dust covering fractions for 24 red
 <p> <b> Comments: </b> 28 pages, 26 figures, 1 table </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2506.17396v1"> https://arxiv.org/pdf/2506.17396v1 </a> </p>
 
-### 64) [2506.16510](https://arxiv.org/abs/2506.16510v1): Taking a Break at Cosmic Noon: Continuum-selected Low-mass Galaxies Require Long Burst Cycles
+### 64) [2506.16510](https://arxiv.org/abs/2506.16510v2): Taking a Break at Cosmic Noon: Continuum-selected Low-mass Galaxies Require Long Burst Cycles
 
-<p> Abby Mintz, David J. Setton, Jenny E. Greene, Joel Leja, Bingjie Wang, Emilie Burnham, Katherine A. Suess, Hakim Atek, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Pratika Dayal, Robert Feldmann, Lukas J. Furtak, Karl Glazebrook, Gourav Khullar, Vasily Kokorev, Ivo Labbé, Michael V. Maseda, Tim B. Miller, Ikki Mitsuhashi, Themiya Nanayakkara, Richard Pan, Sedona H. Price, John R. Weaver, Katherine E. Whitaker </p>
+<p> Abby Mintz, David J. Setton, Jenny E. Greene, Joel Leja, Bingjie Wang, Emilie Burnham, Katherine A. Suess, Hakim Atek, Rachel Bezanson, Gabriel Brammer, Sam E. Cutler, Pratika Dayal, Robert Feldmann, Lukas J. Furtak, Karl Glazebrook, Gourav Khullar, Vasily Kokorev, Ivo Labbé, Jorryt Matthee, Michael V. Maseda, Tim B. Miller, Ikki Mitsuhashi, Themiya Nanayakkara, Richard Pan, Sedona H. Price, John R. Weaver, Katherine E. Whitaker, Belinda Wu </p>
 <p>
-While bursty star formation in low-mass galaxies has been observed in local populations and reproduced in simulations, the dormant phase of the burst cycle has not been well studied beyond the local Universe due to observational limitations. We present a unique sample of 41 JWST PRISM spectra of low-mass galaxies (M<sub>&sext;</sub> &lt; 10^9.5 M<sub>&odot;</sub>) at cosmic noon (1&lt;z&lt;3), uniformly selected on F200W magnitude and precise photometric redshifts enabled by 20-band JWST photometry from the UNCOVER and MegaScience surveys. The spectra reveal numerous strong Balmer breaks, which are negatively correlated with the galaxies' Hα equivalent width. By comparing these observations to synthetic samples of spectra generated using a simple parametrization of bursty star formation histories, we show that star formation in low-mass galaxies at cosmic noon is likely dominated by burst cycles with long timescales (≳ 100 Myr) and large deviations below the star-forming main sequence (≳ 0.8 dex). Our results suggest that galaxies in this population&ndash;at least those within our detection limits&ndash;should not be classified solely by their current star formation rates, but instead viewed as a unified population undergoing dynamic movement above and below the star-forming main sequence. The derived constraints demonstrate that long-timescale fluctuations are important for this class of galaxies, indicating that galaxy-scale gas cycles&ndash;rather than molecular-cloud-scale stochasticity&ndash;are the primary regulators of star formation variability in low-mass galaxies at cosmic noon.
+While bursty star formation in low-mass galaxies has been observed in local populations and reproduced in simulations, the dormant phase of the burst cycle has not been well studied beyond the local Universe due to observational limitations. We present a unique sample of 43 JWST PRISM spectra of low-mass galaxies (M<sub>&sext;</sub> &lt; 10^9.5 M<sub>&odot;</sub>) at cosmic noon (1&lt;z&lt;3), uniformly selected on F200W magnitude and precise photometric redshifts enabled by 20-band JWST photometry from the UNCOVER and MegaScience surveys. The spectra reveal numerous strong Balmer breaks, which are negatively correlated with the galaxies' Hα equivalent width. By comparing these observations to synthetic samples of spectra generated using a simple parametrization of bursty star formation histories, we show that star formation in low-mass galaxies at cosmic noon is likely dominated by burst cycles with long timescales (≳ 100 Myr) and large deviations below the star-forming main sequence (≳ 0.8 dex). Our results suggest that galaxies in this population&ndash;at least those within our detection limits&ndash;should not be classified solely by their current star formation rates, but instead viewed as a unified population undergoing dynamic movement above and below the star-forming main sequence. The derived constraints demonstrate that long-timescale fluctuations are important for this class of galaxies, indicating that galaxy-scale gas cycles&ndash;rather than molecular-cloud-scale stochasticity&ndash;are the primary regulators of star formation variability in low-mass galaxies at cosmic noon.
 </p>
 <p> <b> Published: </b> 2025-06-19T18:00:00Z </p>
-<p> <b> Updated: </b> 2025-06-19T18:00:00Z </p>
-<p> <b> Comments: </b> 24 pages, 11 figures. Submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2506.16510v1"> https://arxiv.org/pdf/2506.16510v1 </a> </p>
+<p> <b> Updated: </b> 2026-03-10T17:33:02Z </p>
+<p> <b> Comments: </b> 25 pages, 12 figures. Published in ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2506.16510v2"> https://arxiv.org/pdf/2506.16510v2 </a> </p>
 
 ### 65) [2506.15779](https://arxiv.org/abs/2506.15779v1): Novel z~~10 auroral line measurements extend the gradual offset of the FMR deep into the first Gyr of cosmic time
 
