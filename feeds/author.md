@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Mar 11 05:24:03 2026
+### Updated Thu Mar 12 05:26:17 2026
 
 ### 1) [2603.01370](https://arxiv.org/abs/2603.01370v1): Everything Every Band All at Once II: The Relationship Between Optical Size and Stellar Mass Over Eight Billion Years of Cosmic History
 
