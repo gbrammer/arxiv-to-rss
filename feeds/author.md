@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Mar 15 05:33:30 2026
+### Updated Mon Mar 16 05:39:27 2026
 
 ### 1) [2603.11338](https://arxiv.org/abs/2603.11338v1): Balmer Decrements and Nebular-Stellar Reddening in JADES Galaxies at 2.7&lt;z&lt;7
 
