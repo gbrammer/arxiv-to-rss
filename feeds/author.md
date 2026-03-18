@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Mar 17 05:31:15 2026
+### Updated Wed Mar 18 05:33:16 2026
 
 ### 1) [2603.13471](https://arxiv.org/abs/2603.13471v1): A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST
 
