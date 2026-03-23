@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Mar 21 05:21:10 2026
+### Updated Mon Mar 23 05:34:40 2026
 
 ### 1) [2603.17667](https://arxiv.org/abs/2603.17667v1): The Engine and its Flows: Little Red Dot spectra are shaped by the column densities of their gas envelopes
 
