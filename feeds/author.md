@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Mar 24 05:32:09 2026
+### Updated Wed Mar 25 05:32:08 2026
 
 ### 1) [2603.17667](https://arxiv.org/abs/2603.17667v1): The Engine and its Flows: Little Red Dot spectra are shaped by the column densities of their gas envelopes
 
@@ -12,16 +12,16 @@ JWST data have enabled the abundant identification of compact broad Balmer line 
 <p> <b> Comments: </b> 19 pages, 13 figures. Main results in Figs 2 & 10. Submitted to A&A. Comments welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.17667v1"> https://arxiv.org/pdf/2603.17667v1 </a> </p>
 
-### 2) [2603.13471](https://arxiv.org/abs/2603.13471v1): A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST
+### 2) [2603.13471](https://arxiv.org/abs/2603.13471v2): A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST
 
-<p> Henriette Reumert, Kasper E. Heintz, Clara L. Pollock, Alex J. Cameron, Gabriel B. Brammer, Harley Katz, Albert Sneppen, Joris Witstok, Chamilla Terp, Darach Watson </p>
+<p> Henriette Reumert, Kasper E. Heintz, Clara L. Pollock, Alex J. Cameron, Gabriel B. Brammer, Albert Sneppen, Joris Witstok, Chamilla Terp, Darach Watson </p>
 <p>
-The discovery of galaxies with extremely strong nebular continuum emission at high redshifts provide novel, unique insights into the conditions under which the first super-massive stars formed. Here we identify a galaxy at redshift z=5.124 observed by the JWST CAPERS survey that exhibits a prominent turnover in the rest-frame UV continuum and a pronounced Balmer `jump'. We model the entire JWST/NIRSpec Prism spectrum from rest-frame UV to optical wavelength, finding that a dominant (&gt;95&percnt;) nebular continuum emission can accurately reproduce the spectral shape across all wavelengths. We tested an alternative model with strong damped Lyα absorption (DLA), but found that it is not able to match the shape of the turnover without invoking a large freedom in the redshift of the absorber. The nebular continuum emission model reveals a hot (T = (5.3± 0.2)× 10^4 K) and dense (n_e = (5.4± 0.8)× 10^3 cm^-3) nebular region powering the origin of the spectral shape. We also note the presence of a `blue' companion source at the same redshift, offset by 3 kpc to the main galaxy. Intriguingly, the spectrum of this source show several hints of hydrogen and helium lines, but no metal lines are detected. We theorize that this companion galaxy might be comprised mainly of Population III (PopIII) stellar remnants and potentially powers the nebular continuum emission seen in the main galaxy. These results have important implications for the presence of a potential dominant population of super-massive and PopIII stars and their consequent excess UV brightness for a significant fraction of galaxies at cosmic dawn.
+The discovery of galaxies with extremely strong nebular continuum emission at high redshifts provide novel, unique insights into the conditions under which the first super-massive stars formed. Here we identify a galaxy at redshift z=5.124 observed by the JWST CAPERS survey that exhibits a prominent turnover in the rest-frame UV continuum and a pronounced Balmer `jump'. We model the entire JWST/NIRSpec Prism spectrum from rest-frame UV to optical wavelength, finding that a dominant (&gt;95&percnt;) nebular continuum emission can accurately reproduce the spectral shape across all wavelengths. We tested an alternative model with strong damped Lyα absorption (DLA), but found that it is not able to match the shape of the turnover without invoking a large freedom in the redshift of the absorber. The nebular continuum emission model reveals a hot (T = (5.3± 0.2)× 10^4 K) and dense (n_e = (5.4± 0.8)× 10^3 cm^-3) nebular region powering the origin of the spectral shape. We also note the presence of a `blue' candidate companion source potentially at the same redshift, offset by 3 kpc to the main galaxy. Intriguingly, the spectrum of this source show several hints of hydrogen and helium lines, but no metal lines are detected. We theorize that this companion galaxy might be comprised mainly of Population III (PopIII) stellar remnants and potentially powers the nebular continuum emission seen in the main galaxy. These results have important implications for the presence of a potential dominant population of super-massive and PopIII stars and their consequent excess UV brightness for a significant fraction of galaxies at cosmic dawn.
 </p>
 <p> <b> Published: </b> 2026-03-13T18:00:01Z </p>
-<p> <b> Updated: </b> 2026-03-13T18:00:01Z </p>
+<p> <b> Updated: </b> 2026-03-24T09:57:01Z </p>
 <p> <b> Comments: </b> Comments welcome, to be submitted </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.13471v1"> https://arxiv.org/pdf/2603.13471v1 </a> </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.13471v2"> https://arxiv.org/pdf/2603.13471v2 </a> </p>
 
 ### 3) [2603.11338](https://arxiv.org/abs/2603.11338v1): Balmer Decrements and Nebular-Stellar Reddening in JADES Galaxies at 2.7&lt;z&lt;7
 
