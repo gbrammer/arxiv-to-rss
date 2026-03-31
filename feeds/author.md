@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Fri Mar 27 05:35:42 2026
+### Updated Tue Mar 31 05:36:05 2026
 
 ### 1) [2603.24700](https://arxiv.org/abs/2603.24700v1): A PANORAMIC of UV-optical morphologies of "Little Red Dots": Two groups of LRDs distinguished by UV half-light radius
 
@@ -221,16 +221,16 @@ JWST has revealed a population of compact galaxies in the early Universe with br
 <p> <b> Comments: </b> 40 pages, 22 figures, 2 tables </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.18864v1"> https://arxiv.org/pdf/2601.18864v1 </a> </p>
 
-### 21) [2601.11092](https://arxiv.org/abs/2601.11092v1): Emission-line Diagnostics at z≳ 2: A Probe of the Ionizing Spectrum and α Enhancement Beyond Cosmic Noon
+### 21) [2601.11092](https://arxiv.org/abs/2601.11092v2): Emission-line Diagnostics at z≳ 2: A Probe of the Ionizing Spectrum and α Enhancement Beyond Cosmic Noon
 
 <p> Leonardo Clarke, Natalie Lam, Alice E. Shapley, Michael W. Topping, Gabriel B. Brammer, Ryan L. Sanders, Naveen A. Reddy, Shreya Karthikeyan </p>
 <p>
-We analyze several key rest-optical emission-line ratios in a sample of 763 galaxies as well as composite spectra from JADES DR3 in the range 1.4 &lt; z &lt; 7. These emission-line ratios include: [O III]&lambda;5008/Hβ, [N II]λ6585/Hα, [S II]λλ6718,6733/Hα, [O I]λ6302/Hα, O32, R23, Ne3O2, and RO2Ne3. We find evidence for a harder ionizing spectrum at z~ 3.5 compared to z~ 2 at fixed gas-phase metallicity, resulting in a pronounced shift in the star-forming galaxy locus on the [N II]/Hα BPT diagram and the O32 vs. R23 diagram. At z≳ 3.5, star-forming galaxies occupy a common locus, indicating that ISM ionizing conditions at fixed gas-phase metallicity do not evolve strongly at these early cosmic times. There is a connection between ISM ionizing conditions and the chemical abundance patterns (i.e., α/Fe) in massive stars providing the ionizing radiation field. Therefore, the lack of evolution in ISM ionizing conditions at z≳ 3.5, followed by evolution towards a softer ionizing spectrum at fixed nebular metallicity as cosmic time proceeds to z~ 2 and lower redshift mirrors the chemical abundance patterns in Milky Way stars as a function of iron abundance. Our results highlight the diagnostic power of emission-line diagrams in the era of JWST to further our understanding of the ISM conditions into the Epoch of Reionization.
+We analyze several key rest-optical emission-line ratios in a sample of 828 galaxies as well as composite spectra from JADES DR3 in the range 1.4 &lt; z &lt; 7. These emission-line ratios include: [O III]&lambda;5008/Hβ, [N II]λ6585/Hα, [S II]λλ6718,6733/Hα, [O I]λ6302/Hα, O32, R23, Ne3O2, and RO2Ne3. We find evidence for a harder ionizing spectrum at z~ 3.5 compared to z~ 2 at fixed gas-phase metallicity, resulting in a pronounced shift in the star-forming galaxy locus on the [N II]/Hα BPT diagram and the O32 vs. R23 diagram. At z≳ 3.5, star-forming galaxies occupy a common locus, indicating that ISM ionizing conditions at fixed gas-phase metallicity do not evolve strongly at these early cosmic times. There is a connection between ISM ionizing conditions and the chemical abundance patterns (i.e., α/Fe) in massive stars providing the ionizing radiation field. Therefore, the lack of evolution in ISM ionizing conditions at z≳ 3.5, followed by evolution towards a softer ionizing spectrum at fixed nebular metallicity as cosmic time proceeds to z~ 2 and lower redshift mirrors the chemical abundance patterns in Milky Way stars as a function of iron abundance. Our results highlight the diagnostic power of emission-line diagrams in the era of JWST to further our understanding of the ISM conditions into the Epoch of Reionization.
 </p>
 <p> <b> Published: </b> 2026-01-16T08:42:53Z </p>
-<p> <b> Updated: </b> 2026-01-16T08:42:53Z </p>
-<p> <b> Comments: </b> 12 pages, 3 figures, 2 tables, submitted to ApJL </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.11092v1"> https://arxiv.org/pdf/2601.11092v1 </a> </p>
+<p> <b> Updated: </b> 2026-03-26T20:52:15Z </p>
+<p> <b> Comments: </b> 12 pages, 3 figures, 2 tables, accepted for publication in ApJL </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.11092v2"> https://arxiv.org/pdf/2601.11092v2 </a> </p>
 
 ### 22) [2601.06015](https://arxiv.org/abs/2601.06015v1): VENUS: Two Faint Little Red Dots Separated by ~70 pc Hidden in a Single Lensed Galaxy at z~7
 
@@ -958,16 +958,16 @@ Detecting the first generation of stars, Population III (PopIII), has been a lon
 <p> <b> Comments: </b> 41 pages, 20 figures, and 10 Tables. Submitted to ApJ. Comments are welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2501.11678v2"> https://arxiv.org/pdf/2501.11678v2 </a> </p>
 
-### 88) [2501.07627](https://arxiv.org/abs/2501.07627v2): Discovery of Ancient Globular Cluster Candidates in The Relic, a Quiescent Galaxy at z=2.5
+### 88) [2501.07627](https://arxiv.org/abs/2501.07627v3): Discovery of Ancient Globular Cluster Candidates in the Relic, a Quiescent Galaxy at z=2.5
 
 <p> Katherine E. Whitaker, Sam E. Cutler, Rupali Chandar, Richard Pan, David J. Setton, Lukas J. Furtak, Rachel Bezanson, Ivo Labbé, Joel Leja, Katherine A. Suess, Bingjie Wang, John R. Weaver, Hakim Atek, Gabriel B. Brammer, Robert Feldmann, Natascha M. Förster Schreiber, Karl Glazebrook, Anna de Graaff, Jenny E. Greene, Gourav Khullar, Danilo Marchesini, Michael V. Maseda, Tim B. Miller, Houjun Mo, Lamiya A. Mowla, Themiya Nanayakkara, Erica J. Nelson, Sedona H. Price, Francesca Rizzo, Pieter van Dokkum, Christina C. Williams, Yanzhe Zhang, Yunchong Zhang, Adi Zitrin </p>
 <p>
-Globular clusters (GCs) are some of the oldest bound structures in the Universe, holding clues to the earliest epochs of star formation and galaxy assembly. However, accurate age measurements of ancient clusters are challenging due to the age-metallicity degeneracy. Here, we report the discovery of 36 compact stellar systems within the 'Relic', a massive, quiescent galaxy at z=2.53. The Relic resides in an overdensity behind the Abell~2744 cluster, with a prominent tidal tail extending towards two low-mass companions. Using deep data from the UNCOVER/MegaScience JWST Surveys, we find that clusters formed in age intervals ranging from 8~Myr up to ~2~Gyr, suggesting a rich formation history starting at z~10. While the cluster-based star formation history is broadly consistent with the high past star formation rates derived from the diffuse host galaxy light, one potential discrepancy is a tentative ~2-3× higher rate in the cluster population for the past Gyr. Taken together with the spatial distribution and low inferred metallicities of these young-to-intermediate age clusters, we may be seeing direct evidence for the accretion of star clusters in addition to their early in-situ formation. The cluster masses are high, ~10^6-10^7~M<sub>&odot;</sub>, which may explain why we are able to detect them around this likely post-merger galaxy. Overall, the Relic clusters are consistent with being precursors of the most massive present-day GCs. This unique laboratory enables the first connection between long-lived, high-redshift clusters and local stellar populations, offering insights into the early stages of GC evolution and the broader processes of galaxy assembly.
+Globular clusters (GCs) are some of the oldest bound structures in the Universe, holding clues to the earliest epochs of star formation and galaxy assembly. However, accurate age measurements of ancient clusters are challenging due to the age-metallicity degeneracy. Here, we report the discovery of 36 compact stellar systems within the 'Relic', a massive, quiescent galaxy at z=2.53. The Relic resides in an overdensity behind the Abell~2744 cluster, with a prominent tidal tail extending towards two low-mass companions. Using deep data from the UNCOVER/MegaScience JWST Surveys, we find that clusters formed in age intervals ranging from 8~Myr up to ~2~Gyr, suggesting a rich formation history starting at z~10. While the cluster-based star formation history is broadly consistent with the high past star formation rates derived from the diffuse host galaxy light, one potential discrepancy is a tentative ~2-3× higher rate in the cluster population for the past Gyr. Taken together with the spatial distribution and low inferred metallicities of these young-to-intermediate age clusters, we may be seeing direct evidence for the accretion of star clusters in addition to their early in situ formation. The cluster masses are high, ~10^6-10^7~M<sub>&odot;</sub>, which may explain why we are able to detect them around this likely post-merger galaxy. Overall, the Relic clusters are consistent with being precursors of the most-massive present-day GCs. This unique laboratory enables the first connection between long-lived, high-redshift clusters and local stellar populations, offering insights into the early stages of GC evolution and the broader processes of galaxy assembly.
 </p>
 <p> <b> Published: </b> 2025-01-13T19:00:00Z </p>
-<p> <b> Updated: </b> 2026-03-04T15:10:59Z </p>
-<p> <b> Comments: </b> 23 pages, 8 figures, accepted for publication in the Astrophysical Journal on February 26, 2026 </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2501.07627v2"> https://arxiv.org/pdf/2501.07627v2 </a> </p>
+<p> <b> Updated: </b> 2026-03-27T15:14:59Z </p>
+<p> <b> Comments: </b> 23 pages, 8 figures. ApJ, in press (minor updates to affiliations and copyediting) </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2501.07627v3"> https://arxiv.org/pdf/2501.07627v3 </a> </p>
 
 ### 89) [2501.02956](https://arxiv.org/abs/2501.02956v1): Evolution of the Sérsic Index up to z=2.5 from JWST and HST
 
