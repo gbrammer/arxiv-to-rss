@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Apr  1 05:42:26 2026
+### Updated Thu Apr  2 05:35:09 2026
 
 ### 1) [2603.24700](https://arxiv.org/abs/2603.24700v1): A PANORAMIC of UV-optical morphologies of "Little Red Dots": Two groups of LRDs distinguished by UV half-light radius
 
