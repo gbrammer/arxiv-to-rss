@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Fri Apr  3 05:35:43 2026
+### Updated Sat Apr  4 05:29:54 2026
 
 ### 1) [2604.01326](https://arxiv.org/abs/2604.01326v1): Calibrating Photometric Mid-Infrared Star Formation Rates for JWST
 
