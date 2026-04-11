@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Fri Apr 10 05:43:57 2026
+### Updated Sat Apr 11 05:32:04 2026
 
 ### 1) [2604.05024](https://arxiv.org/abs/2604.05024v1): Winding Back the Clock: Recent Star Formation Histories of Massive Quiescent Galaxies Are Consistent With Their Rapid Number Density Evolution Since z~7
 
