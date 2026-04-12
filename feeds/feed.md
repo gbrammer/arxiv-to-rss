@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Apr 11 05:32:02 2026
+### Updated Sun Apr 12 05:41:37 2026
 
 ### 1) [2604.08239](https://arxiv.org/abs/2604.08239v1): Extended coronal line emission and new clues to a possible dual AGN in the merger J1356+1026
 
