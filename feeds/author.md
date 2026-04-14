@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Apr 13 05:54:19 2026
+### Updated Tue Apr 14 05:44:00 2026
 
 ### 1) [2604.08687](https://arxiv.org/abs/2604.08687v1): GLIMPSED: Direct evidence for a fast AGN-driven outflow from a z=6.64 Little Red Dot host galaxy
 
