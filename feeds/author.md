@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Apr 19 05:44:18 2026
+### Updated Mon Apr 20 05:54:28 2026
 
 ### 1) [2604.13000](https://arxiv.org/abs/2604.13000v1): How I Wonder What You Are &ndash; JWST's Little Red Dots do not TWINKLE
 
