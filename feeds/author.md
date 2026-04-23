@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Apr 22 05:45:03 2026
+### Updated Thu Apr 23 05:47:06 2026
 
 ### 1) [2604.18696](https://arxiv.org/abs/2604.18696v1): Other red dots: A possible GLIMPSE of normal AGB stars at Cosmic Noon through extreme lensing
 
