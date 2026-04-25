@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Apr 24 05:49:48 2026
+### Updated Sat Apr 25 05:37:56 2026
 
 ### 1) [2604.21886](https://arxiv.org/abs/2604.21886v1): The Dyson Minds 2025 Workshop: SETI around Black Holes
 
