@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat May  9 05:56:44 2026
+### Updated Sun May 10 06:03:58 2026
 
 ### 1) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
 

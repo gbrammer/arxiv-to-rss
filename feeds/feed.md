@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat May  9 05:56:42 2026
+### Updated Sun May 10 06:03:55 2026
 
 ### 1) [2605.05327](https://arxiv.org/abs/2605.05327v1): Shape of Direct-Method Mass-Metallicity Relation with JWST: Fast-Track Nitrogen and Helium Enrichment
 
