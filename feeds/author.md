@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun May 10 06:03:58 2026
+### Updated Sun May 17 06:07:47 2026
 
 ### 1) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
 
@@ -12,16 +12,16 @@ We report on the spectroscopic confirmation of overdense regions of massive quie
 <p> <b> Comments: </b> 19 pages, 13 figures, 2 tables; submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21007v1"> https://arxiv.org/pdf/2604.21007v1 </a> </p>
 
-### 2) [2604.18696](https://arxiv.org/abs/2604.18696v1): Other red dots: A possible GLIMPSE of normal AGB stars at Cosmic Noon through extreme lensing
+### 2) [2604.18696](https://arxiv.org/abs/2604.18696v2): Other red dots: A possible GLIMPSE of normal AGB stars at Cosmic Noon through extreme lensing
 
 <p> Lukas J. Furtak, Adi Zitrin, Erik Zackrisson, Vasily Kokorev, Anthony J. Taylor, Joseph F. V. Allingham, John Chisholm, Jose M. Diego, Hakim Atek, Kristen B. W. McQuinn, Ryan Endsley, Richard Pan, Gabriel Brammer, Qinyue Fei, Seiji Fujimoto, Tiger Y. -Y. Hsiao, Patrick L. Kelly, Damien Korber, Ashish K. Meena, Rohan P. Naidu, Alberto Saldana-Lopez </p>
 <p>
 We report the discovery of four extremely faint (m_F444W≳29) red point sources in recent ultra-deep JWST/NIRCam images of the strong lensing galaxy cluster Abell S1063. All four sources sit in lensed arcs, on the symmetry points very close to the critical curves for their host-galaxies' redshifts (z~1-4). Remarkably, these point sources appear in most arcs that are sufficiently faint close to the critical curve's position (&lt;21 nJy arcsec^-2 in F115W). This suggests that &ndash; unlike previous caustic-crossing events or lensed stars &ndash; thanks to the unprecedented depth of the GLIMPSE observations paired with the extreme lensing magnification (up to μ~10^4) we might be resolving the lower-mass (M~1-11 M<sub>&odot;</sub>) red stellar population. Concretely, we detect three likely extremely magnified asymptotic giant branch (AGB) stars (T_eff~3200-3750 K), and one yellow super-giant star (T_eff~6750 K) &ndash; possibly a yellow hyper-giant or a Cepheid. In addition to offering the first glimpse at low-mass extremely magnified stars, these detections open a possible window into stellar populations, evolution, and chemical enrichment at high redshifts, and could pave the way for using lensed stars such as these as standard candles to populate the distance ladder at cosmological redshifts.
 </p>
 <p> <b> Published: </b> 2026-04-20T18:00:10Z </p>
-<p> <b> Updated: </b> 2026-04-20T18:00:10Z </p>
-<p> <b> Comments: </b> Submitted to ApJL, comments welcome! </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18696v1"> https://arxiv.org/pdf/2604.18696v1 </a> </p>
+<p> <b> Updated: </b> 2026-05-12T06:31:02Z </p>
+<p> <b> Comments: </b> Submitted to ApJ. v2 updated to match the submitted version </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18696v2"> https://arxiv.org/pdf/2604.18696v2 </a> </p>
 
 ### 3) [2604.13000](https://arxiv.org/abs/2604.13000v1): How I Wonder What You Are &ndash; JWST's Little Red Dots do not TWINKLE
 
@@ -804,16 +804,16 @@ We present the first data release of the CAnadian NIRISS Unbiased Cluster Survey
 <p> <b> Comments: </b> Submitted to ApJ Supplements; 50 pages, 30 figures; comments welcome. Data products available at: https://niriss.github.io/data.html </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2506.21685v1"> https://arxiv.org/pdf/2506.21685v1 </a> </p>
 
-### 74) [2506.17396](https://arxiv.org/abs/2506.17396v1): The JWST/AURORA Survey: Multiple Balmer and Paschen Emission Lines for Individual Star-forming Galaxies at z=1.5-4.4. I. A Diversity of Nebular Attenuation Curves and Evidence for Non-Unity Dust Covering Fractions
+### 74) [2506.17396](https://arxiv.org/abs/2506.17396v2): The JWST/AURORA Survey: Multiple Balmer and Paschen Emission Lines for Individual Star-forming Galaxies at z=1.5-4.4. I. A Diversity of Nebular Attenuation Curves and Evidence for Non-Unity Dust Covering Fractions
 
 <p> Naveen A. Reddy, Alice E. Shapley, Ryan L. Sanders, Michael W. Topping, Richard S. Ellis, Max Pettini, Gabriel Brammer, Fergus Cullen, Natascha M. Forster Schreiber, Ali A. Khostovan, Derek J. McLeod, Ross J. McLure, Desika Narayanan, Pascal A. Oesch, Anthony J. Pahl, Charles C. Steidel, Danielle A. Berg </p>
 <p>
-We present the nebular attenuation curves and dust covering fractions for 24 redshift z=1.5-4.4 star-forming galaxies using multiple Balmer and Paschen lines from the JWST/AURORA survey. Nebular reddening derived from Paschen lines exceeds that from Balmer lines for at least half the galaxies in the sample when assuming the commonly-adopted Galactic extinction curve, implying the presence of optically-thick star formation. The nebular attenuation curves exhibit a broad range of normalizations (Rv ~ 3.2-16.4). Motivated by the offsets in reddening deduced from the Balmer and Paschen lines, and the high Rv values for the individual nebular attenuation curves, both of which suggest variations in the dust-stars geometry, we propose a model with a subunity dust covering fraction (fcov). Fitting such a model to the HI recombination line ratios indicates fcov ~ 0.6-1.0. The normalizations of the nebular attenuation curves, Rv, are driven primarily by fcov and the mix of optically-thick and thin OB associations. Thus, the diversity of nebular attenuation curves can be accommodated by assuming dust grain properties similar to that of Milky Way sightlines but with a subunity covering fraction of dust. Integrated measurements of multiple Balmer and Paschen lines can be used to place novel constraints on the dust covering fraction towards OB associations. These, in turn, provide new avenues for exploring the role of dust and gas covering fraction in a number of relevant aspects of high-redshift galaxies, including the impact of stellar feedback on ISM porosity and the escape of Ly-alpha and Lyman continuum radiation.
+We present the nebular attenuation curves and dust covering fractions for 24 redshift z=1.5-4.4 star-forming galaxies using multiple Balmer and Paschen lines from the JWST/AURORA survey. Nebular reddening derived from Paschen lines exceeds that from Balmer lines for at least half the galaxies in the sample when assuming the commonly-adopted Galactic extinction curve, implying the presence of heavily reddened star formation. The nebular attenuation curves exhibit a broad range of normalizations (Rv ~ 3.2-16.4). Motivated by the offsets in reddening deduced from the Balmer and Paschen lines, and the high Rv values for the individual nebular attenuation curves, both of which suggest variations in the dust-stars geometry, we propose a model with a subunity dust covering fraction (fcov). Fitting such a model to the HI recombination line ratios indicates fcov ~ 0.6-1.0. The normalizations of the nebular attenuation curves, Rv, are driven primarily by fcov and the mix of reddened and unreddened OB associations. Thus, the diversity of nebular attenuation curves can be accommodated by assuming dust grain properties similar to that of Milky Way sightlines but with a subunity covering fraction of dust. Integrated measurements of multiple Balmer and Paschen lines can be used to place novel constraints on the dust covering fraction towards OB associations. These, in turn, provide new avenues for exploring the role of dust and gas covering fraction in a number of relevant aspects of high-redshift galaxies, including the impact of stellar feedback on ISM porosity and the escape of Ly-alpha and Lyman continuum radiation.
 </p>
 <p> <b> Published: </b> 2025-06-20T18:00:24Z </p>
-<p> <b> Updated: </b> 2025-06-20T18:00:24Z </p>
-<p> <b> Comments: </b> 28 pages, 26 figures, 1 table </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2506.17396v1"> https://arxiv.org/pdf/2506.17396v1 </a> </p>
+<p> <b> Updated: </b> 2026-05-14T03:44:41Z </p>
+<p> <b> Comments: </b> 30 pages, 28 figures, 1 table; published 2026 February 20 </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2506.17396v2"> https://arxiv.org/pdf/2506.17396v2 </a> </p>
 
 ### 75) [2506.16510](https://arxiv.org/abs/2506.16510v2): Taking a Break at Cosmic Noon: Continuum-selected Low-mass Galaxies Require Long Burst Cycles
 
