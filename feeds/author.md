@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue May 19 06:25:41 2026
+### Updated Sun May 24 06:18:40 2026
 
 ### 1) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
 
@@ -694,16 +694,16 @@ Ultra-violet (UV) radiation from accreting black holes ionizes the intergalactic
 <p> <b> Comments: </b> Submitted to AAS Journals </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2509.05417v1"> https://arxiv.org/pdf/2509.05417v1 </a> </p>
 
-### 64) [2508.10099](https://arxiv.org/abs/2508.10099v1): The AURORA Survey: High-Redshift Empirical Metallicity Calibrations from Electron Temperature Measurements at z=2-10
+### 64) [2508.10099](https://arxiv.org/abs/2508.10099v2): The AURORA Survey: High-Redshift Empirical Metallicity Calibrations from Electron Temperature Measurements at z=2-10
 
 <p> Ryan L. Sanders, Alice E. Shapley, Michael W. Topping, Naveen A. Reddy, Danielle A. Berg, Ali Ahmad Khostovan, Rychard J. Bouwens, Gabriel Brammer, Adam C. Carnall, Fergus Cullen, Romeel Davé, James S. Dunlop, Richard S. Ellis, N. M. Förster Schreiber, Steven R. Furlanetto, Karl Glazebrook, Garth D. Illingworth, Tucker Jones, Mariska Kriek, Derek J. McLeod, Ross J. McLure, Desika Narayanan, Pascal A. Oesch, Anthony J. Pahl, Max Pettini, Daniel Schaerer, Daniel P. Stark, Charles C. Steidel, Mengtao Tang, Leonardo Clarke, Callum T. Donnan, Emily Kehoe </p>
 <p>
 We present detections of auroral emission lines of [OIII], [OII], [SIII], and [SII] in deep JWST/NIRSpec spectroscopy for 41 star-forming galaxies at z=1.4-7.2 from the AURORA survey. We combine these new observations with 98 star-forming galaxies at z=1.3-10.6 with detected auroral lines drawn from the literature to form a sample of 139 high-redshift galaxies with robust electron temperature and direct-method oxygen abundance determinations. This sample notably covers a wider dynamic range in metallicity than previous work, spanning 0.02-0.9~Z<sub>&odot;</sub>. We calibrate empirical relations between 19 emission-line ratios and oxygen abundance, providing a robust tool set to infer accurate gas-phase metallicities of high-redshift galaxies when auroral lines are not detected. While calibrations based on lines of α elements (O, Ne, S, Ar) appear reliable, we find significant scatter in calibrations involving lines of N driven by a high dispersion in N/O at fixed O/H, suggesting that N-based line ratios are less reliable tracers of the oxygen abundance at high redshift. These new high-redshift calibrations are notably offset from those based on typical z~0 galaxy and HII region samples, and are better matched by samples of extreme local galaxies that are analogs of high-redshift sources. The new metallicity calibrations presented in this work pave the way for robust studies of galaxy chemical evolution in the early Universe, leading to a better understanding of baryon cycling and galaxy formation from Cosmic Noon through the Epoch of Reionization.
 </p>
 <p> <b> Published: </b> 2025-08-13T18:00:04Z </p>
-<p> <b> Updated: </b> 2025-08-13T18:00:04Z </p>
-<p> <b> Comments: </b> 28 pages + 9 pages appendix/references, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2508.10099v1"> https://arxiv.org/pdf/2508.10099v1 </a> </p>
+<p> <b> Updated: </b> 2026-05-19T17:27:38Z </p>
+<p> <b> Comments: </b> 29 pages + 10 pages appendix/references, accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2508.10099v2"> https://arxiv.org/pdf/2508.10099v2 </a> </p>
 
 ### 65) [2508.00985](https://arxiv.org/abs/2508.00985v1): Metal-Poor Star-Forming Clumps in Cosmic Noon Galaxies: Evidence for Gas Inflow and Chemical Dilution Using JWST NIRISS
 
@@ -1244,16 +1244,16 @@ Early JWST studies found an apparent population of massive, compact galaxies at 
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2408.07745v2"> https://arxiv.org/pdf/2408.07745v2 </a> </p>
 
-### 114) [2408.05273](https://arxiv.org/abs/2408.05273v1): The AURORA Survey: The Nebular Attenuation Curve of a Galaxy at z=4.41 from Ultraviolet to Near-Infrared Wavelengths
+### 114) [2408.05273](https://arxiv.org/abs/2408.05273v2): The AURORA Survey: The Nebular Attenuation Curve of a Galaxy at z=4.41 from Ultraviolet to Near-Infrared Wavelengths
 
 <p> Ryan L. Sanders, Alice E. Shapley, Michael W. Topping, Naveen A. Reddy, Danielle A. Berg, Rychard J. Bouwens, Gabriel Brammer, Adam C. Carnall, Fergus Cullen, Romeel Davé, James S. Dunlop, Richard S. Ellis, N. M. Förster Schreiber, Steven R. Furlanetto, Karl Glazebrook, Garth D. Illingworth, Tucker Jones, Mariska Kriek, Derek J. McLeod, Ross J. McLure, Desika Narayanan, Pascal A. Oesch, Anthony J. Pahl, Max Pettini, Daniel Schaerer, Daniel P. Stark, Charles C. Steidel, Mengtao Tang, Leonardo Clarke, Callum T. Donnan, Emily Kehoe </p>
 <p>
 We use JWST/NIRSpec observations from the Assembly of Ultradeep Rest-optical Observations Revealing Astrophysics (AURORA) survey to constrain the shape of the nebular attenuation curve of a star-forming galaxy at z=4.41, GOODSN-17940. We utilize 11 unblended HI recombination lines to derive the attenuation curve spanning optical to near-infrared wavelengths (3751-9550 Å). We then leverage a high-S/N spectroscopic detection of the rest-frame ultraviolet continuum in combination with rest-UV photometric measurements to constrain the shape of the curve at ultraviolet wavelengths. While this UV constraint is predominantly based on stellar emission, the large measured equivalent widths of Hα and Hβ indicate that GOODSN-17940 is dominated by an extremely young stellar population &lt;10 Myr in age such that the UV stellar continuum experiences the same attenuation as the nebular emission. The resulting combined nebular attenuation curve spans 1400-9550 Å and has a shape that deviates significantly from commonly assumed dust curves in high-redshift studies. Relative to the Milky Way, SMC, and Calzetti curves, the new curve has a steeper slope at long wavelengths (λ&gt;5000 Å) while displaying a similar slope across blue-optical wavelengths (λ=3750-5000 Å). In the ultraviolet, the new curve is shallower than the SMC and Calzetti curves and displays no significant 2175 Å bump. This work demonstrates that the most commonly assumed dust curves are not appropriate for all high-redshift galaxies. These results highlight the ability to derive nebular attenuation curves for individual high-redshift sources with deep JWST/NIRSpec spectroscopy, thereby improving the accuracy of physical properties inferred from nebular emission lines.
 </p>
 <p> <b> Published: </b> 2024-08-09T18:00:03Z </p>
-<p> <b> Updated: </b> 2024-08-09T18:00:03Z </p>
-<p> <b> Comments: </b> 21 pages, 6 figures, 1 table, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2408.05273v1"> https://arxiv.org/pdf/2408.05273v1 </a> </p>
+<p> <b> Updated: </b> 2026-05-19T17:44:20Z </p>
+<p> <b> Comments: </b> 24 pages, 7 figures, 1 table, accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2408.05273v2"> https://arxiv.org/pdf/2408.05273v2 </a> </p>
 
 ### 115) [2408.03920](https://arxiv.org/abs/2408.03920v3): The UNCOVER Survey: First Release of Ultradeep JWST/NIRSpec PRISM spectra for ~700 galaxies from z~0.3-13 in Abell 2744
 
@@ -2014,18 +2014,7 @@ The first JWST data revealed an unexpected population of red galaxies that appea
 <p> <b> Comments: </b> Accepted for publication in ApJ Letters </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2305.17162v3"> https://arxiv.org/pdf/2305.17162v3 </a> </p>
 
-### 184) [2305.15126](https://arxiv.org/abs/2305.15126v1): Unbiased surveys of dust-enshrouded galaxies using ALMA
-
-<p> K. Kohno, S. Fujimoto, A. Tsujita, V. Kokorev, G. Brammer, G. E. Magdis, F. Valentino, N. Laporte, Fengwu Sun, E. Egami, F. E. Bauer, A. Guerrero, N. Nagar, K. I. Caputi, G. B. Caminha, J. -B. Jolly, K. K. Knudsen, R. Uematsu, Y. Ueda, M. Oguri, A. Zitrin, M. Ouchi, Y. Ono, J. Gonzalez-Lopez, J. Richard, I. Smail, D. Coe, M. Postman, L. Bradley, A. M. Koekemoer, A. M. Munoz Arancibia, M. Dessauges-Zavadsky, D. Espada, H. Umehata, B. Hatsukade, F. Egusa, K. Shimasaku, K. Matsui-Morokuma, W. -H. Wang, T. Wang, Y. Ao, A. J. Baker, Minju M. Lee, C. del P. Lagos, D. H. Hughes, ALCS collaboration </p>
-<p>
-The ALMA lensing cluster survey (ALCS) is a 96-hr large program dedicated to uncovering and characterizing intrinsically faint continuum sources and line emitters with the assistance of gravitational lensing. All 33 cluster fields were selected from HST/Spitzer treasury programs including CLASH, Hubble Frontier Fields, and RELICS, which also have Herschel and Chandra coverages. The total sky area surveyed reaches ~133 arcmin<sup>2</sup> down to a depth of ~60 μJy beam^-1 (1σ) at 1.2 mm, yielding 141 secure blind detections of continuum sources and additional 39 sources aided by priors. We present scientific motivation, survey design, the status of spectroscopy follow-up observations, and number counts down to ~7 μJy. Synergies with JWST are also discussed.
-</p>
-<p> <b> Published: </b> 2023-05-24T13:19:41Z </p>
-<p> <b> Updated: </b> 2023-05-24T13:19:41Z </p>
-<p> <b> Comments: </b> 6 pages, 4 figures, Proceedings of the 7th Chile-Cologne-Bonn-Symposium: Physics and Chemistry of Star Formation, V. Ossenkopf-Okada, R. Schaaf, I. Breloy (eds.) </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2305.15126v1"> https://arxiv.org/pdf/2305.15126v1 </a> </p>
-
-### 185) [2305.03042](https://arxiv.org/abs/2305.03042v3): JWST NIRSpec spectroscopy of the triply-lensed z = 10.17 galaxy MACS0647-JD
+### 184) [2305.03042](https://arxiv.org/abs/2305.03042v3): JWST NIRSpec spectroscopy of the triply-lensed z = 10.17 galaxy MACS0647-JD
 
 <p> Tiger Yu-Yang Hsiao, Abdurro'uf, Dan Coe, Rebecca L. Larson, Intae Jung, Matilde Mingozzi, Pratika Dayal, Nimisha Kumari, Vasily Kokorev, Anton Vikaeus, Gabriel Brammer, Lukas J. Furtak, Angela Adamo, Felipe Andrade-Santos, Jacqueline Antwi-Danso, Marusa Bradac, Larry D. Bradley, Tom Broadhurst, Adam C. Carnall, Christopher J. Conselice, Jose M. Diego, Megan Donahue, Jan J. Eldridge, Seiji Fujimoto, Alaina Henry, Svea Hernandez, Taylor A. Hutchison, Bethan L. James, Colin Norman, Hyunbae Park, Norbert Pirzkal, Marc Postman, Massimo Ricotti, Jane R. Rigby, Eros Vanzella, Brian Welch, Stephen M. Wilkins, Rogier A. Windhorst, Xinfeng Xu, Erik Zackrisson, Adi Zitrin </p>
 <p>
@@ -2036,7 +2025,7 @@ We present JWST/NIRSpec prism spectroscopy of MACS0647-JD, the triply-lensed z ~
 <p> <b> Comments: </b> 22 pages, 6 figures, accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2305.03042v3"> https://arxiv.org/pdf/2305.03042v3 </a> </p>
 
-### 186) [2304.02026](https://arxiv.org/abs/2304.02026v2): The JWST FRESCO Survey: Legacy NIRCam/Grism Spectroscopy and Imaging in the two GOODS Fields
+### 185) [2304.02026](https://arxiv.org/abs/2304.02026v2): The JWST FRESCO Survey: Legacy NIRCam/Grism Spectroscopy and Imaging in the two GOODS Fields
 
 <p> P. A. Oesch, G. Brammer, R. P. Naidu, R. J. Bouwens, J. Chisholm, G. D. Illingworth, J. Matthee, E. Nelson, Y. Qin, N. Reddy, A. Shapley, I. Shivaei, P. van Dokkum, A. Weibel, K. Whitaker, S. Wuyts, A. Covelo-Paz, R. Endsley, Y. Fudamoto, E. Giovinazzo, T. Herard-Demanche, J. Kerutt, I. Kramarenko, I. Labbe, E. Leonova, J. Lin, D. Magee, D. Marchesini, M. Maseda, C. Mason, J. Matharu, R. A. Meyer, C. Neufeld, G. Prieto Lyon, D. Schaerer, R. Sharma, M. Shuntov, R. Smit, M. Stefanon, J. S. B. Wyithe, M. Xiao </p>
 <p>
@@ -2046,6 +2035,17 @@ We present the JWST Cycle 1 53.8hr medium program FRESCO, short for "First Reion
 <p> <b> Updated: </b> 2023-08-16T08:07:07Z </p>
 <p> <b> Comments: </b> 12 pages, 11 figures; MNRAS in press; for more information on the survey and data releases, see http://jwst-fresco.astro.unige.ch/ and https://archive.stsci.edu/hlsp/fresco </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2304.02026v2"> https://arxiv.org/pdf/2304.02026v2 </a> </p>
+
+### 186) [2303.08149](https://arxiv.org/abs/2303.08149v2): Direct T_e-based Metallicities of z=2-9 Galaxies with JWST/NIRSpec: Empirical Metallicity Calibrations Applicable from Reionization to Cosmic Noon
+
+<p> Ryan L. Sanders, Alice E. Shapley, Michael W. Topping, Naveen A. Reddy, Gabriel B. Brammer </p>
+<p>
+We report detections of the [OIII]λ4364 auroral emission line for 16 galaxies at z=2.1-8.7, measured from JWST/NIRSpec observations obtained as part of the Cosmic Evolution Early Release Science (CEERS) survey program. We combine this CEERS sample with 9 objects from the literature at z=4-9 with auroral-line detections from JWST/NIRSpec and 21 galaxies at z=1.4-3.7 with auroral-line detections from ground-based spectroscopy. We derive electron temperature T_e and direct-method oxygen abundances for the combined sample of 46 star-forming galaxies at z=1.4-8.7. We use these measurements to construct the first high-redshift empirical T_e-based metallicity calibrations for the strong-line ratios [OIII]/Hβ, [OII]/Hβ, R23=([OIII]+[OII])/Hβ, [OIII]/[OII], and [NeIII]/[OII]. These new calibrations are valid over 12+log(O/H)=7.4-8.3 and can be applied to samples of star-forming galaxies at z=2-9, leading to an improvement in the accuracy of metallicity determinations at Cosmic Noon and in the Epoch of Reionization. The high-redshift strong-line relations are offset from calibrations based on typical z~0 galaxies or HII regions, reflecting the known evolution of ionization conditions between z~0 and z~2. Deep spectroscopic programs with JWST/NIRSpec promise to improve statistics at the low and high ends of the metallicity range covered by the current sample, as well as improve the detection rate of [NII]λ6585 to allow the future assessment of N-based indicators. These new high-redshift calibrations will enable accurate characterizations of metallicity scaling relations at high redshift, improving our understanding of feedback and baryon cycling in the early universe.
+</p>
+<p> <b> Published: </b> 2023-03-14T18:00:07Z </p>
+<p> <b> Updated: </b> 2026-05-19T17:56:39Z </p>
+<p> <b> Comments: </b> 23 pages, 7 figures, 3 tables, accepted to ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2303.08149v2"> https://arxiv.org/pdf/2303.08149v2 </a> </p>
 
 ### 187) [2303.00410](https://arxiv.org/abs/2303.00410v2): JWST/NIRSpec Measurements of the Relationships Between Nebular Emission-line Ratios and Stellar Mass at z~3-6
 
