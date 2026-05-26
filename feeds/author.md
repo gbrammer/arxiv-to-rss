@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun May 24 06:18:40 2026
+### Updated Tue May 26 06:24:57 2026
 
 ### 1) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
 
@@ -254,16 +254,16 @@ We investigate the chemical abundances and star-formation histories (SFH) of ten
 <p> <b> Comments: </b> 22 pages, 10 figures (11 inc. appendix figure), submitted to ApJ. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.02485v1"> https://arxiv.org/pdf/2602.02485v1 </a> </p>
 
-### 24) [2601.20929](https://arxiv.org/abs/2601.20929v1): Little Red Dot - Host Galaxy = Black Hole Star: A Gas-Enshrouded Heart at the Center of Every Little Red Dot
+### 24) [2601.20929](https://arxiv.org/abs/2601.20929v2): Little Red Dot - Host Galaxy = Black Hole Star: A Gas-Enshrouded Heart at the Center of Every Little Red Dot
 
 <p> Wendy Q. Sun, Rohan P. Naidu, Jorryt Matthee, Anna de Graaff, John Chisholm, Jenny E. Greene, Pascal A. Oesch, Alberto Torralba, Raphael E. Hviding, Gabriel Brammer, Robert A. Simcoe, Sownak Bose, Rychard Bouwens, Pratika Dayal, Anna-Christina Eilers, Qinyue Fei, Lukas J. Furtak, Rashmi Gottumukkala, Andy Goulding, Kasper E. Heintz, Michaela Hirschmann, Vasily Kokorev, Joel Leja, Zhaoran Liu, Priyamvada Natarajan, Andrew D. Santarelli, David J. Setton, Aaron Smith, Sandro Tacchella, Marta Volonteri, Fabian Walter, Andrea Weibel, Christina C. Williams </p>
 <p>
 The central engines of Little Red Dots (LRDs) may be "black hole stars" (BH*s), early stages of black hole growth characterized by dense gas envelopes. So far, the most direct evidence for BH*s comes from a handful of sources where the host galaxy is completely outshone as suggested by their remarkably steep Balmer breaks. Here we present a novel scheme to disentangle BH*s from their host galaxies assuming that the [OIII]5008Å line arises exclusively from the host. Using a sample of 98 LRDs (z~2-9) with high quality NIRSpec/PRISM spectra, we demonstrate that the host-subtracted median stack displays a Balmer break &gt;2× stronger than massive quiescent galaxies, with the rest-optical continuum resembling a blackbody-like SED (T_eff~4050 K, log(L_bol)~43.9 erg s<sup>-1</sup>, R_eff~1300 au). We measure a steep Balmer decrement (Hα/Hβ&gt;10) and numerous density-sensitive features (e.g., FeII, HeI, OI). These are hallmark signatures of dense gas envelopes, providing population-level evidence that BH*s indeed power LRDs. In the median LRD, BH*s account for ~20&percnt; of the UV emission, ~50&percnt; at the Balmer break, and ~90&percnt; at wavelengths longer than Hα with the remainder arising from the host. BH*s preferentially reside in low-mass galaxies (M<sub>&sext;</sub>~10^8 M<sub>&odot;</sub>) undergoing recent starbursts, as evidenced by extreme emission line EWs (e.g., [OIII]5008Å~1100Å, CIII]~12Å), thereby favoring BH* origins linked to star-formation. We show V-shaped LRD selections are biased to high BH*/host fractions (≳60&percnt; at 5500Å) &ndash; less dominant BH*s may be powering JWST's blue broad-line AGN. We find BH*s are so commonplace and transient (duty cycle ~1&percnt;, lifetime ~10 Myrs) that every massive black hole may have once shone as a BH*.
 </p>
 <p> <b> Published: </b> 2026-01-28T19:00:00Z </p>
-<p> <b> Updated: </b> 2026-01-28T19:00:00Z </p>
-<p> <b> Comments: </b> Submitted to the Open Journal of Astrophysics. Main results in Figs. 5 (BH* stack), 12 (explanation of the LRD SED), and 15 (hidden BH*s in blue galaxies). Comments warmly welcomed! </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20929v1"> https://arxiv.org/pdf/2601.20929v1 </a> </p>
+<p> <b> Updated: </b> 2026-05-22T00:02:06Z </p>
+<p> <b> Comments: </b> Published in the Open Journal of Astrophysics. Main results in Figs. 5 (BH* stack), 12 (explanation of the LRD SED), and 15 (hidden BH*s in blue galaxies). Comments warmly welcomed! </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20929v2"> https://arxiv.org/pdf/2601.20929v2 </a> </p>
 
 ### 25) [2601.20864](https://arxiv.org/abs/2601.20864v1): Bottom-heavy initial mass functions reveal hidden mass in early galaxies
 
