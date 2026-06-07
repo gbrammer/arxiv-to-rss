@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Jun  6 06:13:13 2026
+### Updated Sun Jun  7 06:31:24 2026
 
 ### 1) [2606.05887](https://arxiv.org/abs/2606.05887v1): Early Results from GLASS-JWST. XXVI. Spatially Resolved Star Formation and Balmer Decrements at 1.1&lt;z&lt;2.3 from NIRISS Slitless Spectroscopy
 

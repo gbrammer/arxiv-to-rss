@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jun  6 06:13:11 2026
+### Updated Sun Jun  7 06:31:22 2026
 
 ### 1) [2606.06005](https://arxiv.org/abs/2606.06005v1): The Multi-phase Biconical Outflow in the local IR-Luminous Merger IRASF01364-1042
 
