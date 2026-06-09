@@ -411,3 +411,9 @@ Query: feeds/feed.xml %28abs:JWST+OR+abs:James+Webb%29+AND+%28cat:astro-ph.GA+OR
        Found 300 items (max=4578).
 Query: feeds/author.xml %28abs:JWST+OR+abs:James+Webb%29+AND+%28cat:astro-ph.GA+OR+cat:astro-ph.CO%29+AND+%28au:Brammer%29
        Found 200 items (max=266).
+
+######## Tue Jun  9 06:25:09 2026 ########
+Query: feeds/feed.xml %28abs:JWST+OR+abs:James+Webb%29+AND+%28cat:astro-ph.GA+OR+cat:astro-ph.CO%29
+       Found 300 items (max=4583).
+Query: feeds/author.xml %28abs:JWST+OR+abs:James+Webb%29+AND+%28cat:astro-ph.GA+OR+cat:astro-ph.CO%29+AND+%28au:Brammer%29
+       Found 200 items (max=266).
