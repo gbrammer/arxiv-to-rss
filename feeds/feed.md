@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jun 13 06:28:17 2026
+### Updated Sun Jun 14 06:33:13 2026
 
 ### 1) [2606.13391](https://arxiv.org/abs/2606.13391v1): Feedback in Extragalactic Star Clusters (FEAST): Spectral Energy Distributions and the Physical Properties of Star Clusters in NGC 628 with CIGALE
 
