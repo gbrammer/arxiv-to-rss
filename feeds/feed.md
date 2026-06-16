@@ -1,7 +1,73 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Mon Jun 15 06:49:07 2026
+### Updated Tue Jun 16 06:49:48 2026
 
-### 1) [2606.14671](https://arxiv.org/abs/2606.14671v1): From THESAN-ZOOM to JWST: Predicting ionizing photon escape and the rise of UV-bright reionization sources
+### 1) [2606.17008](https://arxiv.org/abs/2606.17008v1): Systematic and Statistical Uncertainties in Cepheid PL Relations: Incorporating a Cross-Filter Random-Phase Mitigation Approach
+
+<p> Mahdi Abdollahi, Atefeh Javadi </p>
+<p>
+The Period-Luminosity (PL) relation of Cepheid variable stars is a fundamental tool for measuring extragalactic distances and constraining the Hubble constant (H0). Achieving high precision in PL based distances requires careful consideration of both systematic and statistical uncertainties. We review the main sources of these uncertainties in PL relations, highlighting the increasing impact of random-phase errors in single-epoch observations from limited temporal coverage, such as those obtained with the James Webb Space Telescope (JWST). We discuss mitigation strategies for systematic errors, including photo metric calibration offsets, metallicity effects, blending, and parallax biases, and quantify key contributors to statistical errors, such as photometric noise, intrinsic scatter, and phase-sampling limitations. Special attention is given to a recently proposed cross-filter random-phase correction method (Abdollahi et al., 2025), which recovers mean magnitudes from single-epoch data by exploiting correlations between PL residuals in different bands. This technique reduces the dispersion in the infrared PL relation by 28%, equivalent to an order-of-magnitude increase in effective temporal sampling, demonstrating an efficient path to improving Cepheid-based distance measurements and the precision of H0.
+</p>
+<p> <b> Published: </b> 2026-06-15T17:42:34Z </p>
+<p> <b> Updated: </b> 2026-06-15T17:42:34Z </p>
+<p> <b> Comments: </b> 7 pages, 1 figure, Proceedings of the International Symposium on Astronomical Surveys and Big Data 3 (ASBD-3), to be published in the refereed journal Communications of the BAO (ComBAO) </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.17008v1"> https://arxiv.org/pdf/2606.17008v1 </a> </p>
+
+### 2) [2606.16928](https://arxiv.org/abs/2606.16928v1): Detection of C_60 Combination Bands in the Near-IR Spectrum of Tc 1
+
+<p> Morgan M. Giese, Vincent J. Esposito, Simon Van Schuylenbergh, Jan Cami, Els Peeters, Charmi Bhatt, Dries Van De Putte, A. G. G. M. Tielens, Michael J. Barlow, Jeronimo Bernard-Salas, Alessandra Candian, Bryan Changala, Nick L. J. Cox, Harriet L. Dinerstein, D. A. García-Hernández, Marco A. Gómez-Muñoz, Kay Justtanont, Kathleen E. Kraemer, Eric Lagadec, Arturo Manchado, Ana Monreal Ibero, Raghvendra Sahai, Ameek Sidhu, G. C. Sloan, N. C. Sterling, Jeremy R. Walsh, Roger Wesson, Joshua Cole Whitman, Albert Zijlstra </p>
+<p>
+We report the detection of a set of new near-infrared emission features between 3.5 and 5.2 μm in JWST/NIRSpec observations of Tc 1, the planetary nebula known for displaying the cleanest and most prominent mid-infrared cosmic fullerene spectrum. These broad features share the same spatial distribution as the well-known C_60 and C_70 mid-infrared emission bands, peaking in an asymmetric ring approximately 5-6" from the central star. Through comparison with new anharmonic quantum chemical calculations, we demonstrate that these features arise from C_60 combination bands, marking their first detection in an astrophysical environment. The total energy radiated in the combination bands amounts to ~17% of the total energy emitted from all C_60 modes, with direct implications for fullerene cooling models. These near-infrared combination bands offer a promising new window for identifying and studying the molecular astrophysics of C_60 in sources where mid-infrared spectra are more complex.
+</p>
+<p> <b> Published: </b> 2026-06-15T16:29:26Z </p>
+<p> <b> Updated: </b> 2026-06-15T16:29:26Z </p>
+<p> <b> Comments: </b>  </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.16928v1"> https://arxiv.org/pdf/2606.16928v1 </a> </p>
+
+### 3) [2606.16853](https://arxiv.org/abs/2606.16853v1): Optically Invisible Galaxies at Cosmic Noon and beyond with JWST/UNCOVER
+
+<p> Pralay Biswas, Rashi Jain, Yogesh Wadadekar </p>
+<p>
+The traditional selection bias in high-redshift galaxy surveys toward rest-frame ultraviolet emission has constrained our understanding of the high-redshift universe by systematically excluding optically faint (observer-frame) galaxies. Utilising JWST UNCOVER and MegaScience data of the Abell 2744 cluster field, we identify 113 high-redshift (z &gt; 2) and 94 low-redshift (z &lt; 2) HST-dark galaxies using a red 1.50-3.56  μm color criterion. Their physical properties were derived using multiwavelength photometry from 20 JWST/NIRCam and 7 HST filters. Unlike classical submillimeter and itSpitzer-selected HST-dark galaxies that primarily identify the most massive, dusty, highly star-forming galaxies, our study uncovers a moderately dusty population across a significantly broader range of stellar mass and star-formation rate. Leveraging gravitational magnification and ultra-deep JWST imaging, we found HST-dark galaxies with a stellar mass as low as 10^7.5 at z&gt;2. These galaxies have smaller sizes and follow the star-forming main sequence. Our analysis reveals a prominent peak in the Star Formation Rate Density at z ≈ 4.5 (9.89^+6.93_-4.34 × 10^-3   M<sub>&odot;</sub>   yr^-1   Mpc^-3). We also characterise a sub-population at z &lt; 2 of Highly Extincted Low-Mass analogues with extremely low stellar masses (median log M<sub>&sext;</sub>/M<sub>&odot;</sub> ≈ 7.10) and high dust extinction (median A_V ≈ 1.97 mag). Our sample demonstrates the unique power of JWST to reveal this previously missing galaxy population and to provide a more complete census of galaxies in the high-z universe.
+</p>
+<p> <b> Published: </b> 2026-06-15T15:26:53Z </p>
+<p> <b> Updated: </b> 2026-06-15T15:26:53Z </p>
+<p> <b> Comments: </b> 21 pages, 12 figures, 8 tables. Submitted to ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.16853v1"> https://arxiv.org/pdf/2606.16853v1 </a> </p>
+
+### 4) [2606.14959](https://arxiv.org/abs/2606.14959v1): Probing Direct Contributions of Galaxies and AGN to Cosmic Reionization in a Quasar Field J0226+0302 with JWST NIRCam and NIRSpec
+
+<p> Xiangyu Jin, Jinyi Yang, Feige Wang, Koki Kakiichi, Xiaohui Fan, Enrico Garaldi, Jaclyn B. Champagne, George D. Becker, Yongda Zhu, Yunjing Wu, Marianne Vestergaard, Huanqing Chen, Valentina D'Odorico, Anna-Christina Eilers, Jiamu Huang, Hyunsung D. Jun, Mingyu Li, Maria Pudoka, Wei Leong Tee, Minghao Yue, Huanian Zhang, Siwei Zou </p>
+<p>
+We present JWST Cycle 2 NIRCam and NIRSpec observations in a quasar field J0226+0302 at z=6.5412 to probe the direct connections between the intergalactic medium (IGM), galaxies, and AGN during reionization. This field was previously observed by the JWST ASPIRE program and eight [OIII]-emitting galaxies were detected at 5.3&lt;z&lt;6.4 with a single NIRCam pointing. Using new NIRCam and NIRSpec observations, we identify 65 additional line-emitting galaxies at 5.3&lt;z&lt;6.4. The IGM-galaxy cross-correlation function shows a ~2 sigma excess IGM transmission at ~10-40 cMpc from galaxies when compared with the average IGM transmission, suggesting a significant contribution from regions traced by star-forming galaxies to the local ionizing background during reionization. The IGM-galaxy cross-correlation function is consistent with THESAN simulations with an IGM neutral fraction of 5%-7% and an average ionizing photon escape fraction f<sub>esc</sub> of 6% from galaxies. Among 49 line-emitting galaxies observed by NIRSpec, we identify four AGN through detection of broad H-alpha emission lines with an AGN fraction of (8+/-4)%. By measuring the IGM effective optical depth around the AGN and the IGM-AGN cross-correlation function, we find that the IGM transmission is higher within 5 cMpc/h of the AGN than around the majority of [OIII] emitters. We interpret the excess IGM transmission as resulting from the local radiation enhancement by the AGN, and estimate f<sub>esc</sub> of 50%-100% of the AGN from the IGM-AGN cross-correlation function. Future JWST NIRSpec observations in quasar fields will yield a more constraining IGM-AGN cross-correlation function, providing further insights into the roles of galaxies and AGN in reionization.
+</p>
+<p> <b> Published: </b> 2026-06-12T21:06:40Z </p>
+<p> <b> Updated: </b> 2026-06-12T21:06:40Z </p>
+<p> <b> Comments: </b> Submitted to AAS Journals; 21 pages, 13 figures, 1 table. Comments are welcomed </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.14959v1"> https://arxiv.org/pdf/2606.14959v1 </a> </p>
+
+### 5) [2606.14896](https://arxiv.org/abs/2606.14896v1): Galaxy Spiral Arm Count vs. Concentration and Mass: A First Look with Euclid
+
+<p> Beverly J. Smith, Sydnie Bergner, Mark L. Giroux, Curtis Struck </p>
+<p>
+Using catalogued information from Euclid Quick Data Release 1, we compare 2-armed and 3-armed spiral galaxies as classified by the Euclid Zoobot software. Two-armed galaxies have larger concentrations, lower stellar masses (M<sub>&sext;</sub>), and lower star formation rates (SFRs) on average than 3-armed galaxies. For a given M<sub>&sext;</sub>, 2-armed galaxies have larger concentrations than 3-armed galaxies. These trends have been seen before in nearby galaxies; with Euclid we extend the patterns to redshifts z = 0.4 - 1. Two-armed galaxies have lower SFRs because they have lower masses; at fixed M<sub>&sext;</sub>, 2-armed and 3-armed galaxies have similar SFRs. We see a bend in the concentration-log M<sub>&sext;</sub> relation for 2-armed galaxies at M<sub>&sext;</sub> = 10^10.3 M(sun). Above this mass, 2-armed galaxies show significantly larger concentrations than their lower mass counterparts. The observed concentrations of 2-armed galaxies decrease with increasing redshift, perhaps from morphological K-corrections and resolution differences. About 60% - 70% of Euclid spirals are 2-armed, and about 15% - 20% are 3-armed. One-armed galaxies are rare, with low masses compared to 2-armed spirals. We compare these statistics with Galaxy Zoo Sloan Digital Sky Survey arm counts at low z, and tentatively with JWST at higher z. We discuss these results in terms of theoretical models of spiral arm generation and evolution, and compare with statistics of grand design, multi-armed, and flocculent galaxies. There is a need for more quantitative measurements of arm structure beyond arm counts provided by the Zoobot/Galaxy Zoo or the three standard arm classes.
+</p>
+<p> <b> Published: </b> 2026-06-12T19:01:28Z </p>
+<p> <b> Updated: </b> 2026-06-12T19:01:28Z </p>
+<p> <b> Comments: </b> ApJ, accepted; 28 pages, 9 figures </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.14896v1"> https://arxiv.org/pdf/2606.14896v1 </a> </p>
+
+### 6) [2606.14869](https://arxiv.org/abs/2606.14869v1): COSMOS-Web: A Multi-wavelength Morphological Catalog of ~780,000 Galaxies
+
+<p> Lilan Yang, Jeyhan S. Kartaltepe, Nicole E. Drakos, Andreas L. Faisst, Carter Flayhart, Maximilien Franco, Anton M. Koekemoer, Olivier Ilbert, Hollis B. Akins, Caitlin M. Casey, Xuheng Ding, Ali Hadi, Santosh Harish, Ronaldo Laishram, Daizhong Liu, Georgios E. Magdis, Felix Martinez, Henry Joy McCracken, Louise Paquereau, Jason Rhodes, Brant E. Robertson, Marko Shuntov, Greta Toni </p>
+<p>
+We present multi-wavelength morphological measurements for all galaxies in the COSMOS-Web survey, i.e., ~780,000 galaxies contained in the COSMOS2025 catalog. We perform both parametric (e.g., single and double Sérsic modeling) and non-parametric (e.g., Gini-M_20) morphology analyses in four NIRCam bands, independently. Our parametric fits reveal a strong correlation between galaxy structure and star formation activity up to z~4, as evidenced by the dependence of the Sérsic index (n_sérsic) and bulge-to-total ratio (B/T) on the position of the star formation rate-stellar mass plane. A tight correlation between n_sérsic and B/T is observed. The evolution of n_sérsic and B/T depends on stellar mass; for example, the median n_sérsic increases from ~1 at z~6 to ~2.5 at z~2 for massive galaxies with M_*&gt;10^10.5 M<sub>&odot;</sub>, while lower mass galaxies remain n_sérsic~1.2 at all epochs. The UV n_sérsic values are systematically smaller than those in the optical, although both exhibit similar evolutionary trends. From non-parametric analyses, we demonstrate the distribution of galaxies on the Gini-M_20 and asymmetry-concentration planes, and find that morphological classifications based on non-parametric indicators are consistent with those derived from the Sérsic index. The resulting catalog provides the largest and most detailed set of JWST multi-wavelength morphological measurements to date, serving as a valuable community resource for studies of structural transformation, bulge growth, and galaxy-supermassive black hole coevolution across cosmic time.
+</p>
+<p> <b> Published: </b> 2026-06-12T18:15:00Z </p>
+<p> <b> Updated: </b> 2026-06-12T18:15:00Z </p>
+<p> <b> Comments: </b> 22 pages, 16figures, submitted to ApJS </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.14869v1"> https://arxiv.org/pdf/2606.14869v1 </a> </p>
+
+### 7) [2606.14671](https://arxiv.org/abs/2606.14671v1): From THESAN-ZOOM to JWST: Predicting ionizing photon escape and the rise of UV-bright reionization sources
 
 <p> Zebedee Summerfield, William McClymont, Sandro Tacchella, Aaron Smith, Rahul Kannan, Enrico Garaldi, Ewald Puchwein, Xuejian Shen, Josh Borrow, A. Lola Danhaive, Laura Keating, Gabriel Maheson, Parth Mehrotra, Charlotte Simmonds, Amanda Stoffers, Mark Vogelsberger, Oliver Zier </p>
 <p>
@@ -12,7 +78,7 @@ Understanding the sources and evolution of cosmic reionization remains a central
 <p> <b> Comments: </b> 18 pages, 11 figures, submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.14671v1"> https://arxiv.org/pdf/2606.14671v1 </a> </p>
 
-### 2) [2606.14477](https://arxiv.org/abs/2606.14477v1): GATOS N: Extended circumnuclear dust emission in nearby Seyfert galaxies surveyed by JWST/MIRI
+### 8) [2606.14477](https://arxiv.org/abs/2606.14477v1): GATOS N: Extended circumnuclear dust emission in nearby Seyfert galaxies surveyed by JWST/MIRI
 
 <p> David J. Rosario, Houda Haidar, Steph Campbell, John Schneider, Chris Packham, Nancy A. Levenson, Almudena Alonso-Herrero, Richard I. Davies, Dan Delaney, Santiago García-Burillo, Erin K. S. Hicks, Sebastian F. Hönig, Mason Leist, Enrique Lopez-Rodriguez, Miguel Pereira-Santaella, Anelise Audibert, Enrica Bellocchi, Françoise Combes, Ismael García-Bernete, Peter Boorman, Andrew J. Bunker, Luis Colina, Tanio Diaz Santos, Fergus R. Donnan, Poshak Gandhi, Omaira González-Martín, Laura Hermosa Muñoz, Alvaro Labiano, Cristina Ramos Almeida, Claudio Ricci, Rogemar A. Riffel, Dimitra Rigopoulou, Daniel Rouan, Marko Stalevski, Lulu Zhang </p>
 <p>
@@ -23,7 +89,7 @@ The subarcsecond angular resolution and stable background of JWST has given us t
 <p> <b> Comments: </b> 31 pages, 18 figures, submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.14477v1"> https://arxiv.org/pdf/2606.14477v1 </a> </p>
 
-### 3) [2606.14392](https://arxiv.org/abs/2606.14392v1): Lensed hot stars with HST in the 2030s
+### 9) [2606.14392](https://arxiv.org/abs/2606.14392v1): Lensed hot stars with HST in the 2030s
 
 <p> J. M. Diego </p>
 <p>
@@ -34,7 +100,7 @@ In the late 20th century, the Hubble Space Telescope (HST) revolutionized astron
 <p> <b> Comments: </b> 6 pages, 3 figures; white paper submitted in response to the Space Telescope Science Institute call: Building a Roadmap for Hubble science into the 2030s </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.14392v1"> https://arxiv.org/pdf/2606.14392v1 </a> </p>
 
-### 4) [2606.13819](https://arxiv.org/abs/2606.13819v1): GA-NIFS: The interplay between feedback and star formation at 3 &lt; z &lt; 9 probed by JWST/NIRSpec IFU
+### 10) [2606.13819](https://arxiv.org/abs/2606.13819v1): GA-NIFS: The interplay between feedback and star formation at 3 &lt; z &lt; 9 probed by JWST/NIRSpec IFU
 
 <p> L. Ulivi, M. Perna, S. Arribas, B. Rodríguez Del Pino, P. G. Pérez-González, I. Lamperti, C. Marconcini, H. Übler, F. D'Eugenio, T. Böker, A. J. Bunker, S. Carniani, S. Charlot, R. Maiolino, P. Alvarez, E. Bertola, G. Cresci, M. Curti, M. Hamed, L. R. Ivey, G. C. Jones, E. Parlanti, R. Pascalau, C. Prieto Jimenez, B. Trefoloni, G. Venturi, S. Zamora </p>
 <p>
@@ -45,7 +111,7 @@ The study of starburst- and AGN-driven feedback is fundamental for understanding
 <p> <b> Comments: </b> 23 pages, 25 figures, submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13819v1"> https://arxiv.org/pdf/2606.13819v1 </a> </p>
 
-### 5) [2606.13800](https://arxiv.org/abs/2606.13800v1): Resolving the temporal evolution of M87 jet with ≲0.1-arcsec Chandra observations
+### 11) [2606.13800](https://arxiv.org/abs/2606.13800v1): Resolving the temporal evolution of M87 jet with ≲0.1-arcsec Chandra observations
 
 <p> Camille Poitras, Gerrit Schellenberger, Ralph Kraft, Paul Nulsen, Marie-Lou Gendron-Marsolais, Eileen Meyer </p>
 <p>
@@ -56,7 +122,7 @@ We present a 13-year Chandra/HRC-I study of the M87 jet, using point-spread-func
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13800v1"> https://arxiv.org/pdf/2606.13800v1 </a> </p>
 
-### 6) [2606.13781](https://arxiv.org/abs/2606.13781v1): CANUCS/Technicolor Data Release 2: A Catalogue of Galaxy Structural Parameters in up to 29 HST+JWST bands and a Multi-Wavelength Exploration of the Galaxy Size-Mass Relation at 0.6 &lt; z ≤ 4
+### 12) [2606.13781](https://arxiv.org/abs/2606.13781v1): CANUCS/Technicolor Data Release 2: A Catalogue of Galaxy Structural Parameters in up to 29 HST+JWST bands and a Multi-Wavelength Exploration of the Galaxy Size-Mass Relation at 0.6 &lt; z ≤ 4
 
 <p> Maya Merchant, Lamiya A. Mowla, Georgios E. Magdis, Adam Muzzin, Chris J. Willott, Roberto Abraham, Yoshihisa Asada, Maruša Bradač, Gabriel B. Brammer, Guillaume Desprez, Kartheik G. Iyer, Nicholas S. Martis, Gaël Noirot, Gregor Rihtaršič, Marcin Sawicki, Ghassan T. E. Sarrouh, Sunna Withers, Natalie Allen, Jacqueline Antwi-Danso, Westley Brown, Jon Judež, Danilo Marchesini, Rosa M. Mérida, Katherine Myers, Luke Robbins, Visal Sok </p>
 <p>
@@ -67,7 +133,7 @@ We present James Webb Space Telescope (JWST) results of a morphological study of
 <p> <b> Comments: </b> Submitted to ApJ; 30 pages, 16 figures; comments welcome. Data products available at https://niriss.github.io/data.html </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13781v1"> https://arxiv.org/pdf/2606.13781v1 </a> </p>
 
-### 7) [2606.13391](https://arxiv.org/abs/2606.13391v1): Feedback in Extragalactic Star Clusters (FEAST): Spectral Energy Distributions and the Physical Properties of Star Clusters in NGC 628 with CIGALE
+### 13) [2606.13391](https://arxiv.org/abs/2606.13391v1): Feedback in Extragalactic Star Clusters (FEAST): Spectral Energy Distributions and the Physical Properties of Star Clusters in NGC 628 with CIGALE
 
 <p> Sean T. Linden, Angela Adamo, Alex Pedrini, Daniela Calzetti, Helena Faustino Vieira, Bruce E. Elmegreen, John S. Gallagher, Kelsey Johnson, Matteo Messa, Kathryn Grasha, Ana Duarte-Cabral, Arjan Bik, Giacomo Bortolini, Matteo Correnti, Drew Lapeer, Thomas S. -Y. Lai, Goran Ostlin, Linda J. Smith, Monica Tosi </p>
 <p>
@@ -78,7 +144,7 @@ With Hubble Space Telescope (HST) and James Webb Space Telescope (JWST) observat
 <p> <b> Comments: </b> 20 pages, 10 figures, Accepted in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13391v1"> https://arxiv.org/pdf/2606.13391v1 </a> </p>
 
-### 8) [2606.13078](https://arxiv.org/abs/2606.13078v1): Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn
+### 14) [2606.13078](https://arxiv.org/abs/2606.13078v1): Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn
 
 <p> Clara L. Pollock, Kasper E. Heintz, Elka Rusta, Darach Watson, Stefania Salvadori, Callum Witten, Joris Witstok, Ioanna Koutsouridou, Viola Gelli, Pascal A. Oesch, Gabriel B. Brammer, Andrea Saccardi, Kei Ito, Rashmi Gottumukkala, Dagmar Bergholt, Kasper R. Brooksby, Chamilla Terp, Francesco Valentino </p>
 <p>
@@ -89,7 +155,7 @@ The first generation of stars formed from pristine, neutral hydrogen gas. The mo
 <p> <b> Comments: </b> Submitted, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13078v1"> https://arxiv.org/pdf/2606.13078v1 </a> </p>
 
-### 9) [2606.12851](https://arxiv.org/abs/2606.12851v1): Supermassive Black Hole Assembly from Heavy Seeds with Dynamical Friction in the BRAHMA Simulations: Implications for JWST, LISA, and the Local Universe
+### 15) [2606.12851](https://arxiv.org/abs/2606.12851v1): Supermassive Black Hole Assembly from Heavy Seeds with Dynamical Friction in the BRAHMA Simulations: Implications for JWST, LISA, and the Local Universe
 
 <p> Aklant K. Bhowmick, Laura Blecha, Paul Torrey, Luke Zoltan Kelley, Rachel S. Somerville, Rainer Weinberger, Priyamvada Natarajan, Tiziana Di Matteo, Lars Hernquist, Mark Vogelsberger, Alex M. Garcia </p>
 <p>
@@ -100,7 +166,7 @@ The JWST discoveries of supermassive black holes (BHs) at z ≳ 5 may provide ke
 <p> <b> Comments: </b> 33 pages, 16 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.12851v1"> https://arxiv.org/pdf/2606.12851v1 </a> </p>
 
-### 10) [2606.12686](https://arxiv.org/abs/2606.12686v1): Unprecedented Constraints on Gas Flows at High Redshift Using Deep JWST/NIRSpec Observations from the LyC22, EXCELS, and AURORA Surveys
+### 16) [2606.12686](https://arxiv.org/abs/2606.12686v1): Unprecedented Constraints on Gas Flows at High Redshift Using Deep JWST/NIRSpec Observations from the LyC22, EXCELS, and AURORA Surveys
 
 <p> Emily Kehoe, Alice E. Shapley, Adam C. Carnall, Fergus Cullen, Thomas M. Stanton, Daniel Schaerer, Rui Marques-Chaves, Charles C. Steidel, Ryan L. Sanders, Natalie Lam, Karla Z. Arellano-Cordova, Ryan Begley, Sophia R. Flury, Natalia G. Guseva, Timothy Heckman, Alaina Henry, Akio K. Inoue, Yuri I. Izotov, Ho-Hin Leung, Derek J. McLeod, Kate Rowlands, Alberto Saldana-Lopez, Dirk Scholte, Maya Skarbinski, Struan D. Stevenson, Elizabeth Taylor, Bingjie Wang, Naveen A. Reddy </p>
 <p>
@@ -111,7 +177,7 @@ We investigate how low-ionization gas flows in typical star-forming galaxies at 
 <p> <b> Comments: </b> 31 pages, 14 figures, 3 tables, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.12686v1"> https://arxiv.org/pdf/2606.12686v1 </a> </p>
 
-### 11) [2606.12605](https://arxiv.org/abs/2606.12605v1): Feedback-Free Star Formation in Clusters within a Galaxy Simulated at High Resolution in Cosmic Dawn
+### 17) [2606.12605](https://arxiv.org/abs/2606.12605v1): Feedback-Free Star Formation in Clusters within a Galaxy Simulated at High Resolution in Cosmic Dawn
 
 <p> Hou-Zun Chen, Zhaozhou Li, Avishai Dekel, Zhiyuan Yao, Nir Mandelker, Xi Kang </p>
 <p>
@@ -122,7 +188,7 @@ We perform a cosmological zoom-in simulation of a massive galaxy (M_s~10^10M<sub
 <p> <b> Comments: </b> 15 pages, 17 figures. Submitted to MNRAS. All comments are welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.12605v1"> https://arxiv.org/pdf/2606.12605v1 </a> </p>
 
-### 12) [2606.12536](https://arxiv.org/abs/2606.12536v1): Getting to know the Stellar Clusters in NGC 1569: Bayesian inference of stellar cluster properties in a dwarf starburst galaxy
+### 18) [2606.12536](https://arxiv.org/abs/2606.12536v1): Getting to know the Stellar Clusters in NGC 1569: Bayesian inference of stellar cluster properties in a dwarf starburst galaxy
 
 <p> Bjarki Björgvinsson, Anna F. McLeod, Bronwyn Reichardt Chu, Magdalena J. Hamel-Bravo, Deanne B. Fisher, Mark R. Krumholz </p>
 <p>
@@ -133,7 +199,7 @@ We present a Bayesian analysis of star clusters in the dwarf starburst galaxy NG
 <p> <b> Comments: </b> 18 pages, 21 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.12536v1"> https://arxiv.org/pdf/2606.12536v1 </a> </p>
 
-### 13) [2606.12355](https://arxiv.org/abs/2606.12355v1): Between Degeneracy and Evolution: UV-to-optical Insights into the BH^* Model in Little Red Dots
+### 19) [2606.12355](https://arxiv.org/abs/2606.12355v1): Between Degeneracy and Evolution: UV-to-optical Insights into the BH^* Model in Little Red Dots
 
 <p> Rosa M. Mérida, Marcin Sawicki, Chris J. Willott, Gaia Gaspar, Kartheik G. Iyer </p>
 <p>
@@ -144,7 +210,7 @@ Little Red Dots (LRDs) are a heterogeneous class of objects, with several propos
 <p> <b> Comments: </b> 22 pages, 15 figures, 4 tables. Submitted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.12355v1"> https://arxiv.org/pdf/2606.12355v1 </a> </p>
 
-### 14) [2606.12249](https://arxiv.org/abs/2606.12249v1): Spatially Resolved Nebular-Stellar Reddening with JWST/NIRISS
+### 20) [2606.12249](https://arxiv.org/abs/2606.12249v1): Spatially Resolved Nebular-Stellar Reddening with JWST/NIRISS
 
 <p> Peter J. Watson, Benedetta Vulcani, Tommaso Treu, Ayan Acharyya, Marc Rafelski, Anahita Alavi, Matthew Hayes, Keunho Kim, Faezeh Manesh, Claudia Scarlata </p>
 <p>
@@ -155,7 +221,7 @@ An accurate determination of the dust attenuation within galaxies is essential t
 <p> <b> Comments: </b> 17 pages, 19 figures (including appendices), submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.12249v1"> https://arxiv.org/pdf/2606.12249v1 </a> </p>
 
-### 15) [2606.11444](https://arxiv.org/abs/2606.11444v1): Investigating the role of turbulence in the interstellar medium in z~3 dusty star-forming galaxies using kpc-resolution ALMA dust and gas maps
+### 21) [2606.11444](https://arxiv.org/abs/2606.11444v1): Investigating the role of turbulence in the interstellar medium in z~3 dusty star-forming galaxies using kpc-resolution ALMA dust and gas maps
 
 <p> B. A. Westoby, J. A. Hodge, P. Sharda, P. E. Mancera Piña, M. Rybak, E. da Cunha, J. Li, I. Smail, A. M. Swinbank, A. Battisti, L. A. Boogaard, W. N. Brandt, G. Calistro Rivera, C. -C. Chen, P. Cox, M. Cracraft, H. Dannerbauer, R. Decarli, T. R. Greve, S. Kendrew, K. Knudsen, C. -L. Liao, J. van Marrewijk, O. Nayak, M. Neeleman, L. E. Rowland, E. Schinnerer, F. Walter, J. L. Wardlow, A. Weiss, P. van der Werf </p>
 <p>
@@ -166,7 +232,7 @@ We present ALMA high-resolution (~0.25^&Prime;/2 kpc) CO(5-4) and CO(4-3) observ
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.11444v1"> https://arxiv.org/pdf/2606.11444v1 </a> </p>
 
-### 16) [2606.11345](https://arxiv.org/abs/2606.11345v1): JADES: the mass-metallicity relation at z=1-10. New calibrations, extremely metal-poor galaxies, and chemical diversity
+### 22) [2606.11345](https://arxiv.org/abs/2606.11345v1): JADES: the mass-metallicity relation at z=1-10. New calibrations, extremely metal-poor galaxies, and chemical diversity
 
 <p> Yuki Isobe, Mirko Curti, Roberto Maiolino, Qiao Duan, William McClymont, Dávid Puskás, Francesco D'Eugenio, Pierluigi Rinaldi, James A. A. Trussler, Jan Scholtz, Tobias J. Looser, Erica Nelson, Xihan Ji, Danial Langeroodi, Sandro Tacchella, Gareth C. Jones, Ignas Juodžbalis, Robert G. Pascalau, Tiger Yu-Yang Hsiao, Hannah Übler, William M. Baker, Andrew J. Bunker, Stefano Carniani, Stéphane Charlot, Emma Curtis-Lake, Sophia Geris, Maria Koller, Jianwei Lyu, Brant Robertson, Christina C. Williams, Zihao Wu </p>
 <p>
@@ -177,7 +243,7 @@ We present gas-phase metallicities of star-forming galaxies at z=1-10 with deep 
 <p> <b> Comments: </b> Submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.11345v1"> https://arxiv.org/pdf/2606.11345v1 </a> </p>
 
-### 17) [2606.11328](https://arxiv.org/abs/2606.11328v2): Morphology, sizes, and scatter in a large sample of distant quiescent galaxies
+### 23) [2606.11328](https://arxiv.org/abs/2606.11328v2): Morphology, sizes, and scatter in a large sample of distant quiescent galaxies
 
 <p> G. Scarpe, F. Valentino, K. Ito, M. W. Baker, A. Pensabene, P. Zhu </p>
 <p>
@@ -188,7 +254,7 @@ After quenching galaxies keep growing in size across time, as established in the
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.11328v2"> https://arxiv.org/pdf/2606.11328v2 </a> </p>
 
-### 18) [2606.11315](https://arxiv.org/abs/2606.11315v1): Spiral arms across cosmic time: JWST measurements of the pitch angles of spiral galaxies at z&lt;3.5
+### 24) [2606.11315](https://arxiv.org/abs/2606.11315v1): Spiral arms across cosmic time: JWST measurements of the pitch angles of spiral galaxies at z&lt;3.5
 
 <p> Vicki Kuhn, Yicheng Guo, Sophie Rentschler, Maxmillian Castillo, Gourab Nandi, Ellie Dugdale, Tsinat Mitiku </p>
 <p>
@@ -199,7 +265,7 @@ The properties of spiral galaxies in the early universe remain poorly studied an
 <p> <b> Comments: </b> Accepted to ApJ, 14 pages </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.11315v1"> https://arxiv.org/pdf/2606.11315v1 </a> </p>
 
-### 19) [2606.10710](https://arxiv.org/abs/2606.10710v1): Hubble as a Unique Discovery Engine of the Fate of Massive Stars and Black Hole Formation
+### 25) [2606.10710](https://arxiv.org/abs/2606.10710v1): Hubble as a Unique Discovery Engine of the Fate of Massive Stars and Black Hole Formation
 
 <p> Avishai Gilkis, Eva Laplace, Charles D. Kilpatrick, Maria R. Drout, Anna J. G. O'Grady, Christopher A. Tout </p>
 <p>
@@ -210,7 +276,7 @@ How stellar-mass black holes are formed is an open question in astrophysics, wit
 <p> <b> Comments: </b> 5 pages, 2 figures; white paper submitted in response to the Space Telescope Science Institute call: Building a Roadmap for Hubble science into the 2030s </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.10710v1"> https://arxiv.org/pdf/2606.10710v1 </a> </p>
 
-### 20) [2606.10160](https://arxiv.org/abs/2606.10160v1): Aether-SHELLQs: JWST integral-field spectroscopy of candidate obscured quasars at z ~ 6
+### 26) [2606.10160](https://arxiv.org/abs/2606.10160v1): Aether-SHELLQs: JWST integral-field spectroscopy of candidate obscured quasars at z ~ 6
 
 <p> Yoshiki Matsuoka, Roberto Decarli, Emanuele Paolo Farina, Anniek J. Gloudemans, Eduardo Bañados, Fabrizio Arrigoni Battaia, Anna-Christina Eilers, Chiara Mazzucchelli, Michael A. Strauss, Hyewon Suh, Maxime Trebitsch, Fabian Walter, Feige Wang, Kentaro Aoki, Junya Arita </p>
 <p>
@@ -221,7 +287,7 @@ We present James Webb Space Telescope (JWST) NIRSpec integral field unit (IFU) o
 <p> <b> Comments: </b> Accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.10160v1"> https://arxiv.org/pdf/2606.10160v1 </a> </p>
 
-### 21) [2606.10036](https://arxiv.org/abs/2606.10036v2): Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth
+### 27) [2606.10036](https://arxiv.org/abs/2606.10036v2): Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth
 
 <p> Jonathan Kho, Aklant K. Bhowmick, Rainer Weinberger, Paul Torrey, Laura Blecha, Lars Hernquist, Greg L. Bryan, Alex M. Garcia, Niusha Ahvazi, Alejandro Saravia, Boon Kiat Oh </p>
 <p>
@@ -232,7 +298,7 @@ JWST discoveries of the earliest (z ≳ 9) supermassive black holes (BHs, M<sub>
 <p> <b> Comments: </b> This is a Learning the Universe publication. 19 pages, 7 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.10036v2"> https://arxiv.org/pdf/2606.10036v2 </a> </p>
 
-### 22) [2606.10000](https://arxiv.org/abs/2606.10000v1): From Dense Gas Clouds to Supermassive Black Hole Seeds: Hybrid Hydro/Direct N-body Simulations of Runaway Collision-driven Intermediate-mass Black Hole Formation
+### 28) [2606.10000](https://arxiv.org/abs/2606.10000v1): From Dense Gas Clouds to Supermassive Black Hole Seeds: Hybrid Hydro/Direct N-body Simulations of Runaway Collision-driven Intermediate-mass Black Hole Formation
 
 <p> Eunwoo Chung, Yongseok Jo, Ji-hoon Kim, Minyong Jung, Oh-kyoung Kwon </p>
 <p>
@@ -243,7 +309,7 @@ A population of dense stellar systems at high redshift has recently been uncover
 <p> <b> Comments: </b> Accepted for publication in ApJ, 23 pages, 15 figures. For summary video, see https://youtu.be/nJnj6wwB0D4 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.10000v1"> https://arxiv.org/pdf/2606.10000v1 </a> </p>
 
-### 23) [2606.09970](https://arxiv.org/abs/2606.09970v1): Through the Veil: Lyα Illuminates the Host Galaxies of Little Red Dots
+### 29) [2606.09970](https://arxiv.org/abs/2606.09970v1): Through the Veil: Lyα Illuminates the Host Galaxies of Little Red Dots
 
 <p> Zhiyuan Ji, Yang Sun, Mauro Giavalisco, Anna de Graaff, Christina C. Williams, Yongda Zhu, George H. Rieke, Marcia Rieke </p>
 <p>
@@ -254,7 +320,7 @@ Little Red Dots (LRDs) are enigmatic, compact red sources ubiquitous in JWST dee
 <p> <b> Comments: </b> 27 pages, 17 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.09970v1"> https://arxiv.org/pdf/2606.09970v1 </a> </p>
 
-### 24) [2606.09776](https://arxiv.org/abs/2606.09776v1): Mapping Interstellar Ice Inventory toward Class 0 Protostars in Star-forming Region Orion A with JWST Data
+### 30) [2606.09776](https://arxiv.org/abs/2606.09776v1): Mapping Interstellar Ice Inventory toward Class 0 Protostars in Star-forming Region Orion A with JWST Data
 
 <p> Igor Petrashkevich, Yaroslav Pavlyuchenkov, Anna Punanova, Maksim Ozhiganov, Ruslan Nakibov, Varvara Karteyeva, Svetlana Salii, Andrej Sobolev, Mikhail Medvedev, Anton Vasyunin </p>
 <p>
@@ -265,7 +331,7 @@ We present a detailed study of the spatial distribution and chemical composition
 <p> <b> Comments: </b> 37 pages with 25 figures, accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.09776v1"> https://arxiv.org/pdf/2606.09776v1 </a> </p>
 
-### 25) [2606.09726](https://arxiv.org/abs/2606.09726v1): A Scaling Relation of LRDs between Broad Hα and Bolometric Luminosities: Enhanced Broad Hα Emission Relative to Low-z Type 1 AGN
+### 31) [2606.09726](https://arxiv.org/abs/2606.09726v1): A Scaling Relation of LRDs between Broad Hα and Bolometric Luminosities: Enhanced Broad Hα Emission Relative to Low-z Type 1 AGN
 
 <p> Hiroto Yanagisawa, Masami Ouchi, Tomokazu Kiyota, Yuta Kageura, Makoto Ando, Yuichi Harikane, Minami Nakane, Yoshiaki Ono, Yui Takeda </p>
 <p>
@@ -276,7 +342,7 @@ We investigate the demography of little red dots (LRDs) using 37 objects at z~3-
 <p> <b> Comments: </b> 16 pages, 9 figures. Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.09726v1"> https://arxiv.org/pdf/2606.09726v1 </a> </p>
 
-### 26) [2606.09413](https://arxiv.org/abs/2606.09413v1): Towards a consistent framework of determining active galactic nucleus contribution fraction and host galaxy properties
+### 32) [2606.09413](https://arxiv.org/abs/2606.09413v1): Towards a consistent framework of determining active galactic nucleus contribution fraction and host galaxy properties
 
 <p> Mi Chen, Lingyu Wang, Berta Margalef-Bentabol, Katarzyna Małek, Brivael Laloux, Antonio La Marca </p>
 <p>
@@ -287,7 +353,7 @@ Decomposing active galactic nucleus (AGN) emission from host-galaxy light is ess
 <p> <b> Comments: </b> 18 pages, 12 figures, accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.09413v1"> https://arxiv.org/pdf/2606.09413v1 </a> </p>
 
-### 27) [2606.08782](https://arxiv.org/abs/2606.08782v1): JWST Absorption-Line Analysis of UV-Bright Galaxies at z=7.2-10.6: Early Chemical Enrichment Traced by C, O, Mg, Al, Si, and Fe
+### 33) [2606.08782](https://arxiv.org/abs/2606.08782v1): JWST Absorption-Line Analysis of UV-Bright Galaxies at z=7.2-10.6: Early Chemical Enrichment Traced by C, O, Mg, Al, Si, and Fe
 
 <p> Minami Nakane, Masami Ouchi </p>
 <p>
@@ -298,7 +364,7 @@ We investigate UV absorption lines tracing cool gas in eight bright (-21.9&lt;M_
 <p> <b> Comments: </b> 22 pages, 11 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.08782v1"> https://arxiv.org/pdf/2606.08782v1 </a> </p>
 
-### 28) [2606.08607](https://arxiv.org/abs/2606.08607v1): ALMA High-resolution Observation of the HH46/47 Outflow/disk/envelope System
+### 34) [2606.08607](https://arxiv.org/abs/2606.08607v1): ALMA High-resolution Observation of the HH46/47 Outflow/disk/envelope System
 
 <p> Heyi Zhang, Yichen Zhang, Héctor G. Arce, Diego Mardones, Sylvie Cabrit, Michael M. Dunham, Stella S. R. Offner, Hsien Shang </p>
 <p>
@@ -309,7 +375,7 @@ We present 0.1" (~ 50 au) resolution Atacama Large Millimeter/submillimeter Arra
 <p> <b> Comments: </b> 39 pages, 23 figures. Submitted to ApJ; Comments are welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.08607v1"> https://arxiv.org/pdf/2606.08607v1 </a> </p>
 
-### 29) [2606.07421](https://arxiv.org/abs/2606.07421v1): Dust in the very metal-poor galaxy Sextans A with JWST. I: Characterizing the evolved stellar population of Sextans A based on JWST observations and stellar evolution models
+### 35) [2606.07421](https://arxiv.org/abs/2606.07421v1): Dust in the very metal-poor galaxy Sextans A with JWST. I: Characterizing the evolved stellar population of Sextans A based on JWST observations and stellar evolution models
 
 <p> C. Gavetti, F. Dell'Agli, E. Tarantino, M. L. Boyer, I. McDonald, J. Th. Van Loon, D. A. Garcia-Hernandez, M. A. T. Groenewegen, A. Nanni, J. A. D. L. Blommaert, R. D. Gehrz, L. M. Gerlach, S. Goldman, M. Marengo, K. B. W. McQuinn, J. M. Oliveira, J. Roman-Duval, R. Sahai, E. D. Skillman, B. F. Williams, A. Javadi, O. C. Jones, F. Kemper, F. La Franca, G. C Sloan </p>
 <p>
@@ -320,7 +386,7 @@ The nearby star-forming dwarf galaxy Sextans A offers a unique window into galax
 <p> <b> Comments: </b> 18 pages, 4 figures, accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.07421v1"> https://arxiv.org/pdf/2606.07421v1 </a> </p>
 
-### 30) [2606.07357](https://arxiv.org/abs/2606.07357v1): Origin of monolithic high-z galaxies and UV luminosity of mergering high-z galaxies in the cosmological model with non-standard spectrum of density perturbations
+### 36) [2606.07357](https://arxiv.org/abs/2606.07357v1): Origin of monolithic high-z galaxies and UV luminosity of mergering high-z galaxies in the cosmological model with non-standard spectrum of density perturbations
 
 <p> Yu. N. Eroshenko, V. N. Lukash, E. V. Mikheeva, S. V. Pilipenko, M. V. Tkachev </p>
 <p>
@@ -331,7 +397,7 @@ The James Webb Space Telescope (JWST) has detected an unexpectedly large number 
 <p> <b> Comments: </b> 13 pages, 6 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.07357v1"> https://arxiv.org/pdf/2606.07357v1 </a> </p>
 
-### 31) [2606.06628](https://arxiv.org/abs/2606.06628v2): EPISODE II: Variability in the CO and H<sub>2</sub>O rovibrational absorption lines in a periodically variable protostar EC 53
+### 37) [2606.06628](https://arxiv.org/abs/2606.06628v2): EPISODE II: Variability in the CO and H<sub>2</sub>O rovibrational absorption lines in a periodically variable protostar EC 53
 
 <p> Seokho Lee, Jeong-Eun Lee, Chul-Hwan Kim, Jaeyeong Kim, Young-Jun Kim, Gregory J. Herczeg, Doug Johnstone, Giseon Baek, Yuri Aikawa, Joel D. Green, Yao-Lun Yang, Logan Francis, Klaus M. Pontoppidan, Ho-Gyu Lee, Takahiro Nagayama, Yoichi Itoh, Tomohito Ohshima, Jun Takahashi, Jun Toshikawa, Tomoki Saito, Motohide Tamura, Takayoshi Kusune </p>
 <p>
@@ -342,7 +408,7 @@ We present two-epoch JWST NIRSpec and MIRI observations of the young protostar E
 <p> <b> Comments: </b> Accepted in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.06628v2"> https://arxiv.org/pdf/2606.06628v2 </a> </p>
 
-### 32) [2606.06620](https://arxiv.org/abs/2606.06620v1): JWST reveals how black holes are fed: kiloparsec-scale multiphase filaments feed sub-kiloparsec circumnuclear disks
+### 38) [2606.06620](https://arxiv.org/abs/2606.06620v1): JWST reveals how black holes are fed: kiloparsec-scale multiphase filaments feed sub-kiloparsec circumnuclear disks
 
 <p> Julie Hlavacek-Larrondo, Hyunseop Choi, Minghao Guo, Mathieu Marquis, Olivia Pereira, G. Mark Voit, Loïc Albert, Jorge Barrera-Ballesteros, Rebecca E. A. Canning, Francesco D'Eugenio, Megan Donahue, Andrew C. Fabian, Gary J. Ferland, John S. Gallagher, Marie-Lou Gendron-Marsolais, Pierre Guillard, Nina Hatch, Ralf Kottulla, Yuan Li, Roberto Maiolino, Allison Man, Michael A. McDonald, Brian R. McNamara, Valeria Olivares, Marine Prunier, Michael Reefe, Christopher S. Reynolds, Carter Rhea, Annabelle Richard-Larrière, Helen R. Russell, Philippe Salomé, Ming Sun, Prathamesh Tamhane, Gregory Taylor, Auriane Thilloy, Grant R. Tremblay, Benjamin Vigneron, Stephen A. Walker </p>
 <p>
@@ -353,7 +419,7 @@ The Centaurus cluster is one of the most important archetypes of radio-mode AGN 
 <p> <b> Comments: </b> Submitted to ApJ Letters and revised in response to referee comments (14 pages, 4 figures) </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.06620v1"> https://arxiv.org/pdf/2606.06620v1 </a> </p>
 
-### 33) [2606.06609](https://arxiv.org/abs/2606.06609v1): JWST absorption line spectroscopy with SPURS: ISM covering fractions and kinematics in individual galaxies at z=5-9
+### 39) [2606.06609](https://arxiv.org/abs/2606.06609v1): JWST absorption line spectroscopy with SPURS: ISM covering fractions and kinematics in individual galaxies at z=5-9
 
 <p> Keerthi Vasan G. C., Peter Senchyna, Charlotte A. Mason, Zuyi Chen, Daniel P. Stark, Tucker Jones, Lily Whitler, Kelsey S. Glazer, Manuel Aravena, Jorge Gonzalez-Lopez, Ryan Endsley, Viola Gelli, Mengtao Tang, Michael W. Topping </p>
 <p>
@@ -364,7 +430,7 @@ We present deep rest-ultraviolet (UV) spectra of six luminous z=5 &ndash; 9 gala
 <p> <b> Comments: </b> Submitted to ApJ. 31 pages, 18 figures, 4 Tables (including appendix). Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.06609v1"> https://arxiv.org/pdf/2606.06609v1 </a> </p>
 
-### 34) [2606.06575](https://arxiv.org/abs/2606.06575v1): The quasi-star model for Little Red Dots: potential and challenges
+### 40) [2606.06575](https://arxiv.org/abs/2606.06575v1): The quasi-star model for Little Red Dots: potential and challenges
 
 <p> Fabrizio Gentile, Mauro Giavalisco, Emanuele Daddi, David Elbaz, Jean-Baptiste Billand, Maximilen Franco, Benjamin Magnelli, Guillermo Barro, Yingjie Cheng, Nikko J. Cleri, Kelcey Davis, Ivan Delvecchio, Mark Dickinson, Steven L. Finkelstein, Giovanni Gandolfi, Michaela Hirschmann, Weida Hu, Dale Kocevski, Anton M. Koekemoer, Ray Lucas, Sara Mascia, Lorenzo Napolitano, Casey Papovich, Borja Pérez-Díaz, Pablo Perez-Gonzalez, Jonathan R. Trump, Xin Wang, L. Y. Aaron Yung </p>
 <p>
@@ -375,7 +441,7 @@ We present deep rest-ultraviolet (UV) spectra of six luminous z=5 &ndash; 9 gala
 <p> <b> Comments: </b> Submitted to A&A. The catalogue with the best-fit parameters will be available upon acceptance. 12 pages (+ 4 in the appendix), 7 (+3) figures, 2 (+1) tables. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.06575v1"> https://arxiv.org/pdf/2606.06575v1 </a> </p>
 
-### 35) [2606.06005](https://arxiv.org/abs/2606.06005v1): The Multi-phase Biconical Outflow in the local IR-Luminous Merger IRASF01364-1042
+### 41) [2606.06005](https://arxiv.org/abs/2606.06005v1): The Multi-phase Biconical Outflow in the local IR-Luminous Merger IRASF01364-1042
 
 <p> Y. Song, V. U, J. Kader, M. Bianchin, J. Agostino, L. Barcos-Muñoz, N. Torres-Albà, A. Medling, C. Ricci, L. Armus, T. Lai, L. Ghodsi, A. Evans, H. Inami, S. Stierwalt, T. Bohn, K. L. Emig, V. Buiten, G. Donnelly, E. Treister, A. Jimenez-Gallardo, T. Böker, D. Kakkad, S. Linden, P. van der Werf, V. Charmandaris, R. Remigio, L. Lenkic, C. Finlez, M. Sanchez-García, C. Lofaro, A. Saravia, I. Yoon, G. C. Privon, T. Gao, H. Aziz, R. McGurk, T. Díaz-Santos, D. Kunneriath, David B. Sanders </p>
 <p>
@@ -386,7 +452,7 @@ We investigate the spatially-resolved ISM properties of the local (z = 0.048), I
 <p> <b> Comments: </b> 23 pages, 16 figures, accepted for publication in A & A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.06005v1"> https://arxiv.org/pdf/2606.06005v1 </a> </p>
 
-### 36) [2606.05887](https://arxiv.org/abs/2606.05887v1): Early Results from GLASS-JWST. XXVI. Spatially Resolved Star Formation and Balmer Decrements at 1.1&lt;z&lt;2.3 from NIRISS Slitless Spectroscopy
+### 42) [2606.05887](https://arxiv.org/abs/2606.05887v1): Early Results from GLASS-JWST. XXVI. Spatially Resolved Star Formation and Balmer Decrements at 1.1&lt;z&lt;2.3 from NIRISS Slitless Spectroscopy
 
 <p> Pengfei Ren, Xin Wang, Yuxuan Pang, Mengting Ju, Tucker Jones, Karl Glazebrook, Matthew A. Malkan, Gabriel Brammer, Victoria Strait, Themiya Nanayakkara, Tommaso Treu, Benedetta Vulcani, Peter J. Watson </p>
 <p>
@@ -397,7 +463,7 @@ Using JWST/NIRISS slitless spectroscopy, we present spatially resolved Balmer de
 <p> <b> Comments: </b> 12 pages, 5 figures. Accepted for publication in ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.05887v1"> https://arxiv.org/pdf/2606.05887v1 </a> </p>
 
-### 37) [2606.05323](https://arxiv.org/abs/2606.05323v1): Strong [OIII]+Hβ emitters dominated the ionizing budget at z~7
+### 43) [2606.05323](https://arxiv.org/abs/2606.05323v1): Strong [OIII]+Hβ emitters dominated the ionizing budget at z~7
 
 <p> Isak Wold, Sangeeta Malhotra, James Rhoads </p>
 <p>
@@ -408,7 +474,7 @@ We quantify the ionizing photon production at z~7 using the deepest spectroscopi
 <p> <b> Comments: </b> 15 pages, 10 figures, 3 tables; submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.05323v1"> https://arxiv.org/pdf/2606.05323v1 </a> </p>
 
-### 38) [2606.05281](https://arxiv.org/abs/2606.05281v1): Little red dots as a cosmological probe: constraining H_0 with quasi-periodic pulsations
+### 44) [2606.05281](https://arxiv.org/abs/2606.05281v1): Little red dots as a cosmological probe: constraining H_0 with quasi-periodic pulsations
 
 <p> Zijian Zhang, Kohei Inayoshi, Masamune Oguri, Linhua Jiang, Fengwu Sun, Mingyu Li, Xiaojing Lin </p>
 <p>
@@ -419,7 +485,7 @@ The James Webb Space Telescope (JWST) has uncovered a population of "little red 
 <p> <b> Comments: </b> 11 pages, 2 figures. PRL under review. Comments and suggestions are welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.05281v1"> https://arxiv.org/pdf/2606.05281v1 </a> </p>
 
-### 39) [2606.05277](https://arxiv.org/abs/2606.05277v1): The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses
+### 45) [2606.05277](https://arxiv.org/abs/2606.05277v1): The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses
 
 <p> D. Gilman, A. M. Nierenberg, T. Treu, K. N. Abazajian, T. Anguita, V. N. Bennert, A. J. Benson, S. Birrer, S. G. Djorgovski, X. Du, C. Gannon, S. F. Hoenig, R. E. Keeley, A. Kusenko, H. R. Larsson, M. Malkan, T. Morishita, V. Motta, L. A. Moustakas, P. Mozumdar, H. Paugnat, W. Sheu, D. Sluse, D. Stern, M. Stiavelli, D. Williams, K. C. Wong </p>
 <p>
@@ -430,7 +496,7 @@ The formation of gravitationally bound overdensities of dark matter (DM), or ith
 <p> <b> Comments: </b> accepted by PRL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.05277v1"> https://arxiv.org/pdf/2606.05277v1 </a> </p>
 
-### 40) [2606.05144](https://arxiv.org/abs/2606.05144v1): New Measurements of Distances to Galaxies in the NGC 1052 Field with the Hubble and James Webb Space Telescopes: Testing the Bullet-Dwarf Origin of the Trail
+### 46) [2606.05144](https://arxiv.org/abs/2606.05144v1): New Measurements of Distances to Galaxies in the NGC 1052 Field with the Hubble and James Webb Space Telescopes: Testing the Bullet-Dwarf Origin of the Trail
 
 <p> Yimeng Tang, Gagandeep S. Anand, Aaron J. Romanowsky, Pieter G. van Dokkum, Kevin A. Bundy </p>
 <p>
@@ -441,7 +507,7 @@ NGC 1052-DF2 and DF4 are two ultra-diffuse galaxies deficient in dark matter (DM
 <p> <b> Comments: </b> 10 pages, 4 figures; Accepted for publication in ApJ Letters </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.05144v1"> https://arxiv.org/pdf/2606.05144v1 </a> </p>
 
-### 41) [2606.04827](https://arxiv.org/abs/2606.04827v1): Steep Redshift Evolution of the Ionizing Escape Fraction at z = 5&ndash;12: Empirical Constraints and Comparison with Simulations
+### 47) [2606.04827](https://arxiv.org/abs/2606.04827v1): Steep Redshift Evolution of the Ionizing Escape Fraction at z = 5&ndash;12: Empirical Constraints and Comparison with Simulations
 
 <p> Zihan Wang, Huanyuan Shan </p>
 <p>
@@ -452,7 +518,7 @@ The ionizing photon escape fraction f<sub>esc</sub> governs cosmic reionization 
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.04827v1"> https://arxiv.org/pdf/2606.04827v1 </a> </p>
 
-### 42) [2606.04712](https://arxiv.org/abs/2606.04712v1): The Extreme Rarity and Physical Properties of Low-redshift AGNs with Balmer Absorption
+### 48) [2606.04712](https://arxiv.org/abs/2606.04712v1): The Extreme Rarity and Physical Properties of Low-redshift AGNs with Balmer Absorption
 
 <p> Jinyi Shangguan, Chang-Hao Chen, Luis C. Ho, Jiwei Liao, Yanqing Liu, Chengzhou Wu, Ruancun Li, Kohei Inayoshi, Linhua Jiang </p>
 <p>
@@ -463,7 +529,7 @@ Balmer absorption lines are increasingly observed in the little red dots (LRDs) 
 <p> <b> Comments: </b> 26 pages in the main text, 23 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.04712v1"> https://arxiv.org/pdf/2606.04712v1 </a> </p>
 
-### 43) [2606.04136](https://arxiv.org/abs/2606.04136v1): HST's Deep Blue: extremely deep UV imaging to reveal the contributors to reionization
+### 49) [2606.04136](https://arxiv.org/abs/2606.04136v1): HST's Deep Blue: extremely deep UV imaging to reveal the contributors to reionization
 
 <p> Ilias Goovaerts, Alexander Beckett, Matthew Hayes, Alberto Saldana-Lopez, Annalisa Citro, Hakim Atek, Harry Teplitz, Roser Pello, Peter Watson, Claudia Scarlata, Mitchell Revalski, Davide Tornotti, Nicolas Laporte, Meriam Ezziati, Callum Witten </p>
 <p>
@@ -474,7 +540,7 @@ Understanding galaxy evolution in the epoch of reionization and the effect these
 <p> <b> Comments: </b> 8 pages, 2 figures, 1 table, submitted as part of the call for HST white papers: Building a Roadmap for Hubble Science into the 2030s </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.04136v1"> https://arxiv.org/pdf/2606.04136v1 </a> </p>
 
-### 44) [2606.04081](https://arxiv.org/abs/2606.04081v1): The role of major mergers in triggering super-Eddington accretion
+### 50) [2606.04081](https://arxiv.org/abs/2606.04081v1): The role of major mergers in triggering super-Eddington accretion
 
 <p> Riccardo Caleno, Tommaso Zana, Raffaella Schneider, Alessandro Lupi, Pedro R. Capelo, Lucio Mayer, Alessandro Trinca, Rosa Valiante, Marta Volonteri </p>
 <p>
@@ -485,7 +551,7 @@ JWST observations have opened a new era in the exploration of the high-redshift 
 <p> <b> Comments: </b> 12+2 pages, 8 figures; submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.04081v1"> https://arxiv.org/pdf/2606.04081v1 </a> </p>
 
-### 45) [2606.03753](https://arxiv.org/abs/2606.03753v1): The impact of source and survey modelling on the connection between [O III] emitters and Ly α forest transmission at z ~ 6
+### 51) [2606.03753](https://arxiv.org/abs/2606.03753v1): The impact of source and survey modelling on the connection between [O III] emitters and Ly α forest transmission at z ~ 6
 
 <p> Luke Conaboy, James S. Bolton, Laura C. Keating, Martin G. Haehnelt, Girish Kulkarni, Ewald Puchwein </p>
 <p>
@@ -496,7 +562,7 @@ James Webb Space Telescope (JWST) surveys of [O III]-emitting galaxies are offer
 <p> <b> Comments: </b> 14 pages, 11 figures. To be submitted to the Open Journal of Astrophysics </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.03753v1"> https://arxiv.org/pdf/2606.03753v1 </a> </p>
 
-### 46) [2606.03667](https://arxiv.org/abs/2606.03667v1): Constraining AGN accretion physics with black hole mass-luminosity scaling relations
+### 52) [2606.03667](https://arxiv.org/abs/2606.03667v1): Constraining AGN accretion physics with black hole mass-luminosity scaling relations
 
 <p> F. Fiore, M. Gaspari, S. Puccetti, M. Bischetti, C. Feruglio, E. Piconcelli </p>
 <p>
@@ -507,7 +573,7 @@ We test how supermassive black holes are fed by combining new black hole mass-lu
 <p> <b> Comments: </b> submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.03667v1"> https://arxiv.org/pdf/2606.03667v1 </a> </p>
 
-### 47) [2606.03522](https://arxiv.org/abs/2606.03522v1): The UV Side of Little Red Dots: Red, Compact, and Iron-Enhanced Rest-UV Emission with a Strong Downturn around Lyα
+### 53) [2606.03522](https://arxiv.org/abs/2606.03522v1): The UV Side of Little Red Dots: Red, Compact, and Iron-Enhanced Rest-UV Emission with a Strong Downturn around Lyα
 
 <p> Makoto Ando, Yuichi Harikane, Harley Katz, Kohei Inayoshi, Takumi S. Tanaka </p>
 <p>
@@ -518,7 +584,7 @@ Little Red Dots (LRDs) are candidates for growing supermassive black holes newly
 <p> <b> Comments: </b> 22 pages, 14 figures, Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.03522v1"> https://arxiv.org/pdf/2606.03522v1 </a> </p>
 
-### 48) [2606.03375](https://arxiv.org/abs/2606.03375v1): Little Red Dot progenitors from Compact Starbursts: A Natural Path to Early AGN Formation
+### 54) [2606.03375](https://arxiv.org/abs/2606.03375v1): Little Red Dot progenitors from Compact Starbursts: A Natural Path to Early AGN Formation
 
 <p> Matías Liempi, Muhammad A. Latif, Dominik R. G. Schleicher </p>
 <p>
@@ -529,7 +595,7 @@ The recent discovery of Little Red Dots (LRDs) by the James Webb Space Telescope
 <p> <b> Comments: </b> Accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.03375v1"> https://arxiv.org/pdf/2606.03375v1 </a> </p>
 
-### 49) [2606.03037](https://arxiv.org/abs/2606.03037v1): A z ~ 6.2 Quasar on the Local M_BH-σ<sub>&ast;</sub> Relation Quenching Its Host Galaxy from the Aether Survey
+### 55) [2606.03037](https://arxiv.org/abs/2606.03037v1): A z ~ 6.2 Quasar on the Local M_BH-σ<sub>&ast;</sub> Relation Quenching Its Host Galaxy from the Aether Survey
 
 <p> Weizhe Liu, Emanuele Paolo Farina, Xiaohui Fan, Roberto Decarli, Masafusa Onoue, Haowen Zhang, Eduardo Banãdos, Aaron J. Barth, Fabrizio Arrigoni Battaia, Manuela Bischetti, Sarah E. I. Bosman, Hyunseop Choi, Tiago Costa, Simona Gallerani, Anniek J. Gloudemans, Xiangyu Jin, Federica Loiacono, Yoshiki Matsuoka, Chiara Mazzucchelli, Fabian Walter, Feige Wang, Jinyi Yang </p>
 <p>
@@ -540,7 +606,7 @@ We report JWST/NIRSpec integral field unit (IFU) observations of the quasar J151
 <p> <b> Comments: </b> 19 pages, 8 figures, 2 tables, submitted to ApJ. Comments are more than welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.03037v1"> https://arxiv.org/pdf/2606.03037v1 </a> </p>
 
-### 50) [2606.02803](https://arxiv.org/abs/2606.02803v1): Topology of molecular clouds in the PHANGS-JWST catalogue in relation to the physical characteristics of their galaxies
+### 56) [2606.02803](https://arxiv.org/abs/2606.02803v1): Topology of molecular clouds in the PHANGS-JWST catalogue in relation to the physical characteristics of their galaxies
 
 <p> Ignacio Morales-Gil </p>
 <p>
@@ -551,7 +617,7 @@ Molecular clouds are affected by dynamical processes such as cloud merging and s
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02803v1"> https://arxiv.org/pdf/2606.02803v1 </a> </p>
 
-### 51) [2606.02746](https://arxiv.org/abs/2606.02746v1): Bridging the UV Gap: The HST Ultraviolet Foundation for Star Formation Science in the Era of Roman, Euclid, and HWO
+### 57) [2606.02746](https://arxiv.org/abs/2606.02746v1): Bridging the UV Gap: The HST Ultraviolet Foundation for Star Formation Science in the Era of Roman, Euclid, and HWO
 
 <p> F. Z. Majidi, A. Bayo, K. Biazzo, J. M. Alcalá, K. France, E. Gaidos, M. G. Guarcello </p>
 <p>
@@ -562,7 +628,7 @@ As we enter the 2030s, the astronomical landscape will be dominated by large-sca
 <p> <b> Comments: </b> 5 Pages (STScI page limit for White Papers), 1 Figure, Submission to HST STScI Call for White Papers 2026 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02746v1"> https://arxiv.org/pdf/2606.02746v1 </a> </p>
 
-### 52) [2606.02738](https://arxiv.org/abs/2606.02738v1): Signature of Bursty Star Formation in the High-Redshift Galaxies Detected with JWST
+### 58) [2606.02738](https://arxiv.org/abs/2606.02738v1): Signature of Bursty Star Formation in the High-Redshift Galaxies Detected with JWST
 
 <p> Rupam Sarkar, Saumyadip Samui </p>
 <p>
@@ -573,7 +639,7 @@ Recent JWST observations reveal an unexpectedly slow evolution in ultraviolet lu
 <p> <b> Comments: </b> 14 pages, 11 figures, accepted for publication in MNRAS; doi:10.1093/mnras/stag1026 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02738v1"> https://arxiv.org/pdf/2606.02738v1 </a> </p>
 
-### 53) [2606.02720](https://arxiv.org/abs/2606.02720v1): A Cosmic Archipelago of lensed metal-poor galaxies at z~6
+### 59) [2606.02720](https://arxiv.org/abs/2606.02720v1): A Cosmic Archipelago of lensed metal-poor galaxies at z~6
 
 <p> A. Bolamperti, M. Messa, A. Zanella, E. Vanzella, P. Bergamini, F. Loiacono, A. M. Koekemoer, J. Vernet, R. A. Windhorst, A. Adamo, F. Annibali, F. Calura, M. Castellano, J. M. Diego, C. Grillo, M. Gronke, E. Iani, M. Meneghetti, A. Mercurio, K. Nakajima, S. Ravindranath, M. Ricotti, P. Rosati, H. Yan </p>
 <p>
@@ -584,7 +650,7 @@ The Cosmic Archipelago is an ensemble of galaxies, strongly lensed by the cluste
 <p> <b> Comments: </b> 15 pages (22 including Appendices), 7 figures. Accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02720v1"> https://arxiv.org/pdf/2606.02720v1 </a> </p>
 
-### 54) [2606.02698](https://arxiv.org/abs/2606.02698v1): Unbreaking the Universe: MINERVA Measurements of Color Gradients in Massive Quiescent Galaxies Can Help Ease Too-Early Star Formation Tensions
+### 60) [2606.02698](https://arxiv.org/abs/2606.02698v1): Unbreaking the Universe: MINERVA Measurements of Color Gradients in Massive Quiescent Galaxies Can Help Ease Too-Early Star Formation Tensions
 
 <p> Sam E. Cutler, Luke Robbins, Danilo Marchesini, Katherine A. Suess, Adam Muzzin, Gabriel Brammer, Yoshihisa Asada, Nicholas S. Martis, Stacey Alberts, Jacqueline Antwi-Danso, Aidan P. Cloonan, Ivo Labbé, Tim B. Miller, Ikki Mitsuhashi, Alexandra Pope, Anna Sajina, Ghassan T. E. Sarrouh, Monu Sharma, Mauro Stefanon, Edgar P. Vidal, Chris J. Willot, Rachel Bezanson, Maruša Bradač, Olivia R. Cooper, Robert Feldmann, Ben Forrest, Karl Glazebrook, Jenny E. Greene, Valentina La Torre, Jamie Lin, Michael V. Maseda, Ian McConachie, Themiya Nananyakkara, Gaël Noirot, Richard Pan, Kesha A. Patel, Veronica Pratt, Marcin Sawicki, David J. Setton, John R. Weaver, Arjen van der Wel, Katherine E. Whitaker, Yunchong Zhang, Kumail Zaidi </p>
 <p>
@@ -595,7 +661,7 @@ The discovery of a population of massive, ancient quiescent galaxies within the 
 <p> <b> Comments: </b> 23 pages, 7 figures, 3 tables. Submitted to ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02698v1"> https://arxiv.org/pdf/2606.02698v1 </a> </p>
 
-### 55) [2606.02688](https://arxiv.org/abs/2606.02688v1): NOEMA^3D: A deep view of cold gas flows in a barred spiral galaxy at z~1
+### 61) [2606.02688](https://arxiv.org/abs/2606.02688v1): NOEMA^3D: A deep view of cold gas flows in a barred spiral galaxy at z~1
 
 <p> Stavros Pastras, Reinhard Genzel, Linda J. Tacconi, Thorsten Naab, Natascha M. Förster Schreiber, Karl Schuster, Roberto Neri, Jianhang Chen, Giulia Tozzi, Jean-Baptiste Jolly, Letizia Scaloni, Capucine Barfety, Andreas Burkert, Yixian Cao, Françoise Combes, Ric Davies, Frank Eisenhauer, Juan M. Espejo Salcedo, Simon Flesch, Santiago García-Burillo, Rodrigo Herrera-Camus, Lilian L. Lee, Minju M. Lee, Daizhong Liu, Dieter Lutz, Giovanni Mazzolari, Amit Nestor Shachar, Meghana Pannikkote, Eleonora Parlanti, Panos A. Patsis, Sedona H. Price, Claudia Pulsoni, Alvio Renzini, Taro T. Shimizu, Amiel Sternberg, Eckhard Sturm, Stijn Wuyts, Hannah Übler </p>
 <p>
@@ -606,7 +672,7 @@ We present a deep, high-resolution CO(4-3) IRAM-NOEMA observation of a main sequ
 <p> <b> Comments: </b> 32 pages, 30 figures, submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02688v1"> https://arxiv.org/pdf/2606.02688v1 </a> </p>
 
-### 56) [2606.02685](https://arxiv.org/abs/2606.02685v1): A Steep-Extinction QSO at z=4.6: JWST Evidence for Abundant Small Dust Grains
+### 62) [2606.02685](https://arxiv.org/abs/2606.02685v1): A Steep-Extinction QSO at z=4.6: JWST Evidence for Abundant Small Dust Grains
 
 <p> Mingyu Li, Zheng Cai, Roberto Maiolino, Fengwu Sun, Xihan Ji, Qiao Duan, Bjorn H. C. Emonts, Xiaohui Fan, Ignas Juodžbalis, Xiaojing Lin, Yixiao Liu, Sandro Tacchella </p>
 <p>
@@ -617,7 +683,7 @@ The rapid accumulation of massive dust reservoirs in the early Universe remains 
 <p> <b> Comments: </b> 14 pages, 6 figures; submitted to ApJ Letters; comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02685v1"> https://arxiv.org/pdf/2606.02685v1 </a> </p>
 
-### 57) [2606.02539](https://arxiv.org/abs/2606.02539v1): JWST's Little Red Dots as collapsed Supermassive Dark Stars
+### 63) [2606.02539](https://arxiv.org/abs/2606.02539v1): JWST's Little Red Dots as collapsed Supermassive Dark Stars
 
 <p> Cosmin Ilie </p>
 <p>
@@ -628,7 +694,7 @@ The nature of the "Little Red Dots'' (LRDs) is one of the most profound mysterie
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.02539v1"> https://arxiv.org/pdf/2606.02539v1 </a> </p>
 
-### 58) [2606.00258](https://arxiv.org/abs/2606.00258v1): OCEANS of Absorption: High-resolution NIRSpec Spectroscopy Reveals Diverse Balmer-line Absorption in Little Red Dots
+### 64) [2606.00258](https://arxiv.org/abs/2606.00258v1): OCEANS of Absorption: High-resolution NIRSpec Spectroscopy Reveals Diverse Balmer-line Absorption in Little Red Dots
 
 <p> Kelcey Davis, Madisyn Brooks, Raymond C. Simons, Jonathan R. Trump, Guillermo Barro, Pablo Arrabal Haro, Bren E. Backhaus, Nikko J. Cleri, Alexander de la Vega, Steven L. Finkelstein, Mauro Giavalisco, Norman A. Grogin, Michaela Hirschmann, Taylor A. Hutchison, Dale Kocevski, Anton M. Koekemoer, Erini Lambrides, Mario Llerena, Ray A. Lucas, Madeline A. Marshall, Elizabeth J. McGrath, Casey Papovich, Aidan Starrs, Anthony J. Taylor, Phoebe R. Upton Sanderbeck, Xin Wang, Stijn Wuyts </p>
 <p>
@@ -639,7 +705,7 @@ The "Little Red Dots' (LRDs) that appeared in JWST deep field images have been t
 <p> <b> Comments: </b> Corresponding author Kelcey Davis: kelcey.davis@uconn.edu. Feedback is welcome. ApJ submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.00258v1"> https://arxiv.org/pdf/2606.00258v1 </a> </p>
 
-### 59) [2606.00205](https://arxiv.org/abs/2606.00205v1): Ultraviolet diversity of Little Red Dots as a probe for direct-collapse black hole ages
+### 65) [2606.00205](https://arxiv.org/abs/2606.00205v1): Ultraviolet diversity of Little Red Dots as a probe for direct-collapse black hole ages
 
 <p> Elia Cenci, Melanie Habouzit, Dale D. Kocevski </p>
 <p>
@@ -650,7 +716,7 @@ Little Red Dots (LRDs) uncovered by the James Webb Space Telescope have been pro
 <p> <b> Comments: </b> 11 pages, 4 figures. arXiv admin note: substantial text overlap with arXiv:2508.14897 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.00205v1"> https://arxiv.org/pdf/2606.00205v1 </a> </p>
 
-### 60) [2606.00208](https://arxiv.org/abs/2606.00208v1): JWST Reveals Large Reservoirs of Dust and Ongoing Circumstellar Interaction in SN Ibn/Icn 2023xgo over a Year Post-Explosion
+### 66) [2606.00208](https://arxiv.org/abs/2606.00208v1): JWST Reveals Large Reservoirs of Dust and Ongoing Circumstellar Interaction in SN Ibn/Icn 2023xgo over a Year Post-Explosion
 
 <p> Kyle W. Davis, Kirsty Taggart, Samaporn Tinyanont, Ryan J. Foley, Jeonghee Rho, Katie Auchettl, Diego Farias, Ori D. Fox, Joel Johansson, Charles D. Kilpatrick, Kishore C. Patra, Craig Pellegrino, Enrico Ramirez-Ruiz, David A. Coulter, Yize Dong, Alexander T. Gagliano, T. R. Geballe, Wynn V. Jacobson-Galán, Jenna Karcheski, Ravjit Kaur, Ryan M. Lau, Thomas Moore, Seong Hyun Park, Armin Rest, Tamás Szalai, Qinan Wang </p>
 <p>
@@ -661,7 +727,7 @@ We present infrared (IR) photometric and spectroscopic observations of SN 2023xg
 <p> <b> Comments: </b> 22 pages, 11 figures; to be submitted to OJAp </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.00208v1"> https://arxiv.org/pdf/2606.00208v1 </a> </p>
 
-### 61) [2605.31420](https://arxiv.org/abs/2605.31420v1): Enhancing Galaxy Classification with U-Net Variational Autoencoders. III. Disk-like Galaxy Identification in JWST Samples of up to redshift 4
+### 67) [2605.31420](https://arxiv.org/abs/2605.31420v1): Enhancing Galaxy Classification with U-Net Variational Autoencoders. III. Disk-like Galaxy Identification in JWST Samples of up to redshift 4
 
 <p> Sergey S. Mirzoyan, Arno Avagyan </p>
 <p>
@@ -672,7 +738,7 @@ In this third study of the series, we extend our U-Net Variational Autoencoder-b
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.31420v1"> https://arxiv.org/pdf/2605.31420v1 </a> </p>
 
-### 62) [2605.31415](https://arxiv.org/abs/2605.31415v1): COSMOS-Web: Galaxy Size and Surface Brightness Evolution at Rest-Frame 1.22 μm Since z=3
+### 68) [2605.31415](https://arxiv.org/abs/2605.31415v1): COSMOS-Web: Galaxy Size and Surface Brightness Evolution at Rest-Frame 1.22 μm Since z=3
 
 <p> Si-Yue Yu, Andreas L. Faisst, Taotao Fang, Greta Toni, Lauro Moscardini, Maximilien Franco, Rasha M. Samir, Michaela Hirschmann, Xiaoxia Zhang, Gavin Leroy </p>
 <p>
@@ -683,7 +749,7 @@ We present the evolution of galaxy size and surface brightness in the rest-frame
 <p> <b> Comments: </b> 15 pages, 4 figures, 1 table. Accepted for publication in ApjL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.31415v1"> https://arxiv.org/pdf/2605.31415v1 </a> </p>
 
-### 63) [2605.31077](https://arxiv.org/abs/2605.31077v1): Super-Eddington accretion of black holes in early nuclear bursts gives birth to Little Red Dots
+### 69) [2605.31077](https://arxiv.org/abs/2605.31077v1): Super-Eddington accretion of black holes in early nuclear bursts gives birth to Little Red Dots
 
 <p> Yangyao Chen, Houjun Mo </p>
 <p>
@@ -694,7 +760,7 @@ In a recent paper, Chen et al. developed a framework for modeling the seeding an
 <p> <b> Comments: </b> 11 pages, 3 figures; submitted to ApJL; comments are welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.31077v1"> https://arxiv.org/pdf/2605.31077v1 </a> </p>
 
-### 64) [2605.30649](https://arxiv.org/abs/2605.30649v1): Statistical imprints of wave-like dark matter on multiply-imaged galaxies in strong cluster lenses from JWST
+### 70) [2605.30649](https://arxiv.org/abs/2605.30649v1): Statistical imprints of wave-like dark matter on multiply-imaged galaxies in strong cluster lenses from JWST
 
 <p> Nino Ephremidze, Daniel Gilman, Cora Dvorkin </p>
 <p>
@@ -705,7 +771,7 @@ Wave-like dark matter (ψDM) is an elusive dark matter (DM) candidate. The model
 <p> <b> Comments: </b> 19 pages </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30649v1"> https://arxiv.org/pdf/2605.30649v1 </a> </p>
 
-### 65) [2605.30533](https://arxiv.org/abs/2605.30533v1): Automated void identification by Blendmask: from hierarchical molecular gas to hierarchical voids in NGC 628
+### 71) [2605.30533](https://arxiv.org/abs/2605.30533v1): Automated void identification by Blendmask: from hierarchical molecular gas to hierarchical voids in NGC 628
 
 <p> J. W. Zhou, A. A. Han </p>
 <p>
@@ -716,7 +782,7 @@ We identify voids in NGC 628 from the JWST MIRI F770W image using a deep_learnin
 <p> <b> Comments: </b> Accepted for publication in MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30533v1"> https://arxiv.org/pdf/2605.30533v1 </a> </p>
 
-### 66) [2605.30513](https://arxiv.org/abs/2605.30513v1): The JADES Mass-Metallicity and Fundamental Metallicity Relations at z≳2 Using New High-Redshift Metallicity Calibrations
+### 72) [2605.30513](https://arxiv.org/abs/2605.30513v1): The JADES Mass-Metallicity and Fundamental Metallicity Relations at z≳2 Using New High-Redshift Metallicity Calibrations
 
 <p> Natalie Lam, Leonardo Clarke, Alice E. Shapley, Ryan L. Sanders, Michael W. Topping, Gabriel B. Brammer, Naveen A. Reddy, Shreya Karthikeyan </p>
 <p>
@@ -727,7 +793,7 @@ We present measurements of the mass-metallicity relation (MZR) and fundamental m
 <p> <b> Comments: </b> 24 pages, 10 figures, 4 tables. Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30513v1"> https://arxiv.org/pdf/2605.30513v1 </a> </p>
 
-### 67) [2605.30436](https://arxiv.org/abs/2605.30436v1): JWST Predictions for z &gt; 10 Galaxies from the Renaissance Simulations &ndash; I: Photometry and Sizes
+### 73) [2605.30436](https://arxiv.org/abs/2605.30436v1): JWST Predictions for z &gt; 10 Galaxies from the Renaissance Simulations &ndash; I: Photometry and Sizes
 
 <p> Samantha E Hardin, John H Wise, Emily K Troutman </p>
 <p>
@@ -738,7 +804,7 @@ JWST has enabled new high redshift observations with 14 spectroscopically confir
 <p> <b> Comments: </b> 26 pages, 20 figures, 1 table. Submitted to ApJ. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30436v1"> https://arxiv.org/pdf/2605.30436v1 </a> </p>
 
-### 68) [2605.30427](https://arxiv.org/abs/2605.30427v1): The AURORA Survey: Multiple Balmer and Paschen Emission Lines for Individual Star-forming Galaxies at z=1.5-4.4. II. Implications for Nebular Dust Corrections, Nebular SFRs, and Differential Reddening
+### 74) [2605.30427](https://arxiv.org/abs/2605.30427v1): The AURORA Survey: Multiple Balmer and Paschen Emission Lines for Individual Star-forming Galaxies at z=1.5-4.4. II. Implications for Nebular Dust Corrections, Nebular SFRs, and Differential Reddening
 
 <p> Naveen A. Reddy, Alice E. Shapley, Ryan L. Sanders, Michael W. Topping, Max Pettini, Natascha M. Forster Schreiber, Charles C. Steidel, Leonardo Clarke, Richard S. Ellis, Anthony J. Pahl, Garth D. Illingworth, Mariska Kriek, Desika Narayanan </p>
 <p>
@@ -749,7 +815,7 @@ We discuss the implications of the nebular dust attenuation curves derived for 2
 <p> <b> Comments: </b> 24 pages, 13 figures, submitted to ApJ, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30427v1"> https://arxiv.org/pdf/2605.30427v1 </a> </p>
 
-### 69) [2605.30424](https://arxiv.org/abs/2605.30424v1): High-ionization coronal lines trace quasar-like activity in recently quenched galaxies at high redshift
+### 75) [2605.30424](https://arxiv.org/abs/2605.30424v1): High-ionization coronal lines trace quasar-like activity in recently quenched galaxies at high redshift
 
 <p> F. Valentino, K. Ito, M. Farcy, F. Fontanot, C. Lagos, G. De Lucia, M. Hirschmann, G. Brammer, V. Kokorev, M. Hamadouche, P. Zhu, G. Scarpe, A. Pensabene, K. E. Whitaker, W. M. Baker, P. Araya-Araya, J. Antwi-Danso, D. Ceverino, A. L. Faisst, S. Fujimoto, S. Gillman, O. Ilbert, C. K. Jespersen, T. Kakimoto, M. Kubo, A. W. S. Man, G. Magdis, M. Onodera, R. Shimakawa, M. Tanaka, S. Toft, L. Xie, J. R. Weaver, P. -F. Wu </p>
 <p>
@@ -760,7 +826,7 @@ We report the detection of the high-ionization line [NeV]λ3427 in the JWST/NIRS
 <p> <b> Comments: </b> Submitted to A&A, 14 pages, 9 figures, 1 appendix </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30424v1"> https://arxiv.org/pdf/2605.30424v1 </a> </p>
 
-### 70) [2605.30414](https://arxiv.org/abs/2605.30414v1): A Rapid Evolution in the Observed Mbh/M<sub>&sext;</sub> Relation at z &gt; 3 Revealed via Spectro-photometric SED-Modeling
+### 76) [2605.30414](https://arxiv.org/abs/2605.30414v1): A Rapid Evolution in the Observed Mbh/M<sub>&sext;</sub> Relation at z &gt; 3 Revealed via Spectro-photometric SED-Modeling
 
 <p> Ansh R. Gupta, Anthony Taylor, Emma Curtis-Lake, Maddie Silcock, Óscar A. Chávez Ortiz, Steven L. Finkelstein, Hollis B. Akins, Bren E. Backhaus, Guillermo Barro, Laura Bisigello, Madisyn Brooks, Caitlin M. Casey, Stephane Charlot, Jacopo Chevallard, Anna Feltre, Giovanni Gandolfi, Mauro Giavalisco, Norman A. Grogin, Michaela Hirschmann, Tiger Yu-Yang Hsiao, Junehyoung Jeon, Shardha Jogee, Jeyhan S. Kartaltepe, Dale D. Kocevski, Anton M. Koekemoer, Vasily Kokorev, Gene C. K. Leung, Ray A. Lucas, Fabio Pacucci, Nor Pirzkal, Adele Plat, Rachel S. Somerville, Jonathan R. Trump, Alba Vidal-García, Xin Wang, L. Y. Aaron Yung </p>
 <p>
@@ -771,7 +837,7 @@ Spectroscopic observations from JWST have uncovered a plethora of active galacti
 <p> <b> Comments: </b> Main text 19 pages, 9 figures. Submitted to ApJ. Comments welcome! Machine-readable tables and figure sets are available at https://zenodo.org/records/20419666 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30414v1"> https://arxiv.org/pdf/2605.30414v1 </a> </p>
 
-### 71) [2605.30410](https://arxiv.org/abs/2605.30410v1): RUBIES: The Evolution of the Ionization Parameter from 0 &lt; z &lt; 9
+### 77) [2605.30410](https://arxiv.org/abs/2605.30410v1): RUBIES: The Evolution of the Ionization Parameter from 0 &lt; z &lt; 9
 
 <p> Nikko J. Cleri, Zach J. Lewis, Joel Leja, Jakob M. Helton, Emilie Burnham, Olivia Curtis, Anna de Graaff, Michaela Hirschmann, Harley Katz, Michael V. Maseda, Ian McConachie, Adele Plat, Lucie Scharre </p>
 <p>
@@ -782,7 +848,7 @@ High-redshift galaxies have smaller radii, harder ionizing continua, and higher 
 <p> <b> Comments: </b> 14 pages, 4 figures, 1 table </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30410v1"> https://arxiv.org/pdf/2605.30410v1 </a> </p>
 
-### 72) [2605.30035](https://arxiv.org/abs/2605.30035v1): Extending Hubble into the 2030s to Resolve the Physics of LyC Escape
+### 78) [2605.30035](https://arxiv.org/abs/2605.30035v1): Extending Hubble into the 2030s to Resolve the Physics of LyC Escape
 
 <p> Cody Carr, Stephan McCandliss, Michelle Berg, Renyue Cen, Kevin France, Matthew Hayes, Alaina Henry, M. S. Oey, Alberto Saldana-Lopez </p>
 <p>
@@ -793,7 +859,7 @@ Current observations with the James Webb Space Telescope (JWST) suggest that sta
 <p> <b> Comments: </b> 8 pages, 3 figures, Space Telescope Science Institute (STScI) - Building a Roadmap for Hubble science into the 2030s - White Paper </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30035v1"> https://arxiv.org/pdf/2605.30035v1 </a> </p>
 
-### 73) [2605.29904](https://arxiv.org/abs/2605.29904v2): Evidence of triggered star formation in the Pillars of Creation from JWST observations
+### 79) [2605.29904](https://arxiv.org/abs/2605.29904v2): Evidence of triggered star formation in the Pillars of Creation from JWST observations
 
 <p> Jing Wen, Bingqiu Chen, Jian Gao, Jun Li, Ming Yang, Biwei Jiang </p>
 <p>
@@ -804,7 +870,7 @@ Stars form in molecular clouds under the influence of their local environments, 
 <p> <b> Comments: </b> This is the author accepted manuscript of an article published in Nature Astronomy. The final published version is available at https://doi.org/10.1038/s41550-025-02683-8. Updated to include the JWST/MAST acknowledgement and DOI </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.29904v2"> https://arxiv.org/pdf/2605.29904v2 </a> </p>
 
-### 74) [2605.29895](https://arxiv.org/abs/2605.29895v1): Transient Signatures of Star-Envelope Collisions in Little Red Dots
+### 80) [2605.29895](https://arxiv.org/abs/2605.29895v1): Transient Signatures of Star-Envelope Collisions in Little Red Dots
 
 <p> Tomoya Suzuguchi, Kohei Inayoshi </p>
 <p>
@@ -815,7 +881,7 @@ Little red dots (LRDs) are compact high-redshift objects, newly discovered by th
 <p> <b> Comments: </b> 11 pages, 8 figures, 2 tables. Comments welcome!! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.29895v1"> https://arxiv.org/pdf/2605.29895v1 </a> </p>
 
-### 75) [2605.29344](https://arxiv.org/abs/2605.29344v1): ODIN: Rest-frame Optical Morphologies and Star Formation Activity of Lyα Emitters at z=2.4, 3.1, and 4.5
+### 81) [2605.29344](https://arxiv.org/abs/2605.29344v1): ODIN: Rest-frame Optical Morphologies and Star Formation Activity of Lyα Emitters at z=2.4, 3.1, and 4.5
 
 <p> Sang Hyeok Im, Ho Seong Hwang, Jeong Hwan Lee, Robin Ciardullo, Eric Gawiser, Caryl Gronwall, Lucia Guaita, Woong-Seob Jeong, Ankit Kumar, Kyoung-Soo Lee, Changbom Park, Vandana Ramakrishnan, Akriti Singh, Hyunmi Song, Sungryong Hong, Juhan Kim, Jaehyun Lee, Christophe Pichon, Caitlin M. Casey, Maximilien Franco, Santosh Harish, Jeyhan S. Kartaltepe </p>
 <p>
@@ -826,7 +892,7 @@ We analyze the rest-frame optical (~8000 Å) morphologies and star formation act
 <p> <b> Comments: </b> 21 pages, 13 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.29344v1"> https://arxiv.org/pdf/2605.29344v1 </a> </p>
 
-### 76) [2605.28972](https://arxiv.org/abs/2605.28972v1): Massive Stars in the Thirties: awaiting new Hubble discoveries
+### 82) [2605.28972](https://arxiv.org/abs/2605.28972v1): Massive Stars in the Thirties: awaiting new Hubble discoveries
 
 <p> Lidia M. Oskinova, Sylvia Ekström, Miriam Garcia, Takashi Moriya, Andreas A. C. Sander, Sergio Simón-Díaz, Aida Wofford </p>
 <p>
@@ -837,7 +903,7 @@ Massive stars play a fundamental role in shaping the evolution of galaxies throu
 <p> <b> Comments: </b> White paper submitted in response to the Space Telescope Science Institute call: Building a Roadmap for Hubble science into the 2030s </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.28972v1"> https://arxiv.org/pdf/2605.28972v1 </a> </p>
 
-### 77) [2605.28930](https://arxiv.org/abs/2605.28930v1): Too many protoclusters? Reconciling the overabundance of cluster progenitors within the first billion years of the Universe
+### 83) [2605.28930](https://arxiv.org/abs/2605.28930v1): Too many protoclusters? Reconciling the overabundance of cluster progenitors within the first billion years of the Universe
 
 <p> Callum Witten, Jake S. Bennett, Pascal A. Oesch, Seunghwan Lim, Chamilla Terp, Jakob M. Helton, Kasper E. Heintz, Romain A. Meyer, William McClymont, Thomas Herard-Demanche, Emma Giovinazzo </p>
 <p>
@@ -848,7 +914,7 @@ JWST has revealed an overabundance of apparent (`Coma'-like) cluster progenitors
 <p> <b> Comments: </b> 13 pages, 6 figures, 3 tables, to be submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.28930v1"> https://arxiv.org/pdf/2605.28930v1 </a> </p>
 
-### 78) [2605.27903](https://arxiv.org/abs/2605.27903v1): Double Dots: Compact Pairs Mark Little Red Dots and High-Redshift Broad-line AGNs
+### 84) [2605.27903](https://arxiv.org/abs/2605.27903v1): Double Dots: Compact Pairs Mark Little Red Dots and High-Redshift Broad-line AGNs
 
 <p> A. J. Barger, L. L. Cowie </p>
 <p>
@@ -859,7 +925,7 @@ We utilize JWST imaging of the massive lensing cluster field A2744 to find close
 <p> <b> Comments: </b> 10 pages, 12 figures, 3 tables. Submitted to ApJ. Comments welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.27903v1"> https://arxiv.org/pdf/2605.27903v1 </a> </p>
 
-### 79) [2605.27555](https://arxiv.org/abs/2605.27555v1): MAGAZ3NE: Spatially Resolved Ages and Chemical Abundances of Ultra-Massive Quiescent Galaxies at z ~ 3.5 using JWST/NIRSpec IFU
+### 85) [2605.27555](https://arxiv.org/abs/2605.27555v1): MAGAZ3NE: Spatially Resolved Ages and Chemical Abundances of Ultra-Massive Quiescent Galaxies at z ~ 3.5 using JWST/NIRSpec IFU
 
 <p> Adit H. Edward, Jacqueline Antwi-Danso, Adam Muzzin, Ben Forrest, Ian McConachie, Aliza Beverage, Wenjun Chang, M. C. Cooper, Percy Gomez, Massissilia L. Hamadouche, Aurélien Henry, Han Lei, Danilo Marchesini, Allison Noble, Stephanie M. Urbano Stawinski, Gillian Wilson, M. E. Wisz </p>
 <p>
@@ -870,7 +936,7 @@ We present spatially-resolved measurements of stellar age, [Fe/H], and [α/Fe] i
 <p> <b> Comments: </b> Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.27555v1"> https://arxiv.org/pdf/2605.27555v1 </a> </p>
 
-### 80) [2605.27370](https://arxiv.org/abs/2605.27370v1): First Light and Reionization Epoch Simulations (FLARES) XXII: UV-dust spatial offsets at the Epoch of Reionisation
+### 86) [2605.27370](https://arxiv.org/abs/2605.27370v1): First Light and Reionization Epoch Simulations (FLARES) XXII: UV-dust spatial offsets at the Epoch of Reionisation
 
 <p> Paurush Punyasheel, Aswin P. Vijayan, William J. Roper, Thomas R. Greve, Hiddo Algera, Christopher C. Lovell, Steven Gillman, Bitten Gullberg, Shihong Liao, Robert M. Yates, Stephen M. Wilkins </p>
 <p>
@@ -881,7 +947,7 @@ Recent observations have revealed intriguing offsets between the UV and FIR emis
 <p> <b> Comments: </b> Submitted to MNRAS. 11 pages </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.27370v1"> https://arxiv.org/pdf/2605.27370v1 </a> </p>
 
-### 81) [2605.26864](https://arxiv.org/abs/2605.26864v1): Survival of very small carbonaceous dust grains in the inner-CGM of NGC 891 from JWST/MIRI MRS
+### 87) [2605.26864](https://arxiv.org/abs/2605.26864v1): Survival of very small carbonaceous dust grains in the inner-CGM of NGC 891 from JWST/MIRI MRS
 
 <p> Jérémy Chastenet, Ilse De Looze, Karl D. Gordon, Suzanne C. Madden, Monica Relaño, Karin M. Sandstrom, Dries Van De Putte, Maarten Baes, Simone Bianchi, Alberto D. Bolatto, Viviana Casasola, Daniel A. Dale, Sara Duval, Jacopo Fritz, Frédéric Galliano, Simon C. O. Glover, Stavroula Katsioli, Vasileios Katsis, Florian Kirchschlager, Ralf S. Klessen, Rebecca C. Levy, Sharon E. Meidt, Aleksandr V. Mosenkov, Kentaro Nagamine, Lara Pantoni, Helena M. Richie, Stefanie Walch, Thomas G. Williams, Emanuele M. Xilouris </p>
 <p>
@@ -892,7 +958,7 @@ We present new spectroscopic observations of the inner circumgalactic medium (CG
 <p> <b> Comments: </b> 20 pages, 12 figures, cool stuff </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.26864v1"> https://arxiv.org/pdf/2605.26864v1 </a> </p>
 
-### 82) [2605.26810](https://arxiv.org/abs/2605.26810v1): Magnetic field Topology and Star Formation in the Cepheus B Filamentary cloud under External Feedback
+### 88) [2605.26810](https://arxiv.org/abs/2605.26810v1): Magnetic field Topology and Star Formation in the Cepheus B Filamentary cloud under External Feedback
 
 <p> Panigrahy Sandhyarani, Chakali Eswaraiah, Manash R. Samal, Vineet Rawat, Jihye Hwang, Jia-Wei Wang, Yuehui Ma, Patricio Sanhueza, Jessy Jose </p>
 <p>
@@ -903,7 +969,7 @@ We present a detailed study of the Cep B molecular cloud based on sub-mm dust po
 <p> <b> Comments: </b> 16 pages, 15 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.26810v1"> https://arxiv.org/pdf/2605.26810v1 </a> </p>
 
-### 83) [2605.26211](https://arxiv.org/abs/2605.26211v1): NISER-IUCAA New Simulations of JWST GAlaxies and Quasars(NINJA): Properties of galaxies at 5 ≤ z ≤ 10
+### 89) [2605.26211](https://arxiv.org/abs/2605.26211v1): NISER-IUCAA New Simulations of JWST GAlaxies and Quasars(NINJA): Properties of galaxies at 5 ≤ z ≤ 10
 
 <p> Ranit Behera, Raghunathan Srianand, Nishikanta Khandai, Prakash Gaikwad </p>
 <p>
@@ -914,7 +980,7 @@ We present the NINJA suite of cosmological hydrodynamical simulations developed 
 <p> <b> Comments: </b> 27 pages, 16 figures, Submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.26211v1"> https://arxiv.org/pdf/2605.26211v1 </a> </p>
 
-### 84) [2605.26209](https://arxiv.org/abs/2605.26209v1): How galaxies acquire their stellar mass at high redshift: High star formation efficiencies and the relative roles of dust and initial mass function
+### 90) [2605.26209](https://arxiv.org/abs/2605.26209v1): How galaxies acquire their stellar mass at high redshift: High star formation efficiencies and the relative roles of dust and initial mass function
 
 <p> Hao Fu, Francesco Shankar, Fabio Fontanot, Andrea Lapi, Feng Yuan, Mohammadreza Ayromlou, Daniel Roberts, Lumen Boco, Nicola Menci, Emiliano Merlin, Laura Pentericci, Mengyuan Xiao </p>
 <p>
@@ -925,7 +991,7 @@ JWST has measured an unprecedented abundance of galaxies above z≳ 4-5, whose f
 <p> <b> Comments: </b> 16 pages, 15 figures, accepted for publication in Astronomy & Astrophysics </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.26209v1"> https://arxiv.org/pdf/2605.26209v1 </a> </p>
 
-### 85) [2605.25130](https://arxiv.org/abs/2605.25130v1): Exploring biases in derived stellar parameters and the ionizing photon production efficiency
+### 91) [2605.25130](https://arxiv.org/abs/2605.25130v1): Exploring biases in derived stellar parameters and the ionizing photon production efficiency
 
 <p> Ravi Jaiswar, Anshu Gupta, Elisabete da Cunha, Cathryn M. Trott, Andrew Battisti, A. J. Hedge, Robin Cook, Sabine Bellstedt, Jordan DSilva, Luke Davies, Juno Li </p>
 <p>
@@ -936,7 +1002,7 @@ Constraining the timescale and manner in which the Epoch of Reionization (EoR) o
 <p> <b> Comments: </b> 30 pages, 11 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.25130v1"> https://arxiv.org/pdf/2605.25130v1 </a> </p>
 
-### 86) [2605.24264](https://arxiv.org/abs/2605.24264v1): A Redshift-based Red Selection of Dusty Star-forming Galaxies
+### 92) [2605.24264](https://arxiv.org/abs/2605.24264v1): A Redshift-based Red Selection of Dusty Star-forming Galaxies
 
 <p> A. J. Barger, L. L. Cowie, S. J. McKay, F. E. Bauer </p>
 <p>
@@ -947,7 +1013,7 @@ We use JWST observations (1.5 micron to 4.44 micron), together with complete ALM
 <p> <b> Comments: </b> 17 pages, 13 figures, 1 table. Accepted for publication in The Astrophysical Journal </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.24264v1"> https://arxiv.org/pdf/2605.24264v1 </a> </p>
 
-### 87) [2605.24191](https://arxiv.org/abs/2605.24191v1): Hubble Astrometry for the Local Group and Beyond in the 2030s
+### 93) [2605.24191](https://arxiv.org/abs/2605.24191v1): Hubble Astrometry for the Local Group and Beyond in the 2030s
 
 <p> S. Tony Sohn, Paul Bennet, Kevin Andrew McKinnon, Roeland P. van der Marel, Mattia Libralato, Eduardo Vitral, Ekta Patel, Laura L. Watkins, Andres del Pino, Andrea Bellini, Massimo Griggio, Mark A. Fardal, Nitya Kallivayalil, Jack T. Warfield, Karoline M. Gilbert, Puragra Guhathakurta, Daniel Weisz, Andrew Wetzel, Andrew B. Pace, Marcel S. Pawlowski, Joshua D. Simon, Gurtina Besla, Erik Tollerud, Xiaowei Ou, Niusha Ahvazi, Anna Bonaca </p>
 <p>
@@ -958,7 +1024,7 @@ Hubble's long, stable astrometric baseline creates a rare opportunity for discov
 <p> <b> Comments: </b> White Paper submitted to STScI and NASA GSFC in response to "Building a Roadmap for Hubble Science into the 2030s" </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.24191v1"> https://arxiv.org/pdf/2605.24191v1 </a> </p>
 
-### 88) [2605.24112](https://arxiv.org/abs/2605.24112v1): The Lumina Project: The Demographics of Active Galactic Nuclei from Quasars to Little Red Dots at z≥ 3
+### 94) [2605.24112](https://arxiv.org/abs/2605.24112v1): The Lumina Project: The Demographics of Active Galactic Nuclei from Quasars to Little Red Dots at z≥ 3
 
 <p> Xuejian Shen, Oliver Zier, Aaron Smith, Rongrong Liu, Rahul Kannan, Teodora-Elena Bulichi, Sonja M. Koehler, Volker Springel, Mark Vogelsberger, Lars Hernquist, Rohan P. Naidu, Anna de Graaff, Elia Pizzati, David M. Alexander, Luis C. Ho, Vasily Kokorev, Gene Leung, Anna-Christina Eilers, Ryan C. Hickox </p>
 <p>
@@ -969,7 +1035,7 @@ High-redshift active galactic nuclei (AGN) serve as powerful probes of early bla
 <p> <b> Comments: </b> 30 pages, 21 figures. To be submitted. Comments are welcomed! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.24112v1"> https://arxiv.org/pdf/2605.24112v1 </a> </p>
 
-### 89) [2605.24104](https://arxiv.org/abs/2605.24104v1): Resolving galaxy formation in the early Universe with BonFIRE and CampFIRE
+### 95) [2605.24104](https://arxiv.org/abs/2605.24104v1): Resolving galaxy formation in the early Universe with BonFIRE and CampFIRE
 
 <p> Jenna Samuel, Michael Boylan-Kolchin, Robert Feldmann, Philip Hopkins, Guochao Sun, Pratik Gandhi, Alessandra Venditti, Xuejian Shen, Andrew Wetzel, Jorge Moreno, Julian Munoz, Rachel Cochrane, Claude-Andre Faucher-Giguere, Volker Bromm, Steven Finkelstein, Maria Straight, Connor Painter, Jonathan Stern, James Bullock </p>
 <p>
@@ -980,7 +1046,7 @@ The abundance and rapid growth of galaxies at cosmic dawn revealed by the James 
 <p> <b> Comments: </b> 43 pages, 21 figures, submitted to ApJ. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.24104v1"> https://arxiv.org/pdf/2605.24104v1 </a> </p>
 
-### 90) [2605.24088](https://arxiv.org/abs/2605.24088v1): Discovery and Analysis of a Type II Supernova Candidate at z = 3.19 from JWST's COSMOS-Web Survey
+### 96) [2605.24088](https://arxiv.org/abs/2605.24088v1): Discovery and Analysis of a Type II Supernova Candidate at z = 3.19 from JWST's COSMOS-Web Survey
 
 <p> Valeria Aparicio, David O. Jones, Willem B. Hoogendam, Takashi J. Moriya, David A. Coulter, Justin D. R. Pierel, Matthew Siebert, Bingjie Wang, Hollis B. Akins, Caitlin M. Casey, Nicole E. Drakos, Andreas L. Faisst, Ori D. Fox, Aryana Haghjoo, Michaela Hirschmann, Olivier Ilbert, Jeyhan S. Kartaltepe, Anton M. Koekemoer, Henry Joy McCracken, Bahram Mobasher, Armin Rest, Jason Rhodes, Brant E. Robertson, Marko Shuntov </p>
 <p>
@@ -991,7 +1057,7 @@ The launch of the James Webb Space Telescope (JWST) has enabled the discovery of
 <p> <b> Comments: </b> 15 pages, 9 figures, to be submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.24088v1"> https://arxiv.org/pdf/2605.24088v1 </a> </p>
 
-### 91) [2605.23049](https://arxiv.org/abs/2605.23049v1): SDSS+JWST Census of Stellar and Nebular Dust Attenuation at z ~ 0-7: Mass Dependence and Redshift Evolution
+### 97) [2605.23049](https://arxiv.org/abs/2605.23049v1): SDSS+JWST Census of Stellar and Nebular Dust Attenuation at z ~ 0-7: Mass Dependence and Redshift Evolution
 
 <p> Jie Song, Masami Ouchi, Tomokazu Kiyota, Chenghao Zhu, Xu Kong, Yurina Nakazato </p>
 <p>
@@ -1002,7 +1068,7 @@ We present the demography of dust attenuation, including its mass dependence and
 <p> <b> Comments: </b> 25 pages, 13 figures, submitted to ApJ, comments are welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.23049v1"> https://arxiv.org/pdf/2605.23049v1 </a> </p>
 
-### 92) [2605.22914](https://arxiv.org/abs/2605.22914v1): No Blue without Red: Evolutionary Properties of Super-Early Galaxies
+### 98) [2605.22914](https://arxiv.org/abs/2605.22914v1): No Blue without Red: Evolutionary Properties of Super-Early Galaxies
 
 <p> A. Ferrara, G. Rodighiero, S. Carniani, Z. Zhang, M. Kohandel, B. Das </p>
 <p>
@@ -1013,7 +1079,7 @@ The discovery of numerous luminous, super-early galaxies at z&gt;10 by JWST has 
 <p> <b> Comments: </b> 17 pages, 6 Figures. Submitted to the Open Journal of Astrophysics. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.22914v1"> https://arxiv.org/pdf/2605.22914v1 </a> </p>
 
-### 93) [2605.22497](https://arxiv.org/abs/2605.22497v1): MICONIC: The multiphase circumnuclear region of Centaurus A as seen with JWST/MIRI MRS observations. I. Spectral inventory and properties of the warm molecular disk
+### 99) [2605.22497](https://arxiv.org/abs/2605.22497v1): MICONIC: The multiphase circumnuclear region of Centaurus A as seen with JWST/MIRI MRS observations. I. Spectral inventory and properties of the warm molecular disk
 
 <p> L. Evangelista, P. Guillard, J. Martin, P. Salomé, A. Alonso Herrero, L. Pantoni, L. Hermosa Muñoz, V. Buiten, A. Labiano, M. García-Marín, L. Colina, T. Böker, D. Dicken, M. J. Ward, G. Wright, P. van der Werf, S. Garcia-Burillo, M. Baes, A. Eckart, G. Östlin, D. Rouan, F. Walter, R. A. Riffel, M. Güdel </p>
 <p>
@@ -1024,7 +1090,7 @@ Supermassive black holes power Active Galactic Nuclei (AGN), injecting energy th
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.22497v1"> https://arxiv.org/pdf/2605.22497v1 </a> </p>
 
-### 94) [2605.22245](https://arxiv.org/abs/2605.22245v1): Probing freeze-in dark matter using Bose-Einstein condensate in neutron star
+### 100) [2605.22245](https://arxiv.org/abs/2605.22245v1): Probing freeze-in dark matter using Bose-Einstein condensate in neutron star
 
 <p> Deep Ghosh, Anirban Das </p>
 <p>
@@ -1035,7 +1101,7 @@ Neutron star (NS) is one of the most promising astrophysical targets to probe no
 <p> <b> Comments: </b> 25 pages, 7 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.22245v1"> https://arxiv.org/pdf/2605.22245v1 </a> </p>
 
-### 95) [2605.22161](https://arxiv.org/abs/2605.22161v2): Blue-tilted Runnings and the JWST Early Galaxy Tension
+### 101) [2605.22161](https://arxiv.org/abs/2605.22161v2): Blue-tilted Runnings and the JWST Early Galaxy Tension
 
 <p> Mikage U. Kobayashi, Gen Chiaki, Kazutaka Kimura, Kazuyuki Akitsu, Kazunori Kohri, Tomo Takahashi, Kazuyuki Omukai </p>
 <p>
@@ -1046,7 +1112,7 @@ The recent James Webb Space Telescope (JWST) observations reported the unexpecte
 <p> <b> Comments: </b> 16 pages, 4 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.22161v2"> https://arxiv.org/pdf/2605.22161v2 </a> </p>
 
-### 96) [2605.21599](https://arxiv.org/abs/2605.21599v1): JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S
+### 102) [2605.21599](https://arxiv.org/abs/2605.21599v1): JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S
 
 <p> Qiao Duan, Sandro Tacchella, Benjamin D. Johnson, Brant Robertson, Charlotte Simmonds, William M. Baker, Andrew J. Bunker, Stefano Carniani, Courtney Carreira, Stéphane Charlot, Jacopo Chevallard, Emma Curtis-Lake, A. Lola Danhaive, Francesco D'Eugenio, Daniel J. Eisenstein, Sophia Geris, Kevin N. Hainline, Ryan Hausen, Jakob M. Helton, Patricia Iglesias-Navarro, Yuki Isobe, Zhiyuan Ji, Maria Koller, Tobias J. Looser, Roberto Maiolino, Robert G. Pascalau, Pablo G. Pérez-González, Dávid Puskás, Marcia Rieke, Bruno Rodríguez Del Pino, Pierluigi Rinaldi, Jan Scholtz, Amanda Stoffers, Yang Sun, James A. A. Trussler, Hannah Übler, Christina C. Williams, Lily Whitler, Zihao Wu, Yongda Zhu </p>
 <p>
@@ -1057,7 +1123,7 @@ We present the galaxy stellar population catalogue from the JWST Advanced Deep E
 <p> <b> Comments: </b> 36 pages, 18 figures, submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.21599v1"> https://arxiv.org/pdf/2605.21599v1 </a> </p>
 
-### 97) [2605.21574](https://arxiv.org/abs/2605.21574v1): (LRDs)^2: The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample
+### 103) [2605.21574](https://arxiv.org/abs/2605.21574v1): (LRDs)^2: The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample
 
 <p> Xiaojing Lin, Xiaohui Fan, Zheng Cai, Yichen Liu, Fengwu Sun, Fuyan Bian, Mingyu Li, Junjie Mao, Jenny E. Greene, Hanpu Liu, Jiaxuan Li, Weizhe Liu, Yilun Ma, Zechang Sun, Zijian Zhang </p>
 <p>
@@ -1068,7 +1134,7 @@ JWST has revealed a substantial population of "Little Red Dots" (LRDs) at z&gt;4
 <p> <b> Comments: </b> Main text 28 pages; 17 figures. Submitted to the ApJ. Comments are welcome. Data are available on Zenodo at https://doi.org/10.5281/zenodo.20309303 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.21574v1"> https://arxiv.org/pdf/2605.21574v1 </a> </p>
 
-### 98) [2605.20931](https://arxiv.org/abs/2605.20931v1): Interpretations of galaxy spectra at high redshift.  The H_gamma/H_beta excess
+### 104) [2605.20931](https://arxiv.org/abs/2605.20931v1): Interpretations of galaxy spectra at high redshift.  The H_gamma/H_beta excess
 
 <p> M. Contini </p>
 <p>
@@ -1079,7 +1145,7 @@ Spectra from the cosmic dawn obtained with JWST/NIRSpec (James Webb Space Telesc
 <p> <b> Comments: </b> 13 pages, 6 figures, accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.20931v1"> https://arxiv.org/pdf/2605.20931v1 </a> </p>
 
-### 99) [2605.20887](https://arxiv.org/abs/2605.20887v1): Difference Between Half-mass Radius and Half-light Radius of Galaxies at 0.2 &lt; z &lt; 2.5 Revealed by JWST/NIRCam Data
+### 105) [2605.20887](https://arxiv.org/abs/2605.20887v1): Difference Between Half-mass Radius and Half-light Radius of Galaxies at 0.2 &lt; z &lt; 2.5 Revealed by JWST/NIRCam Data
 
 <p> Mingen Xin, Guanwen Fang, Jie Song, Shiying Lu, Zesen Lin, Xu Kong </p>
 <p>
@@ -1090,7 +1156,7 @@ Using JWST observations in CANDELS fields, we measure the half-light radius (r_e
 <p> <b> Comments: </b> 18 pages, 14 figures, 3 tables; published in The Astrophysical Journal </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.20887v1"> https://arxiv.org/pdf/2605.20887v1 </a> </p>
 
-### 100) [2605.20810](https://arxiv.org/abs/2605.20810v1): Revisiting the mass metallicity relation and the fundamental metallicity relation of dwarf galaxies at cosmic noon with NIRISS
+### 106) [2605.20810](https://arxiv.org/abs/2605.20810v1): Revisiting the mass metallicity relation and the fundamental metallicity relation of dwarf galaxies at cosmic noon with NIRISS
 
 <p> Xianlong He, Zihao Li, Xin Wang, Zheng Cai, Tucker Jones, Tommaso Treu, Benedetta Vulcani, Matthew A. Malkan, Karl Glazebrook </p>
 <p>
@@ -1101,7 +1167,7 @@ We extend the stellar-mass gas-phase metallicity relation (MZR) at z = 1.1-3.4 d
 <p> <b> Comments: </b> resubmitted after addressing the referee report </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.20810v1"> https://arxiv.org/pdf/2605.20810v1 </a> </p>
 
-### 101) [2605.20590](https://arxiv.org/abs/2605.20590v1): Spider-Webb: enhanced star formation in low-mass galaxies within the Spiderweb protocluster revealed by JWST Paβ narrow-band imaging
+### 107) [2605.20590](https://arxiv.org/abs/2605.20590v1): Spider-Webb: enhanced star formation in low-mass galaxies within the Spiderweb protocluster revealed by JWST Paβ narrow-band imaging
 
 <p> Kazuki Daikuhara, Tadayuki Kodama, Yusei Koyama, Rhythm Shimakawa, Helmut Dannerbauer, Jose Manuel Pérez-Martínez, Pablo G. Pérez-González, Mariko Kubo, Eduardo Ibar, Philip N. Best, Abdurrahman Naufal, Yuheng Zhang, Ronaldo Laishram </p>
 <p>
@@ -1112,7 +1178,7 @@ Understanding the role of the environment in galaxy evolution is key to revealin
 <p> <b> Comments: </b> 16 pages, 5 figures, Accepted for publication in MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.20590v1"> https://arxiv.org/pdf/2605.20590v1 </a> </p>
 
-### 102) [2605.20381](https://arxiv.org/abs/2605.20381v2): Formation of intermediate-mass black holes in young massive clusters detected with JWST: analytic mass estimates
+### 108) [2605.20381](https://arxiv.org/abs/2605.20381v2): Formation of intermediate-mass black holes in young massive clusters detected with JWST: analytic mass estimates
 
 <p> Viola Bocchi, Matías Liempi, Dominik R. G. Schleicher </p>
 <p>
@@ -1123,7 +1189,7 @@ The James Webb Space Telescope (JWST) has revealed a population of dense stellar
 <p> <b> Comments: </b> Accepted A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.20381v2"> https://arxiv.org/pdf/2605.20381v2 </a> </p>
 
-### 103) [2605.20121](https://arxiv.org/abs/2605.20121v1): Galaxy Proximate Damped Lyman-Alpha Systems and HI Reionization Topology in TECHNICOLOR DAWN
+### 109) [2605.20121](https://arxiv.org/abs/2605.20121v1): Galaxy Proximate Damped Lyman-Alpha Systems and HI Reionization Topology in TECHNICOLOR DAWN
 
 <p> Maya Steen, Kristian Finlator, Samir Kušmić, Ezra Huscher </p>
 <p>
@@ -1134,7 +1200,7 @@ Recent observations from the James Webb Space Telescope (JWST) have revealed pro
 <p> <b> Comments: </b> 12 pages, 8 figures; revised version submitted to ApJ following referee review </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.20121v1"> https://arxiv.org/pdf/2605.20121v1 </a> </p>
 
-### 104) [2605.19061](https://arxiv.org/abs/2605.19061v1): JWST Observations of Starbursts: Molecular Hydrogen Excitation and Disequilibrium in M82
+### 110) [2605.19061](https://arxiv.org/abs/2605.19061v1): JWST Observations of Starbursts: Molecular Hydrogen Excitation and Disequilibrium in M82
 
 <p> Sara E. Duval, J. D. T. Smith, Alberto D. Bolatto, B. T. Draine, Thomas S. -Y. Lai, Karin M. Sandstrom, Simon C. O. Glover, Ralf S. Klessen, Elisabeth A. C. Mills, Rebecca C. Levy, Sylvain Veilleux, Daniel A. Dale, Aditya Togi, Paul P. van der Werf, Vicente Villanueva, Utsav Siwakoti, Serena A. Cronin, Evan D. Skillman, Deanne B. Fisher, Yu-Hsuan Teng, David S. Meier, Leindert A. Boogaard, Elizabeth Tarantino, Laura Lenkić, Rodrigo Herrera-Camus, Fabian Walter, Patricia A. Arens </p>
 <p>
@@ -1145,7 +1211,7 @@ Emission from the pure rotational transitions of H<sub>2</sub> traces warm molec
 <p> <b> Comments: </b> 20 pages, 13 figures. Accepted by ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.19061v1"> https://arxiv.org/pdf/2605.19061v1 </a> </p>
 
-### 105) [2605.18992](https://arxiv.org/abs/2605.18992v1): Summary of Discussion Sessions from "The Dusty Universe 2025: The Fifth Pandust Conference"
+### 111) [2605.18992](https://arxiv.org/abs/2605.18992v1): Summary of Discussion Sessions from "The Dusty Universe 2025: The Fifth Pandust Conference"
 
 <p> Marjorie Decleir, Karl D. Gordon, Annalisa De Cia, Brandon S. Hensley, Maarten Baes, Chian-Chou Chen, Meriem Elyajouri, Frédéric Galliano, Thomas Henning, Jacob Jencson, Thomas S. -Y. Lai, Mikako Matsuura, Jed McKinney, Samir Salim, Andrew K. Saydjari, Irene Shivaei, J. D. T. Smith, Aki Takigawa, Elizabeth Tarantino </p>
 <p>
@@ -1156,7 +1222,7 @@ Emission from the pure rotational transitions of H<sub>2</sub> traces warm molec
 <p> <b> Comments: </b> 61 pages, Summary of Discussion Sessions from "The Dusty Universe 2025: The fifth pandust conference", https://pandust2025.sciencesconf.org </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.18992v1"> https://arxiv.org/pdf/2605.18992v1 </a> </p>
 
-### 106) [2605.18438](https://arxiv.org/abs/2605.18438v2): Velocity-resolved [O I] 63,145 um, [C II] 158 um, and OH mapping along the Orion BN/KL explosive outflow and irradiated shocks
+### 112) [2605.18438](https://arxiv.org/abs/2605.18438v2): Velocity-resolved [O I] 63,145 um, [C II] 158 um, and OH mapping along the Orion BN/KL explosive outflow and irradiated shocks
 
 <p> J. R. Goicoechea, R. Güsten, B. Godard, H. Wiesemeyer, R. Higgins, A. Gusdorf, M. G. Santa-Maria, M. Zannese, K. M. Menten </p>
 <p>
@@ -1167,7 +1233,7 @@ Stellar mergers produce explosive outflows that serve as transient sources of IR
 <p> <b> Comments: </b> Accepted for publication in A&A. Abstract abridged </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.18438v2"> https://arxiv.org/pdf/2605.18438v2 </a> </p>
 
-### 107) [2605.18062](https://arxiv.org/abs/2605.18062v2): Chemistry and IR emission of acetylene in planet-forming regions of T Tauri disks. Impact of elemental abundances and dust properties
+### 113) [2605.18062](https://arxiv.org/abs/2605.18062v2): Chemistry and IR emission of acetylene in planet-forming regions of T Tauri disks. Impact of elemental abundances and dust properties
 
 <p> Pacôme Estève, Benoît Tabone, Emilie Habart, Ewine F. van Dishoeck, Marissa Vlasblom, Inga Kamp, Aditya M. Arabhavi, Simon Bruderer </p>
 <p>
@@ -1178,7 +1244,7 @@ Stellar mergers produce explosive outflows that serve as transient sources of IR
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.18062v2"> https://arxiv.org/pdf/2605.18062v2 </a> </p>
 
-### 108) [2605.17882](https://arxiv.org/abs/2605.17882v1): Assessing the Impact of Source Confusion for GREX-PLUS based on Deep JWST NIRCam Imaging
+### 114) [2605.17882](https://arxiv.org/abs/2605.17882v1): Assessing the Impact of Source Confusion for GREX-PLUS based on Deep JWST NIRCam Imaging
 
 <p> Yoshiaki Ono, Akio K. Inoue, Yuma Sugahara, Takeshi Hashigaya, Fumihide Iwamuro, Taiki Bessho, Yuji Ikeda, Matthew L. N. Ashby, Yuichi Harikane, Jarron Leisenring, Takao Nakagawa, Howard A. Smith </p>
 <p>
@@ -1189,7 +1255,7 @@ We investigate the effects of source confusion expected in observations with GRE
 <p> <b> Comments: </b> 16 pages, 10 figures, 5 tables, submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.17882v1"> https://arxiv.org/pdf/2605.17882v1 </a> </p>
 
-### 109) [2605.17040](https://arxiv.org/abs/2605.17040v1): PEARLS: JWST Counterparts of Micro-Jy Radio Sources in the NEP Time Domain Field. II. All Four Spokes
+### 115) [2605.17040](https://arxiv.org/abs/2605.17040v1): PEARLS: JWST Counterparts of Micro-Jy Radio Sources in the NEP Time Domain Field. II. All Four Spokes
 
 <p> S. P. Willner, Hansung B. Gim, Maria del Carmen Polletta, Gibson B. Bowling, Seth H. Cohen, Vicente Estrada-Carpenter, Anton M. Koekemoer, Rosalia O'Brien, Alex Pigarelli, Christopher N. A. Willmer, Rogier A. Windhorst, Rolf A. Jansen, Rafael Ortiz, Jake Summers, William Cotton, Francesca Civano, Norman A. Grogin, W. P. Maksym, Payaswini Saikia, Ross M. Silver, Xiurui Zhao </p>
 <p>
@@ -1200,7 +1266,7 @@ JWST/NIRCam observations in the North Ecliptic Pole Time Domain Field (TDF) iden
 <p> <b> Comments: </b> Latest revision submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.17040v1"> https://arxiv.org/pdf/2605.17040v1 </a> </p>
 
-### 110) [2605.16674](https://arxiv.org/abs/2605.16674v1): The First Remotely Detected Biosignature May Not Be the Most Common: Implications for JWST and HWO
+### 116) [2605.16674](https://arxiv.org/abs/2605.16674v1): The First Remotely Detected Biosignature May Not Be the Most Common: Implications for JWST and HWO
 
 <p> Ravi Kopparapu </p>
 <p>
@@ -1211,7 +1277,7 @@ The first detected member of a new astronomical class is often not representativ
 <p> <b> Comments: </b> Accepted to The Astrophysical Journal Letters </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.16674v1"> https://arxiv.org/pdf/2605.16674v1 </a> </p>
 
-### 111) [2605.15712](https://arxiv.org/abs/2605.15712v1): Early Emergence of Environmental Effects: Accelerated Galaxy Assembly in a z=2.96 Protocluster in the COSMOS Field
+### 117) [2605.15712](https://arxiv.org/abs/2605.15712v1): Early Emergence of Environmental Effects: Accelerated Galaxy Assembly in a z=2.96 Protocluster in the COSMOS Field
 
 <p> Shuaiyi Li, Zheng Cai, Yunjing Wu, Fujiang Yu, Xiaojing Lin, Jingyang Men, Xiaoyang Wei </p>
 <p>
@@ -1222,7 +1288,7 @@ The redshift range z=2-4 marks a critical transition in large scale structure fo
 <p> <b> Comments: </b> 14 pages, 10 figures, submitted to ApJL, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15712v1"> https://arxiv.org/pdf/2605.15712v1 </a> </p>
 
-### 112) [2605.15361](https://arxiv.org/abs/2605.15361v1): Clumps in spiral galaxies at z ≲ 3: Disentangling two spatial modes of star formation
+### 118) [2605.15361](https://arxiv.org/abs/2605.15361v1): Clumps in spiral galaxies at z ≲ 3: Disentangling two spatial modes of star formation
 
 <p> Ilia V. Chugunov, Alexander A. Marchuk </p>
 <p>
@@ -1233,7 +1299,7 @@ At high redshifts, star formation in galaxies is more often concentrated in clum
 <p> <b> Comments: </b> 20 pages, 21 figures. Accepted for publication in MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15361v1"> https://arxiv.org/pdf/2605.15361v1 </a> </p>
 
-### 113) [2605.15327](https://arxiv.org/abs/2605.15327v1): Witnessing the rapid growth of disk galaxies over cosmic time using JWST and HST
+### 119) [2605.15327](https://arxiv.org/abs/2605.15327v1): Witnessing the rapid growth of disk galaxies over cosmic time using JWST and HST
 
 <p> Samane Raji, Mireia Montes, Ignacio Trujillo, Fernando Buitrago, Carlos Marrero-de la Rosa, Andrés Asensio Ramos </p>
 <p>
@@ -1244,7 +1310,7 @@ Measuring galaxy sizes is fundamental to understanding how galaxies grow and evo
 <p> <b> Comments: </b> 17 pages, 5 figure. Accepted for publication in A&A. Comments are welcome. Samaneraji@gmail.com </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15327v1"> https://arxiv.org/pdf/2605.15327v1 </a> </p>
 
-### 114) [2605.15273](https://arxiv.org/abs/2605.15273v1): A stellar bar hidden in an extreme gas-rich disk galaxy at z=4.055
+### 120) [2605.15273](https://arxiv.org/abs/2605.15273v1): A stellar bar hidden in an extreme gas-rich disk galaxy at z=4.055
 
 <p> Leindert A. Boogaard, Luca Costantin, Thor Tepper-García, Joss Bland-Hawthorn, Jacqueline A. Hodge, Cheng-Lin Liao, Mahmoud Hamed, Luis Colina, Fabian Walter, Oscar Agertz, Arjan Bik, Alejandro Crespo Gómez, Emanuele Daddi, Georgios E. Magdis, Pablo G. Pérez-González, Hannah Übler, Axel Weiss </p>
 <p>
@@ -1255,7 +1321,7 @@ The classical picture for the formation of stellar bars &ndash; key dynamical dr
 <p> <b> Comments: </b> 17 pages, 8 figures, 1 table. Submitted to ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15273v1"> https://arxiv.org/pdf/2605.15273v1 </a> </p>
 
-### 115) [2605.15189](https://arxiv.org/abs/2605.15189v2): Strong Gravitational Lensing with the James Webb Space Telescope
+### 121) [2605.15189](https://arxiv.org/abs/2605.15189v2): Strong Gravitational Lensing with the James Webb Space Telescope
 
 <p> Adi Zitrin </p>
 <p>
@@ -1266,7 +1332,7 @@ The theory of General Relativity predicts that, since massive bodies curve space
 <p> <b> Comments: </b> Invited review for \emph{Contemporary Physics}. Accepted for publication. 37 pages including references; V1: 13 figures; some adapted from the literature. V2: Several typos, errors, and other minor text issues corrected. Now includes 14 figures (a figure from V1 was split in two) </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15189v2"> https://arxiv.org/pdf/2605.15189v2 </a> </p>
 
-### 116) [2605.15096](https://arxiv.org/abs/2605.15096v2): Impact of stellar population models on the estimated physical properties of galaxies
+### 122) [2605.15096](https://arxiv.org/abs/2605.15096v2): Impact of stellar population models on the estimated physical properties of galaxies
 
 <p> Bozhidara Stoyanova, Médéric Boquien, Paola Santini, Francesco Tombesi, Emiliano Merlin, Pietro Bergamini, Véronique Buat, Denis Burgarella </p>
 <p>
@@ -1277,7 +1343,7 @@ Accurate estimates of fundamental physical properties of galaxies, such as star 
 <p> <b> Comments: </b> 16 pages, 17 figures, Accepted to Astronomy and Astrophysics </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15096v2"> https://arxiv.org/pdf/2605.15096v2 </a> </p>
 
-### 117) [2605.15069](https://arxiv.org/abs/2605.15069v1): Probing the IMF in the Early Universe &ndash; Direct measurements in the Boötes I UFD with JWST/NIRCam
+### 123) [2605.15069](https://arxiv.org/abs/2605.15069v1): Probing the IMF in the Early Universe &ndash; Direct measurements in the Boötes I UFD with JWST/NIRCam
 
 <p> Keyi Ding, Mario Gennaro, Roberto J. Avila, Massimo Ricotti, Rachael L. Beaton, Martha L. Boyer, Thomas M. Brown, Annalisa Calamida, Santi Cassisi, Vedant Chandra, Roger E. Cohen, Matteo Correnti, Denija Crnojević, Kareem El-Badry, Marla Geha, Puragra Guhathakurta, Nitya Kallivayalil, Evan N. Kirby, Kristen. B. W. McQuinn, Alessandro Savino, Cheyanne Shariat, Joshua D. Simon, Daniel R. Weisz </p>
 <p>
@@ -1288,7 +1354,7 @@ The dependence of the stellar initial mass function (IMF) on star-formation envi
 <p> <b> Comments: </b> 26 pages, 15 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.15069v1"> https://arxiv.org/pdf/2605.15069v1 </a> </p>
 
-### 118) [2605.14922](https://arxiv.org/abs/2605.14922v1): DREAMS. JWST Spectroscopy of a z=8.3 Galaxy with an ALMA Dust Continuum Detection: Early Dust, Very High T_dust, and a Multi-wavelength [OIII] Ratio Discrepancy
+### 124) [2605.14922](https://arxiv.org/abs/2605.14922v1): DREAMS. JWST Spectroscopy of a z=8.3 Galaxy with an ALMA Dust Continuum Detection: Early Dust, Very High T_dust, and a Multi-wavelength [OIII] Ratio Discrepancy
 
 <p> Kana Takechi, Masami Ouchi, Kimihiko Nakajima, Tomokazu Kiyota, Yoichi Tamura, Yuichi Harikane, Yurina Nakazato, Tom J. L. C. Bakx, Akio K. Inoue, Hidenobu Yajima, Masato Hagimoto, Yoshiaki Ono, Yi Xu </p>
 <p>
@@ -1299,7 +1365,7 @@ We present a deep DREAMS JWST/NIRSpec MSA medium-grating spectrum of MACS0416-Y1
 <p> <b> Comments: </b> 18 pages, 18 figure, Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.14922v1"> https://arxiv.org/pdf/2605.14922v1 </a> </p>
 
-### 119) [2605.14693](https://arxiv.org/abs/2605.14693v1): Discovery of a Compact Hub-Filament System in G286.21+0.17 with JWST and ALMA: Insights into Protocluster Formation and Competitive Accretion
+### 125) [2605.14693](https://arxiv.org/abs/2605.14693v1): Discovery of a Compact Hub-Filament System in G286.21+0.17 with JWST and ALMA: Insights into Protocluster Formation and Competitive Accretion
 
 <p> L. K. Dewangan, N. K. Bhadari, Ram K. Yadav, A. K. Maity, O. R. Jadhav, Kee-Tae Kim, Paul F. Goldsmith, A. Saha, Dana Alina, Chang Won Lee, Saurabh Sharma, Tie Liu, Patricio Sanhueza, Tapas Baug, E. Sharma, Fengwei Xu, Ariful Hoque, James O. Chibueze, Dana Makarova, Wenyu Jiao </p>
 <p>
@@ -1310,7 +1376,7 @@ We present a multi-wavelength study of the massive protocluster G286.21+0.17 (G2
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.14693v1"> https://arxiv.org/pdf/2605.14693v1 </a> </p>
 
-### 120) [2605.14313](https://arxiv.org/abs/2605.14313v1): An Updated Characterization of Luminous Lyα emitters at the End of Reionization
+### 126) [2605.14313](https://arxiv.org/abs/2605.14313v1): An Updated Characterization of Luminous Lyα emitters at the End of Reionization
 
 <p> Yuanhang Ning, Zheng Cai, Linhua Jiang, Yucheng Guo, Qiong Li, Si-Yue Yu, Xiaodi Yu, Zhen-Ya Zheng </p>
 <p>
@@ -1321,7 +1387,7 @@ We present a multi-wavelength physical characterization of 14 luminous Lyα emit
 <p> <b> Comments: </b> 14 pages, 5 figures, submitted to ApJL, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.14313v1"> https://arxiv.org/pdf/2605.14313v1 </a> </p>
 
-### 121) [2605.14233](https://arxiv.org/abs/2605.14233v1): A new sample of Little Red Dots at z&lt;0.45 in DESI DR1: Broad Balmer lines, low ionization spectrum and no variability
+### 127) [2605.14233](https://arxiv.org/abs/2605.14233v1): A new sample of Little Red Dots at z&lt;0.45 in DESI DR1: Broad Balmer lines, low ionization spectrum and no variability
 
 <p> Kevin Park, Alberto Torralba, Jorryt Matthee, Sara Mascia, Zoltán Haiman, Rohan P. Naidu, Anna de Graaff </p>
 <p>
@@ -1332,7 +1398,7 @@ JWST has unveiled an abundant population of compact broad-line emitters largely 
 <p> <b> Comments: </b> 21 pages, 17 figures, submitted to Astronomy & Astrophysics </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.14233v1"> https://arxiv.org/pdf/2605.14233v1 </a> </p>
 
-### 122) [2605.13995](https://arxiv.org/abs/2605.13995v1): Ionization Structure and Metal Enrichment of the Galactic Center Minispiral Observed with JWST
+### 128) [2605.13995](https://arxiv.org/abs/2605.13995v1): Ionization Structure and Metal Enrichment of the Galactic Center Minispiral Observed with JWST
 
 <p> Nicole M Ford, Mayura Balakrishnan, Sebastiano D. von Fellenberg, Daryl Haggard, Joseph M. Michail, Yuzhu Cui, Joseph L. Hora, Joey Neilsen, Giacomo Principe, Tamojeet Roychowdhury, Nadeen B Sabha, Howard A. Smith, Zach Sumners, S. P. Willner </p>
 <p>
@@ -1343,7 +1409,7 @@ Sgr A* is the nearest quiescent supermassive black hole, and its proximity offer
 <p> <b> Comments: </b> Main text 13 pages, 10 figures, 5 Tables. Submitted to ApJ. Comments welcomed </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.13995v1"> https://arxiv.org/pdf/2605.13995v1 </a> </p>
 
-### 123) [2605.13990](https://arxiv.org/abs/2605.13990v1): Infrared Line Diagnostics Fail to Constrain Sgr A*'s UV Output
+### 129) [2605.13990](https://arxiv.org/abs/2605.13990v1): Infrared Line Diagnostics Fail to Constrain Sgr A*'s UV Output
 
 <p> Mayura Balakrishnan, Sebastiano D. von Fellenberg, Daryl Haggard, Joseph M. Michail, Nicole M. Ford, Joseph L. Hora, Laurent Loinard, Sera Markoff, Joey Neilsen, Giacomo Principe, Nadeen B. Sabha, Howard A. Smith, Zach Sumners, Shuo Zhang </p>
 <p>
@@ -1354,7 +1420,7 @@ Sgr A*, the 4 x 10^6 solar-mass supermassive black hole at the Galactic Center, 
 <p> <b> Comments: </b> 12 pages, 5 figures, 1 table. Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.13990v1"> https://arxiv.org/pdf/2605.13990v1 </a> </p>
 
-### 124) [2605.13982](https://arxiv.org/abs/2605.13982v1): Lyman-alpha Radiation Pressure in Dense Star Clusters: Implications for Star Formation and Winds at Cosmic Dawn
+### 130) [2605.13982](https://arxiv.org/abs/2605.13982v1): Lyman-alpha Radiation Pressure in Dense Star Clusters: Implications for Star Formation and Winds at Cosmic Dawn
 
 <p> Shyam H Menon, Aaron Smith </p>
 <p>
@@ -1365,7 +1431,7 @@ Observations with the JWST in lensed fields have revealed that galaxies at cosmi
 <p> <b> Comments: </b> 19 pages, 7 figures. Submitted to ApJ. Comments and suggestions welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.13982v1"> https://arxiv.org/pdf/2605.13982v1 </a> </p>
 
-### 125) [2605.13967](https://arxiv.org/abs/2605.13967v1): When galaxies burst: enhanced shot-noise for line-intensity mapping in the JWST era
+### 131) [2605.13967](https://arxiv.org/abs/2605.13967v1): When galaxies burst: enhanced shot-noise for line-intensity mapping in the JWST era
 
 <p> Ely D. Kovetz, Hovav Lazare, Sarah Libanore, Julian B. Muñoz, Eleonora Vanzan </p>
 <p>
@@ -1376,7 +1442,7 @@ Recent JWST observations indicate that star formation at z\!~\!4-6 is more stoch
 <p> <b> Comments: </b> 6 pages, 5 figures (with appendices: 11 pages, 7 figures) </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.13967v1"> https://arxiv.org/pdf/2605.13967v1 </a> </p>
 
-### 126) [2605.13966](https://arxiv.org/abs/2605.13966v1): Massive Galaxies Form Early and Gray: Stellar Assembly and Dust Attenuation at z&gt;3.5 from CAPERS
+### 132) [2605.13966](https://arxiv.org/abs/2605.13966v1): Massive Galaxies Form Early and Gray: Stellar Assembly and Dust Attenuation at z&gt;3.5 from CAPERS
 
 <p> Katherine Chworowsky, Steven L. Finkelstein, Anthony J. Taylor, Alexa M. Morales, Mark Dickinson, L. Y. Aaron Yung, Pablo Arrabal Haro, Bren E. Backhaus, Davide Bevacqua, Óscar Chávez Ortiz, Adam C. Carnall, Callum T. Donnan, Mauro Giavalisco, Michaela Hirschmann, Kartheik G. Iyer, Anton M. Koekemoer, Rebecca L. Larson, Ray A. Lucas, Jed McKinney, Derek J. McLeod, Casey Papovich, Pablo G. Pérez-González, Lu Shen, Rachel S. Somerville, Laura Sommovigo, Thomas M. Stanton, Xin Wang, Stephen M. Wilkins, Jorge A. Zavala, the CAPERS Collaboration </p>
 <p>
@@ -1387,7 +1453,7 @@ The stellar mass assembly of massive galaxies in the first few billion years of 
 <p> <b> Comments: </b> 24 pages, 11 figures, submitted to ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.13966v1"> https://arxiv.org/pdf/2605.13966v1 </a> </p>
 
-### 127) [2605.13472](https://arxiv.org/abs/2605.13472v1): First Light And Reionization Epoch Simulations (FLARES) XXI: The UV Indices of Galaxies in the Early Universe
+### 133) [2605.13472](https://arxiv.org/abs/2605.13472v1): First Light And Reionization Epoch Simulations (FLARES) XXI: The UV Indices of Galaxies in the Early Universe
 
 <p> Connor Sant Fournier, Stephen M. Wilkins, Joseph Caruana, Kristian Zarb Adami, Jack C. Turner, Conor M. Byrne, Aswin P. Vijayan, William J. Roper </p>
 <p>
@@ -1398,7 +1464,7 @@ UV absorption line indices trace both chemical enrichment and star formation his
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.13472v1"> https://arxiv.org/pdf/2605.13472v1 </a> </p>
 
-### 128) [2605.12486](https://arxiv.org/abs/2605.12486v2): Photometric determination of the mass accretion rates of pre-main sequence stars. IX. Recent star formation in the periphery of NGC 346
+### 134) [2605.12486](https://arxiv.org/abs/2605.12486v2): Photometric determination of the mass accretion rates of pre-main sequence stars. IX. Recent star formation in the periphery of NGC 346
 
 <p> Christiaan Dik, Guido De Marchi </p>
 <p>
@@ -1409,7 +1475,7 @@ We studied the properties of star formation and the characteristics of young sta
 <p> <b> Comments: </b> 11 pages, 11 figures, accepted for publication in Astronomy & Astrophysics (text updated in a few places following A&A language edit) </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.12486v2"> https://arxiv.org/pdf/2605.12486v2 </a> </p>
 
-### 129) [2605.12222](https://arxiv.org/abs/2605.12222v1): A tool of Hierarchical cOre ideNtification and Kinematic property AssIgnment (HONKAI) for Dense Cores
+### 135) [2605.12222](https://arxiv.org/abs/2605.12222v1): A tool of Hierarchical cOre ideNtification and Kinematic property AssIgnment (HONKAI) for Dense Cores
 
 <p> Jiawei Liu, Zhiyuan Ren, Di Li, Jinjin Xie, Gary A. Fuller, Yuchen Xing, Xin Lyu, Fengwei Xu, Chen Wang, Fanyi Meng, Sihan Jiao </p>
 <p>
@@ -1420,7 +1486,7 @@ Infrared dark clouds (IRDCs) contains cold dense gas at the earliest stage of ma
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.12222v1"> https://arxiv.org/pdf/2605.12222v1 </a> </p>
 
-### 130) [2605.11077](https://arxiv.org/abs/2605.11077v1): The Impact of Cosmic Variance and Satellites on JWST Clustering Measurements at Redshift around 6
+### 136) [2605.11077](https://arxiv.org/abs/2605.11077v1): The Impact of Cosmic Variance and Satellites on JWST Clustering Measurements at Redshift around 6
 
 <p> Jiamu Huang, Elia Pizzati, Joseph F. Hennawi, Joop Schaye, Matthieu Schaller, Benjamin Snyder, Yi Kang </p>
 <p>
@@ -1431,7 +1497,7 @@ We present a framework for inferring the dark matter halo masses of quasars and 
 <p> <b> Comments: </b> 18 pages, 14 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.11077v1"> https://arxiv.org/pdf/2605.11077v1 </a> </p>
 
-### 131) [2605.11079](https://arxiv.org/abs/2605.11079v1): New Isocurvature Constraints from JWST UV Luminosity Function
+### 137) [2605.11079](https://arxiv.org/abs/2605.11079v1): New Isocurvature Constraints from JWST UV Luminosity Function
 
 <p> Raymond T. Co, Sai Chaitanya Tadepalli </p>
 <p>
@@ -1442,7 +1508,7 @@ We constrain uncorrelated primordial isocurvature perturbations using a combinat
 <p> <b> Comments: </b> 14 pages of main text, 4 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.11079v1"> https://arxiv.org/pdf/2605.11079v1 </a> </p>
 
-### 132) [2605.11064](https://arxiv.org/abs/2605.11064v1): Clustering constraints on super-early galaxy formation scenarios
+### 138) [2605.11064](https://arxiv.org/abs/2605.11064v1): Clustering constraints on super-early galaxy formation scenarios
 
 <p> Antonio Matteri, Andrea Pallottini, Andrea Ferrara </p>
 <p>
@@ -1453,7 +1519,7 @@ The unexpectedly high abundance of bright, blue, super-early galaxies (z≳10) h
 <p> <b> Comments: </b> 9 pages, 4 figures, 1 table, submitted to A&A. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.11064v1"> https://arxiv.org/pdf/2605.11064v1 </a> </p>
 
-### 133) [2605.10022](https://arxiv.org/abs/2605.10022v2): On the residual missing mass of the Bullet Cluster
+### 139) [2605.10022](https://arxiv.org/abs/2605.10022v2): On the residual missing mass of the Bullet Cluster
 
 <p> Benoit Famaey </p>
 <p>
@@ -1464,7 +1530,7 @@ Modified Newtonian Dynamics (MOND) is a paradigm that can do away with dark matt
 <p> <b> Comments: </b> 6 pages, 4 figures, updated gas model </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.10022v2"> https://arxiv.org/pdf/2605.10022v2 </a> </p>
 
-### 134) [2605.09829](https://arxiv.org/abs/2605.09829v2): Stardust Galaxies at z&gt;9: A Dust-Origin Transition Behind the Excess of UV-Bright Galaxies
+### 140) [2605.09829](https://arxiv.org/abs/2605.09829v2): Stardust Galaxies at z&gt;9: A Dust-Origin Transition Behind the Excess of UV-Bright Galaxies
 
 <p> D. Burgarella, V. Buat, A. K. Inoue, T. T. Takeuchi, C. Aurin, J. -C. Bouret, P. Dayal, T. Dewachter, M. Dickinson, C. Kobayashi, G. P. Nikopoulos, R. S. Somerville </p>
 <p>
@@ -1475,7 +1541,7 @@ Recent JWST observations suggest that galaxies at z &gt; 9 may be dominated by l
 <p> <b> Comments: </b> Astronomy and Astrophysics, after revision </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.09829v2"> https://arxiv.org/pdf/2605.09829v2 </a> </p>
 
-### 135) [2605.09078](https://arxiv.org/abs/2605.09078v1): JWST observations and a model for the extremely luminous obscured quasar W2246-0526 at z=4.6
+### 141) [2605.09078](https://arxiv.org/abs/2605.09078v1): JWST observations and a model for the extremely luminous obscured quasar W2246-0526 at z=4.6
 
 <p> Charalambia Varnava, Andreas Efstathiou, Tanio Díaz-Santos, Duncan Farrah </p>
 <p>
@@ -1486,7 +1552,7 @@ We present new JWST/MIRI-MRS data of the z=4.601 extremely luminous obscured qua
 <p> <b> Comments: </b> Accepted for publication in Monthly Notices of the Royal Astronomical Society. The SED fitting code SMART used in this work is publicly available at https://github.com/ch-var/SMART </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.09078v1"> https://arxiv.org/pdf/2605.09078v1 </a> </p>
 
-### 136) [2605.08979](https://arxiv.org/abs/2605.08979v1): The MaNGA Low-mass disks HUnt for CO (MaLHUCO) Survey
+### 142) [2605.08979](https://arxiv.org/abs/2605.08979v1): The MaNGA Low-mass disks HUnt for CO (MaLHUCO) Survey
 
 <p> M. Grossi, E. Corbelli, D. R. Gonçalves, E. D. Paspaliaris </p>
 <p>
@@ -1497,7 +1563,7 @@ We present James Clerk Maxwell Telescope (JCMT) observations of the ^12CO(J = 2-
 <p> <b> Comments: </b> 26 pages, 14 figures, accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.08979v1"> https://arxiv.org/pdf/2605.08979v1 </a> </p>
 
-### 137) [2605.07976](https://arxiv.org/abs/2605.07976v1): Testing the BH^* Model: a UV-to-Optical Spectral Fitting of The Cliff
+### 143) [2605.07976](https://arxiv.org/abs/2605.07976v1): Testing the BH^* Model: a UV-to-Optical Spectral Fitting of The Cliff
 
 <p> Rosa M. Mérida, Marcin Sawicki, Gaia Gaspar, Chris J. Willott, Kartheik G. Iyer </p>
 <p>
@@ -1508,7 +1574,7 @@ In the black hole star (BH*) model, the characteristic "V"-shaped SED of LRDs is
 <p> <b> Comments: </b> 15 pages, 7 figures, 2 tables. Submitted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.07976v1"> https://arxiv.org/pdf/2605.07976v1 </a> </p>
 
-### 138) [2605.06782](https://arxiv.org/abs/2605.06782v1): The galaxy ultraviolet luminosity function from z=7 to 15 in the COLIBRE simulations
+### 144) [2605.06782](https://arxiv.org/abs/2605.06782v1): The galaxy ultraviolet luminosity function from z=7 to 15 in the COLIBRE simulations
 
 <p> Shengdong Lu, Carlos S. Frenk, Cedric G. Lacey, Andrea Gebek, Joop Schaye, Shaun Cole, Sownak Bose, Anna Durrant, Nick Andreadis, Maarten Baes, Alejandro Benítez-Llambay, Evgenii Chaikin, Camila Correa, Robert A. Crain, Filip Huško, Robert J. McGibbon, Sylvia Ploeckinger, Alexander J. Richings, Matthieu Schaller, James W. Trayford </p>
 <p>
@@ -1519,7 +1585,7 @@ JWST has enabled the detection of galaxies in the earliest stages of cosmic hist
 <p> <b> Comments: </b> 28 pages, 16 figures; submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.06782v1"> https://arxiv.org/pdf/2605.06782v1 </a> </p>
 
-### 139) [2605.06770](https://arxiv.org/abs/2605.06770v1): A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at z~6-8
+### 145) [2605.06770](https://arxiv.org/abs/2605.06770v1): A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at z~6-8
 
 <p> Tiger Yu-Yang Hsiao, John Chisholm, Danielle A. Berg, Steven L. Finkelstein, Vasily Kokorev, Hakim Atek, Rohan P. Naidu, Seiji Fujimoto, Lukas J. Furtak, Angela Adamo, Archana Aravindan, Yoshihisa Asada, Arghyadeep Basu, Jeremy Blaizot, Nicholas Choustikov, Miroslava Dessauges-Zavadsky, Qinyue Fei, Harley Katz, Damien Korber, Kristen. B. W. McQuinn, Marcie Mun, Julian B. Munoz, Priyamvada Natarajan, Mabel G. Stephenson, Daniel Schaerer </p>
 <p>
@@ -1530,7 +1596,7 @@ The competition between metal synthesis and feedback from massive stars establis
 <p> <b> Comments: </b> 20 pages, 9 figures, submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.06770v1"> https://arxiv.org/pdf/2605.06770v1 </a> </p>
 
-### 140) [2605.06769](https://arxiv.org/abs/2605.06769v1): Origins of Extreme Emission-Line Ratios in z &gt; 3 Galaxies: Insights from the Lumen Model
+### 146) [2605.06769](https://arxiv.org/abs/2605.06769v1): Origins of Extreme Emission-Line Ratios in z &gt; 3 Galaxies: Insights from the Lumen Model
 
 <p> Lucie Scharré, Michaela Hirschmann, Adèle Plat, Stephane Charlot, Rachel S. Somerville, Emma Curtis-Lake, Gabriella De Lucia, Miroslava Dessauges-Zavadsky, Anna Feltre, Marion Farcy, Natalia Lahén, Aswin P. Vijayan, Stephen M. Wilkins </p>
 <p>
@@ -1541,7 +1607,7 @@ Optical emission-line ratios in star-forming galaxies at z ~ 3-8, such as [OIII]
 <p> <b> Comments: </b> 24 pages, 13 figures + appendix, submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.06769v1"> https://arxiv.org/pdf/2605.06769v1 </a> </p>
 
-### 141) [2605.05327](https://arxiv.org/abs/2605.05327v1): Shape of Direct-Method Mass-Metallicity Relation with JWST: Fast-Track Nitrogen and Helium Enrichment
+### 147) [2605.05327](https://arxiv.org/abs/2605.05327v1): Shape of Direct-Method Mass-Metallicity Relation with JWST: Fast-Track Nitrogen and Helium Enrichment
 
 <p> A. Giménez-Alcázar, R. Amorín, J. M. Vilchez </p>
 <p>
@@ -1552,7 +1618,7 @@ We investigate the mass-metallicity relation (MZR) from z=1 to z=9 using electro
 <p> <b> Comments: </b> Submitted to A&A. 19 pages, 19 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.05327v1"> https://arxiv.org/pdf/2605.05327v1 </a> </p>
 
-### 142) [2605.05298](https://arxiv.org/abs/2605.05298v1): Kinematic Stratification in Extremely Red Quasars Revealed by JWST
+### 148) [2605.05298](https://arxiv.org/abs/2605.05298v1): Kinematic Stratification in Extremely Red Quasars Revealed by JWST
 
 <p> Jack M. M. Neustadt, Nadia L. Zakamska, Yu-Ching Chen, Andrey Vayner, Fred Hamann, Marie Wingyee Lau, Serena Perrotta, Kate Rowlands, Sylvain Veilleux, Dominika Wylezalek </p>
 <p>
@@ -1563,7 +1629,7 @@ We analyze the spectra of the central nuclei of extremely red quasars (ERQs) obs
 <p> <b> Comments: </b> 17 pages, 12 figures, submitted to OJAp, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.05298v1"> https://arxiv.org/pdf/2605.05298v1 </a> </p>
 
-### 143) [2605.05293](https://arxiv.org/abs/2605.05293v1): Life is But a Stream: The Distribution of Planetary Systems Along Stellar Streams and their Properties
+### 149) [2605.05293](https://arxiv.org/abs/2605.05293v1): Life is But a Stream: The Distribution of Planetary Systems Along Stellar Streams and their Properties
 
 <p> Jeremy J. Webb, Milica Ivetic, Maxwell X. Cai, Simon Portegies Zwart, Daniella Morrone </p>
 <p>
@@ -1574,7 +1640,7 @@ The majority of discovered exoplanets have been observed orbiting field stars as
 <p> <b> Comments: </b> 12 pages, 9 figures, Accepted for Publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.05293v1"> https://arxiv.org/pdf/2605.05293v1 </a> </p>
 
-### 144) [2605.05074](https://arxiv.org/abs/2605.05074v1): Little red dots as obscured little blue dots: relative abundances, luminosities, and black-hole masses
+### 150) [2605.05074](https://arxiv.org/abs/2605.05074v1): Little red dots as obscured little blue dots: relative abundances, luminosities, and black-hole masses
 
 <p> Piero Madau, Roberto Maiolino </p>
 <p>
@@ -1585,7 +1651,7 @@ We test whether "little red dots'' (LRDs) are the dust-reddened, high-inclinatio
 <p> <b> Comments: </b> 8 pages, 3 figures, submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.05074v1"> https://arxiv.org/pdf/2605.05074v1 </a> </p>
 
-### 145) [2605.04925](https://arxiv.org/abs/2605.04925v1): Near-infrared diagnostic diagrams of the gas ionization sources in nearby galaxies: a JWST NIRSpec view
+### 151) [2605.04925](https://arxiv.org/abs/2605.04925v1): Near-infrared diagnostic diagrams of the gas ionization sources in nearby galaxies: a JWST NIRSpec view
 
 <p> J. H. Costa-Souza, Luis Colina, Rogemar A. Riffel, Santiago Arribas, Michele Perna, Miguel Pereira Santaella, Ismael García-Bernete, Montserrat Villar Martín, Oli L. Dors </p>
 <p>
@@ -1596,7 +1662,7 @@ Buried active galactic nuclei and obscured young stellar clusters pose significa
 <p> <b> Comments: </b> Accepted for publication </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.04925v1"> https://arxiv.org/pdf/2605.04925v1 </a> </p>
 
-### 146) [2605.04685](https://arxiv.org/abs/2605.04685v1): Compact, AGN-hosting Dwarf Galaxies with "Little Red Dots"-like SEDs in the Local Universe
+### 152) [2605.04685](https://arxiv.org/abs/2605.04685v1): Compact, AGN-hosting Dwarf Galaxies with "Little Red Dots"-like SEDs in the Local Universe
 
 <p> Lulu Bao, Chao-Wei Tsai, Jingwen Wu, Jialai Wang </p>
 <p>
@@ -1607,7 +1673,7 @@ Local active galactic nuclei (AGNs) in dwarf galaxies are often considered as an
 <p> <b> Comments: </b> 15 pages, 11 figures. Revised version submitted to ApJ. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.04685v1"> https://arxiv.org/pdf/2605.04685v1 </a> </p>
 
-### 147) [2605.04144](https://arxiv.org/abs/2605.04144v1): The galaxy-halo connection and the dynamical evolution of a giant disc in a massive node of the Cosmic Web at z~3
+### 153) [2605.04144](https://arxiv.org/abs/2605.04144v1): The galaxy-halo connection and the dynamical evolution of a giant disc in a massive node of the Cosmic Web at z~3
 
 <p> G. Quadri, S. Cantalupo, C. Bacchini, A. Pensabene, A. Lupi, G. Pezzulli, W. Wang, M. Galbiati, T. Lazeyras, N. Ledos, H. Mao, A. Travascio </p>
 <p>
@@ -1618,7 +1684,7 @@ Recent JWST observations revealed the surprising presence of a giant and massive
 <p> <b> Comments: </b> 13 pages + 4 pages in the Appendix, 7 figures + 6 figures in the Appendix. Submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.04144v1"> https://arxiv.org/pdf/2605.04144v1 </a> </p>
 
-### 148) [2605.03635](https://arxiv.org/abs/2605.03635v1): The JWST early galaxy crisis resolved by a reionization degeneracy
+### 154) [2605.03635](https://arxiv.org/abs/2605.03635v1): The JWST early galaxy crisis resolved by a reionization degeneracy
 
 <p> Zihan Wang, Huanyuan Shan </p>
 <p>
@@ -1629,7 +1695,7 @@ JWST's discovery of unexpectedly bright z&gt;10 galaxies has triggered claims th
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03635v1"> https://arxiv.org/pdf/2605.03635v1 </a> </p>
 
-### 149) [2605.03442](https://arxiv.org/abs/2605.03442v1): High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch
+### 155) [2605.03442](https://arxiv.org/abs/2605.03442v1): High-Redshift Gravitational Lens Discoveries in JWST NIRCam Using AnomalyMatch
 
 <p> Julia Dima, David O'Ryan, Sandor Kruk, Laslo E. Ruhberg, Pablo Gómez </p>
 <p>
@@ -1640,7 +1706,7 @@ Context. Strong gravitational lenses provide a unique tool to probe cosmology an
 <p> <b> Comments: </b> Submitted to A&A. 13 pages. 8 Figures. 2 Tables. Comments welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03442v1"> https://arxiv.org/pdf/2605.03442v1 </a> </p>
 
-### 150) [2605.03156](https://arxiv.org/abs/2605.03156v1): Primordial Black Hole contribution to the stochastic background of Gravitational Waves
+### 156) [2605.03156](https://arxiv.org/abs/2605.03156v1): Primordial Black Hole contribution to the stochastic background of Gravitational Waves
 
 <p> D. Martín-González </p>
 <p>
@@ -1651,7 +1717,7 @@ The amplitude of the detected stochastic gravitational wave background (SGWB) me
 <p> <b> Comments: </b> 6 pages, 7 figures, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03156v1"> https://arxiv.org/pdf/2605.03156v1 </a> </p>
 
-### 151) [2605.03124](https://arxiv.org/abs/2605.03124v1): Nowhere Left to Hide: Uncovering All of the Massive Young Embedded Star Clusters in the Antennae with JWST
+### 157) [2605.03124](https://arxiv.org/abs/2605.03124v1): Nowhere Left to Hide: Uncovering All of the Massive Young Embedded Star Clusters in the Antennae with JWST
 
 <p> Rupali Chandar, Miranda Caputo, Paul Goudfrooij, Sean T. Linden, Angus Mok, Cory Whitcomb, Grant Donnelly, Florent Renaud, John-David T. Smith, Alberto Bolatto, Danny A. Dale, Sara Duval, Lindsey Hands, Ralf Klessen, Caroline Kuczek, Karin Sandstrom, Eva Schinnerer, Fabian Walter </p>
 <p>
@@ -1662,7 +1728,7 @@ The Antennae galaxies merger produces the brightest infrared emission of any gal
 <p> <b> Comments: </b> Accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03124v1"> https://arxiv.org/pdf/2605.03124v1 </a> </p>
 
-### 152) [2605.03024](https://arxiv.org/abs/2605.03024v1): Uncovering the multi-scale structure of dust distribution in nearby galaxies
+### 158) [2605.03024](https://arxiv.org/abs/2605.03024v1): Uncovering the multi-scale structure of dust distribution in nearby galaxies
 
 <p> E. Tanchon, M. Boquien, J. Chastenet, D. A. Dale, O. V. Egorov, R. Indebetouw, R. S. Klessen, S. E. Meidt, D. Pathak, J. Sutter, D. A. Thilker, A. Amiri, A. T. Barnes, F. Bigiel, I. S. Gerasimov, S. C. O. Glover, K. Grasha, K. L. Larson, J. C. Lee, H. -A. Pan, T. G. Williams </p>
 <p>
@@ -1673,7 +1739,7 @@ High-resolution JWST-MIRI images now allow us to resolve in great detail the mul
 <p> <b> Comments: </b> 20 pages, 16 figures, 3 tables; accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03024v1"> https://arxiv.org/pdf/2605.03024v1 </a> </p>
 
-### 153) [2605.03016](https://arxiv.org/abs/2605.03016v1): Resolving the Multiphase Outflow, Shock Signatures, and PAHs in the AGN-Starburst Composite ULIRG F10565+2448 with JWST MIRI/MRS
+### 159) [2605.03016](https://arxiv.org/abs/2605.03016v1): Resolving the Multiphase Outflow, Shock Signatures, and PAHs in the AGN-Starburst Composite ULIRG F10565+2448 with JWST MIRI/MRS
 
 <p> Kylie Yui Dan, Jerome Seebeck, Sylvain Veilleux, David Rupke, Eduardo Gonzalez-Alfonso, Ismael Garcia-Bernete, Weizhe Liu, Dieter Lutz, Marcio Melendez, Miguel Pereira Santaella, Eckhard Sturm, Francesco Tombesi </p>
 <p>
@@ -1684,7 +1750,7 @@ We present new James Webb Space Telescope Mid-Infrared Instrument (MIRI) Medium-
 <p> <b> Comments: </b> 22 pages, 14 figures, 2 tables, accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03016v1"> https://arxiv.org/pdf/2605.03016v1 </a> </p>
 
-### 154) [2605.03008](https://arxiv.org/abs/2605.03008v1): Environmental Quenching of High-Redshift Galaxies: Interpreting JWST Observations with Simulations
+### 160) [2605.03008](https://arxiv.org/abs/2605.03008v1): Environmental Quenching of High-Redshift Galaxies: Interpreting JWST Observations with Simulations
 
 <p> Aleyna Döven, Mohammadreza Ayromlou, Cristiano Porciani </p>
 <p>
@@ -1695,7 +1761,7 @@ Recent observations of the high-redshift Universe, particularly with JWST, have 
 <p> <b> Comments: </b> 12 pages, 11 figures, plus Appendix (8 pages, 8 figures). Submitted to A&A. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03008v1"> https://arxiv.org/pdf/2605.03008v1 </a> </p>
 
-### 155) [2605.03000](https://arxiv.org/abs/2605.03000v1): Are Nucleosynthetic Yields Universal? Interpreting the Multi-Elemental Abundances of Quiescent Galaxies over Cosmic Time Using Milky Way Stars
+### 161) [2605.03000](https://arxiv.org/abs/2605.03000v1): Are Nucleosynthetic Yields Universal? Interpreting the Multi-Elemental Abundances of Quiescent Galaxies over Cosmic Time Using Milky Way Stars
 
 <p> Aliza G. Beverage, David H. Weinberg, Mariska Kriek, Nicole Marcelina Gountanis, Andrew B. Newman, Daniel R. Weisz </p>
 <p>
@@ -1706,7 +1772,7 @@ The detailed abundance patterns of quiescent galaxies offer powerful constraints
 <p> <b> Comments: </b> 24 pages, 9 figures, submitted to ApJ. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.03000v1"> https://arxiv.org/pdf/2605.03000v1 </a> </p>
 
-### 156) [2605.02663](https://arxiv.org/abs/2605.02663v2): Jet-driven shocks and turbulence in radio-loud Active Galactic Nuclei observed with JWST MIRI/MRS
+### 162) [2605.02663](https://arxiv.org/abs/2605.02663v2): Jet-driven shocks and turbulence in radio-loud Active Galactic Nuclei observed with JWST MIRI/MRS
 
 <p> Rogemar A. Riffel, Gabriel L. Souza-Oliveira, Luis Colina, Almudena Alonso-Herrero, Marina Bianchin, Kalliopi M. Dasyra, Lorenzo Evangelista, Kameron Goold, Pierre Guillard, Rogério Riffel, Anil Seth, Thaisa Storchi-Bergmann, Nadia Zakamska, Samile Araujo-Santos, Anelise Audibert, Enrica Bellocchi, Steph Campbell, Françoise Combes, Guilherme S. Couto, José Henrique Costa-Souza, Richard I. Davies, Maitê S. Z. de Mellos, Tanio Díaz-Santos, Fergus R. Donnan, Ismael García-Bernete, Santiago García-Burillo, Laura Hermosa Muñoz, Erin K. S. Hicks, Alvaro Labiano, Enrique Lopez-Rodriguez, Vincenzo Mainieri, Christopher Packham, Miguel Pereira Santaella, Cristina Ramos Almeida, Claudio Ricci, Lucas Ramos Vieira, Vivian U </p>
 <p>
@@ -1717,7 +1783,7 @@ Jet-cloud interactions are a key manifestation of Active Galactic Nucleus (AGN) 
 <p> <b> Comments: </b> Accepted for publication in A&A, 19 pages </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.02663v2"> https://arxiv.org/pdf/2605.02663v2 </a> </p>
 
-### 157) [2605.02539](https://arxiv.org/abs/2605.02539v1): Using Lyα Transmitted Spectrum to Probe IGM Transmission and Identify Ionized Structures in Cosmic Reionization
+### 163) [2605.02539](https://arxiv.org/abs/2605.02539v1): Using Lyα Transmitted Spectrum to Probe IGM Transmission and Identify Ionized Structures in Cosmic Reionization
 
 <p> Weida Hu, Casey Papovich, Lu Shen, Pablo Arrabal Haro, Bren E. Backhaus, Nikko J. Cleri, Mark Dickinson, James S. Dunlop, Steven L. Finkelstein, Mauro Giavalisco, Anton M. Koekemoer, Vasily Kokorev, Sara Mascia, Lorenzo Napolitano, Laura Pentericci, Aaron Smith, Anthony J. Taylor, Xin Wang, L. Y. Aaron Yung </p>
 <p>
@@ -1728,7 +1794,7 @@ We present a study of intergalactic medium (IGM) transmission at 4.5 &lt; z &lt;
 <p> <b> Comments: </b> 22 pages, 11 figures, 3 tables. Revised after incorporating referee's feedback. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.02539v1"> https://arxiv.org/pdf/2605.02539v1 </a> </p>
 
-### 158) [2605.02493](https://arxiv.org/abs/2605.02493v1): Morphological and Star Formation Properties of Cosmic Noon Massive Quiescent Galaxies
+### 164) [2605.02493](https://arxiv.org/abs/2605.02493v1): Morphological and Star Formation Properties of Cosmic Noon Massive Quiescent Galaxies
 
 <p> Vaidik Prasal, Yogesh Wadadekar, Pralay Biswas, Rashi Jain </p>
 <p>
@@ -1739,7 +1805,7 @@ We analyze the star formation and morphological properties of massive quiescent 
 <p> <b> Comments: </b> 28 pages, 13 figures, Submitted to ApJ, Comments Welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.02493v1"> https://arxiv.org/pdf/2605.02493v1 </a> </p>
 
-### 159) [2605.01380](https://arxiv.org/abs/2605.01380v1): A structural degeneracy explains reionization tensions and limits dark matter constraints
+### 165) [2605.01380](https://arxiv.org/abs/2605.01380v1): A structural degeneracy explains reionization tensions and limits dark matter constraints
 
 <p> Zihan Wang, Huanyuan Shan </p>
 <p>
@@ -1750,7 +1816,7 @@ Over the past decade, reionization studies have yielded persistent factor-of-two
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.01380v1"> https://arxiv.org/pdf/2605.01380v1 </a> </p>
 
-### 160) [2605.01095](https://arxiv.org/abs/2605.01095v2): Validating z &gt; 7.5 Lyman Break Galaxy candidates in the COSMOS field with JWST/PASSAGE
+### 166) [2605.01095](https://arxiv.org/abs/2605.01095v2): Validating z &gt; 7.5 Lyman Break Galaxy candidates in the COSMOS field with JWST/PASSAGE
 
 <p> Zoke W. Sackih, Mason S. Huberty, Claudia Scarlata, Peter J. Watson, Andrew J. Battisti, Farhanul Hasan, Matthew J. Hayes, Matthew A. Malkan, Vihang Mehta, Kalina V. Nedkova, Marc Rafelski, Benedetta Vulcani </p>
 <p>
@@ -1761,7 +1827,7 @@ We analyze spectroscopy from one NIRISS pointing in the JWST-PASSAGE program for
 <p> <b> Comments: </b> Accepted by RNAAS, 3 pages, 1 figure </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.01095v2"> https://arxiv.org/pdf/2605.01095v2 </a> </p>
 
-### 161) [2605.00990](https://arxiv.org/abs/2605.00990v1): NEFERTITI: Linking early galaxy formation to the assembly of the Milky Way
+### 167) [2605.00990](https://arxiv.org/abs/2605.00990v1): NEFERTITI: Linking early galaxy formation to the assembly of the Milky Way
 
 <p> Ioanna Koutsouridou, Stefania Salvadori, Ása Skúladóttir, Viola Gelli, Elka Rusta, Lapo Querci, David S. Aguado, Alice Mori </p>
 <p>
@@ -1772,7 +1838,7 @@ We use a new implementation of the NEFERTITI galaxy formation model, coupled to 
 <p> <b> Comments: </b> 20 pages, 17 figures, 2 tables. Submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.00990v1"> https://arxiv.org/pdf/2605.00990v1 </a> </p>
 
-### 162) [2605.00822](https://arxiv.org/abs/2605.00822v1): PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence
+### 168) [2605.00822](https://arxiv.org/abs/2605.00822v1): PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence
 
 <p> Gibson B. Bowling, Rafael Ortiz, S. P. Willner, Seth H. Cohen, Timothy Carleton, Rogier A. Windhorst, Rolf A. Jansen, Christopher N. A. Willmer, W. Peter Maksym, Anton M. Koekemoer, Madeline A. Marshall, Rosalia O'Brien, Payaswini Saikia, Massimo Ricotti, Jordan C. J. D'Silva, Dan Coe, Christopher J. Conselice, Jose M. Diego, Simon P. Driver, Brenda L. Frye, Norman A. Grogin, Rachel Honor, Jake Summers, Nor Pirzkal, Aaron Robotham, Russell E. Ryan, Brent M. Smith, Haojing Yan, Cheng Cheng, Liam Nolan, Heidi B. Hammel, Stefanie N. Milam </p>
 <p>
@@ -1783,7 +1849,7 @@ We present the results of AGN&ndash;host-galaxy decomposition using JWST/NIRCam,
 <p> <b> Comments: </b> 24 pages, 9 figures, 4 tables </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.00822v1"> https://arxiv.org/pdf/2605.00822v1 </a> </p>
 
-### 163) [2605.00763](https://arxiv.org/abs/2605.00763v1): Life After the Quasar: Overmassive Black Holes and Remnant Ionised Bubbles in and Around Two z~6.6 Galaxies
+### 169) [2605.00763](https://arxiv.org/abs/2605.00763v1): Life After the Quasar: Overmassive Black Holes and Remnant Ionised Bubbles in and Around Two z~6.6 Galaxies
 
 <p> Romain A. Meyer, Pascal A. Oesch, Callum Witten, Richard S. Elllis, Sarah E. I. Bosman, Fred Davies, Alyssa B. Drake, Nicolas Laporte, Jorryt Matthee, Fabian Walter </p>
 <p>
@@ -1794,7 +1860,7 @@ Supermassive black holes (SMBH, M_BH &gt; 10^8 M<sub>&odot;</sub>) powering lumi
 <p> <b> Comments: </b> Submitted. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.00763v1"> https://arxiv.org/pdf/2605.00763v1 </a> </p>
 
-### 164) [2605.00564](https://arxiv.org/abs/2605.00564v1): High-resolution ro-vibrational and rotational spectroscopy of the open-shell, linear CCH^+ ion (^3Π)
+### 170) [2605.00564](https://arxiv.org/abs/2605.00564v1): High-resolution ro-vibrational and rotational spectroscopy of the open-shell, linear CCH^+ ion (^3Π)
 
 <p> Kim Steenbakkers, Weslley G. D. P. Silva, Oskar Asvany, Gerrit C. Groenenboom, Pavol Jusko, Britta Redlich, Sandra Brünken, Stephan Schlemmer </p>
 <p>
@@ -1805,7 +1871,7 @@ In this work, we report on the high-resolution infrared spectrum of CCH^+ (^3Π)
 <p> <b> Comments: </b> 34 pages, 5 figures, supplementary information available on the journal webpage </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.00564v1"> https://arxiv.org/pdf/2605.00564v1 </a> </p>
 
-### 165) [2604.27867](https://arxiv.org/abs/2604.27867v1): Cosmological Observational Tests in the JWST Era. II: The Tolman Test
+### 171) [2604.27867](https://arxiv.org/abs/2604.27867v1): Cosmological Observational Tests in the JWST Era. II: The Tolman Test
 
 <p> V. V. Tsymbal, A. A. Raikov, N. Yu. Lovyagin </p>
 <p>
@@ -1816,7 +1882,7 @@ In this work, we investigate a classical cosmological test - the dependence of g
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.27867v1"> https://arxiv.org/pdf/2604.27867v1 </a> </p>
 
-### 166) [2604.27133](https://arxiv.org/abs/2604.27133v1): CORINOS V: Radiative transfer effects in protostellar ice observations
+### 172) [2604.27133](https://arxiv.org/abs/2604.27133v1): CORINOS V: Radiative transfer effects in protostellar ice observations
 
 <p> Will E. Thompson, Jennifer B. Bergner, Neal J. Evans, Yao-Lun Yang, Vincent Kreft, Lenore Anderson, Klaus M. Pontoppidan, L. Ilsedore Cleeves, Ewine F. van Dishoeck, Rachel E. Gross, Jeong-Eun Lee, Melissa K. McClure, Nami Sakai, Katerina Slavicinska </p>
 <p>
@@ -1827,7 +1893,7 @@ Recent observations of protostars with the James Webb Space Telescope have revea
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.27133v1"> https://arxiv.org/pdf/2604.27133v1 </a> </p>
 
-### 167) [2604.27056](https://arxiv.org/abs/2604.27056v1): The First Empirical Calibration of the MIR Abundance Diagnostic Ne_23 with JWST
+### 173) [2604.27056](https://arxiv.org/abs/2604.27056v1): The First Empirical Calibration of the MIR Abundance Diagnostic Ne_23 with JWST
 
 <p> Noah S. J. Rogers, Evan D. Skillman, Danielle A. Berg, Karla Z. Arellano-Córdova, Richard W. Pogge, Alessandra Aloisi, Leslie K. Hunt, Anne E. Jaskot, Matilde Mingozzi, Ryan J. Rickards Vaught, Karin M. Sandstrom, O. Grace Telford, Macarena G. del Valle-Espinosa </p>
 <p>
@@ -1838,7 +1904,7 @@ Large surveys of galaxies in the local and high-redshift Universe have, traditio
 <p> <b> Comments: </b> 15 pages, 3 figures, accepted for publication in The Astrophysical Journal Letters </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.27056v1"> https://arxiv.org/pdf/2604.27056v1 </a> </p>
 
-### 168) [2604.26750](https://arxiv.org/abs/2604.26750v1): Dust enrichment from core-collapse supernovae and extinction curves in the high-redshift universe
+### 174) [2604.26750](https://arxiv.org/abs/2604.26750v1): Dust enrichment from core-collapse supernovae and extinction curves in the high-redshift universe
 
 <p> Koki Otaki, Raffaella Schneider, Simone Bianchi, Joris Witstok, Luca Graziani, Marco Limongi, Roberto Maiolino </p>
 <p>
@@ -1849,7 +1915,7 @@ Recent JWST observations have revealed that some galaxies at z ≳ 7 generally e
 <p> <b> Comments: </b> Submitted to A&A - 13 pages, 11 figures - Appendix: 2 pages, 6 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.26750v1"> https://arxiv.org/pdf/2604.26750v1 </a> </p>
 
-### 169) [2604.26195](https://arxiv.org/abs/2604.26195v1): Resolved Maps of Gas and Dust in a Massive Quiescent Galaxy at z=2 from INQUEST-JWST: Evidence of Accretion and Rejuvenation
+### 175) [2604.26195](https://arxiv.org/abs/2604.26195v1): Resolved Maps of Gas and Dust in a Massive Quiescent Galaxy at z=2 from INQUEST-JWST: Evidence of Accretion and Rejuvenation
 
 <p> Sai Gangula, Andrew B. Newman, Meng Gu, Sirio Belli, Katherine E. Whitaker, Tania M. Barone, Aliza Beverage, Andrea Bolamperti, Letizia Bugiani, Richard S. Ellis, Mariska Kriek, Allison Matthews, Themiya Nanayakkara </p>
 <p>
@@ -1860,7 +1926,7 @@ Quiescent galaxies in the distant universe exhibit a range of gas content that m
 <p> <b> Comments: </b> 26 pages, 11 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.26195v1"> https://arxiv.org/pdf/2604.26195v1 </a> </p>
 
-### 170) [2604.26027](https://arxiv.org/abs/2604.26027v1): Exploring the gaseous halos of z&gt;3 radio galaxies with UVES and JWST/NIRSpec
+### 176) [2604.26027](https://arxiv.org/abs/2604.26027v1): Exploring the gaseous halos of z&gt;3 radio galaxies with UVES and JWST/NIRSpec
 
 <p> Jelena Ritter, Wuji Wang, Dominika Wylezalek, Carlos De Breuck, Joël Vernet, Fabrizio Arrigoni Battaia </p>
 <p>
@@ -1871,7 +1937,7 @@ High-redshift radio galaxies (HzRGs) are among the most massive galaxies in the 
 <p> <b> Comments: </b> 22 pages, 10 figures, accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.26027v1"> https://arxiv.org/pdf/2604.26027v1 </a> </p>
 
-### 171) [2604.25991](https://arxiv.org/abs/2604.25991v1): The GlimmIr: Spectroscopic Variability in a z~7 LRD Indicates Rapid Changes in Both the Narrow and Broad Line Regions
+### 177) [2604.25991](https://arxiv.org/abs/2604.25991v1): The GlimmIr: Spectroscopic Variability in a z~7 LRD Indicates Rapid Changes in Both the Narrow and Broad Line Regions
 
 <p> Erini Lambrides, Taylor A. Hutchison, Rebecca L. Larson, Pablo Arrabal Haro, Casey Papovich, Weida Hu, Nikko J. Cleri, Steven L. Finkelstein, Jonathan R. Trump, Pablo G. Perez-Gonzalez, Bingjie Wang, Dale D. Kocevski, John Chisholm, Amy Secunda, Sarah E. I. Bosman, Hollis Akins, Mitchell Karmen, Mark Dickinson, Volker Bromm, Bren E. Backhaus, Marco Chiaberge, Olivia R. Cooper, Yukta Ajay, Guillermo Barro, Danielle A. Berg, Jenna Cann, M. C. Cooper, Norman A. Grogin, Michaela Hirschmann, Marc Huertas-Company, Jeyhan S. Kartaltepe, Anton M. Koekemoer, Ray A. Lucas, Arianna S. Long, Roberto Gilli, Colin Norman, Andrew F. Ptak, Chris T. Richardson, Jane R. Rigby, Brittany N. Vanderhoof, L. Y. Aaron Yung, Jorge A. Zavala </p>
 <p>
@@ -1882,7 +1948,7 @@ The enigmatic population of "Little Red Dots'' (LRDs) sit at the center of some 
 <p> <b> Comments: </b> submitted, comments welcome :) </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.25991v1"> https://arxiv.org/pdf/2604.25991v1 </a> </p>
 
-### 172) [2604.25915](https://arxiv.org/abs/2604.25915v1): JOYS+ analyses of OCN^-, N<sub>2</sub>O, NO, and complex cyanides in ices &ndash; Thermal processing results in modest enhancement of OCN^- ice
+### 178) [2604.25915](https://arxiv.org/abs/2604.25915v1): JOYS+ analyses of OCN^-, N<sub>2</sub>O, NO, and complex cyanides in ices &ndash; Thermal processing results in modest enhancement of OCN^- ice
 
 <p> P. Nazari, N. Brunken, Y. Chen, K. Slavicinska, E. F. van Dishoeck, W. R. M. Rocha, A. C. A. Boogert, M. G. Navarro, V. J. M. Le Gouellec, L. Francis, Ł. Tychoniec, A. Caratti o Garatti, C. Gieser, T. P. Greene, P. J. Kavanagh </p>
 <p>
@@ -1893,7 +1959,7 @@ Nitrogen-bearing molecules are more difficult to observe than oxygen-bearing one
 <p> <b> Comments: </b> Accepted for publication in A&A, 19 pages, 14 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.25915v1"> https://arxiv.org/pdf/2604.25915v1 </a> </p>
 
-### 173) [2604.25632](https://arxiv.org/abs/2604.25632v1): Environmental dependence of the Mass-Metallicity Star Formation Relations at z=4-10 with JWST
+### 179) [2604.25632](https://arxiv.org/abs/2604.25632v1): Environmental dependence of the Mass-Metallicity Star Formation Relations at z=4-10 with JWST
 
 <p> Qiong Li, Christopher J. Conselice, Lewi Westcott, Duncan Austin, Tom Harvey, Nathan Adams, Vadim Rusakov, James Arcidiacono, Caio Moreira Goolsby, Chandana Hegde, Shuqi Fu </p>
 <p>
@@ -1904,7 +1970,7 @@ We study how environment affects the mass-metallicity relation (MZR) at z=4-10 u
 <p> <b> Comments: </b> 16 pages, 14 figures; submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.25632v1"> https://arxiv.org/pdf/2604.25632v1 </a> </p>
 
-### 174) [2604.25627](https://arxiv.org/abs/2604.25627v1): The PHANGS-Hα survey. Ground-based narrow-band imaging of nearby star-forming galaxies
+### 180) [2604.25627](https://arxiv.org/abs/2604.25627v1): The PHANGS-Hα survey. Ground-based narrow-band imaging of nearby star-forming galaxies
 
 <p> Alessandro Razza, Guillermo A. Blanc, Brent Groves, Enrico Congiu, Justus Neumann, Hsi-An Pan, I-Ting Ho, Ashley T. Barnes, Francesco Belfiore, Médéric Boquien, Charlie Burton, Mélanie Chevance, Oleg Egorov, Eric Emsellem, Chris Faesi, Simon C. O. Glover, Kathryn Grasha, Ralf S. Klessen, Kathryn Kreckel, Adam K. Leroy, Rebecca McElroy, Ismael Pessa, Eva Schinnerer, Neven Tomičić, Amirnezam Amiri, Gagandeep S. Anand, Yixian Cao, Daniel A. Dale, Simthembile Dlamini, Jing Li, J. Eduardo Méndez-Delgado, Eric J. Murphy, Debosmita Pathak, Miguel Querejeta, Lise Ramambason, Erik Rosolowsky, Fabian Scheuermann, Leonardo Úbeda, Thomas G. Williams </p>
 <p>
@@ -1915,7 +1981,7 @@ We present PHANGS-Hα, a narrow-band imaging survey that maps Hα emission over 
 <p> <b> Comments: </b> 34 pages, 16 figures, 4 tables. Accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.25627v1"> https://arxiv.org/pdf/2604.25627v1 </a> </p>
 
-### 175) [2604.24892](https://arxiv.org/abs/2604.24892v1): Decoupling the AGN outflow and star-forming disk kinematics in the nuclear region of NGC 7582 with JWST NIRSpec and MIRI/MRS
+### 181) [2604.24892](https://arxiv.org/abs/2604.24892v1): Decoupling the AGN outflow and star-forming disk kinematics in the nuclear region of NGC 7582 with JWST NIRSpec and MIRI/MRS
 
 <p> Oscar Veenema, Niranjan Thatte, Dimitra Rigopoulou, Ismael García-Bernete, Almudena Alonso-Herrero, Miguel Pereira-Santaella, Anelise Audibert, Enrica Bellocchi, Andrew J. Bunker, Steph Campbell, Francoise Combes, Ric I. Davies, Fergus R. Donnan, Santiago García-Burillo, Omaira Gonzalez Martin, Laura Hermosa Muñoz, Erin K. S. Hicks, Sebastian F. Hoenig, Alvaro Labiano, Nancy A. Levenson, Chris Packham, Cristina Ramos Almeida, Claudio Ricci, Rogemar A. Riffel, David Rosario, Taro Shimizu, Lulu Zhang </p>
 <p>
@@ -1926,7 +1992,7 @@ We present a detailed study of the inner regions of NGC~7582, a nearby Seyfert~2
 <p> <b> Comments: </b> 22 pages, 21 figures, MNRAS accepted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.24892v1"> https://arxiv.org/pdf/2604.24892v1 </a> </p>
 
-### 176) [2604.24759](https://arxiv.org/abs/2604.24759v1): The lifetime of 100,000 molecular clouds in the nearby Universe
+### 182) [2604.24759](https://arxiv.org/abs/2604.24759v1): The lifetime of 100,000 molecular clouds in the nearby Universe
 
 <p> Z. Bazzi, M. I. N. Kobayashi, D. Colombo, F. Bigiel, A. K. Leroy, S. E. Meidt, R. S. Klessen, E. Rosolowsky, R. Chown, D. A. Dale, S. Dlamini, M. Greve, S. K. Stuber, M. Boquien, T. G. Williams, H. -A. Pan, M. Querejeta, L. Ramambason, A. Romanelli, T. Saito, L. E. C. Romano, M. J. Jiménez-Donaire, H. Kim, D. Pathak, H. Koziol, J. Sutter, J. C. Lee, the PHANGS collaboration </p>
 <p>
@@ -1937,7 +2003,7 @@ Multiple mechanisms are proposed for the formation of giant molecular clouds (GM
 <p> <b> Comments: </b> Accepted for Publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.24759v1"> https://arxiv.org/pdf/2604.24759v1 </a> </p>
 
-### 177) [2604.24711](https://arxiv.org/abs/2604.24711v1): Halfway to the Peak: Kinematic Signatures of Stable Rotating Disks in Luminous Infrared Galaxies at z=0.5-0.6
+### 183) [2604.24711](https://arxiv.org/abs/2604.24711v1): Halfway to the Peak: Kinematic Signatures of Stable Rotating Disks in Luminous Infrared Galaxies at z=0.5-0.6
 
 <p> Miriam Eleazer, Alexandra Pope, Anna Sajina, Lin Yan, Jason Young, Stacey Alberts, Lee Armus, Kristen Coppin, Daniel Dale, Duncan Farrah, Thiago Gonçalves, Jed McKinney, Nicole Nesvadba, Patrick Ogle, Roxana Popescu, Sylvain Veilleux </p>
 <p>
@@ -1948,7 +2014,7 @@ We present a kinematic study of six infrared-luminous galaxies observed with the
 <p> <b> Comments: </b> 22 pages, 12 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.24711v1"> https://arxiv.org/pdf/2604.24711v1 </a> </p>
 
-### 178) [2604.23823](https://arxiv.org/abs/2604.23823v1): A GLIMPSE of the 99%: a census of the faintest galaxies during the epoch reionization and its implications for galaxy formation models
+### 184) [2604.23823](https://arxiv.org/abs/2604.23823v1): A GLIMPSE of the 99%: a census of the faintest galaxies during the epoch reionization and its implications for galaxy formation models
 
 <p> Hakim Atek, Iryna Chemerynska, Lukas J. Furtak, Johan Richard, John Chisholm, Vasily Kokorev, Michelle Jecmen, Damien Korber, Ryan Endsley, Richard Pan, Arghyadeep Basu, Jeremy Blaizot, Rychard Bouwens, Meriam Ezziati, Sylvain Heurtier, Kristen. B. W. McQuinn, Marcie Mun, Julian B. Munoz, Pascal Oesch, Joakim Rosdahl, Alberto Saldana-Lopez, Seiji Fujimoto </p>
 <p>
@@ -1959,7 +2025,7 @@ We present a comprehensive study of the galaxy UV luminosity function (UVLF) at 
 <p> <b> Comments: </b> 19 pages, 15 figures, 4 tables. Submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.23823v1"> https://arxiv.org/pdf/2604.23823v1 </a> </p>
 
-### 179) [2604.23668](https://arxiv.org/abs/2604.23668v1): Two Exciting High-redshift Galaxy Candidates Turn Out to Be Two Exciting Ultra-cool Brown Dwarfs
+### 185) [2604.23668](https://arxiv.org/abs/2604.23668v1): Two Exciting High-redshift Galaxy Candidates Turn Out to Be Two Exciting Ultra-cool Brown Dwarfs
 
 <p> Maruša Bradač, Chris Willott, Yoshihisa Asada, Loïc Albert, Gregor Rihtaršič, Anishya Harshan, Jon Judež, Nicholas S. Martis, Andrea Ferrara, Abdurro'uf, Joseph F. V. Allingham, Volker Bromm, John Chisholm, Dan Coe, Guillaume Desprez, Jose M. Diego, Andreas L. Faisst, Seiji Fujimoto, Tiger Yu-Yang Hsiao, Kohei Inayoshi, Anton M. Koekemoer, Vasily Kokorev, Brian C. Lemaux, Paulo A. A. Lopes, Danilo Marchesini, Vladan Markov, Gaël Noirot, Richard Pan, Scott W. Randall, Johan Richard, Luke Robbins, Ghassan T. E. Sarrouh, Marcin Sawicki, Tim Schrabback, Roberta Tripodi, Eros Vanzella, Rogier A. Windhorst </p>
 <p>
@@ -1970,7 +2036,7 @@ From the onset of observations of JWST we have discovered unexpectedly luminous 
 <p> <b> Comments: </b> Submitted to ApJLetters </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.23668v1"> https://arxiv.org/pdf/2604.23668v1 </a> </p>
 
-### 180) [2604.22924](https://arxiv.org/abs/2604.22924v1): Supermassive stars with embedded stellar black hole cores: dense assembling star clusters as faint multiple Little Red Dot systems
+### 186) [2604.22924](https://arxiv.org/abs/2604.22924v1): Supermassive stars with embedded stellar black hole cores: dense assembling star clusters as faint multiple Little Red Dot systems
 
 <p> Antti Rantala </p>
 <p>
@@ -1981,7 +2047,7 @@ Numerical simulations have established that star clusters with densities compara
 <p> <b> Comments: </b> 11 pages, 5 figures, submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.22924v1"> https://arxiv.org/pdf/2604.22924v1 </a> </p>
 
-### 181) [2604.22917](https://arxiv.org/abs/2604.22917v1): Diffusion-based Galaxy Simulations for the Roman High Latitude Survey
+### 187) [2604.22917](https://arxiv.org/abs/2604.22917v1): Diffusion-based Galaxy Simulations for the Roman High Latitude Survey
 
 <p> Diana Scognamiglio, Jake H. Lee, Eric Huff, Sergi R. Hildebrandt, Shoubaneh Hemmati </p>
 <p>
@@ -1992,7 +2058,7 @@ Future weak lensing analyses with the Nancy Grace Roman Space Telescope will req
 <p> <b> Comments: </b> 15 pages, 8 Figure, accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.22917v1"> https://arxiv.org/pdf/2604.22917v1 </a> </p>
 
-### 182) [2604.22702](https://arxiv.org/abs/2604.22702v4): First Statistical Study of Over 100 Magnified Stellar Events at Redshift z ≈ 0.725 with JWST
+### 188) [2604.22702](https://arxiv.org/abs/2604.22702v4): First Statistical Study of Over 100 Magnified Stellar Events at Redshift z ≈ 0.725 with JWST
 
 <p> J. M. Palencia, Fengwu Sun, J. M. Diego, Yoshinobu Fudamoto, Anton M. Koekemoer, Christopher N. A. Willmer, Eduardo Iani, Xiaojing Lin, Justin D. R. Pierel, Alfred Amruth, Tom Broadhurst, W. Chen, Liang Dai, Daniel Espada, Alexei V. Filippenko, Seiji Fujimoto, Patrick L. Kelly, Mingyu Li, Sung Kei Li, Ashish Kumar Meena, Jordi Miralda-Escudé, P. Morilla, Mitchell F. Struble, Hayley Williams, Rogier A. Windhorst, E. Zackrisson, Ruwen Zhou, Adi Zitrin </p>
 <p>
@@ -2003,7 +2069,7 @@ Highly magnified stars at cosmological distances (z ≳ 0.7) become detectable t
 <p> <b> Comments: </b> 18 pages, 9 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.22702v4"> https://arxiv.org/pdf/2604.22702v4 </a> </p>
 
-### 183) [2604.22460](https://arxiv.org/abs/2604.22460v1): Spatially resolved metallicity and ionization in the merging system Gz9p3 at z=9.3
+### 189) [2604.22460](https://arxiv.org/abs/2604.22460v1): Spatially resolved metallicity and ionization in the merging system Gz9p3 at z=9.3
 
 <p> Arjan Bik, Javier Álvarez-Márquez, Alejandro Crespo Gómez, Luis Colina, Pablo G. Pérez-González, Göran Östlin, Carmen Blanco Prieto, Jens Melinder, Danial Langeroodi, Gillian Wright, Hiddo S. B. Algera, Leindert A. Boogaard, Karina Caputi, Steven Gillman, Thomas Greve, Jens Hjorth, Edoardo Iani, Sarah Kendrew, Alvaro Labiano Ortega, Michele Perna, Carlota Prieto Jimenez, John Pye, Pierluigi Rinaldi, Paul van der Werf, Fabian Walter, Florian Peißker, Andreas Eckart, Thomas Henning, Manuel Güdel </p>
 <p>
@@ -2014,7 +2080,7 @@ Studying the interstellar medium (ISM) in merging high-redshift galaxies is cruc
 <p> <b> Comments: </b> Submitted to A&A, 17 pages, 11 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.22460v1"> https://arxiv.org/pdf/2604.22460v1 </a> </p>
 
-### 184) [2604.21886](https://arxiv.org/abs/2604.21886v1): The Dyson Minds 2025 Workshop: SETI around Black Holes
+### 190) [2604.21886](https://arxiv.org/abs/2604.21886v1): The Dyson Minds 2025 Workshop: SETI around Black Holes
 
 <p> Olivia Curtis, Van Hunter Adams, Daniel Angerhausen, Joseph Bates, Anamaria Berea, Steven J. Dick, Martin Elvis, Sunil P. Khatri, Richard Linares, Manushaqe Muco, S. Seager, Jason T. Wright </p>
 <p>
@@ -2025,7 +2091,7 @@ The Dyson Minds 2025 Workshop, held at the Center for Brains, Minds & Machines a
 <p> <b> Comments: </b> Published in PASP, 14 pages </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21886v1"> https://arxiv.org/pdf/2604.21886v1 </a> </p>
 
-### 185) [2604.21666](https://arxiv.org/abs/2604.21666v1): Impact of Primordial Black Hole population on 21 cm observables at high redshift
+### 191) [2604.21666](https://arxiv.org/abs/2604.21666v1): Impact of Primordial Black Hole population on 21 cm observables at high redshift
 
 <p> Atrideb Chatterjee, Barun Maity, Koushiki </p>
 <p>
@@ -2036,7 +2102,7 @@ The 21-cm signal, one of the most promising probes of the high-redshift Universe
 <p> <b> Comments: </b> Submitted to A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21666v1"> https://arxiv.org/pdf/2604.21666v1 </a> </p>
 
-### 186) [2604.21652](https://arxiv.org/abs/2604.21652v1): Constraining dark matter self-interaction from kinetic heating in neutron stars
+### 192) [2604.21652](https://arxiv.org/abs/2604.21652v1): Constraining dark matter self-interaction from kinetic heating in neutron stars
 
 <p> Sambo Sarkar </p>
 <p>
@@ -2047,7 +2113,7 @@ Dark matter search strategies have started advancing towards the neutrino fog. I
 <p> <b> Comments: </b> 19 pages and 6 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21652v1"> https://arxiv.org/pdf/2604.21652v1 </a> </p>
 
-### 187) [2604.21516](https://arxiv.org/abs/2604.21516v1): SPURS: Bursty Star Formation in an Extremely Luminous Weak Emission Line Galaxy at z=9.3
+### 193) [2604.21516](https://arxiv.org/abs/2604.21516v1): SPURS: Bursty Star Formation in an Extremely Luminous Weak Emission Line Galaxy at z=9.3
 
 <p> Zuyi Chen, Daniel P. Stark, Charlotte A. Mason, Adele Plat, Viola Gelli, Peter Senchyna, Keerthi Vasan G. C., Ryan Endsley, Mengtao Tang, Michael W. Topping, Lily Whitler </p>
 <p>
@@ -2058,18 +2124,18 @@ JWST has revealed a population of super-luminous early galaxies with a volume de
 <p> <b> Comments: </b> 35 pages, 19 figures, 3 tables. Comments welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21516v1"> https://arxiv.org/pdf/2604.21516v1 </a> </p>
 
-### 188) [2604.21493](https://arxiv.org/abs/2604.21493v1): Signatures of Very Massive Stars in the Epoch of Reionization
+### 194) [2604.21493](https://arxiv.org/abs/2604.21493v2): Signatures of Very Massive Stars in the Epoch of Reionization
 
 <p> Rui Marques-Chaves, Fabrice Martins, Daniel Schaerer, Miroslava Dessauges-Zavadsky, Ana Palacios </p>
 <p>
-We present ultra-deep (≃ 20-30 hours), rest-frame UV spectroscopy with NIRSpec/JWST of two UV-bright galaxies at z~ 8.7, CEERS-1019 and CEERS-1025 (Z_neb ≃ 0.1 Z<sub>&odot;</sub>). The spectra reveal exceptionally strong P-Cygni profiles in wind lines (NV λ1240 and CIV λ1550) and significant broad and strong HeII λ1640 emission (EW≃ 2-4 A). We compare the observations with synthetic stellar population models at Z<sub>&sext;</sub> ≃ 0.1 Z<sub>&odot;</sub>, both including and excluding very massive stars (VMS). Models including VMS provide a markedly improved fit to the data relative to non-VMS models (ΔAIC and ΔBIC &gt; 70), which fail to reproduce the observed strengths of the wind features. A comparison with empirical spectra of VMS-dominated systems in the local Universe further supports this interpretation. The best-fit VMS models imply extremely young ages of the stellar populations (≃ 1.5-2.0Myr) and high ionizing photon production efficiencies (log ξ<sub>ion</sub> [Hz erg^-1] ≳ 25.8), exceeding those inferred from non-VMS models by ~ 0.1-0.2 dex. These results provide evidence for an overabundance of VMS at high-z with an IMF extending well beyond 100 M<sub>&odot;</sub>, and highlight their potential role in shaping the rest-frame UV spectra, chemical enrichment, and ionizing output of galaxies in the early Universe.
+We present ultra-deep (≃ 20-30 hours), rest-frame UV spectroscopy with NIRSpec/JWST of two UV-bright galaxies at z~ 8.7, CEERS-1019 and CEERS-1025 (Z_neb ≃ 0.1 Z<sub>&odot;</sub>), obtained as part of the JWST Cycle 4 SPURS large program. The spectra reveal exceptionally strong P-Cygni profiles in wind lines (NV λ1240 and CIV λ1550) and significant broad and strong HeII λ1640 emission (EW≃ 2-4 A). We compare the observations with synthetic stellar population models at Z<sub>&sext;</sub> ≃ 0.1 Z<sub>&odot;</sub>, both including and excluding very massive stars (VMS). Models including VMS provide a markedly improved fit to the data relative to non-VMS models (ΔAIC and ΔBIC &gt; 70), which fail to reproduce the observed strengths of the wind features. A comparison with empirical spectra of VMS-dominated systems in the local Universe further supports this interpretation. The best-fit VMS models imply extremely young ages of the stellar populations (≃ 1.5-2.0Myr) and high ionizing photon production efficiencies (log ξ<sub>ion</sub> [Hz erg^-1] ≳ 25.8), exceeding those inferred from non-VMS models by ~ 0.1-0.2 dex. These results provide evidence for an overabundance of VMS at high-z with an IMF extending well beyond 100 M<sub>&odot;</sub>, and highlight their potential role in shaping the rest-frame UV spectra, chemical enrichment, and ionizing output of galaxies in the early Universe.
 </p>
 <p> <b> Published: </b> 2026-04-23T09:54:38Z </p>
-<p> <b> Updated: </b> 2026-04-23T09:54:38Z </p>
-<p> <b> Comments: </b> Submitted to A&A Letters, 4 pages and 2 Figures (+Appendix) </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21493v1"> https://arxiv.org/pdf/2604.21493v1 </a> </p>
+<p> <b> Updated: </b> 2026-06-15T15:06:37Z </p>
+<p> <b> Comments: </b> Accepted for publication in A&A Letters, 4 pages and 2 Figures (+Appendix) </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21493v2"> https://arxiv.org/pdf/2604.21493v2 </a> </p>
 
-### 189) [2604.21218](https://arxiv.org/abs/2604.21218v1): Early metal-enriched baryon cycling before the midpoint of cosmic reionization
+### 195) [2604.21218](https://arxiv.org/abs/2604.21218v1): Early metal-enriched baryon cycling before the midpoint of cosmic reionization
 
 <p> Yongda Zhu, Zhiyuan Ji, George D. Becker, Jiani Ding, Eiichi Egami, Xiaohui Fan, Xiangyu Jin, Weizhe Liu, Jianwei Lyu, Zheng Ma, Suprabhas Narisetty, George H. Rieke, Yunjing Wu, Minghao Yue, Junyu Zhang, Marcia J. Rieke </p>
 <p>
@@ -2080,7 +2146,7 @@ Models predict that chemical enrichment and gas redistribution should proceed ra
 <p> <b> Comments: </b> To be resubmitted after revision; Nature Astronomy </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21218v1"> https://arxiv.org/pdf/2604.21218v1 </a> </p>
 
-### 190) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
+### 196) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
 
 <p> Takumi Kakimoto, Masayuki Tanaka, Kei Ito, Francesco Valentino, Makoto Ando, Gabriel Brammer, Massissilia L. Hamadouche, Vasily Kokorev, Jacqueline Antwi-Danso, William M. Baker, Daniel Ceverino, Andreas L. Faisst, Marion Farcy, Michaela Hirschmann, Christian Kragh Jespersen, Mariko Kubo, Allison W. S. Man, Masato Onodera, Rhythm Shimakawa, John R. Weaver, Po-Feng Wu, Pengpei Zhu </p>
 <p>
@@ -2091,7 +2157,7 @@ We report on the spectroscopic confirmation of overdense regions of massive quie
 <p> <b> Comments: </b> 19 pages, 13 figures, 2 tables; submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21007v1"> https://arxiv.org/pdf/2604.21007v1 </a> </p>
 
-### 191) [2604.20966](https://arxiv.org/abs/2604.20966v1): Light, heavy, primordial: exploring the diversity of black hole seeding and growth mechanisms in the JWST era
+### 197) [2604.20966](https://arxiv.org/abs/2604.20966v1): Light, heavy, primordial: exploring the diversity of black hole seeding and growth mechanisms in the JWST era
 
 <p> Pratika Dayal </p>
 <p>
@@ -2102,7 +2168,7 @@ The James Webb Space Telescope (JWST) has revealed a puzzling population of mass
 <p> <b> Comments: </b> Submitted to OJA; comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.20966v1"> https://arxiv.org/pdf/2604.20966v1 </a> </p>
 
-### 192) [2604.20478](https://arxiv.org/abs/2604.20478v1): Mid-infrared JWST spectra of carbon stars in the Large Magellanic Cloud
+### 198) [2604.20478](https://arxiv.org/abs/2604.20478v1): Mid-infrared JWST spectra of carbon stars in the Large Magellanic Cloud
 
 <p> G. C. Sloan, B. Aringer, Kathleen E. Kraemer, J. Cami, K. Eriksson, S. Hoefner, K. Justtanont, E. Lagadec, Paola Marigo, M. Matsuura, I. McDonald, E. J. Montiel, R. Sahai, A. A. Zijlstra </p>
 <p>
@@ -2113,7 +2179,7 @@ Mid-infrared spectra from the Medium Resolution Spectrometer on the James Webb S
 <p> <b> Comments: </b> ApJ, in press </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.20478v1"> https://arxiv.org/pdf/2604.20478v1 </a> </p>
 
-### 193) [2604.20195](https://arxiv.org/abs/2604.20195v1): Photometric Super-Resolution for Improving Galaxy Morphological Measurements using Conditional Generative Adversarial Networks
+### 199) [2604.20195](https://arxiv.org/abs/2604.20195v1): Photometric Super-Resolution for Improving Galaxy Morphological Measurements using Conditional Generative Adversarial Networks
 
 <p> Samuel Kahn, Ryan Hausen, Hubert Bretonnière, Nicole Drakos, Brant Robertson </p>
 <p>
@@ -2124,7 +2190,7 @@ The measurement of galaxy morphological parameters from astronomical images feat
 <p> <b> Comments: </b> 28 pages, 18 figures. Submitted to AAS Journals on March 13, 2026 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.20195v1"> https://arxiv.org/pdf/2604.20195v1 </a> </p>
 
-### 194) [2604.19988](https://arxiv.org/abs/2604.19988v1): Pulsational mass loss from supermassive stars creates the compact shells of Little Red Dots
+### 200) [2604.19988](https://arxiv.org/abs/2604.19988v1): Pulsational mass loss from supermassive stars creates the compact shells of Little Red Dots
 
 <p> Devesh Nandal, Igor Chilingarian, Chris Nagele, John Chisholm, Franz E. Bauer, Abraham Loeb </p>
 <p>
@@ -2135,7 +2201,7 @@ Little Red Dots (LRDs) have emerged as one of the central puzzles of the JWST er
 <p> <b> Comments: </b> 19 pages, 6 figures. Submitted to ApJL. Comments are welcome ! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.19988v1"> https://arxiv.org/pdf/2604.19988v1 </a> </p>
 
-### 195) [2604.19942](https://arxiv.org/abs/2604.19942v1): Prevailing thermally-pulsing-asymptotic-giant branch stars in the near-infrared rest-frame spectra of distant quiescent galaxies: towards robust galaxy ages and masses
+### 201) [2604.19942](https://arxiv.org/abs/2604.19942v1): Prevailing thermally-pulsing-asymptotic-giant branch stars in the near-infrared rest-frame spectra of distant quiescent galaxies: towards robust galaxy ages and masses
 
 <p> Shiying Lu, Emanuele Daddi, Claudia Maraston, Alvio Renzini, Mark Dickinson, Pablo Arrabal Haro, Daniel Thomas, Luis Gabriel Dahmer-Hahn, Raphael Gobat, Mauro Giavalisco, Anton M. Koekemoer, Ray A. Lucas, Fabio Pacucci, L. Y. Aaron Yung, Michaela Hirschmann, Benne Holwerda </p>
 <p>
@@ -2146,7 +2212,7 @@ We recently reported the discovery of prominent features from the thermally puls
 <p> <b> Comments: </b> submitted </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.19942v1"> https://arxiv.org/pdf/2604.19942v1 </a> </p>
 
-### 196) [2604.19726](https://arxiv.org/abs/2604.19726v1): Breaking the UV Luminosity Function Degeneracy:Self-Interacting Dark Matter Constraints from Reionization Topology
+### 202) [2604.19726](https://arxiv.org/abs/2604.19726v1): Breaking the UV Luminosity Function Degeneracy:Self-Interacting Dark Matter Constraints from Reionization Topology
 
 <p> Zihan Wang, Huanyuan Shan </p>
 <p>
@@ -2157,7 +2223,7 @@ Self-interacting dark matter (SIDM) is the leading framework resolving small-sca
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.19726v1"> https://arxiv.org/pdf/2604.19726v1 </a> </p>
 
-### 197) [2604.19367](https://arxiv.org/abs/2604.19367v1): Exploring the central region of SNR 0540-69.3 with JWST I: 3D morphology
+### 203) [2604.19367](https://arxiv.org/abs/2604.19367v1): Exploring the central region of SNR 0540-69.3 with JWST I: 3D morphology
 
 <p> J. Larsson, C. Tegkelidis, C. Fransson, P. Lundqvist, J. Sollerman, J. Spyromilio </p>
 <p>
@@ -2168,7 +2234,7 @@ The young supernova remnant SNR 0540-69.3 in the Large Magellanic Cloud offers a
 <p> <b> Comments: </b> Accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.19367v1"> https://arxiv.org/pdf/2604.19367v1 </a> </p>
 
-### 198) [2604.19075](https://arxiv.org/abs/2604.19075v2): What is Powering the Enigmatic He II Emitter Hebe: The First Stars or Black Holes?
+### 204) [2604.19075](https://arxiv.org/abs/2604.19075v2): What is Powering the Enigmatic He II Emitter Hebe: The First Stars or Black Holes?
 
 <p> Junehyoung Jeon, Tae Bong Jeong, Saiyang Zhang, Volker Bromm </p>
 <p>
@@ -2179,7 +2245,7 @@ Recent high-resolution spectroscopy with the James Webb Space Telescope (JWST) h
 <p> <b> Comments: </b> 10 pages, 4 figures. Accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.19075v2"> https://arxiv.org/pdf/2604.19075v2 </a> </p>
 
-### 199) [2604.18812](https://arxiv.org/abs/2604.18812v2): SAGUI: SED-based Segmentation of Multi-band Galaxy Images &ndash; Application to JADES in GOODS-South
+### 205) [2604.18812](https://arxiv.org/abs/2604.18812v2): SAGUI: SED-based Segmentation of Multi-band Galaxy Images &ndash; Application to JADES in GOODS-South
 
 <p> Rafael S. de Souza, Andressa Wille, Shravya Shenoy, Aarya A. Patil, Alberto Krone-Martins, Ana L. Chies-Santos, Celine Boehm, Reinaldo R. Rosa, Thallis Pessi, Emille E. O. Ishida, Kristen C. Dage, Lilianne Nakazono, Phelipe Darc, Rupesh Durgesh </p>
 <p>
@@ -2190,7 +2256,7 @@ We present sagui, a modular framework for the analysis of multi-band imaging dat
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18812v2"> https://arxiv.org/pdf/2604.18812v2 </a> </p>
 
-### 200) [2604.18730](https://arxiv.org/abs/2604.18730v1): New constraints on stellar feedback through [O III] emission: interpreting ALMA and JWST observations with SPICE simulations
+### 206) [2604.18730](https://arxiv.org/abs/2604.18730v1): New constraints on stellar feedback through [O III] emission: interpreting ALMA and JWST observations with SPICE simulations
 
 <p> Benedetta Casavecchia, Aniket Bhagwat, Benedetta Ciardi, Celine Peroux, Tiago Costa </p>
 <p>
@@ -2201,7 +2267,7 @@ ALMA and JWST have recently detected emission lines from the interstellar medium
 <p> <b> Comments: </b> 18 pages, 11 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18730v1"> https://arxiv.org/pdf/2604.18730v1 </a> </p>
 
-### 201) [2604.18700](https://arxiv.org/abs/2604.18700v1): Extending the ALMA survey of the SCUBA-2 CLS UDS field: Tracing the obscured formation of spheroids across z~1-4
+### 207) [2604.18700](https://arxiv.org/abs/2604.18700v1): Extending the ALMA survey of the SCUBA-2 CLS UDS field: Tracing the obscured formation of spheroids across z~1-4
 
 <p> Ian Smail, Steven Gillman, Ugne Dudzeviciute, A. M. Swinbank </p>
 <p>
@@ -2212,7 +2278,7 @@ We investigate the properties of 870-um selected galaxies at z~1-4 with FIR lumi
 <p> <b> Comments: </b> Submitted to MNRAS, comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18700v1"> https://arxiv.org/pdf/2604.18700v1 </a> </p>
 
-### 202) [2604.18696](https://arxiv.org/abs/2604.18696v2): Other red dots: A possible GLIMPSE of normal AGB stars at Cosmic Noon through extreme lensing
+### 208) [2604.18696](https://arxiv.org/abs/2604.18696v2): Other red dots: A possible GLIMPSE of normal AGB stars at Cosmic Noon through extreme lensing
 
 <p> Lukas J. Furtak, Adi Zitrin, Erik Zackrisson, Vasily Kokorev, Anthony J. Taylor, Joseph F. V. Allingham, John Chisholm, Jose M. Diego, Hakim Atek, Kristen B. W. McQuinn, Ryan Endsley, Richard Pan, Gabriel Brammer, Qinyue Fei, Seiji Fujimoto, Tiger Y. -Y. Hsiao, Patrick L. Kelly, Damien Korber, Ashish K. Meena, Rohan P. Naidu, Alberto Saldana-Lopez </p>
 <p>
@@ -2223,7 +2289,7 @@ We report the discovery of four extremely faint (m_F444W≳29) red point sources
 <p> <b> Comments: </b> Submitted to ApJ. v2 updated to match the submitted version </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18696v2"> https://arxiv.org/pdf/2604.18696v2 </a> </p>
 
-### 203) [2604.18683](https://arxiv.org/abs/2604.18683v1): Galaxies at z &gt; 10: ΛCDM predicts increased Star Formation Efficiency
+### 209) [2604.18683](https://arxiv.org/abs/2604.18683v1): Galaxies at z &gt; 10: ΛCDM predicts increased Star Formation Efficiency
 
 <p> Francisco Prada, Peter Behroozi, Tomoaki Ishiyama, Enrique Pérez, Anatoly Klypin, Xin Wang, José Ruedas </p>
 <p>
@@ -2234,7 +2300,7 @@ We show that the rest-frame UV statistics and global properties of galaxies at 7
 <p> <b> Comments: </b> 9 pages, 6 figures, 1 table. Submitted to ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18683v1"> https://arxiv.org/pdf/2604.18683v1 </a> </p>
 
-### 204) [2604.18671](https://arxiv.org/abs/2604.18671v1): GOALS-JWST: Resolved multi-phase molecular gas in IRAS 20551-4250 using JWST and ALMA
+### 210) [2604.18671](https://arxiv.org/abs/2604.18671v1): GOALS-JWST: Resolved multi-phase molecular gas in IRAS 20551-4250 using JWST and ALMA
 
 <p> D. Kakkad, Y. Song, T. S. -Y. Lai, L. Armus, M. Malkan, K. L. Larson, A. S. Evans, P. N. Appleton, L. Barcos-Muñoz, M. Bianchin, T. Böker, T. Bohn, V. Buiten, V. Charmandaris, T. Diaz Santos, H. Inami, J. Kader, L. Lenkic, S. T. Linden, C. M. Lofaro, G. C. Privon, C. Ricci, M. Sanchez-Garcia, D. Sanders, N. Torres-Alba, V. U, P. van der Werf </p>
 <p>
@@ -2245,7 +2311,7 @@ Studying the content and distribution of molecular gas provides key insights int
 <p> <b> Comments: </b> Accepted for publication in MNRAS, 18 pages, 15 figures, 1 table </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18671v1"> https://arxiv.org/pdf/2604.18671v1 </a> </p>
 
-### 205) [2604.18522](https://arxiv.org/abs/2604.18522v1): A Census of Na D-traced neutral ISM and outflows at 0.6&lt;z&lt;4
+### 211) [2604.18522](https://arxiv.org/abs/2604.18522v1): A Census of Na D-traced neutral ISM and outflows at 0.6&lt;z&lt;4
 
 <p> Yang Sun, Zhiyuan Ji, Francesco D'Eugenio, Yongda Zhu, George H. Rieke, William M. Baker, Andrew J. Bunker, Stefano Carniani, Jakob M. Helton, Michele Perna, Pablo G. Pérez-González, Pierluigi Rinaldi, Hannah Übler, Christopher N. A. Willmer </p>
 <p>
@@ -2256,7 +2322,7 @@ We present a statistical census of the Na D-traced neutral interstellar medium (
 <p> <b> Comments: </b> 32 pages, 18 figures, submitted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18522v1"> https://arxiv.org/pdf/2604.18522v1 </a> </p>
 
-### 206) [2604.18503](https://arxiv.org/abs/2604.18503v2): NOEMA3D: Resolving radial gas flows in disk galaxies at z~1.1-1.6 with high-resolution CO observations
+### 212) [2604.18503](https://arxiv.org/abs/2604.18503v2): NOEMA3D: Resolving radial gas flows in disk galaxies at z~1.1-1.6 with high-resolution CO observations
 
 <p> Jean-Baptiste Jolly, Linda J. Tacconi, Reinhard Genzel, Roberto Neri, Karl Schuster, Jianhang Chen, Natascha M. Förster Schreiber, Stavros Pastras, Letizia Scaloni, Giulia Tozzi, Capucine Barféty, Alberto Bolatto, Andreas Burker, Françoise Combes, Pierre Cox, Ric Davies, Frank Eisenhauer, Juan Manuel Espejo Salcedo, Rodrigo Herrera-Camu, Santi García-Burillo, Tadayuki Kodama, Lilian Lee, Minju M. Lee, Daizhong Liu, Dieter Lutz, Giovanni Mazzolari, Thorsten Naab, Amit Nestor Shachar, Claudia Pulsoni, Alvio Renzini, Monica Rubio, Taro T. Shimizu, Amiel Sternberg, Eckhard Sturm, Hannah Übler, Antonio Usero, Stijn Wuyts </p>
 <p>
@@ -2266,72 +2332,6 @@ We present NOEMA3D, a unique high-resolution study of purely molecular gas kinem
 <p> <b> Updated: </b> 2026-04-21T14:07:49Z </p>
 <p> <b> Comments: </b> Submitted to A&A, see also companion paper: Chen et al. 2026 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.18503v2"> https://arxiv.org/pdf/2604.18503v2 </a> </p>
-
-### 207) [2604.17963](https://arxiv.org/abs/2604.17963v1): BEACON: JWST NIRCam Pure-parallel Imaging Survey. III. Constraints on the UV LF and the Clustering of z~7-14 Galaxies
-
-<p> Kimi C. Kreilgaard, Charlotte A. Mason, Takahiro Morishita, Yechi Zhang, Viola Gelli, Nicha Leethochawalit, Tommaso Treu, Michele Trenti, Abdurro'uf, Hakim Atek, Maruša Bradač, Larry D. Bradley, Andrew J. Bunker, Novan Saputra Haryana, Matthew J. Hayes, Zhaoran Liu, Vihang Mehta, Marc Rafelski, Guido Roberts-Borsani, Claudia Scarlata, Massimo Stiavelli, Ryo A. Sutanto, Kosuke Takahashi, Benedetta Vulcani </p>
-<p>
-The James Webb Space Telescope (JWST) has extended the frontier of galaxy detection to redshifts z&gt;11, finding a high abundance of UV-bright sources that challenge theoretical models. However, most current results come from just a few fields, introducing uncertainties due to cosmic variance. Here, we constrain z~7-14 UV luminosity functions (LFs) over ~400 arcmin<sup>2</sup> across 36 independent sightlines from DR2 of BEACON, a JWST pure-parallel NIRCam multi-band imaging survey. We identify 164 7&lt;z&lt;12 galaxy candidates: 150 F090W-, 14 F115W-, and no robust F150W-dropouts. Based on 11 pointings overlapping with public JWST spectroscopy, we observe 100% purity. Our z~7.5 UV LF agrees with previous bright-end measurements but yields lower number densities at -21≤ M_UV≤-19. At z~10, our measurements are lower than most photometric JWST results but match spectroscopic constraints, consistent with the high purity of our selection. The LFs at z~7.5 and z~10 are consistent with pre-JWST models, while our limits at z&gt;13 do not rule out a possible excess. We measure significant clustering of bright (M_UV&lt;-20.5) galaxies at 7&lt;z&lt;10. Fields hosting such sources are approximately three times more likely to be overdense relative to the full survey, implying that UV-bright galaxies preferentially reside in the most massive halos at these redshifts. Comparing with semi-numerical simulations, we estimate that M_UV &lt; -20.5 galaxies inhabit halos ~0.9 dex less massive at z~11 than at z~7, consistent with a shift to higher star formation rates. However, their observed clustering exceeds predictions from pre-JWST luminosity-halo mass relations, suggesting these sources reside in more massive halos than previously modelled and/or multiple halo occupation.
-</p>
-<p> <b> Published: </b> 2026-04-20T08:45:57Z </p>
-<p> <b> Updated: </b> 2026-04-20T08:45:57Z </p>
-<p> <b> Comments: </b> 32 pages, 11 figures, to be submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.17963v1"> https://arxiv.org/pdf/2604.17963v1 </a> </p>
-
-### 208) [2604.16666](https://arxiv.org/abs/2604.16666v1): A search for the first galaxies across &gt;0.6 deg<sup>2</sup> of JWST imaging: new evidence for a rapid decline in star-formation activity at z&gt;12
-
-<p> D. J. McLeod, J. S. Dunlop, R. J. McLure, C. T. Donnan, R. Begley, S. Antonogiannaki, D. Magee, G. D. Illingworth, P. Arrabal Haro, C. Bondestam, A. C. Carnall, F. Cullen, M. Dickinson, R. S. Ellis, B. L. Frye, H. Golawska, N. A. Grogin, I. J. B. Holst, P. S. Kamieneski, H. -H. Leung, F. -Y. Liu, T. M. Stanton, E. R. Tittley </p>
-<p>
-We present a new determination of the evolving galaxy UV luminosity function (LF) over the extreme redshift range 12.5&lt;z&lt;18.5, based on a wide-area search of &gt;0.6 deg<sup>2</sup> of JWST NIRCam imaging containing &gt;150 independent sight-lines. We find evidence for an accelerated decline in the UV LF, and hence inferred star-formation rate density (ρ_SFR), over the ≃100Myr cosmic time interval between z=11 and z=13.5. Moreover, based on a notable lack of galaxy candidates at z&gt;14.5, we find evidence for an even more rapid descent in star-formation activity towards earlier times, with our new measurement of ρ_SFR at z≃15.5 lying significantly below an extrapolation of the log-linear ρ_SFR(z) relation inferred from early JWST LF studies. Instead, we find that the evolution in ρ_SFR(z) at these very early times is better described by a piece-wise log-linear relation, in which the decline in ρ_SFR (z) at z&gt;12 is ≃4 times steeper than at redshifts z &lt; 12. Our observational results are consistent with a number of theoretical models of galaxy evolution which have incorporated a range of treatments in an attempt to explain the prevalence of UV-bright galaxies at least out to z ≃ 12 (e.g., increased star-formation efficiency, stochastic star-formation histories, an evolving stellar initial mass function and/or a shift towards attenuation-free stellar populations). However, our results are also entirely consistent with a relatively simple galaxy evolution model with no such adjustments, in which the rapid evolution of the dark-matter halo mass function at early times is for a while partially masked by progressively younger stellar ages, with the inferred epoch of first galaxy formation lying at z≃15.
-</p>
-<p> <b> Published: </b> 2026-04-17T19:53:25Z </p>
-<p> <b> Updated: </b> 2026-04-17T19:53:25Z </p>
-<p> <b> Comments: </b> 21 pages, 10 figures, to be submitted to MNRAS </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.16666v1"> https://arxiv.org/pdf/2604.16666v1 </a> </p>
-
-### 209) [2604.16273](https://arxiv.org/abs/2604.16273v1): The DESIRED strong-line calibrations: I. New empirical metallicity relations for the local and high-redshift universe
-
-<p> F. F. Rosales-Ortega, J. E. Méndez-Delgado, J. U. Guerrero-González, C. Esteban, J. García-Rojas, K. Z. Arellano-Córdova, A. Z. Lugo-Aranda, O. Espíndola-Camacho, J. C. López-Gutiérrez, L. E. Martínez-Rivero, C. Morisset, M. Orte-García, E. Reyes-Rodríguez, L. Toribio San Cipriano, K. Kreckel, O. Egorov, I. A. Zinchenko, S. F. Sánchez, J. M. Vílchez </p>
-<p>
-We present the most comprehensive set of empirical optical strong-line metallicity calibrations to date, based on the DEep Spectra of Ionised REgions Database (DESIRED), the largest compilation of HII regions and galaxies with direct electron-temperature determinations assembled to date. We construct a high-quality calibration sample of 2392 spectra-1029 extragalactic HII regions, 1296 local star-forming galaxies, and 67 high-redshift (z &gt; 2) galaxies-drawn from 201 independent literature references and spanning 12+log(O/H) \in [6.79, 9.07]. Physical conditions and chemical abundances are derived homogeneously using up-to-date atomic data. We derive 27 strong-line calibrations covering oxygen-, nitrogen-, sulphur-, argon-, and neon-based line ratios, including 4 previously uncalibrated diagnostics, with reported validity ranges and intrinsic dispersions (typically ~0.15-0.35 dex). For the first time in a systematic calibration framework, all relations are presented for both the homogeneous temperature case (t^2 = 0) and a scenario including temperature inhomogeneities (t^2 &gt; 0), thereby reconciling abundances from recombination lines (RLs) and collisionally excited lines (CELs) and directly tackling the abundance discrepancy problem. A comparison with previous calibrations shows that the DESIRED relations span the broadest validity intervals while remaining anchored to the empirical data. Crucially, recently proposed JWST-based high-redshift calibrations are consistent with our relations within the intrinsic scatter, demonstrating that the diverse composition of the DESIRED sample naturally encompasses the ionisation conditions found at high redshift. These results indicate that sample diversity, rather than redshift-specific recalibration, is key to reliable abundance determinations across cosmic time.
-</p>
-<p> <b> Published: </b> 2026-04-17T17:29:02Z </p>
-<p> <b> Updated: </b> 2026-04-17T17:29:02Z </p>
-<p> <b> Comments: </b> 45 pages, 19 figures, submitted to MNRAS </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.16273v1"> https://arxiv.org/pdf/2604.16273v1 </a> </p>
-
-### 210) [2604.16178](https://arxiv.org/abs/2604.16178v1): Euclid: Scaled-up little red dots and other sources with v-shaped spectral energy distributions at z&gt;4
-
-<p> Euclid Collaboration, A. A. Tumborang, K. I. Caputi, P. Rinaldi, L. Bisigello, G. Girardi, E. Iani, R. Bouwens, R. Navarro-Carrera, G. Desprez, R. A. Cooper, Y. Fu, Y. Toba, J. Matthee, B. Milvang-Jensen, P. G. Perez-Gonzalez, F. Ricci, G. Rodighiero, J. Schaye, F. Tarsitano, G. Zamorani, M. Baes, C. M. Gutierrez, H. Hoekstra, K. Jahnke, D. Scott, D. Stern, B. Altieri, S. Andreon, N. Auricchio, C. Baccigalupi, M. Baldi, A. Balestra, S. Bardelli, P. Battaglia, A. Biviano, E. Branchini, M. Brescia, S. Camera, V. Capobianco, C. Carbone, J. Carretero, S. Casas, M. Castellano, G. Castignani, S. Cavuoti, K. C. Chambers, A. Cimatti, C. Colodro-Conde, G. Congedo, C. J. Conselice, L. Conversi, Y. Copin, F. Courbin, H. M. Courtois, M. Cropper, J. -G. Cuby, A. Da Silva, H. Degaudenzi, G. De Lucia, H. Dole, M. Douspis, F. Dubath, X. Dupac, M. Farina, R. Farinelli, F. Faustini, S. Ferriol, F. Finelli, S. Fotopoulou, N. Fourmanoit, M. Frailis, E. Franceschi, M. Fumana, S. Galeotta, K. George, B. Gillis, C. Giocoli, J. Gracia-Carpio, A. Grazian, F. Grupp, S. V. H. Haugan, W. Holmes, I. M. Hook, F. Hormuth, A. Hornstrup, M. Jhabvala, B. Joachimi, S. Kermiche, A. Kiessling, B. Kubik, M. Kümmel, M. Kunz, H. Kurki-Suonio, A. M. C. Le Brun, S. Ligori, P. B. Lilje, V. Lindholm, I. Lloro, G. Mainetti, E. Maiorano, O. Mansutti, S. Marcin, O. Marggraf, M. Martinelli, N. Martinet, F. Marulli, R. J. Massey, E. Medinaceli, S. Mei, M. Meneghetti, E. Merlin, G. Meylan, A. Mora, M. Moresco, L. Moscardini, C. Neissner, R. C. Nichol, S. -M. Niemi, J. W. Nightingale, C. Padilla, S. Paltani, F. Pasian, K. Pedersen, W. J. Percival, V. Pettorino, S. Pires, G. Polenta, M. Poncet, L. A. Popa, L. Pozzetti, F. Raison, A. Renzi, J. Rhodes, G. Riccio, E. Romelli, M. Roncarelli, B. Rusholme, R. Saglia, Z. Sakr, D. Sapone, M. Schirmer, P. Schneider, T. Schrabback, A. Secroun, G. Seidel, E. Sihvola, P. Simon, C. Sirignano, G. Sirri, L. Stanco, P. Tallada-Crespí, A. N. Taylor, H. I. Teplitz, I. Tereno, N. Tessore, S. Toft, R. Toledo-Moreo, F. Torradeflot, I. Tutusaus, L. Valenziano, J. Valiviita, T. Vassallo, G. Verdoes Kleijn, A. Veropalumbo, Y. Wang, J. Weller, F. M. Zerbi, E. Zucca, M. Huertas-Company, J. Martín-Fleitas, V. Scottez </p>
-<p>
-Little Red Dots (LRDs) are some the most intriguing galaxy populations recently identified at z&gt;~4 with JWST. They constitute the most extreme class of a more abundant population of sources with `V-shaped' spectral energy distributions (SEDs) and compact morphologies, which includes also Little Blue Dots (LBDs). Finding brighter analogues to these sources requires surveying sky areas which are significantly larger than those covered with JWST. Euclid deep images are ideally suited for this purpose. We make use of Euclid near-infrared images, complemented by Spitzer Infrared Array Camera (IRAC) data, over 0.75 sq. deg. of the COSMOS field to select a sample of 233 sources with `V-shaped' SEDs at z&gt;4. Out of those, we identify 16 sources with compactness &gt;1sigma above the median of all z&gt;4 galaxies, which we consider robust LRD/LBD candidates in our sample. The stellar masses of these 16 sources are in the range 10^8.5 - 10^10.5 M<sub>&odot;</sub>, so they are significantly more massive than typical JWST-selected LRDs/LBDs. Interestingly, half of them are about as old as the Universe at their redshifts. In addition, we find that the median photometric properties of the Euclid LRDs/LBDs are similar to those of the so-called Blue Dust-Obscured Galaxies (Blue DOGs). Less than 10% of all our `V-shaped' SED sources, including only one of the Euclid LBDs, correspond to known AGN. The latter mostly constitute a population disjoint to the `V-shaped' SED sources. Spectroscopic follow up of the Euclid LRDs/LBD candidates remains necessary to probe whether they host BLAGN as fainter analogues do and whether constitute a transition phase from these fainter sources to standard AGN.
-</p>
-<p> <b> Published: </b> 2026-04-17T15:44:04Z </p>
-<p> <b> Updated: </b> 2026-04-17T15:44:04Z </p>
-<p> <b> Comments: </b> 17 pages including 10 figures and 4 tables. Submitted to A&A </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.16178v1"> https://arxiv.org/pdf/2604.16178v1 </a> </p>
-
-### 211) [2604.16093](https://arxiv.org/abs/2604.16093v1): JWST and Keck observations of the off-nuclear tidal disruption event TDE 2025abcr: An evolving reprocessing layer
-
-<p> Kishore C. Patra, Emily R. Liepold, Nicholas Earl, Ryan J. Foley, Chung-Pei Ma, Sebastian Gomez, Kyle W. Davis, Enrico Ramirez-Ruiz, K. Decker French, Jonelle L. Walsh, Ravjit Kaur, Kirsty Taggart, Joshua Candanoza, V. Ashley Villar, Prasiddha Arunachalam, Phillip Macias, Samaporn Tinyanont </p>
-<p>
-Off-nuclear tidal disruption events (TDEs) provide a rare probe of massive black holes (MBHs) outside galactic nuclei. Only a handful are known, including five X-ray-selected candidates and two optically selected events. We present observations of TDE 2025abcr, the second optically selected off-nuclear TDE, discovered at a projected offset of 9.08 ± 0.02 kpc from the nucleus of its host galaxy. We analyze X-ray, UV, optical, and infrared (IR) data from Swift, Keck, ZTF, and JWST. Broad H and He emission lines in the optical and IR confirm a TDE-H-He classification. From luminosity scaling relations and MOSFiT modeling, we infer a BH mass of 10^6-10^7 M<sub>&odot;</sub>, substantially smaller than the 10^8.35 ± 0.41 M<sub>&odot;</sub> BH inferred for the host-galaxy nucleus. We observe velocity evolution in the N III + He II emission complex, shifting from -500 km s<sup>-1</sup> at day -7 to +1000 km s<sup>-1</sup> by day +29, which we interpret as radiative transfer effects in an evolving reprocessing layer. The IR SED deviates from a thermal blackbody, with νL_ν &prop; λ^-2.13 ± 0.04, significantly shallower than the Rayleigh-Jeans slope of λ^-3. We rule out dust as the source of this IR excess. Two possibilities remain: free-free emission from reprocessing gas, or an unresolved stellar cluster at the TDE location. Reprocessed emission provides a natural explanation for the IR excess but an underlying stellar cluster of mass log(M_*/M<sub>&odot;</sub>) = 7.57 ± 0.02 and age &lt;2 Gyr is also consistent with the data. If interpreted as a stellar cluster, the inferred mass suggests a stripped remnant of a satellite galaxy. The wandering MBH most likely originated in a minor merger with a smaller galaxy, although dynamical ejection from the host nucleus cannot yet be ruled out.
-</p>
-<p> <b> Published: </b> 2026-04-17T14:22:47Z </p>
-<p> <b> Updated: </b> 2026-04-17T14:22:47Z </p>
-<p> <b> Comments: </b> 23 pages, 16 figures; comments welcome </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.16093v1"> https://arxiv.org/pdf/2604.16093v1 </a> </p>
-
-### 212) [2604.16539](https://arxiv.org/abs/2604.16539v1): Classifying Supermassive Black Hole Growth Regimes to Observables Across Cosmological Simulations with Forecasts for LSST
-
-<p> Hitaishi Chillara </p>
-<p>
-The possibility of over-massive black holes suggested by James Webb Space Telescope photometric discoveries of 'little red dots', may disfavor light supermassive black hole (SMBH) seeds. However, what should constitute the mass (range) of 'heavy' seeds remains relatively unconstrained. Moreover, Vera C Rubin Observatory's Legacy Survey of Space and Time will photometrically characterize galaxies without direct black hole mass measurements. We forward-model the SIMBA, IllustrisTNG, and EAGLE cosmological simulations into the photometric bands of LSST to train an ensemble machine learning classifier. Our framework achieves 91&percnt;&ndash;94&percnt; accuracy across SIMBA and IllustrisTNG in distinguishing between over-massive and under-massive SMBH growth regimes under LSST magnitude limits, using only broadband photometry. Furthermore, cross-simulation transfer experiments (training on one cosmological simulation and evaluating on another using rank-normalized features) achieve 83&percnt;&ndash;89&percnt; accuracy. This suggests the relative photometric ordering of growth regimes is largely preserved even across fundamentally different sub-grid SMBH feedback prescriptions. Signal decomposition shows our classification is driven by host galaxy colors (82&percnt;&ndash;87&percnt; accuracy) and, relatedly, the accretion-state's spectral energy distribution shape as opposed to an inversion of our forward model's analytical luminosity prescription. Given that the evaluated simulations employ heavy seed prescriptions (≥ 10^4~M<sub>&odot;</sub>), our methodology establishes a validated baseline for classifying post-seeding growth regimes.
-</p>
-<p> <b> Published: </b> 2026-04-16T23:53:16Z </p>
-<p> <b> Updated: </b> 2026-04-16T23:53:16Z </p>
-<p> <b> Comments: </b> 19 pages, 11 figures. At the time of arXiv submission, in review with ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.16539v1"> https://arxiv.org/pdf/2604.16539v1 </a> </p>
 
 ### 213) [2604.13866](https://arxiv.org/abs/2604.13866v2): Dark energy, spatial curvature, and star formation efficiency from JWST photometric and spectroscopic high-redshift galaxies
 
@@ -2608,7 +2608,18 @@ High-z quasars are believed to reside in massive dark matter haloes (DMHs), sugg
 <p> <b> Comments: </b> 19 pages, 16 figures, accepted for publication in MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.11736v2"> https://arxiv.org/pdf/2602.11736v2 </a> </p>
 
-### 238) [2602.05934](https://arxiv.org/abs/2602.05934v2): The JWST EXCELS survey: The ages and abundances of 3&lt;z&lt;5 massive quiescent galaxies show that downsizing was already in place by z≃4
+### 238) [2602.07347](https://arxiv.org/abs/2602.07347v2): Clump-Scale Dust Attenuation in Epoch of Reionization Galaxies: Spatially Resolved Properties from FirstLight Simulations
+
+<p> Yurina Nakazato, Kosei Matsumoto, Akio K. Inoue, Daniel Ceverino, Takashi Hosokawa, Daisuke Toyouchi </p>
+<p>
+Understanding dust attenuation in galaxies at both integrated and spatially resolved scales is fundamental for accurately determining the physical properties of galaxies. Recent high-spatial-resolution observations with ALMA and JWST enable investigations of spatially resolved properties in high-redshift galaxies (z ≳ 6), but spatial variations in dust observables remain poorly constrained. We use cosmological zoom-in simulations combined with post-processing dust radiative transfer calculations for 376 clumpy galaxies at z=6-9 with stellar masses of M_* ≳ 10^9   M<sub>&odot;</sub>. For each system, we investigate dust attenuation and re-emission properties for three components: system-integrated, individual clumps, and diffuse regions. We find that system-integrated attenuation curves are grayer than the Calzetti curve, even when assuming MW- or SMC-type dust. Attenuation curves of individual clumps are even grayer, while diffuse regions exhibit steeper curves owing to enhanced scattering in optically thin environments. Since the effects of optical depth and dust-star geometry are intrinsically degenerate in attenuation curves, we introduce a toy model based on the IRX-Δβ plane, where Δβ denotes the difference between attenuated and intrinsic UV slopes. Applying this framework, we find that clumps have dust column densities approximately an order of magnitude higher than system-integrated values and exhibit co-spatial or dust-extended geometries. In contrast, system-integrated attenuation reflects star-extended geometries driven by contributions from optically thin diffuse regions. We apply this framework to REBELS-IFU galaxies at z ~ 7 and find good agreement with our simulation predictions.
+</p>
+<p> <b> Published: </b> 2026-02-07T04:06:28Z </p>
+<p> <b> Updated: </b> 2026-06-15T02:41:00Z </p>
+<p> <b> Comments: </b> 23 pages including appendices (15 pages main text), 8 figures, revised from referee comments </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.07347v2"> https://arxiv.org/pdf/2602.07347v2 </a> </p>
+
+### 239) [2602.05934](https://arxiv.org/abs/2602.05934v2): The JWST EXCELS survey: The ages and abundances of 3&lt;z&lt;5 massive quiescent galaxies show that downsizing was already in place by z≃4
 
 <p> Ho-Hin Leung, Adam C. Carnall, Elizabeth Taylor, Struan D. Stevenson, Aliza G. Beverage, Fergus Cullen, James S. Dunlop, Derek J. McLeod, Ross J. McLure, Ryan Begley, Omar Almaini, Stella Antonogiannaki, Karla Z. Arellano-Córdova, Laia Barrufet, Cecilia Bondestam, Callum T. Donnan, Isaac J. B. Holst, Feng-Yuan F. Liu, Kate Rowlands, Ryan L. Sanders, Dirk Scholte, Maya Skarbinski, Thomas M. Stanton, Vivienne Wild </p>
 <p>
@@ -2619,7 +2630,7 @@ We present deep, medium-resolution λ=1-5 μm JWST/NIRSpec spectroscopy for 14 q
 <p> <b> Comments: </b> Accepted at MNRAS. Main text: 21 pages, 9 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.05934v2"> https://arxiv.org/pdf/2602.05934v2 </a> </p>
 
-### 239) [2602.02702](https://arxiv.org/abs/2602.02702v4): Connecting the Dots: UV-Bright Companions of Little Red Dots as Lyman-Werner Sources Enabling Direct Collapse Black Hole Formation
+### 240) [2602.02702](https://arxiv.org/abs/2602.02702v4): Connecting the Dots: UV-Bright Companions of Little Red Dots as Lyman-Werner Sources Enabling Direct Collapse Black Hole Formation
 
 <p> Josephine F. W. Baggen, Matthew T. Scoggins, Pieter van Dokkum, Zoltán Haiman, Alberto Torralba, Jorryt Matthee </p>
 <p>
@@ -2630,7 +2641,7 @@ We compile a sample of 83 Little Red Dots (LRDs) with JWST imaging and find that
 <p> <b> Comments: </b> Published in The Astrophysical Journal Letters </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.02702v4"> https://arxiv.org/pdf/2602.02702v4 </a> </p>
 
-### 240) [2601.20929](https://arxiv.org/abs/2601.20929v2): Little Red Dot - Host Galaxy = Black Hole Star: A Gas-Enshrouded Heart at the Center of Every Little Red Dot
+### 241) [2601.20929](https://arxiv.org/abs/2601.20929v2): Little Red Dot - Host Galaxy = Black Hole Star: A Gas-Enshrouded Heart at the Center of Every Little Red Dot
 
 <p> Wendy Q. Sun, Rohan P. Naidu, Jorryt Matthee, Anna de Graaff, John Chisholm, Jenny E. Greene, Pascal A. Oesch, Alberto Torralba, Raphael E. Hviding, Gabriel Brammer, Robert A. Simcoe, Sownak Bose, Rychard Bouwens, Pratika Dayal, Anna-Christina Eilers, Qinyue Fei, Lukas J. Furtak, Rashmi Gottumukkala, Andy Goulding, Kasper E. Heintz, Michaela Hirschmann, Vasily Kokorev, Joel Leja, Zhaoran Liu, Priyamvada Natarajan, Andrew D. Santarelli, David J. Setton, Aaron Smith, Sandro Tacchella, Marta Volonteri, Fabian Walter, Andrea Weibel, Christina C. Williams </p>
 <p>
@@ -2641,7 +2652,7 @@ The central engines of Little Red Dots (LRDs) may be "black hole stars" (BH*s), 
 <p> <b> Comments: </b> Published in the Open Journal of Astrophysics. Main results in Figs. 5 (BH* stack), 12 (explanation of the LRD SED), and 15 (hidden BH*s in blue galaxies). Comments warmly welcomed! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20929v2"> https://arxiv.org/pdf/2601.20929v2 </a> </p>
 
-### 241) [2601.15960](https://arxiv.org/abs/2601.15960v2): JADES: A Prominent Galaxy Overdensity Candidate within the First 500 Myr
+### 242) [2601.15960](https://arxiv.org/abs/2601.15960v2): JADES: A Prominent Galaxy Overdensity Candidate within the First 500 Myr
 
 <p> Zihao Wu, Daniel J. Eisenstein, Benjamin D. Johnson, Kevin Hainline, William M. Baker, Andrew J. Bunker, Alex J. Cameron, Emma Curtis-Lake, A. Lola Danhaive, Ryan Hausen, Jakob M. Helton, Zhiyuan Ji, Tobias J. Looser, Roberto Maiolino, Petra Mengistu, Pierluigi Rinaldi, Brant E. Robertson, Fengwu Sun, Sandro Tacchella, James A. A. Trussler, Christina C. Williams, Christopher N. A. Willmer, Joris Witstok </p>
 <p>
@@ -2652,7 +2663,7 @@ We report a galaxy overdensity candidate at z≈10.5 in the JWST Advanced Deep E
 <p> <b> Comments: </b> Accepted for publication in ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.15960v2"> https://arxiv.org/pdf/2601.15960v2 </a> </p>
 
-### 242) [2601.15959](https://arxiv.org/abs/2601.15959v2): JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: Photometrically Selected Galaxy Candidates at z &gt; 8
+### 243) [2601.15959](https://arxiv.org/abs/2601.15959v2): JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: Photometrically Selected Galaxy Candidates at z &gt; 8
 
 <p> Kevin N. Hainline, Daniel J. Eisenstein, Lily Whitler, Brant Robertson, Benjamin D. Johnson, Peter Jakobsen, David Puskas, Sandro Tacchella, Jakob M. Helton, Zihao Wu, Santiago Arribas, William M. Baker, Andrew J. Bunker, Alex J. Cameron, Stefano Carniani, Courtney Carreira, Stephane Charlot, Jacopo Chevallard, Emma Curtis-Lake, Francesco D'Eugenio, Qiao Duan, Eiichi Egami, Ryan Hausen, Zhiyuan Ji, Tobias J. Looser, Roberto Maiolino, Petra Mengistu, Pablo G. Perez-Gonzalez, Marcia Rieke, Pierluigi Rinaldi, Fengwu Sun, James A. A. Trussler, Hannah Ubler, Christina C. Williams, Christopher N. A. Willmer, Chris Willott, Joris Witstok </p>
 <p>
@@ -2663,7 +2674,18 @@ We present a sample of 2081 sources selected at photometric redshift z<sub>phot<
 <p> <b> Comments: </b> 31 pages, 11 figures, Accepted for Publication in ApJ, April 2026. Source data table can be found at DOI: 10.5281/zenodo.18306484 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.15959v2"> https://arxiv.org/pdf/2601.15959v2 </a> </p>
 
-### 243) [2601.14976](https://arxiv.org/abs/2601.14976v2): MSA-3D: Connecting the Chemical and Kinematic Structures of Galaxies at z ~ 1
+### 244) [2601.15207](https://arxiv.org/abs/2601.15207v2): The importance of super-Eddington black hole accretion for the emergence of massive quiescent galaxies at high redshift
+
+<p> Evgenii Chaikin, Joop Schaye, Filip Huško, Cedric G. Lacey, Sylvia Ploeckinger, Matthieu Schaller </p>
+<p>
+Recent JWST observations indicate that massive quiescent galaxies (stellar mass M_*≳ 10^10~M<sub>&odot;</sub>) at high redshift (z≳ 6) are more abundant than predicted by most existing galaxy formation simulations and semi-analytic models. Notably, the new COLIBRE simulations have succeeded in reconciling this tension, though the precise reason for their improved agreement with JWST data remains unclear. We demonstrate that the improved agreement is largely due to super-Eddington growth of supermassive black holes (BHs) at high redshift. We run a series of (100~cMpc)^3 simulations with the COLIBRE subgrid physics at m7 COLIBRE resolution (gas and dark matter particle masses m_gas≈ m_dm~ 10^7~M<sub>&odot;</sub>), varying the maximum allowed BH accretion rate in units of the Eddington rate. We show that only the fiducial COLIBRE model, which permits super-Eddington accretion, is consistent with the JWST constraints at z ≳ 6. Moreover, we find that in COLIBRE about 50 per cent of BH mass growth at high redshift occurs in the super-Eddington regime, even though such events are extremely rare in time. Our work highlights the important role of super-Eddington accretion in simulations of galaxy formation for reproducing the observed early emergence of quenching of massive galaxies.
+</p>
+<p> <b> Published: </b> 2026-01-21T17:29:11Z </p>
+<p> <b> Updated: </b> 2026-06-15T11:51:21Z </p>
+<p> <b> Comments: </b> 8 pages, 4 figures; accepted for publication in MNRAS; images, videos, and interactive visualizations are available on the COLIBRE website at https://colibre-simulations.org </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.15207v2"> https://arxiv.org/pdf/2601.15207v2 </a> </p>
+
+### 245) [2601.14976](https://arxiv.org/abs/2601.14976v2): MSA-3D: Connecting the Chemical and Kinematic Structures of Galaxies at z ~ 1
 
 <p> Mengting Ju, Xin Wang, Tucker Jones, Ivana Barišić, Juan M. Espejo Salcedo, Karl Glazebrook, Danail Obreschkow, Takafumi Tsukui, Qianqiao Zhou, Kevin Bundy, Alaina Henry, Matthew A. Malkan, Themiya Nanayakkara, Namrata Roy, Xunda Sun </p>
 <p>
@@ -2674,18 +2696,18 @@ We investigate the connection between ionized gas kinematics and gas-phase metal
 <p> <b> Comments: </b> 30 pages, 8 figures, 2 table; Accepted for publication in ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.14976v2"> https://arxiv.org/pdf/2601.14976v2 </a> </p>
 
-### 244) [2601.10573](https://arxiv.org/abs/2601.10573v3): Origins of the UV continuum and Balmer emission lines in Little Red Dots: observational validation of dense gas envelope models enshrouding the AGN
+### 246) [2601.10573](https://arxiv.org/abs/2601.10573v4): Origins of the UV continuum and Balmer emission lines in Little Red Dots: observational validation of dense gas envelope models enshrouding the AGN
 
 <p> Yoshihisa Asada, Kohei Inayoshi, Qinyue Fei, Seiji Fujimoto, Chris Willott </p>
 <p>
 We present a statistical study on the origins of the UV continuum and narrow/broad emission lines in little red dots (LRDs), presumably involving active galactic nuclei (AGNs). Leveraging all archived JWST/NIRSpec data, we build a sample of 27 spectroscopically-confirmed LRDs at 5&lt;z<sub>spec</sub>&lt;7.2, by requiring broad Hα emission, blue UV colors, V-shaped continua, and compact morphology. We define a control sample of 7 blue, compact, broad-line AGNs without red optical continua (hereafter little blue dots; LBDs), and examine correlations between rest UV and the narrow/broad Hα luminosities in these populations. In LRDs, both narrow and broad Hα components are tightly correlated with the UV continuum, and the luminosity ratios are consistent with those in young starburst galaxies. In contrast, the UV to broad Hα ratios in LBDs closely match local unobscured AGNs and are statistically different from LRDs. The Lyα occurrence rates and strengths do not differ between LRDs and LBDs and are comparable to normal star-forming galaxies. These results are consistent with a scenario where the central BH in LRDs is enshrouded by a dense opaque gas envelope &ndash; in this model, the UV continuum as well as narrow and even broad Hα emissions are not powered by AGNs but predominantly by young massive stars surrounding the envelope, while the envelope radiates as a ~ 5000 K blackbody. As the envelope dissipates, direct AGN emission can emerge, potentially transforming LRDs into LBDs and marking the end of a short-lived phase of rapid black hole growth.
 </p>
 <p> <b> Published: </b> 2026-01-15T16:40:03Z </p>
-<p> <b> Updated: </b> 2026-05-10T12:00:37Z </p>
-<p> <b> Comments: </b> Submitted to ApJL. Comments are welcome </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.10573v3"> https://arxiv.org/pdf/2601.10573v3 </a> </p>
+<p> <b> Updated: </b> 2026-06-14T00:28:34Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJL </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.10573v4"> https://arxiv.org/pdf/2601.10573v4 </a> </p>
 
-### 245) [2601.07374](https://arxiv.org/abs/2601.07374v3): Possible evidence for a pair-instability supernova nature of ultra-early JWST sources
+### 247) [2601.07374](https://arxiv.org/abs/2601.07374v3): Possible evidence for a pair-instability supernova nature of ultra-early JWST sources
 
 <p> Andrea Ferrara, Stefano Carniani, Takahiro Morishita, Massimo Stiavelli </p>
 <p>
@@ -2696,7 +2718,7 @@ Recent JWST observations have revealed a population of unexpectedly bright sourc
 <p> <b> Comments: </b> 10 pages, 4 Figures, Published in the Open Journal of Astrophysics. Comments welcome (andrea.ferrara@sns.it) </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.07374v3"> https://arxiv.org/pdf/2601.07374v3 </a> </p>
 
-### 246) [2601.02269](https://arxiv.org/abs/2601.02269v2): The JWST EXCELS survey: Outflows in 1.5 &lt; z &lt; 5 quiescent and recently quenched galaxies are likely relics from episodic AGN activity
+### 248) [2601.02269](https://arxiv.org/abs/2601.02269v2): The JWST EXCELS survey: Outflows in 1.5 &lt; z &lt; 5 quiescent and recently quenched galaxies are likely relics from episodic AGN activity
 
 <p> Elizabeth Taylor, Adam C. Carnall, David Maltby, Omar Almaini, Ho-Hin Leung, Struan D. Stevenson, Andrea Negri, Fergus Cullen, Vivienne Wild, Ross J. McLure, Alice E. Shapley, Karla Z. Arellano-Córdova, Ryan Begley, Cecilia Bondestam, Thomas de Lisle, Callum T. Donnan, James S. Dunlop, Richard Ellis, Guillaume Hewitt, Anton M. Koekemoer, Feng-Yuan Frey Liu, Derek J. McLeod, Kate Rowlands, Ryan L. Sanders, Dirk Scholte, Maya Skarbinski, Thomas M. Stanton </p>
 <p>
@@ -2707,7 +2729,7 @@ We investigate the presence and origin of neutral gas outflows and inflows in 13
 <p> <b> Comments: </b> 22 pages, 12 figures. Accepted for publication in MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.02269v2"> https://arxiv.org/pdf/2601.02269v2 </a> </p>
 
-### 247) [2601.02220](https://arxiv.org/abs/2601.02220v2): The NIRISS PASSAGE Spectroscopic Redshift Catalog in COSMOS
+### 249) [2601.02220](https://arxiv.org/abs/2601.02220v2): The NIRISS PASSAGE Spectroscopic Redshift Catalog in COSMOS
 
 <p> Mason S. Huberty, Kalina V. Nedkova, Zahra Sattari, Vihang Mehta, Claudia Scarlata, Marc Rafelski, Matthew J. Hayes, Peter J. Watson, Ayan Acharyya, Jacob Levine, Benedetta Vulcani, Alexandra Le Reste, Farhanul Hasan, James Colbert, Michele Trenti, Xin Wang, Axel Runnholm, Matthew A. Malkan, Andrew J. Bunker, Anahita Alavi, Hakim Atek, Andrew J. Battisti, Y. Sophia Dai, Keunho Kim, Alaina Henry, Michael J. Rutkowski, Hollis Akins, Caitlin M. Casey, Maximilien Franco, Santosh Harish, Jeyhan S. Kartaltepe, Anton Koekemoer, Daizhong Liu, Henry McCracken, Jason Rhodes, Brant Robertson, Marko Shuntov </p>
 <p>
@@ -2718,7 +2740,7 @@ We present the Parallel Application of Slitless Spectroscopy to Analyze Galaxy E
 <p> <b> Comments: </b> Accepted to ApJS. 24 pages, 9 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.02220v2"> https://arxiv.org/pdf/2601.02220v2 </a> </p>
 
-### 248) [2601.00044](https://arxiv.org/abs/2601.00044v3): Born in the Dark: The Catastrophic Collapse of Fuzzy Dark Matter Solitons as the Origin of Little Red Dots
+### 250) [2601.00044](https://arxiv.org/abs/2601.00044v3): Born in the Dark: The Catastrophic Collapse of Fuzzy Dark Matter Solitons as the Origin of Little Red Dots
 
 <p> Tak-Pong Woo </p>
 <p>
@@ -2729,7 +2751,7 @@ JWST surveys have uncovered a population of compact, red sources ("Little Red Do
 <p> <b> Comments: </b> Accepted for publication in ApJ. 6 pages, 4 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.00044v3"> https://arxiv.org/pdf/2601.00044v3 </a> </p>
 
-### 249) [2512.19783](https://arxiv.org/abs/2512.19783v2): SN 2025ogs: A Spectroscopically-Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution
+### 251) [2512.19783](https://arxiv.org/abs/2512.19783v2): SN 2025ogs: A Spectroscopically-Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution
 
 <p> M. R. Siebert, J. D. R. Pierel, M. Engesser, D. A. Coulter, C. Decoursey, O. D. Fox, A. Rest, W. Chen, J. M. Derkacy, E. Egami, R. J. Foley, D. O. Jones, K. Kakiichi, A. M. Koekemoer, Z. G. Lane, C. Larison, D. C. Leonard, T. J. Moriya, E. Padilla Gonzalez, R. M. Quimby, K. Shukawa, L. G. Strolger, Y. Zenati </p>
 <p>
@@ -2740,7 +2762,18 @@ The Nancy Grace Roman Space Telescope will provide a revolutionary measurement o
 <p> <b> Comments: </b> 14 pages, 9 figures, Published in ApJL </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.19783v2"> https://arxiv.org/pdf/2512.19783v2 </a> </p>
 
-### 250) [2512.19175](https://arxiv.org/abs/2512.19175v2): Joint constraints on R_h=ct cosmology from DESI DR2 BAO, CC, and SNitIa Pantheon^+ sample
+### 252) [2512.19666](https://arxiv.org/abs/2512.19666v2): Primordial Black-Hole-Based Pathways to Little Red Dots
+
+<p> Valerio De Luca, Loris Del Grosso, Gabriele Franciolini, Konstantinos Kritos, Emanuele Berti, Daniel D'Orazio, Joseph Silk </p>
+<p>
+The James Webb Space Telescope has uncovered a population of compact, high-redshift sources, the Little Red Dots (LRDs), which may host supermassive black holes (BHs) significantly heavier than their stellar content compared with local scaling relations. These objects challenge standard models of early galaxy formation and may represent an extreme class of early BH hosts. In this Letter, we investigate whether these BHs could have a primordial origin. We first show that the direct formation of these BH masses in the early Universe is excluded by stringent cosmic microwave background μ-distortion limits. We then investigate the assembly of massive BHs from lighter, observationally allowed primordial black holes (PBHs) via hierarchical mergers, finding that, although this channel can operate depending on the merger history, it faces challenges in explaining the observations due to the rarity of the required high-redshift dark matter halos. Finally, we estimate gas accretion onto intermediate-mass PBHs, while jointly tracking metallicity evolution, and identify regions of parameter space in which such growth could reproduce the observed properties of LRDs. As a special case, we focus on the strongly lensed source QSO1, whose extremely low metallicity and large mass provide a stringent test of these formation channels.
+</p>
+<p> <b> Published: </b> 2025-12-22T18:47:19Z </p>
+<p> <b> Updated: </b> 2026-06-12T21:33:29Z </p>
+<p> <b> Comments: </b> 12 pages, 5 figures. v2: matching version published in Physical Review Letters </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.19666v2"> https://arxiv.org/pdf/2512.19666v2 </a> </p>
+
+### 253) [2512.19175](https://arxiv.org/abs/2512.19175v2): Joint constraints on R_h=ct cosmology from DESI DR2 BAO, CC, and SNitIa Pantheon^+ sample
 
 <p> Amritansh Mehrotra, S. K. J. Pacif, A. F. Santos </p>
 <p>
@@ -2751,7 +2784,7 @@ We carry out a comparative analysis of the standard ΛCDM cosmological model and
 <p> <b> Comments: </b> 15 pages, 6 figures, version accepted for publication in EPJC </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.19175v2"> https://arxiv.org/pdf/2512.19175v2 </a> </p>
 
-### 251) [2512.16208](https://arxiv.org/abs/2512.16208v2): Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations &ndash; I. Galaxy demographics
+### 254) [2512.16208](https://arxiv.org/abs/2512.16208v2): Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations &ndash; I. Galaxy demographics
 
 <p> Ángel Chandro-Gómez, Claudia del P. Lagos, Chris Power, William M. Baker, Alejandro Benítez-Llambay, Evgenii Chaikin, Harry G. Chittenden, Camila Correa, Carlos S. Frenk, Filip Huško, Robert J. McGibbon, Themiya Nanayakkara, Sylvia Ploeckinger, Alexander J. Richings, Matthieu Schaller, Joop Schaye, James W. Trayford </p>
 <p>
@@ -2762,7 +2795,7 @@ JWST has uncovered a substantial population of Massive (M<sub>&sext;</sub> ≳ 1
 <p> <b> Comments: </b> Submitted for publication in MNRAS. This work is Part I of a two-paper series. 24 pages (18 of main body and 6 of appendices). Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.16208v2"> https://arxiv.org/pdf/2512.16208v2 </a> </p>
 
-### 252) [2512.09512](https://arxiv.org/abs/2512.09512v2): SLICE &ndash; Combining Strong Lensing and X-ray in AC 114. Further Insights into the Merger Scenario
+### 255) [2512.09512](https://arxiv.org/abs/2512.09512v2): SLICE &ndash; Combining Strong Lensing and X-ray in AC 114. Further Insights into the Merger Scenario
 
 <p> Marceau Limousin, Benjamin Beauchesne, Keren Sharon, Dominique Eckert, Guillaume Mahler, Johan Richard, David Lagattuta, Gourav Khullar, Mathilde Jauzac, Mike Gladders, Marco Balboni, Fabio Gastaldello, Stefano Ettori, Catherine Cerny, Eric Jullo, Gavin Leroy, Nency Patel </p>
 <p>
@@ -2773,7 +2806,7 @@ AC114 is a historically significant galaxy cluster, being one of the first stron
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.09512v2"> https://arxiv.org/pdf/2512.09512v2 </a> </p>
 
-### 253) [2512.09139](https://arxiv.org/abs/2512.09139v2): The Early Maturity of High-Redshift Galaxies: Insights from sSFR, M/L and SFHs at z~7-14
+### 256) [2512.09139](https://arxiv.org/abs/2512.09139v2): The Early Maturity of High-Redshift Galaxies: Insights from sSFR, M/L and SFHs at z~7-14
 
 <p> P. Santini, M. Castellano, A. Calabrò, A. Fontana, E. Merlin, D. Bevacqua, P. Bergamini, M. Boquien, S. Cantarella, L. Ciesla, A. Ferrara, S. L. Finkelstein, F. Fortuni, G. Gandolfi, T. Gasparetto, E. Giallongo, N. A. Grogin, S. T. Guida, A. M. Koekemoer, N. Menci, L. Napolitano, D. Paris, L. Pentericci, B. Perez-Diaz, B. Stoyanova, T. Treu </p>
 <p>
@@ -2784,18 +2817,7 @@ The James Webb Space Telescope (JWST) has revealed an unexpected excess of UV-br
 <p> <b> Comments: </b> Accepted for publication by Astronomy & Astrophysics. Updated to match the accepted version </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.09139v2"> https://arxiv.org/pdf/2512.09139v2 </a> </p>
 
-### 254) [2512.09036](https://arxiv.org/abs/2512.09036v2): Probing the origin of the kilonova candidate GRB 230307A: analysis of host galaxy and offset
-
-<p> Clecio R. Bom, Davi C. Rodrigues, Arianna Cortesi, Amanda E. Araujo-Carvalho, Daniel Ruschel-Dutra, Giuliano Iorio, Luidhy Santana-Silva, Charles D. Kilpatrick, Fabricio Ferrari, Luis Lomeli-Nuñez, Thomas Harvey, Duncan Austin, Christopher J. Conselice, Nathan Adams, Roberto Cid Fernandes </p>
-<p>
-We investigate the host galaxy of the long gamma-ray burst GRB 230307A, which is associated with a kilonova candidate likely produced by a binary neutron-star (BNS) merger. The transient occurred at a projected offset of ~40 kpc from its host. We consider two explanations for this large distance: (i) NSs that merge inside a remote globular cluster, or (ii) a BNS that formed in the disk whose orbit was strongly modified by the NS natal kicks. Using JWST data and comparisons with known globular clusters, we show that a globular-cluster origin is unlikely. Using JWST and MUSE data, we derive the host galaxy morphology, stellar mass, estimate the atomic gas (HI+He) contribution, and the host rotation curve. Assuming an NFW halo and applying Bayesian inference, we obtain a mass model for the host. From this model, we compute the time required for a disk-formed BNS, with a given natal kick, to reach the observed offset while marginalizing over uncertainties and over the initial position in the disk. We compare these results with BNS-merger simulations from a population-synthesis code combined with stellar evolutionary tracks, which provide the coalescence time and kick velocity for each realization. The two approaches have an overlap in the kick-time diagram, but only 0.1% of the simulated systems is compatible with the galaxy-mass model. This indicates that a disk origin is possible, but requires fine-tuned conditions for the kilonova to occur at such a large distance from the host galaxy.
-</p>
-<p> <b> Published: </b> 2025-12-09T19:00:06Z </p>
-<p> <b> Updated: </b> 2026-04-17T23:48:32Z </p>
-<p> <b> Comments: </b> v2. 9 pages, 5 figures. Accepted in ApJL </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.09036v2"> https://arxiv.org/pdf/2512.09036v2 </a> </p>
-
-### 255) [2512.02127](https://arxiv.org/abs/2512.02127v3): Ripples in the baryon to dark matter ratio in ΛCDM: implications for galaxy formation
+### 257) [2512.02127](https://arxiv.org/abs/2512.02127v3): Ripples in the baryon to dark matter ratio in ΛCDM: implications for galaxy formation
 
 <p> Owen Jessop, Adrian Jenkins, Andrew Pontzen, Joop Schaye, Matthieu Schaller, John C. Helly </p>
 <p>
@@ -2806,7 +2828,7 @@ We use the FLAMINGO galaxy formation model to quantify the impact of baryon-CDM 
 <p> <b> Comments: </b> 12 pages, 3 figures. Monthly Notices of the Royal Astronomical Society, Volume 547, Issue 4, April 2026, stag519, https://doi.org/10.1093/mnras/stag519 . Correction: An error following Eq. (9) stated the baryon fraction as 0.016 rather than 0.16. The correct value, 0.16, was used in Eq. (9), so this was a typographical error only and does not affect the results </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.02127v3"> https://arxiv.org/pdf/2512.02127v3 </a> </p>
 
-### 256) [2512.02106](https://arxiv.org/abs/2512.02106v3): JCMT Constraints on the Early-Time HCN and CO Emission and HCN Temporal Evolution of 3I/ATLAS
+### 258) [2512.02106](https://arxiv.org/abs/2512.02106v3): JCMT Constraints on the Early-Time HCN and CO Emission and HCN Temporal Evolution of 3I/ATLAS
 
 <p> Jason T. Hinkle, Bin Yang, Karen J. Meech, Andrew Hoffman, Benjamin J. Shappee, W. B. Hoogendam, James J. Wray </p>
 <p>
@@ -2817,18 +2839,7 @@ Interstellar objects (ISOs), particularly those with cometary activity, provide 
 <p> <b> Comments: </b> Published in the Open Journal of Astrophysics </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.02106v3"> https://arxiv.org/pdf/2512.02106v3 </a> </p>
 
-### 257) [2511.19600](https://arxiv.org/abs/2511.19600v2): Towards Reconciling Reionization with JWST: The Role of Bright Galaxies and Strong Feedback
-
-<p> Ankita Bera, Sultan Hassan, Robert Feldmann, Romeel Davé, Kristian Finlator </p>
-<p>
-The elevated UV luminosity functions (UVLF) from recent James Webb Space Telescope (JWST) have challenged the viability of existing theoretical models. To address this, we use a semi-analytical framework &ndash; which couples a physically motivated source model derived from radiative-transfer hydrodynamic simulations of reionization with a Markov Chain Monte Carlo sampler &ndash; to perform a joint calibration to JWST galaxy surveys (UVLF, φ_UV and UV luminosity density, ρ_UV) and reionization-era observables (ionizing emissivity, N&#775;<sub>ion</sub>, neutral hydrogen fraction, x_HI, and Thomson optical depth, τ). We find that models with weak feedback and a higher contribution from faint galaxies reproduce the reionization observables but struggle to match the elevated JWST UVLF at z &gt; 9. In contrast, models with stronger feedback (i.e., rapid redshift evolution) and a higher contribution from bright galaxies successfully reproduce JWST UVLF at z ≥ 10, but over-estimate the bright end at z &lt; 9. The strong-feedback model constrained by JWST UVLF predicts a more gradual and extended reionization history, as opposed to the sudden reionization seen in the weak-feedback models. This extended nature of reionization (z~ 16 - 6) yields an optical depth consistent (at 2-σ) with the Cosmic Microwave Background (CMB) constraint, thereby alleviating the photon-budget crisis. In both scenarios, reionization is complete by z ~ 6, consistent with current data. Our analysis highlights the importance of accurately modeling feedback and ionizing emissivities from different source populations during the first billion years after the Big Bang.
-</p>
-<p> <b> Published: </b> 2025-11-24T19:00:01Z </p>
-<p> <b> Updated: </b> 2026-04-17T18:00:05Z </p>
-<p> <b> Comments: </b> 21 pages, 5+1 figures, 5+1 tables. Accepted for publication in ApJ, updated to match the accepted version </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.19600v2"> https://arxiv.org/pdf/2511.19600v2 </a> </p>
-
-### 258) [2511.13708](https://arxiv.org/abs/2511.13708v3): Statistics Meet Systematics: Resolution of the Massive Early JWST Galaxy Tension
+### 259) [2511.13708](https://arxiv.org/abs/2511.13708v3): Statistics Meet Systematics: Resolution of the Massive Early JWST Galaxy Tension
 
 <p> Jay R. Krishnan, Kevork N. Abazajian </p>
 <p>
@@ -2839,7 +2850,7 @@ The discovery of massive, high redshift galaxies with the James Webb Space Teles
 <p> <b> Comments: </b> 11 pages, 6 figures, 1 table. Code available at https://github.com/jaykrishnan9121/JWST_Early_Galaxies; v2: expanded discussion regarding Eddington bias and addition of error analysis for luminosity functions; v3: Matches published version </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.13708v3"> https://arxiv.org/pdf/2511.13708v3 </a> </p>
 
-### 259) [2511.13591](https://arxiv.org/abs/2511.13591v2): A Fleeting GLIMPSE of N/O Enrichment at Cosmic Dawn: Evidence for Wolf Rayet N Stars in a z = 6.1 Galaxy
+### 260) [2511.13591](https://arxiv.org/abs/2511.13591v2): A Fleeting GLIMPSE of N/O Enrichment at Cosmic Dawn: Evidence for Wolf Rayet N Stars in a z = 6.1 Galaxy
 
 <p> Danielle A. Berg, Rohan P. Naidu, John Chisholm, Hakim Atek, Seiji Fujimoto, Vasily Kokorev, Lukas J. Furtak, Chiaki Kobayashi, Daniel Schaerer, Angela Adamo, Qinyue Fei, Damien Korber, Jorryt Matthee, Rui Marques-Chaves, Zorayda Martinez, Kristen B. W. Mcquinn, Julian B. Muñoz, Pascal A. Oesch, Daniel P. Stark, Mabel G. Stephenson, Tiger Yu-Yang Hsiao </p>
 <p>
@@ -2850,7 +2861,7 @@ We present the discovery of extreme nitrogen enrichment by Wolf Rayet nitrogen s
 <p> <b> Comments: </b> 18 pages, 6 figures, accepted to ApJ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.13591v2"> https://arxiv.org/pdf/2511.13591v2 </a> </p>
 
-### 260) [2511.10486](https://arxiv.org/abs/2511.10486v2): Revealing the Connection Between the Filamentary Hierarchy and Star Cluster Formation in a Simulated NGC 628 Galaxy
+### 261) [2511.10486](https://arxiv.org/abs/2511.10486v2): Revealing the Connection Between the Filamentary Hierarchy and Star Cluster Formation in a Simulated NGC 628 Galaxy
 
 <p> Tamara Koletic, Rachel Pillsworth, Ralph E. Pudritz </p>
 <p>
@@ -2860,17 +2871,6 @@ There is abundant observational evidence for the hierarchical, interconnected na
 <p> <b> Updated: </b> 2026-04-20T18:36:30Z </p>
 <p> <b> Comments: </b> 23 pages, 19 figures, 5 tables. Received 2025 September 25; revised 2025 November 24; accepted 2025 November 28; published 2026 January 30 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.10486v2"> https://arxiv.org/pdf/2511.10486v2 </a> </p>
-
-### 261) [2511.08685](https://arxiv.org/abs/2511.08685v4): Kinematic scaling relations of disc galaxies from ionised gas at z~1 and their connection with dark matter haloes
-
-<p> Pavel E. Mancera Piña, Enrico M. Di Teodoro, S. Michael Fall, Antonino Marasco, Mariska Kriek, Marco Martorano </p>
-<p>
-We derive the Tully-Fisher (TFR, M<sub>&ast;</sub>-V_circ,f) and Fall (FR, j<sub>&ast;</sub>-M<sub>&ast;</sub>) relations at redshift z = 0.9 using a sample of 43 main-sequence disc galaxies with Hα IFU data and JWST/HST imaging. The strength of our analysis lies in the use of state-of-the-art 3D kinematic models to infer galaxy rotation curves, the inclusion and morphological modelling of NIR bands, and the use of SED modelling applied to our photometry measurements to estimate stellar masses. After correcting the inferred Hα velocities for asymmetric drift, we find a TFR of the form log(M<sub>&ast;</sub> / M<sub>&odot;</sub>) = a log(V_circ,f / 150~km s<sup>-1</sup>) + b, with a=3.82^+0.55_-0.40 and b=10.27^+0.06_-0.07, as well as a FR of the form log(j<sub>&ast;</sub> / kpc km s<sup>-1</sup>) = a log(M<sub>&ast;</sub> / 10^10.5 M<sub>&odot;</sub>) + b, with a=0.44^+0.06_-0.06 and b=2.86^+0.02_-0.02. Compared with their z=0 counterparts, we find moderate evolution in the TFR and strong evolution in the FR over the past 8 Gyr. We interpret our findings in the context of the galaxy-to-halo scaling parameters f_M=M<sub>&ast;</sub>/M_vir and f_j=j<sub>&ast;</sub>/j_vir. We infer that f_j shows little redshift evolution and depends very weakly on M<sub>&ast;</sub>, with typical values around f_j~0.8. As for f_M, we find it to be higher and less dependent on M<sub>&ast;</sub> at z=0.9 than at z=0. Interpreting our observed f_M-M<sub>&ast;</sub> relations within the Cold Dark Matter framework implies necessarily that the galaxy populations at z=0.9 and z=0 are not the progenitor/descendant of one another. The alternative scenario is that the z=0.9 relations are incorrect due to strong selection effects, unidentified systematics, or the possibility that Hα kinematics may not be a reliable dynamical tracer. Such problems would also affect previous studies on the same subject.
-</p>
-<p> <b> Published: </b> 2025-11-11T19:00:04Z </p>
-<p> <b> Updated: </b> 2026-04-17T14:05:29Z </p>
-<p> <b> Comments: </b> Published in A&A. A small mistake in Fig. 4 has been corrected in this version (to appear as a Corrigendum in A&A). No conclusions or part of the analysis are affected </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.08685v4"> https://arxiv.org/pdf/2511.08685v4 </a> </p>
 
 ### 262) [2511.07513](https://arxiv.org/abs/2511.07513v4): JWST lensed quasar dark matter survey IV: Stringent warm dark matter constraints from the joint reconstruction of extended lensed arcs and quasar flux ratios
 
@@ -2982,16 +2982,16 @@ This paper accompanies Data Release 4 of the JWST Deep Extragalactic Survey (JAD
 <p> <b> Comments: </b> Submitted to MNRAS. Data available to download at https://jades.herts.ac.uk/DR4/ with access to the JADES online database at https://jades.herts.ac.uk/search/ </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.01033v2"> https://arxiv.org/pdf/2510.01033v2 </a> </p>
 
-### 272) [2510.00292](https://arxiv.org/abs/2510.00292v4): The Colors of Ices: Measuring ice column density through photometry
+### 272) [2510.00292](https://arxiv.org/abs/2510.00292v5): The Colors of Ices: Measuring ice column density through photometry
 
 <p> Adam Ginsburg, Savannah R. Gramze, Matthew L. N. Ashby, Brandt A. L. Gaches, Nazar Budaiev, Miriam G. Santa-Maria, Alyssa Bulatek, A. T. Barnes, Desmond Jeff, Neal J. Evans, Cara D. Battersby </p>
 <p>
-Ices imprint strong absorption features in the near- and mid-infrared, but until recently they have been studied almost exclusively with spectroscopy toward small samples of bright sources. We show that JWST photometry alone can reveal and quantify interstellar ices, and we present a new open-source modeling tool, icemodels, to produce synthetic photometry of ices based on laboratory measurements. We provide reference tables indicating which filters are likely to be observably affected by ice absorption. Applying these models to NIRCam data of background stars behind \refereeseveral Galactic Center (GC) clouds \referee(dust ridge clouds A [the Brick], C, and D), and validating against NIRSpec spectra of Galactic disk sources, we find clear signatures of CO, H<sub>2</sub>O, and CO<sub>2</sub> ices and evidence for excess absorption in the F356W filter likely caused by CH-bearing species such as methanol. The ice ratios differ between the Galactic disk and Center, with GC clouds showing a higher H<sub>2</sub>O fraction. \refereeA large ice abundance \refereeis observed in CO, H2O, and possibly complex molecules, \refereewhich implies that there is substantial freezeout and therefore potential for ice-phase chemistry in non-star-forming gas. Accounting for all likely ices, we infer that &gt;25% of the total carbon is frozen into CO ice in the GC, which exceeds the entire solar-neighborhood carbon budget. By assuming the freezeout fraction is the same in GC and disk clouds, we obtain a metallicity measurement indicating that Z_GC≳2.5Z<sub>&odot;</sub>. These results demonstrate that photometric ice measurements are feasible with JWST and capable of probing the metallicity structure of the cold interstellar medium.
+Ices imprint strong absorption features in the near- and mid-infrared, but until recently they have been studied almost exclusively with spectroscopy toward small samples of bright sources. We show that JWST photometry alone can reveal and quantify interstellar ices, and we present a new open-source modeling tool, icemodels, to produce synthetic photometry of ices based on laboratory measurements. We provide reference tables indicating which filters are likely to be observably affected by ice absorption. Applying these models to NIRCam data of background stars behind several Galactic Center (GC) clouds (dust ridge clouds A [the Brick], C, and D), and validating against NIRSpec spectra of Galactic disk sources, we find clear signatures of CO, H<sub>2</sub>O, and CO<sub>2</sub> ices and evidence for excess absorption in the F356W filter likely caused by CH-bearing species such as methanol. The ice ratios differ between the Galactic disk and Center, with GC clouds showing a higher H<sub>2</sub>O fraction. A large ice abundance is observed in CO, H2O, and possibly complex molecules, which implies that there is substantial freezeout and therefore potential for ice-phase chemistry in non-star-forming gas. Accounting for all likely ices, we infer that &gt;25% of the total carbon is frozen into CO ice in the GC, which exceeds the entire solar-neighborhood carbon budget. By assuming the freezeout fraction is the same in GC and disk clouds, we obtain a metallicity measurement indicating that Z_GC≳2.5Z<sub>&odot;</sub>. These results demonstrate that photometric ice measurements are feasible with JWST and capable of probing the metallicity structure of the cold interstellar medium.
 </p>
 <p> <b> Published: </b> 2025-09-30T21:24:50Z </p>
-<p> <b> Updated: </b> 2026-06-06T12:49:39Z </p>
-<p> <b> Comments: </b> Revised after third referee report from the Open Journal of Astrophysics. 41 pages, 29 figures, 4 tables, 14 appendices </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.00292v4"> https://arxiv.org/pdf/2510.00292v4 </a> </p>
+<p> <b> Updated: </b> 2026-06-13T14:43:30Z </p>
+<p> <b> Comments: </b> Published in the Open Journal of Astrophysics. 41 pages, 29 figures, 4 tables, 14 appendices </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.00292v5"> https://arxiv.org/pdf/2510.00292v5 </a> </p>
 
 ### 273) [2510.00111](https://arxiv.org/abs/2510.00111v2): JADES: An Abundance of Ultra-Distant T- and Y-Dwarfs in Deep Extragalactic Data
 
