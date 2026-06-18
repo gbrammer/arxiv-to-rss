@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Jun 17 06:44:39 2026
+### Updated Thu Jun 18 06:36:20 2026
 
 ### 1) [2606.17271](https://arxiv.org/abs/2606.17271v1): Black Hole Stars Across the Universe: Identifying Central Engine Dominated Little Red Dots at z~1.5-9.5
 
@@ -12,16 +12,16 @@ Photometric selections of Little Red Dots (LRDs) largely rely on identifying the
 <p> <b> Comments: </b> 37 pages, 27 figures, to be submitted to OJAp, catalog of BH*-dominated LRDs available at https://doi.org/10.5281/zenodo.20611334, we encourage community follow-up </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.17271v1"> https://arxiv.org/pdf/2606.17271v1 </a> </p>
 
-### 2) [2606.13781](https://arxiv.org/abs/2606.13781v1): CANUCS/Technicolor Data Release 2: A Catalogue of Galaxy Structural Parameters in up to 29 HST+JWST bands and a Multi-Wavelength Exploration of the Galaxy Size-Mass Relation at 0.6 &lt; z ≤ 4
+### 2) [2606.13781](https://arxiv.org/abs/2606.13781v2): CANUCS/Technicolor Data Release 2: A Catalogue of Galaxy Structural Parameters in up to 29 HST+JWST bands and a Multi-Wavelength Exploration of the Galaxy Size-Mass Relation at 0.6 &lt; z ≤ 4
 
 <p> Maya Merchant, Lamiya A. Mowla, Georgios E. Magdis, Adam Muzzin, Chris J. Willott, Roberto Abraham, Yoshihisa Asada, Maruša Bradač, Gabriel B. Brammer, Guillaume Desprez, Kartheik G. Iyer, Nicholas S. Martis, Gaël Noirot, Gregor Rihtaršič, Marcin Sawicki, Ghassan T. E. Sarrouh, Sunna Withers, Natalie Allen, Jacqueline Antwi-Danso, Westley Brown, Jon Judež, Danilo Marchesini, Rosa M. Mérida, Katherine Myers, Luke Robbins, Visal Sok </p>
 <p>
 We present James Webb Space Telescope (JWST) results of a morphological study of galaxies in the CAnadian NIRISS Unbiased Cluster (CANUCS) and Technicolor surveys, observed in 19 medium- and broadband NIRCam filters in five CANUCS NIRCam Flanking Fields with rest-frame wavelength coverage between ~ 0.2 - 3.2μm. Using GALFIT, we measure the morphological parameters of ~ 4,100 star-forming galaxies at 0.6 &lt; z ≤ 4 with stellar masses of 8.5 &lt; log(M_*/M<sub>&odot;</sub>) ≤ 11.5. This enables us to concurrently examine how galaxy size varies as a function of stellar mass, redshift, and rest-frame wavelength to provide a novel parametrization of the galaxy size-wavelength relation. Additionally, we analyze the evolution of the galaxy size-mass relation in the rest-frame optical and NIR with the introduction of wavelength as a free parameter. We report a gradient in the slope of the size-mass relation with respect to rest-frame wavelength with a critical crossover mass at ~ 10^9.5 M<sub>&odot;</sub>. We propose this characteristic mass as the stellar mass at which galaxies transition between diffuse and compact morphologies. We concurrently present the data release of morphological measurements of the five CANUCS-Technicolor NIRCam Flanking Fields in which we provide structural parameters for ~ 41,000 galaxies in up to 29 JWST+HST filters.
 </p>
 <p> <b> Published: </b> 2026-06-11T18:00:02Z </p>
-<p> <b> Updated: </b> 2026-06-11T18:00:02Z </p>
-<p> <b> Comments: </b> Submitted to ApJ; 30 pages, 16 figures; comments welcome. Data products available at https://niriss.github.io/data.html </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13781v1"> https://arxiv.org/pdf/2606.13781v1 </a> </p>
+<p> <b> Updated: </b> 2026-06-16T19:59:20Z </p>
+<p> <b> Comments: </b> Submitted to ApJ; 30 pages, 16 figures; comments welcome. Data products available at https://niriss.github.io/data.html. v2: updated figure, results unchanged </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2606.13781v2"> https://arxiv.org/pdf/2606.13781v2 </a> </p>
 
 ### 3) [2606.13078](https://arxiv.org/abs/2606.13078v1): Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn
 
@@ -441,16 +441,16 @@ JWST offers an unprecedented view of optically dark or faint galaxies (OFGs), pr
 <p> <b> Comments: </b>  </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.15127v2"> https://arxiv.org/pdf/2512.15127v2 </a> </p>
 
-### 41) [2512.14212](https://arxiv.org/abs/2512.14212v1): Exploring Cosmic Dawn with PANORAMIC II: Cosmic Variance and Galaxy Clustering at z~10
+### 41) [2512.14212](https://arxiv.org/abs/2512.14212v2): Exploring Cosmic Dawn with PANORAMIC II: Cosmic Variance and Galaxy Clustering at z~10
 
 <p> Andrea Weibel, Christian Kragh Jespersen, Pascal A. Oesch, Christina C. Williams, Rachel Bezanson, Gabriel Brammer, Aidan P. Cloonan, Pratika Dayal, Anne Hutter, Zhiyuan Ji, Michael V. Maseda, Marko Shuntov, Katherine E. Whitaker </p>
 <p>
-Observational campaigns with JWST have revealed a higher-than-expected abundance of UV-bright galaxies at z≳10, with various proposed theoretical explanations. A powerful complementary constraint to break degeneracies between different models is galaxy clustering. In this paper, we combine PANORAMIC pure parallel and legacy imaging along 34 independent sightlines to measure the cosmic variance (σ_CV) in the number count of Lyman break galaxies at z~10 which is directly related to their clustering strength. We find σ_CV=0.96^+0.20_-0.18, 1.46^+0.54_-0.44, and 1.71^+0.72_-0.59 per NIRCam pointing (~9.7 arcmin<sup>2</sup>, ≲1.5 pMpc at z~10) for galaxies with M_UV&lt;-19.5, -20, and -20.5. Comparing to galaxies in the UniverseMachine, we find that σ_CV is consistent with our measurements, but that the number densities are a factor ≳5 lower. We implement simple models in the UniverseMachine that represent different physical mechanisms to enhance the number density of UV-bright galaxies. All models decrease σ_CV by placing galaxies at fixed M_UV in lower mass halos, but they do so to varying degrees. Combined constraints on σ_CV and the UVLF tentatively disfavor models that globally increase the star formation efficiency (SFE) or the scatter in the M_UV-M_halo relation, while models that decrease the mass-to-light ratio, or assume a power-law scaling of the SFE with M_halo agree better with the data. We show that with sufficient additional independent sightlines, robust discrimination between models is possible, paving the way for powerful constraints on the physics of early galaxy evolution through NIRCam pure parallel imaging.
+Observational campaigns with JWST have revealed a higher-than-expected abundance of UV-bright galaxies at z≳10, with various proposed theoretical explanations. A powerful complementary constraint to break degeneracies between different models is galaxy clustering. In this paper, we combine PANORAMIC pure parallel and legacy imaging along 34 independent sightlines to measure the cosmic variance (σ_CV) in the number counts of Lyman break galaxies at z~10 which is directly related to their clustering strength. We find σ_CV=0.96^+0.20_-0.18, 1.46^+0.54_-0.44, and 1.71^+0.72_-0.59 per NIRCam pointing (~9.7 arcmin<sup>2</sup>, ≲1.5 pMpc at z~10) for galaxies with M_UV&lt;-19.5, -20, and -20.5. Comparing to galaxies in the fiducial UniverseMachine, we find that σ_CV is consistent with our measurements, but that the number densities are a factor ≳5 lower. We implement simple models in the UniverseMachine that represent different physical mechanisms to enhance the number density of UV-bright galaxies. All models decrease σ_CV by placing galaxies at fixed M_UV in lower mass halos, but to varying degrees. Combined constraints on σ_CV and the UVLF thus tentatively disfavor models that globally increase the star formation efficiency (SFE) or the scatter in the M_UV-M_halo relation, while models that decrease the mass-to-light ratio, or assume a power-law scaling of the SFE with M_halo agree better with the data. We show that with sufficient additional independent sightlines, robust discrimination between models is possible, paving the way for powerful constraints on the physics of early galaxy evolution through NIRCam pure parallel imaging.
 </p>
 <p> <b> Published: </b> 2025-12-16T09:09:51Z </p>
-<p> <b> Updated: </b> 2025-12-16T09:09:51Z </p>
-<p> <b> Comments: </b> 22 pages, 8 figures, submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.14212v1"> https://arxiv.org/pdf/2512.14212v1 </a> </p>
+<p> <b> Updated: </b> 2026-06-17T13:39:42Z </p>
+<p> <b> Comments: </b> 25 pages, 10 figures, accepted for publication in ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.14212v2"> https://arxiv.org/pdf/2512.14212v2 </a> </p>
 
 ### 42) [2512.13778](https://arxiv.org/abs/2512.13778v3): Resolving dust and Lyα emission in a lensed galaxy at the epoch of reionization with JWST/CANUCS
 
