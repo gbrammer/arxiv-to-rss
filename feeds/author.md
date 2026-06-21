@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Jun 20 06:32:04 2026
+### Updated Sun Jun 21 06:36:34 2026
 
 ### 1) [2606.17271](https://arxiv.org/abs/2606.17271v1): Black Hole Stars Across the Universe: Identifying Central Engine Dominated Little Red Dots at z~1.5-9.5
 
