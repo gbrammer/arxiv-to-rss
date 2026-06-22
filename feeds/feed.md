@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sun Jun 21 06:36:31 2026
+### Updated Mon Jun 22 06:49:39 2026
 
 ### 1) [2606.20370](https://arxiv.org/abs/2606.20370v1): ELMA: ELlipse-based bar MAjor axis estimator
 
