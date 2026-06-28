@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jun 27 06:13:24 2026
+### Updated Sun Jun 28 06:30:38 2026
 
 ### 1) [2606.27182](https://arxiv.org/abs/2606.27182v1): Forward-modelling the Tolman and distance-duality tests with IllustrisTNG
 

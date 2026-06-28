@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Jun 27 06:13:26 2026
+### Updated Sun Jun 28 06:30:41 2026
 
 ### 1) [2606.21361](https://arxiv.org/abs/2606.21361v1): Extended [CII] gas emission in and around a massive quiescent galaxy at z=7.3
 
