@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Jul 10 08:22:20 2026
+### Updated Sat Jul 11 07:10:52 2026
 
 ### 1) [2607.08749](https://arxiv.org/abs/2607.08749v1): Deep Spectroscopic Follow-Up of Maisie's Galaxy &ndash; A Typical Galaxy in the Early Universe
 
