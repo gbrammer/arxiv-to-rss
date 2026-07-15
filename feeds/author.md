@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Jul 14 07:09:56 2026
+### Updated Wed Jul 15 07:14:03 2026
 
 ### 1) [2606.31515](https://arxiv.org/abs/2606.31515v1): The metallicities of little red dot host galaxies: LRDs are metal poor, but not pristine
 
