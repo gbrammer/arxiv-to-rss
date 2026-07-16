@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Jul 15 07:14:03 2026
+### Updated Thu Jul 16 07:21:47 2026
 
 ### 1) [2606.31515](https://arxiv.org/abs/2606.31515v1): The metallicities of little red dot host galaxies: LRDs are metal poor, but not pristine
 
@@ -562,16 +562,16 @@ The visibility of Lyman-α emission at z&gt;7 provides crucial insights into the
 <p> <b> Comments: </b> 22 pages, 12 figures, 8 tables, Submitted to MNRAS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.06072v1"> https://arxiv.org/pdf/2512.06072v1 </a> </p>
 
-### 52) [2512.03239](https://arxiv.org/abs/2512.03239v1): (Re)solving the complex multi-scale morphology and V-shaped SED of a newly discovered strongly-lensed Little Red Dot in Abell 383
+### 52) [2512.03239](https://arxiv.org/abs/2512.03239v2): (Re)solving the Complex Multiscale Morphology and V-shaped Spectral Energy Distribution of a Newly Discovered Strongly Lensed Little Red Dot in A383
 
 <p> Josephine F. W. Baggen, Pieter van Dokkum, Ivo Labbé, Gabriel Brammer </p>
 <p>
-We present a luminous Little Red Dot (LRD) at z=6.027, doubly imaged by the galaxy cluster Abell 383 and observed with JWST/NIRCam. The source shows the characteristic "V-shaped" SED and pronounced Balmer break that define the LRD population. Owing to its large magnifications, μ~11 for image S1 and μ~7 for S2, the system is exceptionally bright and highly stretched, providing a rare, spatially resolved view of an LRD. The images reveal a complex morphology with a compact red dot, a spatially offset blue dot, and faint emission bridging and surrounding the two. After correcting for lensing, we find that both dots are extremely small but resolved, with rest-frame UV sizes of ~ 20 pc (red) and ~60 pc (blue). These compact dots are embedded in a more extended, line-dominated cloud traced most clearly in F356W ([OIII]+Hβ), which reaches scales of order ~1 kpc. SED decomposition shows that the blue component has a flat UV continuum consistent with a young stellar population, whereas the red component has a steep red SED that can be interpreted as either an evolved stellar population with high stellar mass (log M<sub>&sext;</sub>/M<sub>&odot;</sub>&gt;10) or a reddened AGN. If this object is representative of the LRD population, our results imply that the V-shaped SEDs of LRDs do not arise from individual compact sources but instead from the superposition of two physically distinct components. Separated by only ~300 pc in the source plane, these components would blend into a single compact source in unlensed observations with the canonical LRD colors. This system therefore provides a rare opportunity to resolve the internal structure of an LRD and to gain direct insight into the physical nature of this population.
+We present a luminous "little red dot" (LRD) at z = 6.027, doubly imaged by the galaxy cluster A383 and observed with the James Webb Space Telescope (JWST) NIRCam. Owing to its large magnifications, μ ~ 11 for image A383-LRD1A and μ ~ 7 for A383-LRD1B, the system is exceptionally bright and highly stretched, providing a rare, spatially resolved view of an LRD. The images reveal a complex morphology with a compact red dot, a spatially offset blue dot, and faint emission bridging and surrounding the two. After correcting for lensing, the blue and red dots have rest-frame UV and optical sizes of ~ 60 pc and ≲ 150 pc, respectively, while extended emission traced most clearly in F356W ([O III]+Hβ) reaches scales of order ~ 1 kpc. Spatially resolved spectral energy distribution (SED) analysis reveals that the characteristic V-shaped SED arises from the superposition of a flat UV continuum from the blue dot, consistent with a young stellar population, and a steep red SED from the red dot, which, based on Hubble Space Telescope+JWST photometry alone, admits a straightforward stellar interpretation as a massive, heavily dust-attenuated component. However, this interpretation is challenged by Atacama Large Millimeter/submillimeter Array dust continuum upper limits, suggesting a nonstellar origin such as dense gas configurations. Separated by only ~ 300 pc in the source plane, these components would blend into a single compact source in unlensed observations with the canonical LRD colors. This system therefore provides a rare opportunity to resolve the internal structure of an LRD and to begin unraveling the physical nature of this population.
 </p>
 <p> <b> Published: </b> 2025-12-02T21:14:46Z </p>
-<p> <b> Updated: </b> 2025-12-02T21:14:46Z </p>
-<p> <b> Comments: </b> Submitted to AAS Journals, comments are welcome </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.03239v1"> https://arxiv.org/pdf/2512.03239v1 </a> </p>
+<p> <b> Updated: </b> 2026-07-15T14:25:30Z </p>
+<p> <b> Comments: </b> Accepted for publication in ApJL </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2512.03239v2"> https://arxiv.org/pdf/2512.03239v2 </a> </p>
 
 ### 53) [2512.03134](https://arxiv.org/abs/2512.03134v1): The Mass-Metallicity Relation and its Observational Effects at z~3-6
 
