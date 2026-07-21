@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Jul 20 08:05:11 2026
+### Updated Tue Jul 21 07:32:14 2026
 
 ### 1) [2607.14355](https://arxiv.org/abs/2607.14355v1): VENUS: an ultra-faint galaxy hosting the metal-poor type II supernova at z=5.13 Witnessing the initial metal enrichment with extremely frequent core-collapse supernovae?
 
