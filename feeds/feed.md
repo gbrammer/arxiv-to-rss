@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Jul 25 07:16:52 2026
+### Updated Sun Jul 26 07:34:50 2026
 
 ### 1) [2607.20651](https://arxiv.org/abs/2607.20651v1): When galaxies burst II. Implications of enhanced burstiness for the 21-cm Cosmic Dawn signal
 
