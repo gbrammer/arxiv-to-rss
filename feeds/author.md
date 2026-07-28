@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Jul 27 08:32:01 2026
+### Updated Tue Jul 28 07:38:27 2026
 
 ### 1) [2607.20606](https://arxiv.org/abs/2607.20606v1): Outflows in the Early Universe: Neutral gas Absorption in Galaxies at z &gt; 3 from low-resolution JWST Spectroscopy
 
