@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Aug  1 07:27:20 2026
+### Updated Sun Aug  2 07:31:01 2026
 
 ### 1) [2607.28278](https://arxiv.org/abs/2607.28278v1): JWST's Constraints on the Substellar IMF in NGC 2024
 
