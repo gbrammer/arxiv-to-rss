@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Aug  5 07:38:29 2026
+### Updated Thu Aug  6 07:39:12 2026
 
 ### 1) [2607.20606](https://arxiv.org/abs/2607.20606v1): Outflows in the Early Universe: Neutral gas Absorption in Galaxies at z &gt; 3 from low-resolution JWST Spectroscopy
 
@@ -287,16 +287,16 @@ While the size-mass relation provides insight into the structural evolution of g
 <p> <b> Comments: </b> Submitted to ApJ. See also Zhang et al., the first paper in this series </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.01370v1"> https://arxiv.org/pdf/2603.01370v1 </a> </p>
 
-### 27) [2603.00380](https://arxiv.org/abs/2603.00380v1): Everything Every Band All at Once I: A Global Morphology Catalog in Abell 2744 based on UNCOVER/MegaScience
+### 27) [2603.00380](https://arxiv.org/abs/2603.00380v2): Everything Every Band All at Once I: A Global Morphology Catalog in Abell 2744 based on UNCOVER/MegaScience
 
 <p> Yunchong Zhang, Tim B. Miller, Sedona H. Price, Katherine A. Suess, Rachel Bezanson, David J. Setton, Joel Leja, Katherine E. Whitaker, Jenny E. Greene, Robert Feldmann, Seiji Fujimoto, Themiya Nanayakkara, Gabriel Brammer, Sam E. Cutler, Pratika Dayal, Anna de Graaff, Yoshinobu Fudamoto, Lukas J. Furtak, Andy D. Goulding, Gourav Khullar, Ivo Labbe, Brian Lorenz, Danilo Marchesini, Abby Mintz, Lamiya A. Mowla, Adam Muzzin, Erica J. Nelson, Richard Pan, Natalia Porraz Barrera, Edward N. Taylor, Arjen van der Wel, Bingjie Wang, John R. Weaver, Christina C. Williams </p>
 <p>
-We present spectrally-resolved structural parameter measurements of 29,608 sources from the legacy lensing field of Abell 2744, quantifying global structures from observed 0.7 μm - 4.8 μm and spanning rest-frame UV to NIR at R~15. These measurements are made on imaging mosaics mainly from the UNCOVER/MegaScience survey, including 20 JWST NIRCam broad and medium bands. We perform single-component Sérsic fitting to these galaxies using ttpysersic, a Bayesian structural fitting tool, to infer their structural parameters and associated random uncertainties from the posterior distributions. Through various quality evaluation criteria, we infer robust structural parameters among &gt; 90&percnt; of the selected SNR&gt;10 sources. For each galaxy with reliable sizes in at least two bands and a high-quality redshift, we fit its observed size as a function of wavelength and infer rest-frame UV, optical, and near-infrared sizes where applicable. By performing injection-recovery tests on simulated galaxy cutouts in selected bands, we establish that our structural parameter measurements achieve fractional error &lt; 10 -20&percnt; above SNR&gt;10. With this paper, all raw structural measurements and fitted rest-frame sizes are quality-flagged, cataloged, and released to the community. Finally, we demonstrate that this catalog enables the structural study of galaxies over an unprecedentedly wide parameter space of redshift (0.3&lt;z&lt;8), stellar mass (10^7  M<sub>&odot;</sub>&lt;M_* &lt;10^11.5  M<sub>&odot;</sub>), and rest-frame optical size (100  pc&lt;R_e&lt;10 kpc), after correcting for lensing magnification.
+We present spectrally-resolved structural parameter measurements of 28,274 sources from the legacy lensing field of Abell 2744, quantifying global structures from observed 0.7 μm - 4.8 μm and spanning rest-frame UV to NIR at R~15. These measurements are made on imaging mosaics mainly from the UNCOVER/MegaScience survey, including 20 JWST NIRCam broad and medium bands. We perform single-component Sérsic fitting to these galaxies using ttpysersic, a Bayesian structural fitting tool, to infer their structural parameters and associated random uncertainties from the posterior distributions. Through various quality evaluation criteria, we infer robust structural parameters among &gt; 85&percnt; of the selected SNR&gt;10 sources. For each galaxy with reliable sizes in at least two bands and a high quality redshift, we fit its observed size as a function of wavelength and infer rest-frame UV, optical, and near-infrared sizes where applicable. By performing injection-recovery tests on simulated galaxy cutouts in selected bands, we establish that our structural parameter measurements achieve fractional error &lt; 10 -20&percnt; above SNR&gt;10. With this paper, all raw structural measurements and fitted rest-frame sizes are quality-flagged, cataloged, and released to the community. Finally, we demonstrate that this catalog enables the structural study of galaxies over an unprecedentedly wide parameter space of redshift (0.3&lt;z&lt;8), stellar mass (10^7  M<sub>&odot;</sub>&lt;M_* &lt;10^11.5  M<sub>&odot;</sub>), and rest-frame optical size (100  pc&lt;R_e&lt;10 kpc), after correcting for lensing magnification.
 </p>
 <p> <b> Published: </b> 2026-02-27T23:38:56Z </p>
-<p> <b> Updated: </b> 2026-02-27T23:38:56Z </p>
-<p> <b> Comments: </b> 27 pages, 12 figures </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.00380v1"> https://arxiv.org/pdf/2603.00380v1 </a> </p>
+<p> <b> Updated: </b> 2026-08-04T23:50:27Z </p>
+<p> <b> Comments: </b> 28 pages, 12 figures </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.00380v2"> https://arxiv.org/pdf/2603.00380v2 </a> </p>
 
 ### 28) [2602.18558](https://arxiv.org/abs/2602.18558v1): The ionised interstellar medium of DSFGs revealed by JWST/NIRSpec and ALMA: Super-solar metallicity, low ionisation parameters and, typical electron densities
 
