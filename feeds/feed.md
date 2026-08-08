@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Aug  7 06:08:32 2026
+### Updated Sat Aug  8 05:41:42 2026
 
 ### 1) [2608.05286](https://arxiv.org/abs/2608.05286v1): Variations in the 3.3 μm Polycyclic Aromatic Hydrocarbon Feature Across Nearby Galaxies Driven by Metallicity and Radiation Field Spectrum
 
