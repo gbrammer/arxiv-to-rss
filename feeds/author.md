@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Aug 11 05:52:31 2026
+### Updated Wed Aug 12 06:13:52 2026
 
 ### 1) [2608.08203](https://arxiv.org/abs/2608.08203v1): A New Window on the Hα Luminosity Function and Star Formation Rate Density from 1.2 &lt; z &lt; 6.6 from JWST Medium-Band Photometry
 
