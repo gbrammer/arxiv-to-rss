@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Aug 15 05:23:55 2026
+### Updated Sun Aug 16 05:27:49 2026
 
 ### 1) [2608.12708](https://arxiv.org/abs/2608.12708v1): ALMA observations of pre-JWST z ~ 10 galaxy candidates: A CO(J = 9-8) line from a ULIRG at z = 2.54 and revisit of the photometric redshifts with JWST photometry
 
