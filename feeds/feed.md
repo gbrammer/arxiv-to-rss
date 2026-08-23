@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Aug 22 05:26:52 2026
+### Updated Sun Aug 23 05:29:03 2026
 
 ### 1) [2608.20339](https://arxiv.org/abs/2608.20339v1): An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors
 
