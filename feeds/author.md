@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Aug 24 05:37:27 2026
+### Updated Tue Aug 25 05:31:13 2026
 
 ### 1) [2608.19687](https://arxiv.org/abs/2608.19687v1): OutThere Survey: Addressing ξ<sub>ion</sub> and f<sub>esc</sub> with a population of average galaxies at z~2
 
@@ -441,16 +441,16 @@ The central engines of Little Red Dots (LRDs) may be "black hole stars" (BH*s), 
 <p> <b> Comments: </b> Published in the Open Journal of Astrophysics. Main results in Figs. 5 (BH* stack), 12 (explanation of the LRD SED), and 15 (hidden BH*s in blue galaxies). Comments warmly welcomed! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20929v2"> https://arxiv.org/pdf/2601.20929v2 </a> </p>
 
-### 41) [2601.20864](https://arxiv.org/abs/2601.20864v1): Bottom-heavy initial mass functions reveal hidden mass in early galaxies
+### 41) [2601.20864](https://arxiv.org/abs/2601.20864v2): Hidden mass in early galaxies revealed by bottom-heavy initial mass functions
 
 <p> Chloe M. Cheng, Martje Slob, Mariska Kriek, Aliza G. Beverage, Pieter G. van Dokkum, Rachel Bezanson, Gabriel Brammer, Charlie Conroy, Anna de Graaff, Elham Eftekhari, Robert Feldmann, Wout M. Goesaert, Meng Gu, Joel Leja, Brian Lorenz, Pavel E. Mancera Piña, Ignacio Martín-Navarro, Andrew B. Newman, Sedona H. Price, Alice E. Shapley, Piyush Sharda, Katherine A. Suess, Arjen van der Wel, Daniel R. Weisz </p>
 <p>
-JWST observations have revealed that massive galaxies formed and evolved far faster than predicted by galaxy formation models, with many having already assembled a large mass in stars ~12 billion years ago [1-7]. However, masses of distant galaxies are highly uncertain, as they assume a distribution of stellar birth masses (the initial mass function [IMF]) similar to that in the Milky Way (MW). Specifically, the contribution from low-mass stars, which make up the bulk of stellar mass, is not directly observed, but inferred based on an extrapolation of the MW IMF. Here, we provide the first robust measurements of the IMF beyond the local Universe. Using ultra-deep spectra of nine massive, quiescent galaxies at z~0.7 from the ambitious JWST-IMFERNO program, extended to bluer wavelengths with deep spectra from LEGA-C [8], we find that these distant galaxies have excess low-mass stars. In other words, they have more bottom-heavy IMFs than the MW. For the oldest two galaxies, which are direct descendants of JWST's "impossibly early" galaxies, the bottom-heavy IMFs increase their stellar masses by a factor of 3-4. These galaxies thus amplify the tension with galaxy formation models.
+James Webb Space Telescope (JWST) observations have revealed that massive galaxies formed and evolved faster than predicted by galaxy formation models, with many having already assembled a large mass in stars approximately 12 billion years ago. However, masses of distant galaxies are uncertain, as they assume a distribution of stellar birth masses (the initial mass function (IMF)) similar to that in the Milky Way. Specifically, the contribution from low-mass stars, which make up the bulk of stellar mass, is not directly observed, but inferred based on an extrapolation of the Milky Way IMF. Here, we provide robust constraints on the low-mass IMF beyond the local Universe from full-spectrum models. Using ultra-deep spectra of nine massive quiescent galaxies at redshift z ≈0.7 from the JWST Initial Mass Function of Early Red NIRSpec Objects program, extended to bluer wavelengths with deep Very Large Telescope Large Early Galaxy Astrophysics Census spectra, we find that the most massive galaxies have excess low-mass stars. Remarkably, our oldest galaxy (formation redshift z_form &gt; 5) has the most bottom-heavy IMF. This galaxy may be a descendant of JWST's 'impossibly early' galaxies, implying that the latter may have had similarly bottom-heavy IMFs increasing their masses by a factor of approximately 4±1. Our findings may thus amplify the tension with galaxy formation models.
 </p>
 <p> <b> Published: </b> 2026-01-28T18:59:58Z </p>
-<p> <b> Updated: </b> 2026-01-28T18:59:58Z </p>
-<p> <b> Comments: </b> 29 pages, 7 figures, under peer review at Nature Astronomy </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20864v1"> https://arxiv.org/pdf/2601.20864v1 </a> </p>
+<p> <b> Updated: </b> 2026-08-24T17:40:37Z </p>
+<p> <b> Comments: </b> 39 pages, 10 figures, published in Nature Astronomy. This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this article is published in Nature Astronomy, and is available online at https://doi.org/10.1038/s41550-026-02932-4 </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20864v2"> https://arxiv.org/pdf/2601.20864v2 </a> </p>
 
 ### 42) [2601.20045](https://arxiv.org/abs/2601.20045v1): GLIMPSE-DDT spectroscopic properties of faint-end galaxies at z~6: Towards first metal enrichment, dust production, and ionizing photon production
 
