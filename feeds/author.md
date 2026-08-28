@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Aug 27 16:08:46 2026
+### Updated Fri Aug 28 17:10:37 2026
 
 ### 1) [2608.19687](https://arxiv.org/abs/2608.19687v1): OutThere Survey: Addressing ξ<sub>ion</sub> and f<sub>esc</sub> with a population of average galaxies at z~2
 
@@ -837,16 +837,16 @@ JWST has revealed an abundance of supermassive black holes (BHs) in the early Un
 <p> <b> Comments: </b> Submitted to ApJ. 21 Pages and 7 figures for the main text. 11 figures in the appendix. Comments are welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2509.20452v3"> https://arxiv.org/pdf/2509.20452v3 </a> </p>
 
-### 77) [2509.18302](https://arxiv.org/abs/2509.18302v1): Lyman-alpha emission at the end of reionization: line strengths and profiles from MMT and JWST observations at z~5-6
+### 77) [2509.18302](https://arxiv.org/abs/2509.18302v2): Lyman-alpha emission at the end of reionization: line strengths and profiles from MMT and JWST observations at z~5-6
 
 <p> Gonzalo Prieto-Lyon, Charlotte A. Mason, Victoria Strait, Gabriel Brammer, Rohan P. Naidu, Romain A. Meyer, Pascal Oesch, Sandro Tacchella, Alba Covelo-Paz, Emma Giovinazzo, Mengyuan Xiao </p>
 <p>
 With JWST, it is now possible to use Lyman-Alpha (Lyα) emission from galaxies beyond z&gt;8 to trace neutral hydrogen in the intergalactic medium (IGM) as the Universe became reionized. However, observed Lyα emission is scattered by neutral hydrogen in the IGM and the interstellar and circum-galactic medium, necessitating `baseline' models of Lyα properties in the ionized IGM to disentangle their impacts. In this work, we characterize Lyα properties at the end of reionization, z~5-6, providing a baseline that can be applied to z&gt;6 observations. We targeted GOODS-N with MMT/Binospec, obtaining R~4360 rest-frame UV spectra of 236 galaxies at z~5-6, selected from HST/CANDELS, finding 62 Lyα detections. We use JWST observations from JADES and FRESCO for a subset of our sources to characterize Lyα properties as a function of UV continuum and Hα emission. We present the first statistical measurements of the Lyα FWHM distribution at z~5-6, and produce empirical baseline models of Lyα equivalent width (EWLyα) and escape fraction (f<sub>esc</sub>^Lyα) conditional on UV magnitude and slope. We find our EWLyα and f<sub>esc</sub>^Lyα models depend on UV magnitude, and infer 45±5&percnt; and &lt;62±8&percnt; of MUV=-19.5 galaxies have EWLyα&gt;25Å and f<sub>esc</sub>^Lyα&gt;0.2, respectively. We find a mean Lyα FWHM of 245km/s and median Lyα velocity offset of 258km/s, both correlating with higher UV luminosity. Our median observed Lyα line profile is broader and has higher velocity offset compared to pre-JWST models based on z~2 lines, which may reflect resonant scattering by residual neutral hydrogen in the IGM at z~5-6 and increasing ISM/CGM densities. Our median line profile predicts higher Lyα transmission in a fully neutral IGM, providing insight into recent z&gt;10 Lyα detections.
 </p>
 <p> <b> Published: </b> 2025-09-22T18:30:36Z </p>
-<p> <b> Updated: </b> 2025-09-22T18:30:36Z </p>
-<p> <b> Comments: </b> 21 pages, 13 figures, submitted to A&A </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2509.18302v1"> https://arxiv.org/pdf/2509.18302v1 </a> </p>
+<p> <b> Updated: </b> 2026-08-27T14:00:17Z </p>
+<p> <b> Comments: </b> 20 pages, 15 figures, Published to A&A </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2509.18302v2"> https://arxiv.org/pdf/2509.18302v2 </a> </p>
 
 ### 78) [2509.05434](https://arxiv.org/abs/2509.05434v1): What you see is what you get: empirically measured bolometric luminosities of Little Red Dots
 
