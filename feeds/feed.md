@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Sep  4 09:21:07 2026
+### Updated Sat Sep  5 08:50:50 2026
 
 ### 1) [2609.03608](https://arxiv.org/abs/2609.03608v1): C3PO: A Lyα Emitting Galaxy at z ~ 9
 
