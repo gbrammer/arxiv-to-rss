@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Sep  8 09:23:33 2026
+### Updated Wed Sep  9 09:25:09 2026
 
 ### 1) [2608.19687](https://arxiv.org/abs/2608.19687v1): OutThere Survey: Addressing ξ<sub>ion</sub> and f<sub>esc</sub> with a population of average galaxies at z~2
 
@@ -793,16 +793,16 @@ Recent observations have revealed a remarkably rapid buildup of cosmic dust in t
 <p> <b> Comments: </b> Submitted to OJA. Comments welcome! </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.07936v1"> https://arxiv.org/pdf/2510.07936v1 </a> </p>
 
-### 73) [2510.06681](https://arxiv.org/abs/2510.06681v1): The Star-forming Main Sequence and Bursty Star-formation Histories at z&gt;1.4 in JADES and AURORA
+### 73) [2510.06681](https://arxiv.org/abs/2510.06681v2): The Star-forming Main Sequence and Bursty Star-formation Histories at z&gt;1.4 in JADES and AURORA
 
 <p> Leonardo Clarke, Alice E. Shapley, Natalie Lam, Michael W. Topping, Gabriel B. Brammer, Ryan L. Sanders, Naveen A. Reddy, Shreya Karthikeyan </p>
 <p>
-We analyze JWST spectroscopic and HST+JWST photometric observations of 659 star-forming galaxies at 1.4 &lt; z &lt; 9 from DR3 of the JADES survey and the AURORA Cycle 1 program. We measure the star-forming main sequence (SFMS) for galaxies above 10^8.5 M<sub>&odot;</sub> where the sample is largely representative, estimating star-formation rates (SFRs) using the Hα line flux and rest-frame far UV (1600Å) continuum measurements, each independently corrected for dust attenuation. We find that the intrinsic, measurement-error-subtracted scatter in the SFMS (σ_int) increases with decreasing stellar mass for the Hα-based SFMS, and we find no mass dependence of σ_int in the UV-based SFMS. Additionally, we find that σ_int decreases with increasing redshift, from 0.36^+0.02_-0.02 dex to 0.22^+0.08_-0.07 dex (Hα SFMS), and from 0.28^+0.02_-0.02 dex to 0.20^+0.08_-0.07 dex (UV SFMS) between z~2 and z~ 6.5. We also measure the redshift evolution of the specific SFR and find that, assuming sSFR&prop; (1+z)^γ, γ=1.89^+0.16_-0.15 for the Hα-based SFMS, and γ=1.36^+0.13_-0.13 for the UV-based SFMS. Analyzing the observed Hα/UV luminosity ratios and star-formation histories from the \sc prospector fitting code, we find that 41&ndash;60&percnt; of the sample is inconsistent with having a constant star-formation history. Finally, we find tentative evidence for shorter SFR burst timescales with increasing redshift based on the distribution of L_Hα/νL_ν,1600 vs. Δlog(L_Hα). Taken together, these results are consistent with theoretical predictions of bursty star formation in the early Universe and provide valuable constraints for theoretical models of galaxy evolution.
+We analyze JWST spectroscopic and HST+JWST photometric observations of 659 star-forming galaxies at 1.4&lt;z&lt;9 from DR3 of the JADES survey and the AURORA Cycle 1 program. We measure the star-forming main sequence (SFMS) for galaxies above 10^8.5 M<sub>&odot;</sub> where the sample is largely representative, estimating star-formation rates (SFRs) using the Hα line flux and rest-frame far UV (1600Å) continuum measurements, each independently corrected for dust attenuation. We find that the intrinsic, measurement-error-subtracted scatter in the SFMS (σ_int) increases with decreasing stellar mass for the Hα-based SFMS, and we find no mass dependence of σ_int in the UV-based SFMS. Additionally, we find that σ_int decreases with increasing redshift, from 0.36^+0.02_-0.02 dex to 0.22^+0.08_-0.07 dex (Hα SFMS), and from 0.28^+0.02_-0.02 dex to 0.20^+0.08_-0.07 dex (UV SFMS) between z~2 and z~ 6.5. We also measure the redshift evolution of the specific SFR and find that, assuming sSFR&prop; (1+z)^γ, γ=1.89^+0.16_-0.15 for the Hα-based SFMS, and γ=1.36^+0.13_-0.13 for the UV-based SFMS. Analyzing the observed Hα/UV luminosity ratios and star-formation histories from the \sc prospector fitting code, we find that 41&ndash;60&percnt; of the sample is inconsistent with having a constant star-formation history. Finally, we find tentative evidence for shorter SFR burst timescales with increasing redshift based on the distribution of L_Hα/νL_ν,1600 vs. Δlog(L_Hα). Taken together, these results are consistent with recent theoretical predictions (e.g., the \sc thesan-zoom simulations) of bursty star formation in the early Universe and provide valuable constraints for theoretical models of galaxy evolution.
 </p>
 <p> <b> Published: </b> 2025-10-08T06:11:57Z </p>
-<p> <b> Updated: </b> 2025-10-08T06:11:57Z </p>
-<p> <b> Comments: </b> 40 pages, 13 figures, 3 tables. Submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.06681v1"> https://arxiv.org/pdf/2510.06681v1 </a> </p>
+<p> <b> Updated: </b> 2026-09-07T20:56:13Z </p>
+<p> <b> Comments: </b> 40 pages, 13 figures, 3 tables. ApJ, accepted </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.06681v2"> https://arxiv.org/pdf/2510.06681v2 </a> </p>
 
 ### 74) [2510.06362](https://arxiv.org/abs/2510.06362v1): Evidence of violation of Case B recombination in Little Red Dots
 
