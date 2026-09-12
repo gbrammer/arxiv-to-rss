@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Sep 11 09:22:48 2026
+### Updated Sat Sep 12 09:02:02 2026
 
 ### 1) [2609.11879](https://arxiv.org/abs/2609.11879v1): Learning JWST. I. A Foundation Model for New Population Discoveries and Morphology-Aware Photometric Redshift Measurements in the JADES Survey
 

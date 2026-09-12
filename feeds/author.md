@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Fri Sep 11 09:22:50 2026
+### Updated Sat Sep 12 09:02:06 2026
 
 ### 1) [2608.19687](https://arxiv.org/abs/2608.19687v1): OutThere Survey: Addressing ξ<sub>ion</sub> and f<sub>esc</sub> with a population of average galaxies at z~2
 
