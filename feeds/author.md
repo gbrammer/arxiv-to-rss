@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Sep 12 09:02:06 2026
+### Updated Wed Sep 16 09:42:46 2026
 
 ### 1) [2608.19687](https://arxiv.org/abs/2608.19687v1): OutThere Survey: Addressing ξ<sub>ion</sub> and f<sub>esc</sub> with a population of average galaxies at z~2
 
@@ -177,16 +177,16 @@ We report the detection of the high-ionization line [NeV]λ3427 in the JWST/NIRS
 <p> <b> Comments: </b> Submitted to A&A, 14 pages, 9 figures, 1 appendix </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2605.30424v1"> https://arxiv.org/pdf/2605.30424v1 </a> </p>
 
-### 17) [2604.21007](https://arxiv.org/abs/2604.21007v1): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters
+### 17) [2604.21007](https://arxiv.org/abs/2604.21007v2): DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Overdensities
 
-<p> Takumi Kakimoto, Masayuki Tanaka, Kei Ito, Francesco Valentino, Makoto Ando, Gabriel Brammer, Massissilia L. Hamadouche, Vasily Kokorev, Jacqueline Antwi-Danso, William M. Baker, Daniel Ceverino, Andreas L. Faisst, Marion Farcy, Michaela Hirschmann, Christian Kragh Jespersen, Mariko Kubo, Allison W. S. Man, Masato Onodera, Rhythm Shimakawa, John R. Weaver, Po-Feng Wu, Pengpei Zhu </p>
+<p> Takumi Kakimoto, Masayuki Tanaka, Kei Ito, Francesco Valentino, Makoto Ando, Gabriel Brammer, Massissilia L. Hamadouche, Vasily Kokorev, Jacqueline Antwi-Danso, William M. Baker, Daniel Ceverino, Andreas L. Faisst, Marion Farcy, Michaela Hirschmann, Christian Kragh Jespersen, Mariko Kubo, Allison W. S. Man, Masato Onodera, Rhythm Shimakawa, Sune Toft, John R. Weaver, Po-Feng Wu, Pengpei Zhu </p>
 <p>
-We report on the spectroscopic confirmation of overdense regions of massive quiescent galaxies (QGs) in the early Universe with JWST/NIRSpec. Based on data from the DeepDive NIRSpec program and archival data from the Dawn JWST Archive, we confirm three QGs in the vicinity of Jekyll & Hyde, a pair of massive QG and a dusty star-forming galaxy, at z=3.71 and two QGs around SXDS-27434 at z=4.01. According to the analysis of galaxy number density with photometric redshifts, Jekyll & Hyde (SXDS-27434) are in an overdense region, where the number density of galaxies is three times higher than the average in the COSMOS (SXDS) field. SED fitting suggests that most of the QGs follow similar star formation histories and have consistent formation and quenching epochs. The same trend is observed in other proto-clusters hosting QGs that were already identified by ground-based telescopes, indicating that the large-scale environment plays an important role in the formation of QGs. In addition, JWST spectra reveal a broad Hα emission line from SXDS-27434 and faint emission lines from other three QGs, which are identified as AGN-driven based on their emission line ratios. The overdensity is also reproduced by the Illustris TNG300 simulation at z=3.71, in which the member QGs also have similar quenching epochs. These results suggest that large-scale structure may enhance merger activity and/or gas accretion and trigger AGN feedback, which simultaneously drives galaxy quenching in the overdensity.
+We report on the spectroscopic confirmation of overdense regions of massive quiescent galaxies (QGs) in the early Universe with JWST/NIRSpec. Based on data from the DeepDive NIRSpec program and archival data from the Dawn JWST Archive, we confirm three QGs in the vicinity of Jekyll & Hyde, a pair of massive QG and a dusty star-forming galaxy, at z=3.71 and two QGs around SXDS-27434 at z=4.01. According to the analysis of galaxy number density with photometric redshifts, Jekyll & Hyde (SXDS-27434) are in an overdense region, where the number density of galaxies is three (four) times higher than the average in the COSMOS (SXDS) field. SED fitting suggests that most of the QGs follow similar star formation histories and have consistent formation and quenching epochs. The same trend is observed in other proto-clusters hosting QGs that were already identified by ground-based telescopes, indicating that the large-scale environment plays an important role in the formation of QGs. In addition, JWST spectra reveal a broad Hα emission line from SXDS-27434 and faint emission lines from other three QGs, which are identified as AGN-driven based on their emission line ratios. The overdensity is also reproduced by the Illustris TNG300 simulation at z=3.71, in which the member QGs also have similar quenching epochs. These results are consistent with a scenario in which the large-scale structure enhances merger activity and/or gas accretion and triggers AGN feedback, thereby driving simultaneous formation and quenching of QGs in the overdensity.
 </p>
 <p> <b> Published: </b> 2026-04-22T18:53:57Z </p>
-<p> <b> Updated: </b> 2026-04-22T18:53:57Z </p>
-<p> <b> Comments: </b> 19 pages, 13 figures, 2 tables; submitted to ApJ </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21007v1"> https://arxiv.org/pdf/2604.21007v1 </a> </p>
+<p> <b> Updated: </b> 2026-09-15T05:27:15Z </p>
+<p> <b> Comments: </b> 20 pages, 13 figures, 2 tables; accepted for publication in ApJ </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2604.21007v2"> https://arxiv.org/pdf/2604.21007v2 </a> </p>
 
 ### 18) [2604.18696](https://arxiv.org/abs/2604.18696v2): Other red dots: A possible GLIMPSE of normal AGB stars at Cosmic Noon through extreme lensing
 
