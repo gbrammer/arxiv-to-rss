@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Sep 30 10:55:35 2026
+### Updated Thu Oct  1 11:24:23 2026
 
 ### 1) [2609.30441](https://arxiv.org/abs/2609.30441v1): A tidal disruption event in a quasar at redshift 7.19
 
