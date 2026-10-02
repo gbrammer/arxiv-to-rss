@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Oct  1 11:24:23 2026
+### Updated Fri Oct  2 10:54:10 2026
 
 ### 1) [2609.30441](https://arxiv.org/abs/2609.30441v1): A tidal disruption event in a quasar at redshift 7.19
 
@@ -837,16 +837,16 @@ We present a catalogue of spectroscopically selected [OIII]+Hb emitters at 6.75&
 <p> <b> Comments: </b> Accepted in A&A. [OIII] catalogue public at https://github.com/rameyer/cosmos3d and later at CDS </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.11373v3"> https://arxiv.org/pdf/2510.11373v3 </a> </p>
 
-### 77) [2510.07936](https://arxiv.org/abs/2510.07936v1): Inefficient dust production in a massive, metal-rich galaxy at z=7.13 uncovered by JWST and ALMA
+### 77) [2510.07936](https://arxiv.org/abs/2510.07936v2): Evidence for inefficient dust production in a massive, metal-rich galaxy at z=7.13 uncovered by JWST and ALMA
 
 <p> Kasper E. Heintz, Darach Watson, Francesco Valentino, Rashmi Gottumukkala, Desika Narayanan, Robert M. Yates, Chamilla Terp, Negin Nezhad, John R. Weaver, Joris Witstok, Gabriel Brammer, Anja C. Andersen, Albert Sneppen, Clara L. Pollock, Hiddo Algera, Lucie E. Rowland, Pascal A. Oesch, Georgios Magdis, Giorgos Nikopoulos, Kirsten K. Knudsen </p>
 <p>
-Recent observations have revealed a remarkably rapid buildup of cosmic dust in the interstellar medium (ISM) of high redshift galaxies, with complex dust compositions and large abundances already appearing at redshifts z&gt;6. Here we present a comprehensive, joint analysis of observations taken with the  James Webb Space Telescope (JWST) and the Atacama Large Millimetre/sub-millimetre Array (ALMA) of the highly magnified, dusty `normal' galaxy, A1689-zD1 at z=7.13. We perform detailed spectro-photometric modeling of the rest-frame UV to far-infrared spectral energy distribution (SED) based on archival photometry of the source and report new rest-frame optical strong-line measurements and metallicity estimates from recent JWST/NIRSpec IFU data. We find that despite its substantial dust mass, M_dust~ 1.5× 10^7 M<sub>&odot;</sub>, A1689-zD1 has remarkably low dust-to-gas and dust-to-metal mass ratios, DTG = (5.1^+3.0_-1.9)× 10^-4 and DTM = (6.1^+3.6_-2.3)× 10^-2, respectively, due to its high metallicity 12+log(O/H) = 8.36± 0.10 and substantial gas mass, M_gas = (2.8^+0.2_-1.7)× 10^10 M<sub>&odot;</sub>. The DTG and DTM mass ratios are an order of magnitude lower than expected for galaxies in the local universe with similar chemical enrichment. These low relative measurements are also corroborated by the deficit observed in the A_V/N_HI ratio of A1689-zD1 in the line-of-sight. We find that this deviation in the DTG and DTM mass ratios appears to be ubiquitous in other metal-rich galaxies at similar redshifts, z≳ 6. This suggests that the processes that form and destroy dust at later times, or the dust emissivity itself, are drastically different for galaxies in the early Universe.
+Recent observations have revealed a remarkably rapid buildup of cosmic dust in the interstellar medium (ISM) of high redshift galaxies, with complex dust compositions and large abundances already appearing at redshifts z&gt;6. Here we present a comprehensive, joint analysis of observations taken with the  James Webb Space Telescope (\jwst) and the Atacama Large Millimetre/submillimetre Array (ALMA) of the highly magnified (μ= 9.6), dusty `normal' galaxy, A1689-zD1 at z=7.13. We perform detailed spectro-photometric modeling of the rest-frame UV to far-infrared spectral energy distribution (SED) based on archival photometry of the source and report new rest-frame optical strong-line measurements and metallicity estimates from recent \jwst/NIRSpec IFU data. We find that despite its substantial dust mass, M_dust~ 1.5× 10^7 M<sub>&odot;</sub>, A1689-zD1 has remarkably low dust-to-gas and dust-to-metal mass ratios, DTG = (5.5^+3.5_-1.2)× 10^-4 and DTM = (6.2^+4.2_-2.6)× 10^-2, respectively, due to its high metallicity 12+log(O/H) = 8.36± 0.10 and substantial gas mass, M_gas = (2.8^+0.2_-1.7)× 10^10 M<sub>&odot;</sub> inferred from the [\cii] luminosity and bounded by its dynamics. The DTG and DTM mass ratios are an order of magnitude lower than expected for galaxies in the local universe with similar chemical enrichment. These low relative measurements are also consistent with the deficit observed in the A_V/N_HI ratio of A1689-zD1 in the line-of-sight. We find that this deviation in the DTG and DTM mass ratios appears to be ubiquitous in other metal-rich galaxies at similar redshifts, z≳ 6. This suggests that the processes that form and destroy dust at later times, or the dust emissivity itself, are likely different for galaxies in the early Universe.
 </p>
 <p> <b> Published: </b> 2025-10-09T08:35:15Z </p>
-<p> <b> Updated: </b> 2025-10-09T08:35:15Z </p>
-<p> <b> Comments: </b> Submitted to OJA. Comments welcome! </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.07936v1"> https://arxiv.org/pdf/2510.07936v1 </a> </p>
+<p> <b> Updated: </b> 2026-10-01T08:12:20Z </p>
+<p> <b> Comments: </b> Published in the Open Journal of Astrophysics </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2510.07936v2"> https://arxiv.org/pdf/2510.07936v2 </a> </p>
 
 ### 78) [2510.06681](https://arxiv.org/abs/2510.06681v2): The Star-forming Main Sequence and Bursty Star-formation Histories at z&gt;1.4 in JADES and AURORA
 
