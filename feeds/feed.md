@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Oct  3 10:14:17 2026
+### Updated Sun Oct  4 10:56:25 2026
 
 ### 1) [2610.01811](https://arxiv.org/abs/2610.01811v1): Galaxy Protoclusters as Drivers of Cosmic Reionization: II. Te-Based Metallicities of Lyman-α Emitters
 
