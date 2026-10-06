@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Mon Oct  5 12:04:19 2026
+### Updated Tue Oct  6 11:49:24 2026
 
 ### 1) [2609.30441](https://arxiv.org/abs/2609.30441v1): A tidal disruption event in a quasar at redshift 7.19
 
@@ -375,16 +375,16 @@ We present spectrally-resolved structural parameter measurements of 28,274 sourc
 <p> <b> Comments: </b> 28 pages, 12 figures </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2603.00380v2"> https://arxiv.org/pdf/2603.00380v2 </a> </p>
 
-### 35) [2602.18558](https://arxiv.org/abs/2602.18558v1): The ionised interstellar medium of DSFGs revealed by JWST/NIRSpec and ALMA: Super-solar metallicity, low ionisation parameters and, typical electron densities
+### 35) [2602.18558](https://arxiv.org/abs/2602.18558v2): The ionised interstellar medium of DSFGs revealed by JWST/NIRSpec and ALMA: Super-solar metallicity, low ionisation parameters and, typical electron densities
 
-<p> Steven Gillman, Kei Ito, Francesco Valentino, Gabe Brammer, Pablo Araya Araya, Georgios Magdis, Ugnė Dudzevičiūtė, Aswin P. Vijayan, Minju Lee, Bitten Gullberg, Daniel Ceverino, Andreas L. Faisst, Seiji Fujimoto, Thomas R. Greve, Rashmi Gottumukkala, Chandana Hegde, Michaela Hirschmann, Shuowen Jin, Christian Kragh Jespersen, Takumi Kakimoto, Mariko Kubo, Peter Laursen, Masato Onodera, Antonio Pensabene, Francesca Rizzo, John R. Weaver, Po-Feng Wu </p>
+<p> Steven Gillman, Kei Ito, Francesco Valentino, Gabe Brammer, Pablo Araya Araya, Georgios Magdis, Ugnė Dudzevičiūtė, Aswin P. Vijayan, Minju Lee, Bitten Gullberg, Daniel Ceverino, Andreas L. Faisst, Seiji Fujimoto, Thomas R. Greve, Rashmi Gottumukkala, Chandana Chandrashekhar, Michaela Hirschmann, Shuowen Jin, Christian Kragh Jespersen, Takumi Kakimoto, Mariko Kubo, Peter Laursen, Masato Onodera, Antonio Pensabene, Francesca Rizzo, John R. Weaver, Po-Feng Wu </p>
 <p>
 We present a detailed study of near-infrared (2-4μm) JWST/NIRSpec spectra of 48 high-redshift (z=2.53^+1.32_-0.70) galaxies detected with ALMA at &gt;3σ. From a multi-wavelength SED analysis we establish the sample has a a median stellar mass of log_10(M<sub>&ast;</sub>/M<sub>&odot;</sub>)=10.8±0.1 and dust mass of log_10(M_d/M<sub>&odot;</sub>)=8.7±0.1, covering a broad range of far-infrared luminosity (log_10(L_FIR/L<sub>&odot;</sub>)=10.9-12.7). The majority of sources show no signs of AGN activity, with 40% having either X-ray counterparts (L_Xc&gt;10^42erg/s), elevated optical line ratios, or broad (FWHM&gt;800 km/s) Hα profiles, although we note this is a lower limit due to the stochastic placement of NIRSpec slits. We establish the sample has a median gas-phase metallicity of 12+log(O/H)=8.71±0.02, as derived from the [NII]/Hα ratio, with the most FIR-luminous galaxies (log_10(L_FIR/L<sub>&odot;</sub>)&gt;12) falling 0.15±0.03dex above the fundamental metallicity relation. From the [SII] emission-line doublet ratio, we measure a median electron density of log_10(n_e/cm^-3)=2.53±0.07 consistent with less-massive, star-forming, galaxies at the same epoch. For nine galaxies with [OII] and Hβ detections (median log_10(L_FIR/L<sub>&odot;</sub>)=11.81±0.15), we derive a median observed (dust-uncorrected) ionisation parameter of log_10(U)=-2.84±0.06. Our results indicate that luminous far-infrared galaxies are massive, chemically evolved systems that appear to deviate from the standard dust and metal production equilibrium observed in less obscured galaxies. This study demonstrates the synergy of JWST and ALMA in unveiling the nature of DSFGs, and highlights the need for a NIRSpec survey of uniformly selected, massive, dust-obscured, galaxies to fully characterise their interstellar medium.
 </p>
 <p> <b> Published: </b> 2026-02-20T19:00:02Z </p>
-<p> <b> Updated: </b> 2026-02-20T19:00:02Z </p>
-<p> <b> Comments: </b> 18 pages (excluding appendices), 9 figures, submitted to A&A Comments welcome </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.18558v1"> https://arxiv.org/pdf/2602.18558v1 </a> </p>
+<p> <b> Updated: </b> 2026-10-05T14:37:26Z </p>
+<p> <b> Comments: </b> 19 pages (excluding appendices), 9 figures, Accepted for publication in A&A </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.18558v2"> https://arxiv.org/pdf/2602.18558v2 </a> </p>
 
 ### 36) [2602.17499](https://arxiv.org/abs/2602.17499v1): UV slopes of Starforming Galaxies in Strong Lensing fields at the Epoch of Reionization with JWST
 
