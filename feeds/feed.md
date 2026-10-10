@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Oct  9 11:41:14 2026
+### Updated Sat Oct 10 10:58:21 2026
 
 ### 1) [2610.12398](https://arxiv.org/abs/2610.12398v1): ACORN I. Massive Black Hole Seeding and Tidal Disruption Events from Star Clusters in Cosmological Simulations
 
