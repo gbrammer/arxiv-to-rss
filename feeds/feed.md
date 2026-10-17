@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Oct 16 09:31:13 2026
+### Updated Sat Oct 17 09:01:54 2026
 
 ### 1) [2610.21513](https://arxiv.org/abs/2610.21513v1): Probing cold gas and dust in quiescent galaxies across cosmic time
 
