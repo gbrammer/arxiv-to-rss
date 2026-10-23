@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Thu Oct 22 09:51:38 2026
+### Updated Fri Oct 23 09:45:40 2026
 
 ### 1) [2610.29887](https://arxiv.org/abs/2610.29887v1): A Little Red Dot emerging from a nitrogen-rich UV-luminous galaxy with Very Massive Stars
 
@@ -430,16 +430,16 @@ We present a detailed study of near-infrared (2-4μm) JWST/NIRSpec spectra of 48
 <p> <b> Comments: </b> 19 pages (excluding appendices), 9 figures, Accepted for publication in A&A </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.18558v2"> https://arxiv.org/pdf/2602.18558v2 </a> </p>
 
-### 40) [2602.17499](https://arxiv.org/abs/2602.17499v1): UV slopes of Starforming Galaxies in Strong Lensing fields at the Epoch of Reionization with JWST
+### 40) [2602.17499](https://arxiv.org/abs/2602.17499v2): UV slopes of Starforming Galaxies in Strong Lensing fields at the Epoch of Reionization with JWST
 
 <p> Giordano Felicioni, Maruša Bradač, Yoshihisa Asada, Nicholas S. Martis, Ghassan T. E. Sarrouh, Guillaume Desprez, Gregor Rihtaršič, Naadiyah Jagga, Anishya Harshan, Jon Judež, Chris J. Willott, Roberto Abraham, Gabriel Brammer, Vince Estrada-Carpenter, Jasleen Matharu, Adam Muzzin, Gaël Noirot, Marcin Sawicki, Sunna Withers, Vladan Markov, Rosa M. Mérida, Vesna Pirc Jevšenak, Roberta Tripodi </p>
 <p>
 UV slopes (β) are a powerful diagnostics for galaxies at the Epoch of Reionization, tracing star formation, ISM ionization, and the escape fraction f<sub>esc</sub> of ionizing photons. Studies at low and intermediate z find a gradual β reddening with time and steeper slopes for fainter galaxies, however recent JWST studies reveal a flattening of this trend at z&gt;7. We want measure β for galaxies at z&gt;7.5 using the strong lensing around massive galaxy clusters to observe high-redshift and faint galaxies. The low-brightness regime is of particular interest for reionization, as most of the recent models of this process posit that numerous faint galaxies are the prime drivers of reionization. We use NIRCam and NIRSpec data from CANUCS, Technicolor, JUMPS, Silver Bullet, UNCOVER and MEGASCIENCE across 7 strong lensing fields. We find galaxies down to M_UV~-16 and 7.5&lt;z&lt;12.5. We measure \beta with a forward-modelling procedure and estimate f<sub>esc</sub> for a subsample with emission line data using a relation, calibrated from a low-z sample, with UV slope, galaxy size and Hβ equivalent width. We find 378 galaxies (45 with spectrum), yielding average values β=-2.3±0.4, z=8.5±1.0, and M_UV=-18±1. We find no significant β evolution across our redshift range, suggesting a flattening of the β-z trend above z~7.5. We find a weak negative trend between β and M_UV. For 14 galaxies we estimate an average f<sub>esc</sub>=0.26±0.22. The flat trend of β at z&gt;7.5 suggests similar properties between 300 and 600 Myr after the Big Bang. The weak trend between β and M_UV suggests an analogous composition for low- and high-mass galaxies' ISM, likely due to a lack of time for dust buildup. While average f<sub>esc</sub> is higher than necessary to ionize the IGM by z~6, the model extrapolated at low-z may overestimate its value.
 </p>
 <p> <b> Published: </b> 2026-02-19T16:14:28Z </p>
-<p> <b> Updated: </b> 2026-02-19T16:14:28Z </p>
-<p> <b> Comments: </b> 9 pages, 6 figures, 2 tables, submitted to A&A </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.17499v1"> https://arxiv.org/pdf/2602.17499v1 </a> </p>
+<p> <b> Updated: </b> 2026-10-22T12:37:17Z </p>
+<p> <b> Comments: </b> 9 pages, 6 figures, 2 tables, published on A&A </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2602.17499v2"> https://arxiv.org/pdf/2602.17499v2 </a> </p>
 
 ### 41) [2602.17329](https://arxiv.org/abs/2602.17329v1): MIDIS: The identification of deep MIRI-red sources as candidates for extreme Balmer-break and line emitting galaxies at high-z
 
