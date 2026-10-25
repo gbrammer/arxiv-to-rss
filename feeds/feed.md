@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Sat Oct 24 09:18:58 2026
+### Updated Sun Oct 25 09:35:34 2026
 
 ### 1) [2610.31078](https://arxiv.org/abs/2610.31078v1): Self-Supervised Representation Learning for JWST Galaxy Images and Low Resolution Spectra
 
