@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Oct 25 09:35:37 2026
+### Updated Mon Oct 26 10:47:07 2026
 
 ### 1) [2610.29887](https://arxiv.org/abs/2610.29887v1): A Little Red Dot emerging from a nitrogen-rich UV-luminous galaxy with Very Massive Stars
 
