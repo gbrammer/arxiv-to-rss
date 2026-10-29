@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Wed Oct 28 11:00:52 2026
+### Updated Thu Oct 29 11:19:14 2026
 
 ### 1) [2610.37643](https://arxiv.org/abs/2610.37643v1): What shapes the bright end of the UV luminosity function? Stellar mass, star-formation variability, and dust in JADES
 
