@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sat Oct 31 10:44:28 2026
+### Updated Sun Nov  1 11:42:01 2026
 
 ### 1) [2610.33161](https://arxiv.org/abs/2610.33161v1): SN Ares: A Strongly Lensed Type IIb Supernova at z=1.276 with a Predicted 70-Year Time Delay
 
