@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Sun Nov  1 11:42:01 2026
+### Updated Mon Nov  2 13:09:27 2026
 
 ### 1) [2610.33161](https://arxiv.org/abs/2610.33161v1): SN Ares: A Strongly Lensed Type IIb Supernova at z=1.276 with a Predicted 70-Year Time Delay
 
@@ -562,16 +562,16 @@ James Webb Space Telescope (JWST) observations have revealed that massive galaxi
 <p> <b> Comments: </b> 39 pages, 10 figures, published in Nature Astronomy. This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this article is published in Nature Astronomy, and is available online at https://doi.org/10.1038/s41550-026-02932-4 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20864v2"> https://arxiv.org/pdf/2601.20864v2 </a> </p>
 
-### 52) [2601.20045](https://arxiv.org/abs/2601.20045v1): GLIMPSE-DDT spectroscopic properties of faint-end galaxies at z~6: Towards first metal enrichment, dust production, and ionizing photon production
+### 52) [2601.20045](https://arxiv.org/abs/2601.20045v2): GLIMPSE-DDT spectroscopic properties of faint-end galaxies at z~6: Towards first metal enrichment, dust production, and ionizing photon production
 
 <p> Yoshihisa Asada, Seiji Fujimoto, John Chisholm, Rohan P. Naidu, Hakim Atek, Gabriel Brammer, Lukas J. Furtak, Vasily Kokorev, Richard Pan, Arghyadeep Basu, Volker Bromm, Miroslava Dessauges-Zavadsky, Tiger Yu-Yang Hsiao, Michelle Jecmen, Damien Korber, Boyuan Liu, Jed McKinney, Kristen B. W. McQuinn, Daniel Schaerer </p>
 <p>
 Ultra-faint galaxies at high-z are fundamental elements of the early galaxy assembly, and spectroscopic characterization of this population is essential to understand the earliest galaxy evolution. Leveraging the ultra-deep JWST/NIRCam and NIRSpec observations of a gravitational lensing field of Abell S1063, taken as part of the GLIMPSE survey, we present spectroscopic properties of 16 galaxies fainter than M_UV=-17 mag, including the metallicity, dust attenuation, and the ionizing photon production efficiency. The emission lines are generally quite strong, roughly half of which cannot be replicated with standard stellar populations and require an extreme ionizing source. We also identify relatively strong [OIII] emission lines from all sample galaxies, which indicates that the low-mass end of the mass-metallicity relation is extended down to M<sub>&sext;</sub>~10^6 M<sub>&odot;</sub> at z~6. The strong [OIII] line detection from the lowest-mass galaxy among the sample (M<sub>&sext;</sub>~10^5.6 M<sub>&odot;</sub>) stands in contrast to recent reports of extremely metal-poor galaxy candidates at similar mass and redshift, suggesting that there could be two distinct pathways of the earliest metal enrichment as simulations have predicted. Interestingly, we detect both dust attenuation and galactic outflow in one of the sample galaxies with M<sub>&sext;</sub>=10^6.6 M<sub>&odot;</sub> at z=5.5. All the dust, metal, and outflow contents in this galaxy can be consistently explained by supernovae (SNe), indicative of the key roles of SNe in the earliest galaxy assembly such as dust production, metal enrichment, stellar feedback, and baryon cycle.
 </p>
 <p> <b> Published: </b> 2026-01-27T20:48:22Z </p>
-<p> <b> Updated: </b> 2026-01-27T20:48:22Z </p>
+<p> <b> Updated: </b> 2026-10-29T23:54:46Z </p>
 <p> <b> Comments: </b> 19 pages, 5 figures, and 3 tables. Submitted to ApJ. Comments welcome </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20045v1"> https://arxiv.org/pdf/2601.20045v1 </a> </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20045v2"> https://arxiv.org/pdf/2601.20045v2 </a> </p>
 
 ### 53) [2601.18864](https://arxiv.org/abs/2601.18864v1): Inside the cocoon: a comprehensive explanation of the spectra of Little Red Dots
 
@@ -771,16 +771,16 @@ We use the DAWN JWST Archive to construct and characterise a sample of 146 littl
 <p> <b> Comments: </b> 24 pages, 21 figures, accepted for publication in MNRAS. Updated LRD sample and measurements are publicly available at https://doi.org/10.5281/zenodo.17665942 </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.21820v2"> https://arxiv.org/pdf/2511.21820v2 </a> </p>
 
-### 71) [2511.20751](https://arxiv.org/abs/2511.20751v1): ECOGAL I. Project design and the first catalogue
+### 71) [2511.20751](https://arxiv.org/abs/2511.20751v2): ECOGAL I. Project design and the first catalogue
 
-<p> Minju M. Lee, Georgios Magdis, Gabriel Brammer, Daizhong Liu, Benjamin Magnelli, Steven Gillman, Bitten Gullberg, Kei Ito, Nikolaj Sillassen, Francesco Valentino, Rashmi Gottumukkala, Chandana Hegde, Thomas R. Greve </p>
+<p> Minju M. Lee, Georgios Magdis, Gabriel Brammer, Daizhong Liu, Benjamin Magnelli, Steven Gillman, Bitten Gullberg, Kei Ito, Nikolaj Sillassen, Francesco Valentino, Rashmi Gottumukkala, Chandana Chandrashekhar, Thomas R. Greve </p>
 <p>
-We present ECOology for Galaxies using ALMA archive and Legacy surveys (ECOGAL), an ALMA data mining project. Using the footprints of the James Webb Space Telescope (JWST) and the Hubble Space Telescope (HST), we query and uniformly reprocess ALMA data to produce continuum images and two complementary source catalogues: (i) a prior-based catalogue anchored to optical/near-infrared detections, and (ii) a blind catalogue based on significant ALMA detections. Detection thresholds are established through peak SNR statistics and analysis of inverted maps. In this paper, we focus on the ALMA-accessible CANDELS fields (COSMOS, GOODS-S, and UDS), covering ~130,000 optical/NIR-selected galaxies spanning 0.0 &lt; z &lt; 15.0. We identify 1288 detections (622 unique) with optical/NIR counterparts across the two methods, of which 832 detections (395 unique) appear in both. Among the 622 unique sources, 307 have spectroscopic redshifts from 0.12 &lt; z &lt; 6.85. ECOGAL expands the parameter space previously explored by A^3COSMOS and A^3GOODS-S by incorporating the UDS field and integrating publicly available JWST datasets from the DAWN JWST Archive (DJA). We also highlight several science cases enabled by ECOGAL, including the evolution of cosmic gas and dust masses, obscured star formation and optically dark systems. ECOGAL provides science-ready data sets for the community and showcases the power of combining over a decade of accumulated public data with other legacy datasets. The data product is made publicly available and accompanies a post demonstrating the usage of the catalogue on the DJA webpage.
+We present ECOlogy for Galaxies using ALMA archive and Legacy surveys (ECOGAL), an ALMA data mining project. Using the footprints of the James Webb Space Telescope (JWST) and the Hubble Space Telescope (HST), we query and uniformly reprocess ALMA data to produce continuum images and two complementary source catalogues: (i) a prior-based catalogue anchored to optical/near-infrared detections, and (ii) a blind catalogue based on significant ALMA detections. Detection thresholds are established through peak signal-to-noise-ratio statistics and analysis of inverted maps. In this paper, we focus on the ALMA-accessible CANDELS fields (COSMOS, GOODS-S, and UDS), covering ~130,000 optical/NIR-selected galaxies spanning 0.0&lt;z&lt;15.0. We identify 1288 detections (622 unique) with optical/NIR counterparts across the two methods, of which 832 detections (395 unique) appear in both. Among the 622 unique sources, 307 have spectroscopic redshifts from 0.12&lt;z&lt;6.85. ECOGAL expands the parameter space previously explored by A3COSMOS and A3GOODS-S by incorporating the UDS field and integrating publicly available JWST datasets from the DAWN JWST Archive (DJA). We also highlight several science cases enabled by ECOGAL, including studies of gas fractions inferred from dust continuum emission in galaxies across different environments, the obscured fraction of star formation, and optically dark systems. ECOGAL provides science-ready datasets for the community and showcases the power of combining over a decade of accumulated public data with other legacy datasets. The data product is made publicly available and accompanies a post demonstrating the usage of the catalogue on the DJA webpage.
 </p>
 <p> <b> Published: </b> 2025-11-25T19:00:01Z </p>
-<p> <b> Updated: </b> 2025-11-25T19:00:01Z </p>
-<p> <b> Comments: </b> 19 pages, 19 figures; Submitted to A&A; the latest data products are publicly available on the DAWN JWST Archive (DJA) with instructions to query https://dawn-cph.github.io/dja/index.html and a query tool available on https://github.com/mjastro/ecogal; frozen catalogue versions are made on Zenodo https://doi.org/10.5281/zenodo.17640218 </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.20751v1"> https://arxiv.org/pdf/2511.20751v1 </a> </p>
+<p> <b> Updated: </b> 2026-10-29T21:31:41Z </p>
+<p> <b> Comments: </b> 25 pages, 21 figures; Accepted for publication in A&A (Sep-06-2026); the latest data products are publicly available on the DAWN JWST Archive (DJA) https://dawn-cph.github.io/dja/index.html and a query tool available on https://github.com/mjastro/ecogal; for a stable, citable version of the catalogues without the additional flags are available on Zenodo: https://doi.org/10.5281/zenodo.17640217 </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2511.20751v2"> https://arxiv.org/pdf/2511.20751v2 </a> </p>
 
 ### 72) [2511.20484](https://arxiv.org/abs/2511.20484v1): Discovery of new N-emitters over a wide redshift range
 
