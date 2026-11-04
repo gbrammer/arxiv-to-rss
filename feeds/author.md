@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Tue Nov  3 12:38:16 2026
+### Updated Wed Nov  4 12:47:47 2026
 
 ### 1) [2611.00202](https://arxiv.org/abs/2611.00202v1): A Supermagnified Little Red Dot with a Resolved Host
 
