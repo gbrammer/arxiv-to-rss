@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Wed Nov  4 12:47:47 2026
+### Updated Thu Nov  5 12:57:03 2026
 
 ### 1) [2611.00202](https://arxiv.org/abs/2611.00202v1): A Supermagnified Little Red Dot with a Resolved Host
 
@@ -584,16 +584,16 @@ Ultra-faint galaxies at high-z are fundamental elements of the early galaxy asse
 <p> <b> Comments: </b> 19 pages, 5 figures, and 3 tables. Submitted to ApJ. Comments welcome </p>
 <p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.20045v2"> https://arxiv.org/pdf/2601.20045v2 </a> </p>
 
-### 54) [2601.18864](https://arxiv.org/abs/2601.18864v1): Inside the cocoon: a comprehensive explanation of the spectra of Little Red Dots
+### 54) [2601.18864](https://arxiv.org/abs/2601.18864v2): Inside the cocoon: a comprehensive explanation of the spectra of Little Red Dots
 
 <p> A. Sneppen, D. Watson, J. H. Matthews, G. Nikopoulos, N. Allen, G. Brammer, R. Damgaard, K. E. Heintz, C. Knigge, K. S. Long, V. Rusakov, S. A. Sim, J. Witstok </p>
 <p>
-JWST has revealed a population of compact galaxies in the early Universe with broad emission lines and strong Balmer breaks; among them the so-called ''little red dots'' (LRDs). Their nature remains uncertain with hypotheses including exotic phenomena. We assemble a sample of LRD-like objects at z&gt;3 and use self-consistent radiative-transfer calculations to show that a supermassive black hole accreting from a dense gas cocoon accurately reproduces the detailed spectra. We show that the cocoons must be non-spherical, with comparable amounts of inflowing and outflowing material. And we predict correlations between Balmer break strength, Balmer line-absorption and scattering line width, which we confirm in our observed sample. We reproduce all LRD-like properties without requiring star-like atmospheres and we determine the typical black hole in our sample to be of order a million solar masses, with ionized cocoon masses of tens of solar masses potentially supplied from a much larger cold-gas reservoir.
+The James Webb Space Telescope (JWST) has revealed a new population of compact galaxies, the `little red dots' (LRDs), whose nature remains unclear. We assemble grating spectra for 53 LRD-like objects and use self-consistent radiative-transfer calculations to show that a supermassive black hole embedded in a dense gas cocoon reproduces the spectra in detail, without requiring a stellar-like photosphere. The near-symmetric, electron-scattering-broadened emission line-shapes can be reproduced by cocoons with comparable inflowing and outflowing mass-fluxes. The same cocoon structure also simultaneously accounts for the continuum shapes, H and He line equivalent widths, and absorption features, and predicts metal-line absorption, X-ray weakness, and muted variability. We predict correlations should exist between Balmer break strength, Balmer line absorption, and scattering line width, and confirm their presence in the observed sample. Typical LRDs have black holes of order 10^6 M<sub>&odot;</sub> inside ionised cocoons of tens of M<sub>&odot;</sub>, likely fed by a much larger cold-gas reservoir.
 </p>
 <p> <b> Published: </b> 2026-01-26T19:00:00Z </p>
-<p> <b> Updated: </b> 2026-01-26T19:00:00Z </p>
-<p> <b> Comments: </b> 40 pages, 22 figures, 2 tables </p>
-<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.18864v1"> https://arxiv.org/pdf/2601.18864v1 </a> </p>
+<p> <b> Updated: </b> 2026-11-04T17:00:32Z </p>
+<p> <b> Comments: </b> 24 pages, 23 figures, 3 tables. Accepted to A&A </p>
+<p> <b> PDF: </b> <a href="https://arxiv.org/pdf/2601.18864v2"> https://arxiv.org/pdf/2601.18864v2 </a> </p>
 
 ### 55) [2601.11092](https://arxiv.org/abs/2601.11092v2): Emission-line Diagnostics at z≳ 2: A Probe of the Ionizing Spectrum and α Enhancement Beyond Cosmic Noon
 
