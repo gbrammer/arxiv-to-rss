@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Nov  6 12:44:01 2026
+### Updated Sat Nov  7 11:32:10 2026
 
 ### 1) [2611.08346](https://arxiv.org/abs/2611.08346v1): The cold substellar frontier in JWST Extragalactic surveys: a robust parallax measurement yields the most distant known ultra-cold Y dwarf
 

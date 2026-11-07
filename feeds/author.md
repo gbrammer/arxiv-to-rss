@@ -1,5 +1,5 @@
 ## author : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO) AND (au:Brammer)" N=200
-### Updated Fri Nov  6 12:44:04 2026
+### Updated Sat Nov  7 11:32:13 2026
 
 ### 1) [2611.07027](https://arxiv.org/abs/2611.07027v1): Why a Multi-Cycle Treasury Program is Essential to Maximize JWST's Scientific Contributions to Galaxy Formation
 
