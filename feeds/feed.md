@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Nov 13 12:52:44 2026
+### Updated Sat Nov 14 11:56:47 2026
 
 ### 1) [2611.17337](https://arxiv.org/abs/2611.17337v1): The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history
 
