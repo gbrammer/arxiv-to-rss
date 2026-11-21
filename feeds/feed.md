@@ -1,5 +1,5 @@
 ## feed : "(abs:JWST OR abs:James Webb) AND (cat:astro-ph.GA OR cat:astro-ph.CO)" N=300
-### Updated Fri Nov 20 13:51:06 2026
+### Updated Sat Nov 21 13:15:22 2026
 
 ### 1) [2611.26620](https://arxiv.org/abs/2611.26620v1): Little Red Dots from Primordial Vacuum Bubbles
 
